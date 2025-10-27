@@ -221,7 +221,7 @@ def fetch_top_video(youtube_analytics, youtube_data, channel_id, start_date, end
 
 
 def calculate_subscriber_growth_chart(metrics_data):
-    """Calculate daily subscriber growth for chart"""
+    """Calculate daily subscriber growth for chart - all days"""
     rows = metrics_data.get('rows', [])
     
     if not rows:
@@ -230,14 +230,11 @@ def calculate_subscriber_growth_chart(metrics_data):
             'values': []
         }
     
-    # Get every 5th day to have about 6 data points for the chart
-    step = max(1, len(rows) // 6)
-    selected_rows = rows[::step]
-    
+    # Use ALL days for detailed chart with video markers
     labels = []
     values = []
     
-    for row in selected_rows:
+    for row in rows:
         # row format: [date, views, minutes_watched, avg_duration, subs_gained, subs_lost]
         date_str = row[0]
         subs_gained = row[4] if len(row) > 4 else 0
