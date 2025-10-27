@@ -1,0 +1,44 @@
+name: Update YouTube Analytics
+
+on:
+  schedule:
+    # Run daily at 6 AM UTC (adjust timezone as needed)
+    - cron: '0 6 * * *'
+  workflow_dispatch: # Allows manual triggering
+
+jobs:
+  fetch-analytics:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+      
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+    
+    - name: Install dependencies
+      run: |
+        pip install google-auth google-auth-oauthlib google-auth-httplib2 google-api-python-client
+    
+    - name: Create credentials file
+      run: |
+        echo '${{ secrets.GOOGLE_CREDENTIALS }}' > credentials.json
+    
+    - name: Create token file
+      run: |
+        echo '${{ secrets.GOOGLE_TOKEN }}' > token.pickle.base64
+        base64 -d token.pickle.base64 > token.pickle
+    
+    - name: Run analytics script
+      run: |
+        python fetch_youtube_analytics.py
+    
+    - name: Commit and push if changed
+      run: |
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git config --global user.name "github-actions[bot]"
+        git add youtube_analytics.json
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Update YouTube analytics data - $(date -u)" && git push)
