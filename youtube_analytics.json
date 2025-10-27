@@ -1,0 +1,42 @@
+{
+  "last_updated": "2025-10-27",
+  "total_watch_hours": 510.1,
+  "avg_view_duration": 179,
+  "duration_change": null,
+  "click_through_rate": 0.0,
+  "ctr_change": null,
+  "subscribers_gained": 135,
+  "subscribers_lost": 10,
+  "subscriber_growth_chart": {
+    "labels": [
+      "Sep 27",
+      "Oct 01",
+      "Oct 05",
+      "Oct 09",
+      "Oct 13",
+      "Oct 17",
+      "Oct 21"
+    ],
+    "values": [
+      8,
+      0,
+      0,
+      2,
+      1,
+      17,
+      4
+    ]
+  },
+  "traffic_sources": {
+    "search": 16,
+    "browse": 6,
+    "external": 4,
+    "other": 74
+  },
+  "best_video": {
+    "title": "Truck Camping and Pota with the Yaesu FTdx10 at Maumee Bay State Park",
+    "views": 1368,
+    "watch_hours": 177.5,
+    "likes": 86
+  }
+}
