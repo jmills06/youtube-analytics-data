@@ -38,5 +38,103 @@
     "views": 1368,
     "watch_hours": 177.5,
     "likes": 86
-  }
+  },
+  "video_launches": [
+    {
+      "date": "Sep 27",
+      "full_date": "2025-09-27",
+      "title": "FlexRadio&#39;s New Subscription: Fair or Feeble? #shorts",
+      "views": 978,
+      "likes": 10,
+      "video_id": "lY7FFdDrnLQ"
+    },
+    {
+      "date": "Sep 27",
+      "full_date": "2025-09-27",
+      "title": "Flex Radio&#39;s new 200 Dollar SmartSDR Subscription, is this the Future of Ham Radio Software?",
+      "views": 1211,
+      "likes": 39,
+      "video_id": "5Bc42zqQBu4"
+    },
+    {
+      "date": "Sep 28",
+      "full_date": "2025-09-28",
+      "title": "When Michigan gives you a beautiful late September evening, you go camping with your radio!",
+      "views": 766,
+      "likes": 19,
+      "video_id": "WA9HULjqK4Y"
+    },
+    {
+      "date": "Oct 04",
+      "full_date": "2025-10-04",
+      "title": "POTA at Island Lake + California QSO Party Hunting \ud83c\udf32\ud83d\udce1 #shorts",
+      "views": 456,
+      "likes": 21,
+      "video_id": "rPImkJ2WbhY"
+    },
+    {
+      "date": "Oct 09",
+      "full_date": "2025-10-09",
+      "title": "Meet the Creator Behind Ham2K PoLo: Sebasti\u00e1n KI2D! #shorts",
+      "views": 270,
+      "likes": 6,
+      "video_id": "MLnk47KYJe4"
+    },
+    {
+      "date": "Oct 09",
+      "full_date": "2025-10-09",
+      "title": "How Frustration Built the Best Portable Logger: Sebasti\u00e1n KI2D &amp; Ham2K PoLo",
+      "views": 272,
+      "likes": 23,
+      "video_id": "bFTukY-5v3g"
+    },
+    {
+      "date": "Oct 10",
+      "full_date": "2025-10-10",
+      "title": "Hamalert triggered letting me know that our very own K8JKU was live in Kansas, Let\u2019s hunt him! #pota",
+      "views": 154,
+      "likes": 10,
+      "video_id": "gQ6edfHIYF8"
+    },
+    {
+      "date": "Oct 15",
+      "full_date": "2025-10-15",
+      "title": "Hidden PoLo Power Features You&#39;re Not Using",
+      "views": 129,
+      "likes": 16,
+      "video_id": "mSwSRFFpM5U"
+    },
+    {
+      "date": "Oct 16",
+      "full_date": "2025-10-16",
+      "title": "Truck Camping and Pota with the Yaesu FTdx10 at Maumee Bay State Park",
+      "views": 1390,
+      "likes": 87,
+      "video_id": "G3jhDn-tr4Y"
+    },
+    {
+      "date": "Oct 21",
+      "full_date": "2025-10-21",
+      "title": "10m is Wide Open for DX!  (10/21/2025) #hamradio #ft8 #10m #amateurradio",
+      "views": 1243,
+      "likes": 17,
+      "video_id": "d-87MbN0IiM"
+    },
+    {
+      "date": "Oct 23",
+      "full_date": "2025-10-23",
+      "title": "New Mustang Mach-E gets Electrified with the Yaesu FTM-500DR Mobile Rig",
+      "views": 867,
+      "likes": 29,
+      "video_id": "xW-nnl2RGIs"
+    },
+    {
+      "date": "Oct 25",
+      "full_date": "2025-10-25",
+      "title": "CQ WorldWide Contest Weekend!  Fresh DX all weekend long!  #cqdx #cqww #contest #ftdx101mp",
+      "views": 3343,
+      "likes": 42,
+      "video_id": "Wnw0wmTqVvw"
+    }
+  ]
 }
