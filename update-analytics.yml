@@ -21,7 +21,9 @@ jobs:
     
     - name: Install dependencies
       run: |
-        pip install packaging google-auth google-auth-oauthlib google-auth-httplib2 google-api-python-client
+        python -m pip install --upgrade pip
+        pip install --upgrade setuptools wheel packaging
+        pip install google-auth google-auth-oauthlib google-auth-httplib2 google-api-python-client
     
     - name: Create credentials file
       run: |
