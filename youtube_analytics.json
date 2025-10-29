@@ -1,15 +1,14 @@
 {
-  "last_updated": "2025-10-28",
-  "total_watch_hours": 499.3,
-  "avg_view_duration": 47,
+  "last_updated": "2025-10-29",
+  "total_watch_hours": 472.3,
+  "avg_view_duration": 127,
   "duration_change": null,
   "click_through_rate": 0.0,
   "ctr_change": null,
-  "subscribers_gained": 136,
-  "subscribers_lost": 10,
+  "subscribers_gained": 124,
+  "subscribers_lost": 9,
   "subscriber_growth_chart": {
     "labels": [
-      "Sep 28",
       "Sep 29",
       "Sep 30",
       "Oct 01",
@@ -36,10 +35,10 @@
       "Oct 22",
       "Oct 23",
       "Oct 24",
-      "Oct 25"
+      "Oct 25",
+      "Oct 26"
     ],
     "values": [
-      13,
       0,
       2,
       0,
@@ -66,35 +65,28 @@
       4,
       3,
       9,
-      9
+      9,
+      2
     ]
   },
   "traffic_sources": {
-    "search": 13,
+    "search": 14,
     "browse": 4,
     "external": 2,
-    "other": 81
+    "other": 80
   },
   "best_video": {
     "title": "CQ WorldWide Contest Weekend!  Fresh DX all weekend long!  #cqdx #cqww #contest #ftdx101mp",
-    "views": 2913,
-    "watch_hours": 7.9,
-    "likes": 32
+    "views": 3316,
+    "watch_hours": 9.6,
+    "likes": 40
   },
   "video_launches": [
-    {
-      "date": "Sep 28",
-      "full_date": "2025-09-28",
-      "title": "When Michigan gives you a beautiful late September evening, you go camping with your radio!",
-      "views": 769,
-      "likes": 19,
-      "video_id": "WA9HULjqK4Y"
-    },
     {
       "date": "Oct 04",
       "full_date": "2025-10-04",
       "title": "POTA at Island Lake + California QSO Party Hunting \ud83c\udf32\ud83d\udce1 #shorts",
-      "views": 459,
+      "views": 461,
       "likes": 21,
       "video_id": "rPImkJ2WbhY"
     },
@@ -102,7 +94,7 @@
       "date": "Oct 09",
       "full_date": "2025-10-09",
       "title": "Meet the Creator Behind Ham2K PoLo: Sebasti\u00e1n KI2D! #shorts",
-      "views": 273,
+      "views": 275,
       "likes": 6,
       "video_id": "MLnk47KYJe4"
     },
@@ -118,7 +110,7 @@
       "date": "Oct 10",
       "full_date": "2025-10-10",
       "title": "Hamalert triggered letting me know that our very own K8JKU was live in Kansas, Let\u2019s hunt him! #pota",
-      "views": 160,
+      "views": 170,
       "likes": 10,
       "video_id": "gQ6edfHIYF8"
     },
@@ -134,7 +126,7 @@
       "date": "Oct 16",
       "full_date": "2025-10-16",
       "title": "Truck Camping and Pota with the Yaesu FTdx10 at Maumee Bay State Park",
-      "views": 1397,
+      "views": 1398,
       "likes": 87,
       "video_id": "G3jhDn-tr4Y"
     },
@@ -142,7 +134,7 @@
       "date": "Oct 21",
       "full_date": "2025-10-21",
       "title": "10m is Wide Open for DX!  (10/21/2025) #hamradio #ft8 #10m #amateurradio",
-      "views": 1251,
+      "views": 1267,
       "likes": 17,
       "video_id": "d-87MbN0IiM"
     },
@@ -150,7 +142,7 @@
       "date": "Oct 23",
       "full_date": "2025-10-23",
       "title": "New Mustang Mach-E gets Electrified with the Yaesu FTM-500DR Mobile Rig",
-      "views": 881,
+      "views": 892,
       "likes": 30,
       "video_id": "xW-nnl2RGIs"
     },
@@ -158,8 +150,8 @@
       "date": "Oct 25",
       "full_date": "2025-10-25",
       "title": "CQ WorldWide Contest Weekend!  Fresh DX all weekend long!  #cqdx #cqww #contest #ftdx101mp",
-      "views": 3808,
-      "likes": 50,
+      "views": 4254,
+      "likes": 54,
       "video_id": "Wnw0wmTqVvw"
     }
   ]
