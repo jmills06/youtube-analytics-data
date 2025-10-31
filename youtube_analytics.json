@@ -1,15 +1,14 @@
 {
-  "last_updated": "2025-10-30",
-  "total_watch_hours": 465.4,
-  "avg_view_duration": 90,
+  "last_updated": "2025-10-31",
+  "total_watch_hours": 460.7,
+  "avg_view_duration": 63,
   "duration_change": null,
   "click_through_rate": 0.0,
   "ctr_change": null,
-  "subscribers_gained": 127,
-  "subscribers_lost": 9,
+  "subscribers_gained": 129,
+  "subscribers_lost": 10,
   "subscriber_growth_chart": {
     "labels": [
-      "Sep 30",
       "Oct 01",
       "Oct 02",
       "Oct 03",
@@ -36,10 +35,10 @@
       "Oct 24",
       "Oct 25",
       "Oct 26",
-      "Oct 27"
+      "Oct 27",
+      "Oct 28"
     ],
     "values": [
-      2,
       0,
       4,
       0,
@@ -66,20 +65,21 @@
       9,
       9,
       2,
+      3,
       3
     ]
   },
   "traffic_sources": {
-    "search": 15,
+    "search": 14,
     "browse": 4,
     "external": 2,
-    "other": 79
+    "other": 80
   },
   "best_video": {
     "title": "CQ WorldWide Contest Weekend!  Fresh DX all weekend long!  #cqdx #cqww #contest #ftdx101mp",
-    "views": 3742,
-    "watch_hours": 10.9,
-    "likes": 47
+    "views": 4503,
+    "watch_hours": 13.2,
+    "likes": 54
   },
   "video_launches": [
     {
@@ -102,7 +102,7 @@
       "date": "Oct 09",
       "full_date": "2025-10-09",
       "title": "How Frustration Built the Best Portable Logger: Sebasti\u00e1n KI2D &amp; Ham2K PoLo",
-      "views": 274,
+      "views": 278,
       "likes": 23,
       "video_id": "bFTukY-5v3g"
     },
@@ -126,7 +126,7 @@
       "date": "Oct 16",
       "full_date": "2025-10-16",
       "title": "Truck Camping and Pota with the Yaesu FTdx10 at Maumee Bay State Park",
-      "views": 1404,
+      "views": 1407,
       "likes": 87,
       "video_id": "G3jhDn-tr4Y"
     },
@@ -134,7 +134,7 @@
       "date": "Oct 21",
       "full_date": "2025-10-21",
       "title": "10m is Wide Open for DX!  (10/21/2025) #hamradio #ft8 #10m #amateurradio",
-      "views": 1273,
+      "views": 1278,
       "likes": 17,
       "video_id": "d-87MbN0IiM"
     },
@@ -142,7 +142,7 @@
       "date": "Oct 23",
       "full_date": "2025-10-23",
       "title": "New Mustang Mach-E gets Electrified with the Yaesu FTM-500DR Mobile Rig",
-      "views": 900,
+      "views": 907,
       "likes": 30,
       "video_id": "xW-nnl2RGIs"
     },
@@ -150,8 +150,8 @@
       "date": "Oct 25",
       "full_date": "2025-10-25",
       "title": "CQ WorldWide Contest Weekend!  Fresh DX all weekend long!  #cqdx #cqww #contest #ftdx101mp",
-      "views": 4760,
-      "likes": 57,
+      "views": 4813,
+      "likes": 60,
       "video_id": "Wnw0wmTqVvw"
     }
   ]
