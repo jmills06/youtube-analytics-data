@@ -1,15 +1,14 @@
 {
-  "last_updated": "2025-11-02",
-  "total_watch_hours": 460.8,
-  "avg_view_duration": 278,
+  "last_updated": "2025-11-03",
+  "total_watch_hours": 485.1,
+  "avg_view_duration": 236,
   "duration_change": null,
   "click_through_rate": 0.0,
   "ctr_change": null,
-  "subscribers_gained": 130,
-  "subscribers_lost": 11,
+  "subscribers_gained": 133,
+  "subscribers_lost": 12,
   "subscriber_growth_chart": {
     "labels": [
-      "Oct 03",
       "Oct 04",
       "Oct 05",
       "Oct 06",
@@ -36,10 +35,10 @@
       "Oct 27",
       "Oct 28",
       "Oct 29",
-      "Oct 30"
+      "Oct 30",
+      "Oct 31"
     ],
     "values": [
-      0,
       1,
       0,
       2,
@@ -66,27 +65,28 @@
       3,
       3,
       3,
-      1
+      1,
+      2
     ]
   },
   "traffic_sources": {
-    "search": 15,
+    "search": 14,
     "browse": 4,
-    "external": 2,
-    "other": 79
+    "external": 1,
+    "other": 81
   },
   "best_video": {
     "title": "CQ WorldWide Contest Weekend!  Fresh DX all weekend long!  #cqdx #cqww #contest #ftdx101mp",
-    "views": 4830,
-    "watch_hours": 14.3,
-    "likes": 60
+    "views": 4937,
+    "watch_hours": 14.7,
+    "likes": 64
   },
   "video_launches": [
     {
       "date": "Oct 04",
       "full_date": "2025-10-04",
       "title": "POTA at Island Lake + California QSO Party Hunting \ud83c\udf32\ud83d\udce1 #shorts",
-      "views": 468,
+      "views": 469,
       "likes": 21,
       "video_id": "rPImkJ2WbhY"
     },
@@ -94,7 +94,7 @@
       "date": "Oct 09",
       "full_date": "2025-10-09",
       "title": "Meet the Creator Behind Ham2K PoLo: Sebasti\u00e1n KI2D! #shorts",
-      "views": 284,
+      "views": 286,
       "likes": 6,
       "video_id": "MLnk47KYJe4"
     },
@@ -102,7 +102,7 @@
       "date": "Oct 09",
       "full_date": "2025-10-09",
       "title": "How Frustration Built the Best Portable Logger: Sebasti\u00e1n KI2D &amp; Ham2K PoLo",
-      "views": 287,
+      "views": 290,
       "likes": 23,
       "video_id": "bFTukY-5v3g"
     },
@@ -110,7 +110,7 @@
       "date": "Oct 10",
       "full_date": "2025-10-10",
       "title": "Hamalert triggered letting me know that our very own K8JKU was live in Kansas, Let\u2019s hunt him! #pota",
-      "views": 184,
+      "views": 187,
       "likes": 10,
       "video_id": "gQ6edfHIYF8"
     },
@@ -118,7 +118,7 @@
       "date": "Oct 15",
       "full_date": "2025-10-15",
       "title": "Hidden PoLo Power Features You&#39;re Not Using",
-      "views": 137,
+      "views": 140,
       "likes": 16,
       "video_id": "mSwSRFFpM5U"
     },
@@ -126,7 +126,7 @@
       "date": "Oct 16",
       "full_date": "2025-10-16",
       "title": "Truck Camping and Pota with the Yaesu FTdx10 at Maumee Bay State Park",
-      "views": 1432,
+      "views": 1438,
       "likes": 90,
       "video_id": "G3jhDn-tr4Y"
     },
@@ -134,7 +134,7 @@
       "date": "Oct 21",
       "full_date": "2025-10-21",
       "title": "10m is Wide Open for DX!  (10/21/2025) #hamradio #ft8 #10m #amateurradio",
-      "views": 1288,
+      "views": 1289,
       "likes": 17,
       "video_id": "d-87MbN0IiM"
     },
@@ -142,31 +142,31 @@
       "date": "Oct 23",
       "full_date": "2025-10-23",
       "title": "New Mustang Mach-E gets Electrified with the Yaesu FTM-500DR Mobile Rig",
-      "views": 935,
-      "likes": 31,
+      "views": 942,
+      "likes": 33,
       "video_id": "xW-nnl2RGIs"
     },
     {
       "date": "Oct 25",
       "full_date": "2025-10-25",
       "title": "CQ WorldWide Contest Weekend!  Fresh DX all weekend long!  #cqdx #cqww #contest #ftdx101mp",
-      "views": 4983,
-      "likes": 64,
+      "views": 5029,
+      "likes": 65,
       "video_id": "Wnw0wmTqVvw"
     },
     {
       "date": "Oct 31",
       "full_date": "2025-10-31",
       "title": "What&#39;s in My POTA Bag? Complete Setup for Parks on the Air",
-      "views": 1326,
-      "likes": 82,
+      "views": 1924,
+      "likes": 102,
       "video_id": "JTFErg-neu8"
     },
     {
       "date": "Oct 31",
       "full_date": "2025-10-31",
       "title": "\ud83c\udf83 Everyday Ham Podcast | Spooky Signals for Halloween \ud83d\udc7b #shorts",
-      "views": 203,
+      "views": 206,
       "likes": 7,
       "video_id": "LRlec1zoNeI"
     },
@@ -174,8 +174,8 @@
       "date": "Nov 01",
       "full_date": "2025-11-01",
       "title": "FT-891 Radio Setup: Travel-Friendly Battery #shorts",
-      "views": 563,
-      "likes": 4,
+      "views": 1125,
+      "likes": 12,
       "video_id": "aGU4pSCoJcY"
     }
   ]
