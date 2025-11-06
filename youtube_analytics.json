@@ -1,15 +1,14 @@
 {
-  "last_updated": "2025-11-05",
-  "total_watch_hours": 632.7,
-  "avg_view_duration": 166,
+  "last_updated": "2025-11-06",
+  "total_watch_hours": 654.1,
+  "avg_view_duration": 142,
   "duration_change": null,
   "click_through_rate": 0.0,
   "ctr_change": null,
-  "subscribers_gained": 174,
+  "subscribers_gained": 179,
   "subscribers_lost": 14,
   "subscriber_growth_chart": {
     "labels": [
-      "Oct 06",
       "Oct 07",
       "Oct 08",
       "Oct 09",
@@ -36,10 +35,10 @@
       "Oct 30",
       "Oct 31",
       "Nov 01",
-      "Nov 02"
+      "Nov 02",
+      "Nov 03"
     ],
     "values": [
-      2,
       0,
       0,
       2,
@@ -66,7 +65,8 @@
       1,
       2,
       29,
-      11
+      11,
+      7
     ]
   },
   "traffic_sources": {
@@ -77,8 +77,8 @@
   },
   "best_video": {
     "title": "CQ WorldWide Contest Weekend!  Fresh DX all weekend long!  #cqdx #cqww #contest #ftdx101mp",
-    "views": 5030,
-    "watch_hours": 15.0,
+    "views": 5065,
+    "watch_hours": 15.1,
     "likes": 65
   },
   "video_launches": [
@@ -94,15 +94,15 @@
       "date": "Oct 09",
       "full_date": "2025-10-09",
       "title": "How Frustration Built the Best Portable Logger: Sebasti\u00e1n KI2D &amp; Ham2K PoLo",
-      "views": 296,
-      "likes": 24,
+      "views": 303,
+      "likes": 25,
       "video_id": "bFTukY-5v3g"
     },
     {
       "date": "Oct 10",
       "full_date": "2025-10-10",
       "title": "Hamalert triggered letting me know that our very own K8JKU was live in Kansas, Let\u2019s hunt him! #pota",
-      "views": 192,
+      "views": 195,
       "likes": 10,
       "video_id": "gQ6edfHIYF8"
     },
@@ -110,15 +110,15 @@
       "date": "Oct 15",
       "full_date": "2025-10-15",
       "title": "Hidden PoLo Power Features You&#39;re Not Using",
-      "views": 143,
-      "likes": 16,
+      "views": 144,
+      "likes": 17,
       "video_id": "mSwSRFFpM5U"
     },
     {
       "date": "Oct 16",
       "full_date": "2025-10-16",
       "title": "Truck Camping and Pota with the Yaesu FTdx10 at Maumee Bay State Park",
-      "views": 1445,
+      "views": 1448,
       "likes": 90,
       "video_id": "G3jhDn-tr4Y"
     },
@@ -134,7 +134,7 @@
       "date": "Oct 23",
       "full_date": "2025-10-23",
       "title": "New Mustang Mach-E gets Electrified with the Yaesu FTM-500DR Mobile Rig",
-      "views": 946,
+      "views": 948,
       "likes": 34,
       "video_id": "xW-nnl2RGIs"
     },
@@ -142,7 +142,7 @@
       "date": "Oct 25",
       "full_date": "2025-10-25",
       "title": "CQ WorldWide Contest Weekend!  Fresh DX all weekend long!  #cqdx #cqww #contest #ftdx101mp",
-      "views": 5074,
+      "views": 5098,
       "likes": 65,
       "video_id": "Wnw0wmTqVvw"
     },
@@ -150,8 +150,8 @@
       "date": "Oct 31",
       "full_date": "2025-10-31",
       "title": "What&#39;s in My POTA Bag? Complete Setup for Parks on the Air",
-      "views": 2310,
-      "likes": 119,
+      "views": 2395,
+      "likes": 121,
       "video_id": "JTFErg-neu8"
     },
     {
@@ -166,7 +166,7 @@
       "date": "Nov 01",
       "full_date": "2025-11-01",
       "title": "FT-891 Radio Setup: Travel-Friendly Battery #shorts",
-      "views": 1327,
+      "views": 1338,
       "likes": 13,
       "video_id": "aGU4pSCoJcY"
     },
@@ -174,8 +174,8 @@
       "date": "Nov 04",
       "full_date": "2025-11-04",
       "title": "Strange situation with the SPE Expert 1.5k #speexpert #stinkbug #midwest #hamradio #amteurradio",
-      "views": 1139,
-      "likes": 18,
+      "views": 1182,
+      "likes": 19,
       "video_id": "JlEPexeOWa4"
     }
   ]
