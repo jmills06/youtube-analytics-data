@@ -1,15 +1,14 @@
 {
-  "last_updated": "2025-11-06",
-  "total_watch_hours": 654.1,
-  "avg_view_duration": 142,
+  "last_updated": "2025-11-07",
+  "total_watch_hours": 668.4,
+  "avg_view_duration": 135,
   "duration_change": null,
   "click_through_rate": 0.0,
   "ctr_change": null,
-  "subscribers_gained": 179,
-  "subscribers_lost": 14,
+  "subscribers_gained": 186,
+  "subscribers_lost": 15,
   "subscriber_growth_chart": {
     "labels": [
-      "Oct 07",
       "Oct 08",
       "Oct 09",
       "Oct 10",
@@ -36,10 +35,10 @@
       "Oct 31",
       "Nov 01",
       "Nov 02",
-      "Nov 03"
+      "Nov 03",
+      "Nov 04"
     ],
     "values": [
-      0,
       0,
       2,
       4,
@@ -66,18 +65,19 @@
       2,
       29,
       11,
-      7
+      7,
+      6
     ]
   },
   "traffic_sources": {
-    "search": 12,
+    "search": 11,
     "browse": 4,
     "external": 1,
-    "other": 83
+    "other": 84
   },
   "best_video": {
     "title": "CQ WorldWide Contest Weekend!  Fresh DX all weekend long!  #cqdx #cqww #contest #ftdx101mp",
-    "views": 5065,
+    "views": 5080,
     "watch_hours": 15.1,
     "likes": 65
   },
@@ -94,7 +94,7 @@
       "date": "Oct 09",
       "full_date": "2025-10-09",
       "title": "How Frustration Built the Best Portable Logger: Sebasti\u00e1n KI2D &amp; Ham2K PoLo",
-      "views": 303,
+      "views": 304,
       "likes": 25,
       "video_id": "bFTukY-5v3g"
     },
@@ -110,7 +110,7 @@
       "date": "Oct 15",
       "full_date": "2025-10-15",
       "title": "Hidden PoLo Power Features You&#39;re Not Using",
-      "views": 144,
+      "views": 145,
       "likes": 17,
       "video_id": "mSwSRFFpM5U"
     },
@@ -118,7 +118,7 @@
       "date": "Oct 16",
       "full_date": "2025-10-16",
       "title": "Truck Camping and Pota with the Yaesu FTdx10 at Maumee Bay State Park",
-      "views": 1448,
+      "views": 1453,
       "likes": 90,
       "video_id": "G3jhDn-tr4Y"
     },
@@ -126,7 +126,7 @@
       "date": "Oct 21",
       "full_date": "2025-10-21",
       "title": "10m is Wide Open for DX!  (10/21/2025) #hamradio #ft8 #10m #amateurradio",
-      "views": 1291,
+      "views": 1293,
       "likes": 17,
       "video_id": "d-87MbN0IiM"
     },
@@ -134,7 +134,7 @@
       "date": "Oct 23",
       "full_date": "2025-10-23",
       "title": "New Mustang Mach-E gets Electrified with the Yaesu FTM-500DR Mobile Rig",
-      "views": 948,
+      "views": 950,
       "likes": 34,
       "video_id": "xW-nnl2RGIs"
     },
@@ -142,7 +142,7 @@
       "date": "Oct 25",
       "full_date": "2025-10-25",
       "title": "CQ WorldWide Contest Weekend!  Fresh DX all weekend long!  #cqdx #cqww #contest #ftdx101mp",
-      "views": 5098,
+      "views": 5105,
       "likes": 65,
       "video_id": "Wnw0wmTqVvw"
     },
@@ -150,15 +150,15 @@
       "date": "Oct 31",
       "full_date": "2025-10-31",
       "title": "What&#39;s in My POTA Bag? Complete Setup for Parks on the Air",
-      "views": 2395,
-      "likes": 121,
+      "views": 2457,
+      "likes": 126,
       "video_id": "JTFErg-neu8"
     },
     {
       "date": "Oct 31",
       "full_date": "2025-10-31",
       "title": "\ud83c\udf83 Everyday Ham Podcast | Spooky Signals for Halloween \ud83d\udc7b #shorts",
-      "views": 215,
+      "views": 216,
       "likes": 7,
       "video_id": "LRlec1zoNeI"
     },
@@ -166,7 +166,7 @@
       "date": "Nov 01",
       "full_date": "2025-11-01",
       "title": "FT-891 Radio Setup: Travel-Friendly Battery #shorts",
-      "views": 1338,
+      "views": 1341,
       "likes": 13,
       "video_id": "aGU4pSCoJcY"
     },
@@ -174,9 +174,17 @@
       "date": "Nov 04",
       "full_date": "2025-11-04",
       "title": "Strange situation with the SPE Expert 1.5k #speexpert #stinkbug #midwest #hamradio #amteurradio",
-      "views": 1182,
+      "views": 1230,
       "likes": 19,
       "video_id": "JlEPexeOWa4"
+    },
+    {
+      "date": "Nov 06",
+      "full_date": "2025-11-06",
+      "title": "Can YOU Put Up An Antenna? The HOA Bill Fight, CQ Worldwide &amp; IC-7300 Mark II",
+      "views": 80,
+      "likes": 7,
+      "video_id": "YbKLH7xdk4Q"
     }
   ]
 }
