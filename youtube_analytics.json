@@ -1,15 +1,14 @@
 {
-  "last_updated": "2025-11-07",
-  "total_watch_hours": 668.4,
-  "avg_view_duration": 135,
+  "last_updated": "2025-11-08",
+  "total_watch_hours": 675.8,
+  "avg_view_duration": 236,
   "duration_change": null,
   "click_through_rate": 0.0,
   "ctr_change": null,
-  "subscribers_gained": 186,
-  "subscribers_lost": 15,
+  "subscribers_gained": 189,
+  "subscribers_lost": 16,
   "subscriber_growth_chart": {
     "labels": [
-      "Oct 08",
       "Oct 09",
       "Oct 10",
       "Oct 11",
@@ -36,10 +35,10 @@
       "Nov 01",
       "Nov 02",
       "Nov 03",
-      "Nov 04"
+      "Nov 04",
+      "Nov 05"
     ],
     "values": [
-      0,
       2,
       4,
       5,
@@ -66,7 +65,8 @@
       29,
       11,
       7,
-      6
+      6,
+      2
     ]
   },
   "traffic_sources": {
@@ -77,8 +77,8 @@
   },
   "best_video": {
     "title": "CQ WorldWide Contest Weekend!  Fresh DX all weekend long!  #cqdx #cqww #contest #ftdx101mp",
-    "views": 5080,
-    "watch_hours": 15.1,
+    "views": 5098,
+    "watch_hours": 15.2,
     "likes": 65
   },
   "video_launches": [
@@ -94,8 +94,8 @@
       "date": "Oct 09",
       "full_date": "2025-10-09",
       "title": "How Frustration Built the Best Portable Logger: Sebasti\u00e1n KI2D &amp; Ham2K PoLo",
-      "views": 304,
-      "likes": 25,
+      "views": 306,
+      "likes": 26,
       "video_id": "bFTukY-5v3g"
     },
     {
@@ -118,7 +118,7 @@
       "date": "Oct 16",
       "full_date": "2025-10-16",
       "title": "Truck Camping and Pota with the Yaesu FTdx10 at Maumee Bay State Park",
-      "views": 1453,
+      "views": 1455,
       "likes": 90,
       "video_id": "G3jhDn-tr4Y"
     },
@@ -142,15 +142,15 @@
       "date": "Oct 25",
       "full_date": "2025-10-25",
       "title": "CQ WorldWide Contest Weekend!  Fresh DX all weekend long!  #cqdx #cqww #contest #ftdx101mp",
-      "views": 5105,
-      "likes": 65,
+      "views": 5121,
+      "likes": 66,
       "video_id": "Wnw0wmTqVvw"
     },
     {
       "date": "Oct 31",
       "full_date": "2025-10-31",
       "title": "What&#39;s in My POTA Bag? Complete Setup for Parks on the Air",
-      "views": 2457,
+      "views": 2482,
       "likes": 126,
       "video_id": "JTFErg-neu8"
     },
@@ -166,7 +166,7 @@
       "date": "Nov 01",
       "full_date": "2025-11-01",
       "title": "FT-891 Radio Setup: Travel-Friendly Battery #shorts",
-      "views": 1341,
+      "views": 1340,
       "likes": 13,
       "video_id": "aGU4pSCoJcY"
     },
@@ -174,7 +174,7 @@
       "date": "Nov 04",
       "full_date": "2025-11-04",
       "title": "Strange situation with the SPE Expert 1.5k #speexpert #stinkbug #midwest #hamradio #amteurradio",
-      "views": 1230,
+      "views": 1255,
       "likes": 19,
       "video_id": "JlEPexeOWa4"
     },
@@ -182,9 +182,25 @@
       "date": "Nov 06",
       "full_date": "2025-11-06",
       "title": "Can YOU Put Up An Antenna? The HOA Bill Fight, CQ Worldwide &amp; IC-7300 Mark II",
-      "views": 80,
-      "likes": 7,
+      "views": 118,
+      "likes": 11,
       "video_id": "YbKLH7xdk4Q"
+    },
+    {
+      "date": "Nov 07",
+      "full_date": "2025-11-07",
+      "title": "Michigan&#39;s First Snowfall is coming-time to POTA #shorts #automobile #outdoors #hunting",
+      "views": 801,
+      "likes": 17,
+      "video_id": "cAWtEZjwwRk"
+    },
+    {
+      "date": "Nov 07",
+      "full_date": "2025-11-07",
+      "title": "Icom 7300 Mark II: Unveiling the $1499 Launch Price! #shorts",
+      "views": 94,
+      "likes": 6,
+      "video_id": "77VS3pzGjCc"
     }
   ]
 }
