@@ -1,15 +1,14 @@
 {
-  "last_updated": "2025-11-08",
-  "total_watch_hours": 675.8,
-  "avg_view_duration": 236,
+  "last_updated": "2025-11-09",
+  "total_watch_hours": 681.6,
+  "avg_view_duration": 372,
   "duration_change": null,
   "click_through_rate": 0.0,
   "ctr_change": null,
-  "subscribers_gained": 189,
-  "subscribers_lost": 16,
+  "subscribers_gained": 187,
+  "subscribers_lost": 14,
   "subscriber_growth_chart": {
     "labels": [
-      "Oct 09",
       "Oct 10",
       "Oct 11",
       "Oct 12",
@@ -36,10 +35,10 @@
       "Nov 02",
       "Nov 03",
       "Nov 04",
-      "Nov 05"
+      "Nov 05",
+      "Nov 06"
     ],
     "values": [
-      2,
       4,
       5,
       0,
@@ -66,43 +65,28 @@
       11,
       7,
       6,
+      2,
       2
     ]
   },
   "traffic_sources": {
-    "search": 11,
-    "browse": 4,
+    "search": 12,
+    "browse": 3,
     "external": 1,
     "other": 84
   },
   "best_video": {
     "title": "CQ WorldWide Contest Weekend!  Fresh DX all weekend long!  #cqdx #cqww #contest #ftdx101mp",
-    "views": 5098,
+    "views": 5111,
     "watch_hours": 15.2,
     "likes": 65
   },
   "video_launches": [
     {
-      "date": "Oct 09",
-      "full_date": "2025-10-09",
-      "title": "Meet the Creator Behind Ham2K PoLo: Sebasti\u00e1n KI2D! #shorts",
-      "views": 289,
-      "likes": 6,
-      "video_id": "MLnk47KYJe4"
-    },
-    {
-      "date": "Oct 09",
-      "full_date": "2025-10-09",
-      "title": "How Frustration Built the Best Portable Logger: Sebasti\u00e1n KI2D &amp; Ham2K PoLo",
-      "views": 306,
-      "likes": 26,
-      "video_id": "bFTukY-5v3g"
-    },
-    {
       "date": "Oct 10",
       "full_date": "2025-10-10",
       "title": "Hamalert triggered letting me know that our very own K8JKU was live in Kansas, Let\u2019s hunt him! #pota",
-      "views": 195,
+      "views": 197,
       "likes": 10,
       "video_id": "gQ6edfHIYF8"
     },
@@ -126,8 +110,8 @@
       "date": "Oct 21",
       "full_date": "2025-10-21",
       "title": "10m is Wide Open for DX!  (10/21/2025) #hamradio #ft8 #10m #amateurradio",
-      "views": 1293,
-      "likes": 17,
+      "views": 1298,
+      "likes": 18,
       "video_id": "d-87MbN0IiM"
     },
     {
@@ -142,7 +126,7 @@
       "date": "Oct 25",
       "full_date": "2025-10-25",
       "title": "CQ WorldWide Contest Weekend!  Fresh DX all weekend long!  #cqdx #cqww #contest #ftdx101mp",
-      "views": 5121,
+      "views": 5141,
       "likes": 66,
       "video_id": "Wnw0wmTqVvw"
     },
@@ -150,8 +134,8 @@
       "date": "Oct 31",
       "full_date": "2025-10-31",
       "title": "What&#39;s in My POTA Bag? Complete Setup for Parks on the Air",
-      "views": 2482,
-      "likes": 126,
+      "views": 2510,
+      "likes": 127,
       "video_id": "JTFErg-neu8"
     },
     {
@@ -174,7 +158,7 @@
       "date": "Nov 04",
       "full_date": "2025-11-04",
       "title": "Strange situation with the SPE Expert 1.5k #speexpert #stinkbug #midwest #hamradio #amteurradio",
-      "views": 1255,
+      "views": 1263,
       "likes": 19,
       "video_id": "JlEPexeOWa4"
     },
@@ -182,25 +166,33 @@
       "date": "Nov 06",
       "full_date": "2025-11-06",
       "title": "Can YOU Put Up An Antenna? The HOA Bill Fight, CQ Worldwide &amp; IC-7300 Mark II",
-      "views": 118,
-      "likes": 11,
+      "views": 177,
+      "likes": 15,
       "video_id": "YbKLH7xdk4Q"
     },
     {
       "date": "Nov 07",
       "full_date": "2025-11-07",
       "title": "Michigan&#39;s First Snowfall is coming-time to POTA #shorts #automobile #outdoors #hunting",
-      "views": 801,
-      "likes": 17,
+      "views": 1263,
+      "likes": 38,
       "video_id": "cAWtEZjwwRk"
     },
     {
       "date": "Nov 07",
       "full_date": "2025-11-07",
       "title": "Icom 7300 Mark II: Unveiling the $1499 Launch Price! #shorts",
-      "views": 94,
-      "likes": 6,
+      "views": 276,
+      "likes": 9,
       "video_id": "77VS3pzGjCc"
+    },
+    {
+      "date": "Nov 08",
+      "full_date": "2025-11-08",
+      "title": "Fall FT8 DX on 10m is Excellent #ft8 #hamradio #amateurradio #digitalmode #10meter #dx #dxcc",
+      "views": 711,
+      "likes": 26,
+      "video_id": "1T2Ng1Q0WuQ"
     }
   ]
 }
