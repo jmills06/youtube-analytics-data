@@ -1,15 +1,14 @@
 {
-  "last_updated": "2025-11-09",
-  "total_watch_hours": 681.6,
-  "avg_view_duration": 372,
+  "last_updated": "2025-11-10",
+  "total_watch_hours": 681.8,
+  "avg_view_duration": 109,
   "duration_change": null,
   "click_through_rate": 0.0,
   "ctr_change": null,
-  "subscribers_gained": 187,
+  "subscribers_gained": 185,
   "subscribers_lost": 14,
   "subscriber_growth_chart": {
     "labels": [
-      "Oct 10",
       "Oct 11",
       "Oct 12",
       "Oct 13",
@@ -36,10 +35,10 @@
       "Nov 03",
       "Nov 04",
       "Nov 05",
-      "Nov 06"
+      "Nov 06",
+      "Nov 07"
     ],
     "values": [
-      4,
       5,
       0,
       1,
@@ -66,30 +65,23 @@
       7,
       6,
       2,
+      2,
       2
     ]
   },
   "traffic_sources": {
-    "search": 12,
+    "search": 11,
     "browse": 3,
     "external": 1,
-    "other": 84
+    "other": 85
   },
   "best_video": {
     "title": "CQ WorldWide Contest Weekend!  Fresh DX all weekend long!  #cqdx #cqww #contest #ftdx101mp",
-    "views": 5111,
-    "watch_hours": 15.2,
-    "likes": 65
+    "views": 5123,
+    "watch_hours": 15.3,
+    "likes": 66
   },
   "video_launches": [
-    {
-      "date": "Oct 10",
-      "full_date": "2025-10-10",
-      "title": "Hamalert triggered letting me know that our very own K8JKU was live in Kansas, Let\u2019s hunt him! #pota",
-      "views": 197,
-      "likes": 10,
-      "video_id": "gQ6edfHIYF8"
-    },
     {
       "date": "Oct 15",
       "full_date": "2025-10-15",
@@ -102,7 +94,7 @@
       "date": "Oct 16",
       "full_date": "2025-10-16",
       "title": "Truck Camping and Pota with the Yaesu FTdx10 at Maumee Bay State Park",
-      "views": 1455,
+      "views": 1457,
       "likes": 90,
       "video_id": "G3jhDn-tr4Y"
     },
@@ -118,7 +110,7 @@
       "date": "Oct 23",
       "full_date": "2025-10-23",
       "title": "New Mustang Mach-E gets Electrified with the Yaesu FTM-500DR Mobile Rig",
-      "views": 950,
+      "views": 954,
       "likes": 34,
       "video_id": "xW-nnl2RGIs"
     },
@@ -126,7 +118,7 @@
       "date": "Oct 25",
       "full_date": "2025-10-25",
       "title": "CQ WorldWide Contest Weekend!  Fresh DX all weekend long!  #cqdx #cqww #contest #ftdx101mp",
-      "views": 5141,
+      "views": 5155,
       "likes": 66,
       "video_id": "Wnw0wmTqVvw"
     },
@@ -134,15 +126,15 @@
       "date": "Oct 31",
       "full_date": "2025-10-31",
       "title": "What&#39;s in My POTA Bag? Complete Setup for Parks on the Air",
-      "views": 2510,
-      "likes": 127,
+      "views": 2570,
+      "likes": 128,
       "video_id": "JTFErg-neu8"
     },
     {
       "date": "Oct 31",
       "full_date": "2025-10-31",
       "title": "\ud83c\udf83 Everyday Ham Podcast | Spooky Signals for Halloween \ud83d\udc7b #shorts",
-      "views": 216,
+      "views": 217,
       "likes": 7,
       "video_id": "LRlec1zoNeI"
     },
@@ -150,7 +142,7 @@
       "date": "Nov 01",
       "full_date": "2025-11-01",
       "title": "FT-891 Radio Setup: Travel-Friendly Battery #shorts",
-      "views": 1340,
+      "views": 1341,
       "likes": 13,
       "video_id": "aGU4pSCoJcY"
     },
@@ -158,7 +150,7 @@
       "date": "Nov 04",
       "full_date": "2025-11-04",
       "title": "Strange situation with the SPE Expert 1.5k #speexpert #stinkbug #midwest #hamradio #amteurradio",
-      "views": 1263,
+      "views": 1269,
       "likes": 19,
       "video_id": "JlEPexeOWa4"
     },
@@ -166,7 +158,7 @@
       "date": "Nov 06",
       "full_date": "2025-11-06",
       "title": "Can YOU Put Up An Antenna? The HOA Bill Fight, CQ Worldwide &amp; IC-7300 Mark II",
-      "views": 177,
+      "views": 194,
       "likes": 15,
       "video_id": "YbKLH7xdk4Q"
     },
@@ -174,24 +166,24 @@
       "date": "Nov 07",
       "full_date": "2025-11-07",
       "title": "Michigan&#39;s First Snowfall is coming-time to POTA #shorts #automobile #outdoors #hunting",
-      "views": 1263,
-      "likes": 38,
+      "views": 1311,
+      "likes": 41,
       "video_id": "cAWtEZjwwRk"
     },
     {
       "date": "Nov 07",
       "full_date": "2025-11-07",
       "title": "Icom 7300 Mark II: Unveiling the $1499 Launch Price! #shorts",
-      "views": 276,
-      "likes": 9,
+      "views": 437,
+      "likes": 15,
       "video_id": "77VS3pzGjCc"
     },
     {
       "date": "Nov 08",
       "full_date": "2025-11-08",
       "title": "Fall FT8 DX on 10m is Excellent #ft8 #hamradio #amateurradio #digitalmode #10meter #dx #dxcc",
-      "views": 711,
-      "likes": 26,
+      "views": 791,
+      "likes": 28,
       "video_id": "1T2Ng1Q0WuQ"
     }
   ]
