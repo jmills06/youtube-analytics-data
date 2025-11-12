@@ -1,15 +1,14 @@
 {
-  "last_updated": "2025-11-11",
-  "total_watch_hours": 694.9,
-  "avg_view_duration": 75,
+  "last_updated": "2025-11-12",
+  "total_watch_hours": 699.9,
+  "avg_view_duration": 141,
   "duration_change": null,
   "click_through_rate": 0.0,
   "ctr_change": null,
-  "subscribers_gained": 188,
+  "subscribers_gained": 190,
   "subscribers_lost": 15,
   "subscriber_growth_chart": {
     "labels": [
-      "Oct 12",
       "Oct 13",
       "Oct 14",
       "Oct 15",
@@ -36,10 +35,10 @@
       "Nov 05",
       "Nov 06",
       "Nov 07",
-      "Nov 08"
+      "Nov 08",
+      "Nov 09"
     ],
     "values": [
-      0,
       1,
       1,
       1,
@@ -66,7 +65,8 @@
       2,
       2,
       2,
-      7
+      7,
+      2
     ]
   },
   "traffic_sources": {
@@ -77,8 +77,8 @@
   },
   "best_video": {
     "title": "CQ WorldWide Contest Weekend!  Fresh DX all weekend long!  #cqdx #cqww #contest #ftdx101mp",
-    "views": 5146,
-    "watch_hours": 15.4,
+    "views": 5159,
+    "watch_hours": 15.9,
     "likes": 66
   },
   "video_launches": [
@@ -86,7 +86,7 @@
       "date": "Oct 15",
       "full_date": "2025-10-15",
       "title": "Hidden PoLo Power Features You&#39;re Not Using",
-      "views": 145,
+      "views": 147,
       "likes": 17,
       "video_id": "mSwSRFFpM5U"
     },
@@ -102,7 +102,7 @@
       "date": "Oct 21",
       "full_date": "2025-10-21",
       "title": "10m is Wide Open for DX!  (10/21/2025) #hamradio #ft8 #10m #amateurradio",
-      "views": 1298,
+      "views": 1300,
       "likes": 18,
       "video_id": "d-87MbN0IiM"
     },
@@ -110,7 +110,7 @@
       "date": "Oct 23",
       "full_date": "2025-10-23",
       "title": "New Mustang Mach-E gets Electrified with the Yaesu FTM-500DR Mobile Rig",
-      "views": 955,
+      "views": 957,
       "likes": 34,
       "video_id": "xW-nnl2RGIs"
     },
@@ -118,7 +118,7 @@
       "date": "Oct 25",
       "full_date": "2025-10-25",
       "title": "CQ WorldWide Contest Weekend!  Fresh DX all weekend long!  #cqdx #cqww #contest #ftdx101mp",
-      "views": 5162,
+      "views": 5184,
       "likes": 67,
       "video_id": "Wnw0wmTqVvw"
     },
@@ -126,15 +126,15 @@
       "date": "Oct 31",
       "full_date": "2025-10-31",
       "title": "What&#39;s in My POTA Bag? Complete Setup for Parks on the Air",
-      "views": 2593,
-      "likes": 128,
+      "views": 2604,
+      "likes": 129,
       "video_id": "JTFErg-neu8"
     },
     {
       "date": "Oct 31",
       "full_date": "2025-10-31",
       "title": "\ud83c\udf83 Everyday Ham Podcast | Spooky Signals for Halloween \ud83d\udc7b #shorts",
-      "views": 217,
+      "views": 219,
       "likes": 7,
       "video_id": "LRlec1zoNeI"
     },
@@ -142,7 +142,7 @@
       "date": "Nov 01",
       "full_date": "2025-11-01",
       "title": "FT-891 Radio Setup: Travel-Friendly Battery #shorts",
-      "views": 1342,
+      "views": 1350,
       "likes": 13,
       "video_id": "aGU4pSCoJcY"
     },
@@ -150,7 +150,7 @@
       "date": "Nov 04",
       "full_date": "2025-11-04",
       "title": "Strange situation with the SPE Expert 1.5k #speexpert #stinkbug #midwest #hamradio #amteurradio",
-      "views": 1273,
+      "views": 1276,
       "likes": 19,
       "video_id": "JlEPexeOWa4"
     },
@@ -158,23 +158,23 @@
       "date": "Nov 06",
       "full_date": "2025-11-06",
       "title": "Can YOU Put Up An Antenna? The HOA Bill Fight, CQ Worldwide &amp; IC-7300 Mark II",
-      "views": 198,
-      "likes": 15,
+      "views": 203,
+      "likes": 16,
       "video_id": "YbKLH7xdk4Q"
     },
     {
       "date": "Nov 07",
       "full_date": "2025-11-07",
       "title": "Michigan&#39;s First Snowfall is coming-time to POTA #shorts #automobile #outdoors #hunting",
-      "views": 1345,
-      "likes": 42,
+      "views": 1386,
+      "likes": 43,
       "video_id": "cAWtEZjwwRk"
     },
     {
       "date": "Nov 07",
       "full_date": "2025-11-07",
       "title": "Icom 7300 Mark II: Unveiling the $1499 Launch Price! #shorts",
-      "views": 532,
+      "views": 542,
       "likes": 17,
       "video_id": "77VS3pzGjCc"
     },
@@ -182,7 +182,7 @@
       "date": "Nov 08",
       "full_date": "2025-11-08",
       "title": "Fall FT8 DX on 10m is Excellent #ft8 #hamradio #amateurradio #digitalmode #10meter #dx #dxcc",
-      "views": 826,
+      "views": 846,
       "likes": 31,
       "video_id": "1T2Ng1Q0WuQ"
     }
