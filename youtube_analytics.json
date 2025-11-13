@@ -1,15 +1,14 @@
 {
-  "last_updated": "2025-11-12",
-  "total_watch_hours": 699.9,
-  "avg_view_duration": 141,
+  "last_updated": "2025-11-13",
+  "total_watch_hours": 699.7,
+  "avg_view_duration": 213,
   "duration_change": null,
   "click_through_rate": 0.0,
   "ctr_change": null,
-  "subscribers_gained": 190,
+  "subscribers_gained": 192,
   "subscribers_lost": 15,
   "subscriber_growth_chart": {
     "labels": [
-      "Oct 13",
       "Oct 14",
       "Oct 15",
       "Oct 16",
@@ -36,10 +35,10 @@
       "Nov 06",
       "Nov 07",
       "Nov 08",
-      "Nov 09"
+      "Nov 09",
+      "Nov 10"
     ],
     "values": [
-      1,
       1,
       1,
       8,
@@ -66,7 +65,8 @@
       2,
       2,
       7,
-      2
+      2,
+      3
     ]
   },
   "traffic_sources": {
@@ -77,16 +77,16 @@
   },
   "best_video": {
     "title": "CQ WorldWide Contest Weekend!  Fresh DX all weekend long!  #cqdx #cqww #contest #ftdx101mp",
-    "views": 5159,
+    "views": 5170,
     "watch_hours": 15.9,
-    "likes": 66
+    "likes": 67
   },
   "video_launches": [
     {
       "date": "Oct 15",
       "full_date": "2025-10-15",
       "title": "Hidden PoLo Power Features You&#39;re Not Using",
-      "views": 147,
+      "views": 150,
       "likes": 17,
       "video_id": "mSwSRFFpM5U"
     },
@@ -102,7 +102,7 @@
       "date": "Oct 21",
       "full_date": "2025-10-21",
       "title": "10m is Wide Open for DX!  (10/21/2025) #hamradio #ft8 #10m #amateurradio",
-      "views": 1300,
+      "views": 1301,
       "likes": 18,
       "video_id": "d-87MbN0IiM"
     },
@@ -110,7 +110,7 @@
       "date": "Oct 23",
       "full_date": "2025-10-23",
       "title": "New Mustang Mach-E gets Electrified with the Yaesu FTM-500DR Mobile Rig",
-      "views": 957,
+      "views": 959,
       "likes": 34,
       "video_id": "xW-nnl2RGIs"
     },
@@ -118,7 +118,7 @@
       "date": "Oct 25",
       "full_date": "2025-10-25",
       "title": "CQ WorldWide Contest Weekend!  Fresh DX all weekend long!  #cqdx #cqww #contest #ftdx101mp",
-      "views": 5184,
+      "views": 5196,
       "likes": 67,
       "video_id": "Wnw0wmTqVvw"
     },
@@ -126,7 +126,7 @@
       "date": "Oct 31",
       "full_date": "2025-10-31",
       "title": "What&#39;s in My POTA Bag? Complete Setup for Parks on the Air",
-      "views": 2604,
+      "views": 2618,
       "likes": 129,
       "video_id": "JTFErg-neu8"
     },
@@ -134,7 +134,7 @@
       "date": "Oct 31",
       "full_date": "2025-10-31",
       "title": "\ud83c\udf83 Everyday Ham Podcast | Spooky Signals for Halloween \ud83d\udc7b #shorts",
-      "views": 219,
+      "views": 220,
       "likes": 7,
       "video_id": "LRlec1zoNeI"
     },
@@ -150,7 +150,7 @@
       "date": "Nov 04",
       "full_date": "2025-11-04",
       "title": "Strange situation with the SPE Expert 1.5k #speexpert #stinkbug #midwest #hamradio #amteurradio",
-      "views": 1276,
+      "views": 1278,
       "likes": 19,
       "video_id": "JlEPexeOWa4"
     },
@@ -158,15 +158,15 @@
       "date": "Nov 06",
       "full_date": "2025-11-06",
       "title": "Can YOU Put Up An Antenna? The HOA Bill Fight, CQ Worldwide &amp; IC-7300 Mark II",
-      "views": 203,
-      "likes": 16,
+      "views": 206,
+      "likes": 17,
       "video_id": "YbKLH7xdk4Q"
     },
     {
       "date": "Nov 07",
       "full_date": "2025-11-07",
       "title": "Michigan&#39;s First Snowfall is coming-time to POTA #shorts #automobile #outdoors #hunting",
-      "views": 1386,
+      "views": 1383,
       "likes": 43,
       "video_id": "cAWtEZjwwRk"
     },
@@ -174,7 +174,7 @@
       "date": "Nov 07",
       "full_date": "2025-11-07",
       "title": "Icom 7300 Mark II: Unveiling the $1499 Launch Price! #shorts",
-      "views": 542,
+      "views": 557,
       "likes": 17,
       "video_id": "77VS3pzGjCc"
     },
@@ -182,7 +182,7 @@
       "date": "Nov 08",
       "full_date": "2025-11-08",
       "title": "Fall FT8 DX on 10m is Excellent #ft8 #hamradio #amateurradio #digitalmode #10meter #dx #dxcc",
-      "views": 846,
+      "views": 854,
       "likes": 31,
       "video_id": "1T2Ng1Q0WuQ"
     }
