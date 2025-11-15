@@ -1,7 +1,7 @@
 {
-  "last_updated": "2025-11-14",
-  "total_watch_hours": 698.7,
-  "avg_view_duration": 220,
+  "last_updated": "2025-11-15",
+  "total_watch_hours": 700.0,
+  "avg_view_duration": 310,
   "duration_change": null,
   "click_through_rate": 0.0,
   "ctr_change": null,
@@ -9,7 +9,6 @@
   "subscribers_lost": 16,
   "subscriber_growth_chart": {
     "labels": [
-      "Oct 15",
       "Oct 16",
       "Oct 17",
       "Oct 18",
@@ -36,10 +35,10 @@
       "Nov 08",
       "Nov 09",
       "Nov 10",
-      "Nov 11"
+      "Nov 11",
+      "Nov 12"
     ],
     "values": [
-      1,
       8,
       17,
       11,
@@ -66,7 +65,8 @@
       7,
       2,
       3,
-      0
+      0,
+      1
     ]
   },
   "traffic_sources": {
@@ -77,24 +77,16 @@
   },
   "best_video": {
     "title": "CQ WorldWide Contest Weekend!  Fresh DX all weekend long!  #cqdx #cqww #contest #ftdx101mp",
-    "views": 5190,
+    "views": 5198,
     "watch_hours": 16.8,
     "likes": 67
   },
   "video_launches": [
     {
-      "date": "Oct 15",
-      "full_date": "2025-10-15",
-      "title": "Hidden PoLo Power Features You&#39;re Not Using",
-      "views": 150,
-      "likes": 17,
-      "video_id": "mSwSRFFpM5U"
-    },
-    {
       "date": "Oct 16",
       "full_date": "2025-10-16",
       "title": "Truck Camping and Pota with the Yaesu FTdx10 at Maumee Bay State Park",
-      "views": 1465,
+      "views": 1467,
       "likes": 90,
       "video_id": "G3jhDn-tr4Y"
     },
@@ -110,7 +102,7 @@
       "date": "Oct 23",
       "full_date": "2025-10-23",
       "title": "New Mustang Mach-E gets Electrified with the Yaesu FTM-500DR Mobile Rig",
-      "views": 963,
+      "views": 967,
       "likes": 35,
       "video_id": "xW-nnl2RGIs"
     },
@@ -118,7 +110,7 @@
       "date": "Oct 25",
       "full_date": "2025-10-25",
       "title": "CQ WorldWide Contest Weekend!  Fresh DX all weekend long!  #cqdx #cqww #contest #ftdx101mp",
-      "views": 5214,
+      "views": 5230,
       "likes": 67,
       "video_id": "Wnw0wmTqVvw"
     },
@@ -126,7 +118,7 @@
       "date": "Oct 31",
       "full_date": "2025-10-31",
       "title": "What&#39;s in My POTA Bag? Complete Setup for Parks on the Air",
-      "views": 2628,
+      "views": 2646,
       "likes": 129,
       "video_id": "JTFErg-neu8"
     },
@@ -142,7 +134,7 @@
       "date": "Nov 01",
       "full_date": "2025-11-01",
       "title": "FT-891 Radio Setup: Travel-Friendly Battery #shorts",
-      "views": 1352,
+      "views": 1353,
       "likes": 13,
       "video_id": "aGU4pSCoJcY"
     },
@@ -158,7 +150,7 @@
       "date": "Nov 06",
       "full_date": "2025-11-06",
       "title": "Can YOU Put Up An Antenna? The HOA Bill Fight, CQ Worldwide &amp; IC-7300 Mark II",
-      "views": 208,
+      "views": 209,
       "likes": 17,
       "video_id": "YbKLH7xdk4Q"
     },
@@ -166,7 +158,7 @@
       "date": "Nov 07",
       "full_date": "2025-11-07",
       "title": "Michigan&#39;s First Snowfall is coming-time to POTA #shorts #automobile #outdoors #hunting",
-      "views": 1386,
+      "views": 1391,
       "likes": 43,
       "video_id": "cAWtEZjwwRk"
     },
@@ -174,7 +166,7 @@
       "date": "Nov 07",
       "full_date": "2025-11-07",
       "title": "Icom 7300 Mark II: Unveiling the $1499 Launch Price! #shorts",
-      "views": 562,
+      "views": 571,
       "likes": 17,
       "video_id": "77VS3pzGjCc"
     },
@@ -182,7 +174,7 @@
       "date": "Nov 08",
       "full_date": "2025-11-08",
       "title": "Fall FT8 DX on 10m is Excellent #ft8 #hamradio #amateurradio #digitalmode #10meter #dx #dxcc",
-      "views": 861,
+      "views": 865,
       "likes": 31,
       "video_id": "1T2Ng1Q0WuQ"
     },
@@ -190,7 +182,7 @@
       "date": "Nov 13",
       "full_date": "2025-11-13",
       "title": "POTA Road Trip: Arizona to Malibu - 3 Parks, 2 Days",
-      "views": 69,
+      "views": 83,
       "likes": 11,
       "video_id": "v0Ln5Q7P4nE"
     },
@@ -198,8 +190,8 @@
       "date": "Nov 14",
       "full_date": "2025-11-14",
       "title": "POTA Paradise: Ham Radio Beach Setup &amp; Operation #shorts",
-      "views": 184,
-      "likes": 3,
+      "views": 900,
+      "likes": 10,
       "video_id": "RxgcxKk969g"
     }
   ]
