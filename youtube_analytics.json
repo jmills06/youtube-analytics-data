@@ -1,15 +1,14 @@
 {
-  "last_updated": "2025-11-15",
-  "total_watch_hours": 700.0,
-  "avg_view_duration": 310,
+  "last_updated": "2025-11-16",
+  "total_watch_hours": 658.1,
+  "avg_view_duration": 156,
   "duration_change": null,
   "click_through_rate": 0.0,
   "ctr_change": null,
-  "subscribers_gained": 192,
-  "subscribers_lost": 16,
+  "subscribers_gained": 184,
+  "subscribers_lost": 15,
   "subscriber_growth_chart": {
     "labels": [
-      "Oct 16",
       "Oct 17",
       "Oct 18",
       "Oct 19",
@@ -36,10 +35,10 @@
       "Nov 09",
       "Nov 10",
       "Nov 11",
-      "Nov 12"
+      "Nov 12",
+      "Nov 13"
     ],
     "values": [
-      8,
       17,
       11,
       18,
@@ -66,6 +65,7 @@
       2,
       3,
       0,
+      1,
       1
     ]
   },
@@ -77,19 +77,11 @@
   },
   "best_video": {
     "title": "CQ WorldWide Contest Weekend!  Fresh DX all weekend long!  #cqdx #cqww #contest #ftdx101mp",
-    "views": 5198,
-    "watch_hours": 16.8,
+    "views": 5218,
+    "watch_hours": 16.9,
     "likes": 67
   },
   "video_launches": [
-    {
-      "date": "Oct 16",
-      "full_date": "2025-10-16",
-      "title": "Truck Camping and Pota with the Yaesu FTdx10 at Maumee Bay State Park",
-      "views": 1467,
-      "likes": 90,
-      "video_id": "G3jhDn-tr4Y"
-    },
     {
       "date": "Oct 21",
       "full_date": "2025-10-21",
@@ -110,16 +102,16 @@
       "date": "Oct 25",
       "full_date": "2025-10-25",
       "title": "CQ WorldWide Contest Weekend!  Fresh DX all weekend long!  #cqdx #cqww #contest #ftdx101mp",
-      "views": 5230,
-      "likes": 67,
+      "views": 5241,
+      "likes": 68,
       "video_id": "Wnw0wmTqVvw"
     },
     {
       "date": "Oct 31",
       "full_date": "2025-10-31",
       "title": "What&#39;s in My POTA Bag? Complete Setup for Parks on the Air",
-      "views": 2646,
-      "likes": 129,
+      "views": 2664,
+      "likes": 130,
       "video_id": "JTFErg-neu8"
     },
     {
@@ -134,15 +126,15 @@
       "date": "Nov 01",
       "full_date": "2025-11-01",
       "title": "FT-891 Radio Setup: Travel-Friendly Battery #shorts",
-      "views": 1353,
-      "likes": 13,
+      "views": 1355,
+      "likes": 14,
       "video_id": "aGU4pSCoJcY"
     },
     {
       "date": "Nov 04",
       "full_date": "2025-11-04",
       "title": "Strange situation with the SPE Expert 1.5k #speexpert #stinkbug #midwest #hamradio #amteurradio",
-      "views": 1278,
+      "views": 1277,
       "likes": 19,
       "video_id": "JlEPexeOWa4"
     },
@@ -150,7 +142,7 @@
       "date": "Nov 06",
       "full_date": "2025-11-06",
       "title": "Can YOU Put Up An Antenna? The HOA Bill Fight, CQ Worldwide &amp; IC-7300 Mark II",
-      "views": 209,
+      "views": 214,
       "likes": 17,
       "video_id": "YbKLH7xdk4Q"
     },
@@ -166,7 +158,7 @@
       "date": "Nov 07",
       "full_date": "2025-11-07",
       "title": "Icom 7300 Mark II: Unveiling the $1499 Launch Price! #shorts",
-      "views": 571,
+      "views": 581,
       "likes": 17,
       "video_id": "77VS3pzGjCc"
     },
@@ -174,7 +166,7 @@
       "date": "Nov 08",
       "full_date": "2025-11-08",
       "title": "Fall FT8 DX on 10m is Excellent #ft8 #hamradio #amateurradio #digitalmode #10meter #dx #dxcc",
-      "views": 865,
+      "views": 866,
       "likes": 31,
       "video_id": "1T2Ng1Q0WuQ"
     },
@@ -182,7 +174,7 @@
       "date": "Nov 13",
       "full_date": "2025-11-13",
       "title": "POTA Road Trip: Arizona to Malibu - 3 Parks, 2 Days",
-      "views": 83,
+      "views": 91,
       "likes": 11,
       "video_id": "v0Ln5Q7P4nE"
     },
@@ -190,8 +182,8 @@
       "date": "Nov 14",
       "full_date": "2025-11-14",
       "title": "POTA Paradise: Ham Radio Beach Setup &amp; Operation #shorts",
-      "views": 900,
-      "likes": 10,
+      "views": 1320,
+      "likes": 14,
       "video_id": "RxgcxKk969g"
     }
   ]
