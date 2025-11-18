@@ -1,15 +1,14 @@
 {
-  "last_updated": "2025-11-17",
-  "total_watch_hours": 603.9,
-  "avg_view_duration": 70,
+  "last_updated": "2025-11-18",
+  "total_watch_hours": 580.4,
+  "avg_view_duration": 120,
   "duration_change": null,
   "click_through_rate": 0.0,
   "ctr_change": null,
-  "subscribers_gained": 171,
+  "subscribers_gained": 164,
   "subscribers_lost": 16,
   "subscriber_growth_chart": {
     "labels": [
-      "Oct 18",
       "Oct 19",
       "Oct 20",
       "Oct 21",
@@ -36,10 +35,10 @@
       "Nov 11",
       "Nov 12",
       "Nov 13",
-      "Nov 14"
+      "Nov 14",
+      "Nov 15"
     ],
     "values": [
-      11,
       18,
       7,
       4,
@@ -66,7 +65,8 @@
       0,
       1,
       1,
-      3
+      3,
+      4
     ]
   },
   "traffic_sources": {
@@ -77,9 +77,9 @@
   },
   "best_video": {
     "title": "CQ WorldWide Contest Weekend!  Fresh DX all weekend long!  #cqdx #cqww #contest #ftdx101mp",
-    "views": 5231,
+    "views": 5241,
     "watch_hours": 16.9,
-    "likes": 67
+    "likes": 68
   },
   "video_launches": [
     {
@@ -94,7 +94,7 @@
       "date": "Oct 23",
       "full_date": "2025-10-23",
       "title": "New Mustang Mach-E gets Electrified with the Yaesu FTM-500DR Mobile Rig",
-      "views": 969,
+      "views": 972,
       "likes": 35,
       "video_id": "xW-nnl2RGIs"
     },
@@ -102,7 +102,7 @@
       "date": "Oct 25",
       "full_date": "2025-10-25",
       "title": "CQ WorldWide Contest Weekend!  Fresh DX all weekend long!  #cqdx #cqww #contest #ftdx101mp",
-      "views": 5250,
+      "views": 5278,
       "likes": 68,
       "video_id": "Wnw0wmTqVvw"
     },
@@ -110,8 +110,8 @@
       "date": "Oct 31",
       "full_date": "2025-10-31",
       "title": "What&#39;s in My POTA Bag? Complete Setup for Parks on the Air",
-      "views": 2679,
-      "likes": 130,
+      "views": 2699,
+      "likes": 131,
       "video_id": "JTFErg-neu8"
     },
     {
@@ -126,7 +126,7 @@
       "date": "Nov 01",
       "full_date": "2025-11-01",
       "title": "FT-891 Radio Setup: Travel-Friendly Battery #shorts",
-      "views": 1358,
+      "views": 1361,
       "likes": 14,
       "video_id": "aGU4pSCoJcY"
     },
@@ -158,7 +158,7 @@
       "date": "Nov 07",
       "full_date": "2025-11-07",
       "title": "Icom 7300 Mark II: Unveiling the $1499 Launch Price! #shorts",
-      "views": 586,
+      "views": 589,
       "likes": 17,
       "video_id": "77VS3pzGjCc"
     },
@@ -166,7 +166,7 @@
       "date": "Nov 08",
       "full_date": "2025-11-08",
       "title": "Fall FT8 DX on 10m is Excellent #ft8 #hamradio #amateurradio #digitalmode #10meter #dx #dxcc",
-      "views": 869,
+      "views": 870,
       "likes": 31,
       "video_id": "1T2Ng1Q0WuQ"
     },
@@ -174,7 +174,7 @@
       "date": "Nov 13",
       "full_date": "2025-11-13",
       "title": "POTA Road Trip: Arizona to Malibu - 3 Parks, 2 Days",
-      "views": 103,
+      "views": 115,
       "likes": 13,
       "video_id": "v0Ln5Q7P4nE"
     },
@@ -182,7 +182,7 @@
       "date": "Nov 14",
       "full_date": "2025-11-14",
       "title": "POTA Paradise: Ham Radio Beach Setup &amp; Operation #shorts",
-      "views": 1504,
+      "views": 1508,
       "likes": 14,
       "video_id": "RxgcxKk969g"
     },
@@ -190,8 +190,8 @@
       "date": "Nov 17",
       "full_date": "2025-11-17",
       "title": "First POTA Activation in Canada! #shorts",
-      "views": 459,
-      "likes": 14,
+      "views": 882,
+      "likes": 20,
       "video_id": "sAGV73vzm24"
     }
   ]
