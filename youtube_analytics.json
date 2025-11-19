@@ -1,15 +1,14 @@
 {
-  "last_updated": "2025-11-18",
-  "total_watch_hours": 580.4,
-  "avg_view_duration": 120,
+  "last_updated": "2025-11-19",
+  "total_watch_hours": 548.8,
+  "avg_view_duration": 90,
   "duration_change": null,
   "click_through_rate": 0.0,
   "ctr_change": null,
-  "subscribers_gained": 164,
-  "subscribers_lost": 16,
+  "subscribers_gained": 147,
+  "subscribers_lost": 15,
   "subscriber_growth_chart": {
     "labels": [
-      "Oct 19",
       "Oct 20",
       "Oct 21",
       "Oct 22",
@@ -36,10 +35,10 @@
       "Nov 12",
       "Nov 13",
       "Nov 14",
-      "Nov 15"
+      "Nov 15",
+      "Nov 16"
     ],
     "values": [
-      18,
       7,
       4,
       4,
@@ -66,7 +65,8 @@
       1,
       1,
       3,
-      4
+      4,
+      2
     ]
   },
   "traffic_sources": {
@@ -77,8 +77,8 @@
   },
   "best_video": {
     "title": "CQ WorldWide Contest Weekend!  Fresh DX all weekend long!  #cqdx #cqww #contest #ftdx101mp",
-    "views": 5241,
-    "watch_hours": 16.9,
+    "views": 5251,
+    "watch_hours": 17.0,
     "likes": 68
   },
   "video_launches": [
@@ -94,7 +94,7 @@
       "date": "Oct 23",
       "full_date": "2025-10-23",
       "title": "New Mustang Mach-E gets Electrified with the Yaesu FTM-500DR Mobile Rig",
-      "views": 972,
+      "views": 973,
       "likes": 35,
       "video_id": "xW-nnl2RGIs"
     },
@@ -102,7 +102,7 @@
       "date": "Oct 25",
       "full_date": "2025-10-25",
       "title": "CQ WorldWide Contest Weekend!  Fresh DX all weekend long!  #cqdx #cqww #contest #ftdx101mp",
-      "views": 5278,
+      "views": 5292,
       "likes": 68,
       "video_id": "Wnw0wmTqVvw"
     },
@@ -110,8 +110,8 @@
       "date": "Oct 31",
       "full_date": "2025-10-31",
       "title": "What&#39;s in My POTA Bag? Complete Setup for Parks on the Air",
-      "views": 2699,
-      "likes": 131,
+      "views": 2711,
+      "likes": 132,
       "video_id": "JTFErg-neu8"
     },
     {
@@ -126,7 +126,7 @@
       "date": "Nov 01",
       "full_date": "2025-11-01",
       "title": "FT-891 Radio Setup: Travel-Friendly Battery #shorts",
-      "views": 1361,
+      "views": 1364,
       "likes": 14,
       "video_id": "aGU4pSCoJcY"
     },
@@ -134,7 +134,7 @@
       "date": "Nov 04",
       "full_date": "2025-11-04",
       "title": "Strange situation with the SPE Expert 1.5k #speexpert #stinkbug #midwest #hamradio #amteurradio",
-      "views": 1277,
+      "views": 1279,
       "likes": 19,
       "video_id": "JlEPexeOWa4"
     },
@@ -142,7 +142,7 @@
       "date": "Nov 06",
       "full_date": "2025-11-06",
       "title": "Can YOU Put Up An Antenna? The HOA Bill Fight, CQ Worldwide &amp; IC-7300 Mark II",
-      "views": 216,
+      "views": 219,
       "likes": 17,
       "video_id": "YbKLH7xdk4Q"
     },
@@ -150,7 +150,7 @@
       "date": "Nov 07",
       "full_date": "2025-11-07",
       "title": "Michigan&#39;s First Snowfall is coming-time to POTA #shorts #automobile #outdoors #hunting",
-      "views": 1391,
+      "views": 1392,
       "likes": 43,
       "video_id": "cAWtEZjwwRk"
     },
@@ -158,7 +158,7 @@
       "date": "Nov 07",
       "full_date": "2025-11-07",
       "title": "Icom 7300 Mark II: Unveiling the $1499 Launch Price! #shorts",
-      "views": 589,
+      "views": 594,
       "likes": 17,
       "video_id": "77VS3pzGjCc"
     },
@@ -174,7 +174,7 @@
       "date": "Nov 13",
       "full_date": "2025-11-13",
       "title": "POTA Road Trip: Arizona to Malibu - 3 Parks, 2 Days",
-      "views": 115,
+      "views": 116,
       "likes": 13,
       "video_id": "v0Ln5Q7P4nE"
     },
@@ -182,7 +182,7 @@
       "date": "Nov 14",
       "full_date": "2025-11-14",
       "title": "POTA Paradise: Ham Radio Beach Setup &amp; Operation #shorts",
-      "views": 1508,
+      "views": 1509,
       "likes": 14,
       "video_id": "RxgcxKk969g"
     },
@@ -190,7 +190,7 @@
       "date": "Nov 17",
       "full_date": "2025-11-17",
       "title": "First POTA Activation in Canada! #shorts",
-      "views": 882,
+      "views": 886,
       "likes": 20,
       "video_id": "sAGV73vzm24"
     }
