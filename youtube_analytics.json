@@ -1,15 +1,14 @@
 {
-  "last_updated": "2025-11-19",
-  "total_watch_hours": 548.8,
-  "avg_view_duration": 90,
+  "last_updated": "2025-11-20",
+  "total_watch_hours": 548.6,
+  "avg_view_duration": 103,
   "duration_change": null,
   "click_through_rate": 0.0,
   "ctr_change": null,
-  "subscribers_gained": 147,
+  "subscribers_gained": 146,
   "subscribers_lost": 15,
   "subscriber_growth_chart": {
     "labels": [
-      "Oct 20",
       "Oct 21",
       "Oct 22",
       "Oct 23",
@@ -36,10 +35,10 @@
       "Nov 13",
       "Nov 14",
       "Nov 15",
-      "Nov 16"
+      "Nov 16",
+      "Nov 17"
     ],
     "values": [
-      7,
       4,
       4,
       3,
@@ -66,7 +65,8 @@
       1,
       3,
       4,
-      2
+      2,
+      6
     ]
   },
   "traffic_sources": {
@@ -77,8 +77,8 @@
   },
   "best_video": {
     "title": "CQ WorldWide Contest Weekend!  Fresh DX all weekend long!  #cqdx #cqww #contest #ftdx101mp",
-    "views": 5251,
-    "watch_hours": 17.0,
+    "views": 5278,
+    "watch_hours": 17.2,
     "likes": 68
   },
   "video_launches": [
@@ -94,7 +94,7 @@
       "date": "Oct 23",
       "full_date": "2025-10-23",
       "title": "New Mustang Mach-E gets Electrified with the Yaesu FTM-500DR Mobile Rig",
-      "views": 973,
+      "views": 976,
       "likes": 35,
       "video_id": "xW-nnl2RGIs"
     },
@@ -102,7 +102,7 @@
       "date": "Oct 25",
       "full_date": "2025-10-25",
       "title": "CQ WorldWide Contest Weekend!  Fresh DX all weekend long!  #cqdx #cqww #contest #ftdx101mp",
-      "views": 5292,
+      "views": 5300,
       "likes": 68,
       "video_id": "Wnw0wmTqVvw"
     },
@@ -110,7 +110,7 @@
       "date": "Oct 31",
       "full_date": "2025-10-31",
       "title": "What&#39;s in My POTA Bag? Complete Setup for Parks on the Air",
-      "views": 2711,
+      "views": 2723,
       "likes": 132,
       "video_id": "JTFErg-neu8"
     },
@@ -142,7 +142,7 @@
       "date": "Nov 06",
       "full_date": "2025-11-06",
       "title": "Can YOU Put Up An Antenna? The HOA Bill Fight, CQ Worldwide &amp; IC-7300 Mark II",
-      "views": 219,
+      "views": 222,
       "likes": 17,
       "video_id": "YbKLH7xdk4Q"
     },
@@ -150,7 +150,7 @@
       "date": "Nov 07",
       "full_date": "2025-11-07",
       "title": "Michigan&#39;s First Snowfall is coming-time to POTA #shorts #automobile #outdoors #hunting",
-      "views": 1392,
+      "views": 1394,
       "likes": 43,
       "video_id": "cAWtEZjwwRk"
     },
@@ -158,7 +158,7 @@
       "date": "Nov 07",
       "full_date": "2025-11-07",
       "title": "Icom 7300 Mark II: Unveiling the $1499 Launch Price! #shorts",
-      "views": 594,
+      "views": 595,
       "likes": 17,
       "video_id": "77VS3pzGjCc"
     },
@@ -174,7 +174,7 @@
       "date": "Nov 13",
       "full_date": "2025-11-13",
       "title": "POTA Road Trip: Arizona to Malibu - 3 Parks, 2 Days",
-      "views": 116,
+      "views": 118,
       "likes": 13,
       "video_id": "v0Ln5Q7P4nE"
     },
@@ -182,7 +182,7 @@
       "date": "Nov 14",
       "full_date": "2025-11-14",
       "title": "POTA Paradise: Ham Radio Beach Setup &amp; Operation #shorts",
-      "views": 1509,
+      "views": 1512,
       "likes": 14,
       "video_id": "RxgcxKk969g"
     },
@@ -190,7 +190,7 @@
       "date": "Nov 17",
       "full_date": "2025-11-17",
       "title": "First POTA Activation in Canada! #shorts",
-      "views": 886,
+      "views": 891,
       "likes": 20,
       "video_id": "sAGV73vzm24"
     }
