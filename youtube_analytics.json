@@ -1,15 +1,14 @@
 {
-  "last_updated": "2025-11-21",
-  "total_watch_hours": 541.5,
-  "avg_view_duration": 265,
+  "last_updated": "2025-11-22",
+  "total_watch_hours": 529.1,
+  "avg_view_duration": 226,
   "duration_change": null,
   "click_through_rate": 0.0,
   "ctr_change": null,
-  "subscribers_gained": 143,
-  "subscribers_lost": 13,
+  "subscribers_gained": 140,
+  "subscribers_lost": 14,
   "subscriber_growth_chart": {
     "labels": [
-      "Oct 22",
       "Oct 23",
       "Oct 24",
       "Oct 25",
@@ -36,10 +35,10 @@
       "Nov 15",
       "Nov 16",
       "Nov 17",
-      "Nov 18"
+      "Nov 18",
+      "Nov 19"
     ],
     "values": [
-      4,
       3,
       9,
       9,
@@ -66,7 +65,8 @@
       4,
       2,
       6,
-      3
+      3,
+      0
     ]
   },
   "traffic_sources": {
@@ -77,8 +77,8 @@
   },
   "best_video": {
     "title": "CQ WorldWide Contest Weekend!  Fresh DX all weekend long!  #cqdx #cqww #contest #ftdx101mp",
-    "views": 5296,
-    "watch_hours": 17.2,
+    "views": 5300,
+    "watch_hours": 17.3,
     "likes": 68
   },
   "video_launches": [
@@ -86,7 +86,7 @@
       "date": "Oct 23",
       "full_date": "2025-10-23",
       "title": "New Mustang Mach-E gets Electrified with the Yaesu FTM-500DR Mobile Rig",
-      "views": 977,
+      "views": 979,
       "likes": 35,
       "video_id": "xW-nnl2RGIs"
     },
@@ -94,15 +94,15 @@
       "date": "Oct 25",
       "full_date": "2025-10-25",
       "title": "CQ WorldWide Contest Weekend!  Fresh DX all weekend long!  #cqdx #cqww #contest #ftdx101mp",
-      "views": 5308,
-      "likes": 68,
+      "views": 5314,
+      "likes": 69,
       "video_id": "Wnw0wmTqVvw"
     },
     {
       "date": "Oct 31",
       "full_date": "2025-10-31",
       "title": "What&#39;s in My POTA Bag? Complete Setup for Parks on the Air",
-      "views": 2731,
+      "views": 2748,
       "likes": 132,
       "video_id": "JTFErg-neu8"
     },
@@ -126,7 +126,7 @@
       "date": "Nov 04",
       "full_date": "2025-11-04",
       "title": "Strange situation with the SPE Expert 1.5k #speexpert #stinkbug #midwest #hamradio #amteurradio",
-      "views": 1279,
+      "views": 1280,
       "likes": 19,
       "video_id": "JlEPexeOWa4"
     },
@@ -134,7 +134,7 @@
       "date": "Nov 06",
       "full_date": "2025-11-06",
       "title": "Can YOU Put Up An Antenna? The HOA Bill Fight, CQ Worldwide &amp; IC-7300 Mark II",
-      "views": 223,
+      "views": 224,
       "likes": 17,
       "video_id": "YbKLH7xdk4Q"
     },
@@ -142,7 +142,7 @@
       "date": "Nov 07",
       "full_date": "2025-11-07",
       "title": "Michigan&#39;s First Snowfall is coming-time to POTA #shorts #automobile #outdoors #hunting",
-      "views": 1397,
+      "views": 1399,
       "likes": 43,
       "video_id": "cAWtEZjwwRk"
     },
@@ -150,7 +150,7 @@
       "date": "Nov 07",
       "full_date": "2025-11-07",
       "title": "Icom 7300 Mark II: Unveiling the $1499 Launch Price! #shorts",
-      "views": 597,
+      "views": 600,
       "likes": 17,
       "video_id": "77VS3pzGjCc"
     },
@@ -158,15 +158,15 @@
       "date": "Nov 08",
       "full_date": "2025-11-08",
       "title": "Fall FT8 DX on 10m is Excellent #ft8 #hamradio #amateurradio #digitalmode #10meter #dx #dxcc",
-      "views": 870,
-      "likes": 31,
+      "views": 871,
+      "likes": 32,
       "video_id": "1T2Ng1Q0WuQ"
     },
     {
       "date": "Nov 13",
       "full_date": "2025-11-13",
       "title": "POTA Road Trip: Arizona to Malibu - 3 Parks, 2 Days",
-      "views": 118,
+      "views": 119,
       "likes": 13,
       "video_id": "v0Ln5Q7P4nE"
     },
@@ -174,7 +174,7 @@
       "date": "Nov 14",
       "full_date": "2025-11-14",
       "title": "POTA Paradise: Ham Radio Beach Setup &amp; Operation #shorts",
-      "views": 1512,
+      "views": 1513,
       "likes": 14,
       "video_id": "RxgcxKk969g"
     },
@@ -182,7 +182,7 @@
       "date": "Nov 17",
       "full_date": "2025-11-17",
       "title": "First POTA Activation in Canada! #shorts",
-      "views": 894,
+      "views": 900,
       "likes": 20,
       "video_id": "sAGV73vzm24"
     },
@@ -190,16 +190,16 @@
       "date": "Nov 20",
       "full_date": "2025-11-20",
       "title": "Aerial 51 Antenna: POTA Bands &amp; No Tuner Needed? #shorts",
-      "views": 110,
-      "likes": 11,
+      "views": 302,
+      "likes": 21,
       "video_id": "ukBmPLoZ5Z4"
     },
     {
       "date": "Nov 20",
       "full_date": "2025-11-20",
       "title": "SpiderBeam Aerial 51 - The Best Portable Antenna You Haven&#39;t Heard About?",
-      "views": 105,
-      "likes": 11,
+      "views": 151,
+      "likes": 14,
       "video_id": "NRCz6H0BpZI"
     }
   ]
