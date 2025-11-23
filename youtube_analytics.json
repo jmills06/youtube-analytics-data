@@ -1,15 +1,14 @@
 {
-  "last_updated": "2025-11-22",
-  "total_watch_hours": 529.1,
-  "avg_view_duration": 226,
+  "last_updated": "2025-11-23",
+  "total_watch_hours": 530.0,
+  "avg_view_duration": 285,
   "duration_change": null,
   "click_through_rate": 0.0,
   "ctr_change": null,
   "subscribers_gained": 140,
-  "subscribers_lost": 14,
+  "subscribers_lost": 15,
   "subscriber_growth_chart": {
     "labels": [
-      "Oct 23",
       "Oct 24",
       "Oct 25",
       "Oct 26",
@@ -36,10 +35,10 @@
       "Nov 16",
       "Nov 17",
       "Nov 18",
-      "Nov 19"
+      "Nov 19",
+      "Nov 20"
     ],
     "values": [
-      3,
       9,
       9,
       2,
@@ -66,35 +65,28 @@
       2,
       6,
       3,
-      0
+      0,
+      2
     ]
   },
   "traffic_sources": {
     "search": 11,
-    "browse": 2,
+    "browse": 3,
     "external": 1,
-    "other": 86
+    "other": 85
   },
   "best_video": {
     "title": "CQ WorldWide Contest Weekend!  Fresh DX all weekend long!  #cqdx #cqww #contest #ftdx101mp",
-    "views": 5300,
+    "views": 5311,
     "watch_hours": 17.3,
     "likes": 68
   },
   "video_launches": [
     {
-      "date": "Oct 23",
-      "full_date": "2025-10-23",
-      "title": "New Mustang Mach-E gets Electrified with the Yaesu FTM-500DR Mobile Rig",
-      "views": 979,
-      "likes": 35,
-      "video_id": "xW-nnl2RGIs"
-    },
-    {
       "date": "Oct 25",
       "full_date": "2025-10-25",
       "title": "CQ WorldWide Contest Weekend!  Fresh DX all weekend long!  #cqdx #cqww #contest #ftdx101mp",
-      "views": 5314,
+      "views": 5342,
       "likes": 69,
       "video_id": "Wnw0wmTqVvw"
     },
@@ -102,15 +94,15 @@
       "date": "Oct 31",
       "full_date": "2025-10-31",
       "title": "What&#39;s in My POTA Bag? Complete Setup for Parks on the Air",
-      "views": 2748,
-      "likes": 132,
+      "views": 2756,
+      "likes": 133,
       "video_id": "JTFErg-neu8"
     },
     {
       "date": "Oct 31",
       "full_date": "2025-10-31",
       "title": "\ud83c\udf83 Everyday Ham Podcast | Spooky Signals for Halloween \ud83d\udc7b #shorts",
-      "views": 220,
+      "views": 222,
       "likes": 7,
       "video_id": "LRlec1zoNeI"
     },
@@ -118,7 +110,7 @@
       "date": "Nov 01",
       "full_date": "2025-11-01",
       "title": "FT-891 Radio Setup: Travel-Friendly Battery #shorts",
-      "views": 1363,
+      "views": 1365,
       "likes": 14,
       "video_id": "aGU4pSCoJcY"
     },
@@ -126,7 +118,7 @@
       "date": "Nov 04",
       "full_date": "2025-11-04",
       "title": "Strange situation with the SPE Expert 1.5k #speexpert #stinkbug #midwest #hamradio #amteurradio",
-      "views": 1280,
+      "views": 1282,
       "likes": 19,
       "video_id": "JlEPexeOWa4"
     },
@@ -134,7 +126,7 @@
       "date": "Nov 06",
       "full_date": "2025-11-06",
       "title": "Can YOU Put Up An Antenna? The HOA Bill Fight, CQ Worldwide &amp; IC-7300 Mark II",
-      "views": 224,
+      "views": 228,
       "likes": 17,
       "video_id": "YbKLH7xdk4Q"
     },
@@ -142,7 +134,7 @@
       "date": "Nov 07",
       "full_date": "2025-11-07",
       "title": "Michigan&#39;s First Snowfall is coming-time to POTA #shorts #automobile #outdoors #hunting",
-      "views": 1399,
+      "views": 1403,
       "likes": 43,
       "video_id": "cAWtEZjwwRk"
     },
@@ -150,7 +142,7 @@
       "date": "Nov 07",
       "full_date": "2025-11-07",
       "title": "Icom 7300 Mark II: Unveiling the $1499 Launch Price! #shorts",
-      "views": 600,
+      "views": 603,
       "likes": 17,
       "video_id": "77VS3pzGjCc"
     },
@@ -158,7 +150,7 @@
       "date": "Nov 08",
       "full_date": "2025-11-08",
       "title": "Fall FT8 DX on 10m is Excellent #ft8 #hamradio #amateurradio #digitalmode #10meter #dx #dxcc",
-      "views": 871,
+      "views": 875,
       "likes": 32,
       "video_id": "1T2Ng1Q0WuQ"
     },
@@ -166,7 +158,7 @@
       "date": "Nov 13",
       "full_date": "2025-11-13",
       "title": "POTA Road Trip: Arizona to Malibu - 3 Parks, 2 Days",
-      "views": 119,
+      "views": 121,
       "likes": 13,
       "video_id": "v0Ln5Q7P4nE"
     },
@@ -174,7 +166,7 @@
       "date": "Nov 14",
       "full_date": "2025-11-14",
       "title": "POTA Paradise: Ham Radio Beach Setup &amp; Operation #shorts",
-      "views": 1513,
+      "views": 1516,
       "likes": 14,
       "video_id": "RxgcxKk969g"
     },
@@ -182,7 +174,7 @@
       "date": "Nov 17",
       "full_date": "2025-11-17",
       "title": "First POTA Activation in Canada! #shorts",
-      "views": 900,
+      "views": 904,
       "likes": 20,
       "video_id": "sAGV73vzm24"
     },
@@ -190,15 +182,15 @@
       "date": "Nov 20",
       "full_date": "2025-11-20",
       "title": "Aerial 51 Antenna: POTA Bands &amp; No Tuner Needed? #shorts",
-      "views": 302,
-      "likes": 21,
+      "views": 699,
+      "likes": 25,
       "video_id": "ukBmPLoZ5Z4"
     },
     {
       "date": "Nov 20",
       "full_date": "2025-11-20",
       "title": "SpiderBeam Aerial 51 - The Best Portable Antenna You Haven&#39;t Heard About?",
-      "views": 151,
+      "views": 172,
       "likes": 14,
       "video_id": "NRCz6H0BpZI"
     }
