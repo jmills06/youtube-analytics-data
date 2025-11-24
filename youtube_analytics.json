@@ -1,15 +1,14 @@
 {
-  "last_updated": "2025-11-23",
-  "total_watch_hours": 530.0,
-  "avg_view_duration": 285,
+  "last_updated": "2025-11-24",
+  "total_watch_hours": 515.4,
+  "avg_view_duration": 139,
   "duration_change": null,
   "click_through_rate": 0.0,
   "ctr_change": null,
-  "subscribers_gained": 140,
+  "subscribers_gained": 134,
   "subscribers_lost": 15,
   "subscriber_growth_chart": {
     "labels": [
-      "Oct 24",
       "Oct 25",
       "Oct 26",
       "Oct 27",
@@ -36,10 +35,10 @@
       "Nov 17",
       "Nov 18",
       "Nov 19",
-      "Nov 20"
+      "Nov 20",
+      "Nov 21"
     ],
     "values": [
-      9,
       9,
       2,
       3,
@@ -66,7 +65,8 @@
       6,
       3,
       0,
-      2
+      2,
+      3
     ]
   },
   "traffic_sources": {
@@ -77,24 +77,24 @@
   },
   "best_video": {
     "title": "CQ WorldWide Contest Weekend!  Fresh DX all weekend long!  #cqdx #cqww #contest #ftdx101mp",
-    "views": 5311,
+    "views": 5323,
     "watch_hours": 17.3,
-    "likes": 68
+    "likes": 69
   },
   "video_launches": [
     {
       "date": "Oct 25",
       "full_date": "2025-10-25",
       "title": "CQ WorldWide Contest Weekend!  Fresh DX all weekend long!  #cqdx #cqww #contest #ftdx101mp",
-      "views": 5342,
-      "likes": 69,
+      "views": 5359,
+      "likes": 70,
       "video_id": "Wnw0wmTqVvw"
     },
     {
       "date": "Oct 31",
       "full_date": "2025-10-31",
       "title": "What&#39;s in My POTA Bag? Complete Setup for Parks on the Air",
-      "views": 2756,
+      "views": 2772,
       "likes": 133,
       "video_id": "JTFErg-neu8"
     },
@@ -110,7 +110,7 @@
       "date": "Nov 01",
       "full_date": "2025-11-01",
       "title": "FT-891 Radio Setup: Travel-Friendly Battery #shorts",
-      "views": 1365,
+      "views": 1368,
       "likes": 14,
       "video_id": "aGU4pSCoJcY"
     },
@@ -118,7 +118,7 @@
       "date": "Nov 04",
       "full_date": "2025-11-04",
       "title": "Strange situation with the SPE Expert 1.5k #speexpert #stinkbug #midwest #hamradio #amteurradio",
-      "views": 1282,
+      "views": 1284,
       "likes": 19,
       "video_id": "JlEPexeOWa4"
     },
@@ -126,7 +126,7 @@
       "date": "Nov 06",
       "full_date": "2025-11-06",
       "title": "Can YOU Put Up An Antenna? The HOA Bill Fight, CQ Worldwide &amp; IC-7300 Mark II",
-      "views": 228,
+      "views": 229,
       "likes": 17,
       "video_id": "YbKLH7xdk4Q"
     },
@@ -134,7 +134,7 @@
       "date": "Nov 07",
       "full_date": "2025-11-07",
       "title": "Michigan&#39;s First Snowfall is coming-time to POTA #shorts #automobile #outdoors #hunting",
-      "views": 1403,
+      "views": 1404,
       "likes": 43,
       "video_id": "cAWtEZjwwRk"
     },
@@ -158,7 +158,7 @@
       "date": "Nov 13",
       "full_date": "2025-11-13",
       "title": "POTA Road Trip: Arizona to Malibu - 3 Parks, 2 Days",
-      "views": 121,
+      "views": 123,
       "likes": 13,
       "video_id": "v0Ln5Q7P4nE"
     },
@@ -166,7 +166,7 @@
       "date": "Nov 14",
       "full_date": "2025-11-14",
       "title": "POTA Paradise: Ham Radio Beach Setup &amp; Operation #shorts",
-      "views": 1516,
+      "views": 1517,
       "likes": 14,
       "video_id": "RxgcxKk969g"
     },
@@ -174,7 +174,7 @@
       "date": "Nov 17",
       "full_date": "2025-11-17",
       "title": "First POTA Activation in Canada! #shorts",
-      "views": 904,
+      "views": 905,
       "likes": 20,
       "video_id": "sAGV73vzm24"
     },
@@ -182,7 +182,7 @@
       "date": "Nov 20",
       "full_date": "2025-11-20",
       "title": "Aerial 51 Antenna: POTA Bands &amp; No Tuner Needed? #shorts",
-      "views": 699,
+      "views": 714,
       "likes": 25,
       "video_id": "ukBmPLoZ5Z4"
     },
@@ -190,7 +190,7 @@
       "date": "Nov 20",
       "full_date": "2025-11-20",
       "title": "SpiderBeam Aerial 51 - The Best Portable Antenna You Haven&#39;t Heard About?",
-      "views": 172,
+      "views": 181,
       "likes": 14,
       "video_id": "NRCz6H0BpZI"
     }
