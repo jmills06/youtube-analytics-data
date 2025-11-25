@@ -1,15 +1,14 @@
 {
-  "last_updated": "2025-11-24",
-  "total_watch_hours": 515.4,
-  "avg_view_duration": 139,
+  "last_updated": "2025-11-25",
+  "total_watch_hours": 502.6,
+  "avg_view_duration": 96,
   "duration_change": null,
   "click_through_rate": 0.0,
   "ctr_change": null,
-  "subscribers_gained": 134,
+  "subscribers_gained": 131,
   "subscribers_lost": 15,
   "subscriber_growth_chart": {
     "labels": [
-      "Oct 25",
       "Oct 26",
       "Oct 27",
       "Oct 28",
@@ -36,10 +35,10 @@
       "Nov 18",
       "Nov 19",
       "Nov 20",
-      "Nov 21"
+      "Nov 21",
+      "Nov 22"
     ],
     "values": [
-      9,
       2,
       3,
       3,
@@ -66,36 +65,29 @@
       3,
       0,
       2,
-      3
+      3,
+      6
     ]
   },
   "traffic_sources": {
-    "search": 11,
+    "search": 13,
     "browse": 3,
     "external": 1,
-    "other": 85
+    "other": 83
   },
   "best_video": {
-    "title": "CQ WorldWide Contest Weekend!  Fresh DX all weekend long!  #cqdx #cqww #contest #ftdx101mp",
-    "views": 5323,
-    "watch_hours": 17.3,
-    "likes": 69
+    "title": "What's in My POTA Bag? Complete Setup for Parks on the Air",
+    "views": 2758,
+    "watch_hours": 206.9,
+    "likes": 133
   },
   "video_launches": [
-    {
-      "date": "Oct 25",
-      "full_date": "2025-10-25",
-      "title": "CQ WorldWide Contest Weekend!  Fresh DX all weekend long!  #cqdx #cqww #contest #ftdx101mp",
-      "views": 5359,
-      "likes": 70,
-      "video_id": "Wnw0wmTqVvw"
-    },
     {
       "date": "Oct 31",
       "full_date": "2025-10-31",
       "title": "What&#39;s in My POTA Bag? Complete Setup for Parks on the Air",
-      "views": 2772,
-      "likes": 133,
+      "views": 2783,
+      "likes": 134,
       "video_id": "JTFErg-neu8"
     },
     {
@@ -118,7 +110,7 @@
       "date": "Nov 04",
       "full_date": "2025-11-04",
       "title": "Strange situation with the SPE Expert 1.5k #speexpert #stinkbug #midwest #hamradio #amteurradio",
-      "views": 1284,
+      "views": 1285,
       "likes": 19,
       "video_id": "JlEPexeOWa4"
     },
@@ -126,7 +118,7 @@
       "date": "Nov 06",
       "full_date": "2025-11-06",
       "title": "Can YOU Put Up An Antenna? The HOA Bill Fight, CQ Worldwide &amp; IC-7300 Mark II",
-      "views": 229,
+      "views": 231,
       "likes": 17,
       "video_id": "YbKLH7xdk4Q"
     },
@@ -134,7 +126,7 @@
       "date": "Nov 07",
       "full_date": "2025-11-07",
       "title": "Michigan&#39;s First Snowfall is coming-time to POTA #shorts #automobile #outdoors #hunting",
-      "views": 1404,
+      "views": 1405,
       "likes": 43,
       "video_id": "cAWtEZjwwRk"
     },
@@ -142,7 +134,7 @@
       "date": "Nov 07",
       "full_date": "2025-11-07",
       "title": "Icom 7300 Mark II: Unveiling the $1499 Launch Price! #shorts",
-      "views": 603,
+      "views": 607,
       "likes": 17,
       "video_id": "77VS3pzGjCc"
     },
@@ -150,7 +142,7 @@
       "date": "Nov 08",
       "full_date": "2025-11-08",
       "title": "Fall FT8 DX on 10m is Excellent #ft8 #hamradio #amateurradio #digitalmode #10meter #dx #dxcc",
-      "views": 875,
+      "views": 880,
       "likes": 32,
       "video_id": "1T2Ng1Q0WuQ"
     },
@@ -158,7 +150,7 @@
       "date": "Nov 13",
       "full_date": "2025-11-13",
       "title": "POTA Road Trip: Arizona to Malibu - 3 Parks, 2 Days",
-      "views": 123,
+      "views": 125,
       "likes": 13,
       "video_id": "v0Ln5Q7P4nE"
     },
@@ -166,7 +158,7 @@
       "date": "Nov 14",
       "full_date": "2025-11-14",
       "title": "POTA Paradise: Ham Radio Beach Setup &amp; Operation #shorts",
-      "views": 1517,
+      "views": 1519,
       "likes": 14,
       "video_id": "RxgcxKk969g"
     },
@@ -182,7 +174,7 @@
       "date": "Nov 20",
       "full_date": "2025-11-20",
       "title": "Aerial 51 Antenna: POTA Bands &amp; No Tuner Needed? #shorts",
-      "views": 714,
+      "views": 722,
       "likes": 25,
       "video_id": "ukBmPLoZ5Z4"
     },
@@ -190,7 +182,7 @@
       "date": "Nov 20",
       "full_date": "2025-11-20",
       "title": "SpiderBeam Aerial 51 - The Best Portable Antenna You Haven&#39;t Heard About?",
-      "views": 181,
+      "views": 184,
       "likes": 14,
       "video_id": "NRCz6H0BpZI"
     }
