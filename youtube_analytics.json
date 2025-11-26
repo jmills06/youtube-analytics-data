@@ -1,7 +1,7 @@
 {
-  "last_updated": "2025-11-25",
-  "total_watch_hours": 502.6,
-  "avg_view_duration": 96,
+  "last_updated": "2025-11-26",
+  "total_watch_hours": 496.1,
+  "avg_view_duration": 253,
   "duration_change": null,
   "click_through_rate": 0.0,
   "ctr_change": null,
@@ -9,7 +9,6 @@
   "subscribers_lost": 15,
   "subscriber_growth_chart": {
     "labels": [
-      "Oct 26",
       "Oct 27",
       "Oct 28",
       "Oct 29",
@@ -36,10 +35,10 @@
       "Nov 19",
       "Nov 20",
       "Nov 21",
-      "Nov 22"
+      "Nov 22",
+      "Nov 23"
     ],
     "values": [
-      2,
       3,
       3,
       3,
@@ -66,7 +65,8 @@
       0,
       2,
       3,
-      6
+      6,
+      2
     ]
   },
   "traffic_sources": {
@@ -77,8 +77,8 @@
   },
   "best_video": {
     "title": "What's in My POTA Bag? Complete Setup for Parks on the Air",
-    "views": 2758,
-    "watch_hours": 206.9,
+    "views": 2774,
+    "watch_hours": 208.1,
     "likes": 133
   },
   "video_launches": [
@@ -86,7 +86,7 @@
       "date": "Oct 31",
       "full_date": "2025-10-31",
       "title": "What&#39;s in My POTA Bag? Complete Setup for Parks on the Air",
-      "views": 2783,
+      "views": 2795,
       "likes": 134,
       "video_id": "JTFErg-neu8"
     },
@@ -126,7 +126,7 @@
       "date": "Nov 07",
       "full_date": "2025-11-07",
       "title": "Michigan&#39;s First Snowfall is coming-time to POTA #shorts #automobile #outdoors #hunting",
-      "views": 1405,
+      "views": 1407,
       "likes": 43,
       "video_id": "cAWtEZjwwRk"
     },
@@ -134,7 +134,7 @@
       "date": "Nov 07",
       "full_date": "2025-11-07",
       "title": "Icom 7300 Mark II: Unveiling the $1499 Launch Price! #shorts",
-      "views": 607,
+      "views": 610,
       "likes": 17,
       "video_id": "77VS3pzGjCc"
     },
@@ -150,7 +150,7 @@
       "date": "Nov 13",
       "full_date": "2025-11-13",
       "title": "POTA Road Trip: Arizona to Malibu - 3 Parks, 2 Days",
-      "views": 125,
+      "views": 126,
       "likes": 13,
       "video_id": "v0Ln5Q7P4nE"
     },
@@ -158,7 +158,7 @@
       "date": "Nov 14",
       "full_date": "2025-11-14",
       "title": "POTA Paradise: Ham Radio Beach Setup &amp; Operation #shorts",
-      "views": 1519,
+      "views": 1520,
       "likes": 14,
       "video_id": "RxgcxKk969g"
     },
@@ -166,7 +166,7 @@
       "date": "Nov 17",
       "full_date": "2025-11-17",
       "title": "First POTA Activation in Canada! #shorts",
-      "views": 905,
+      "views": 906,
       "likes": 20,
       "video_id": "sAGV73vzm24"
     },
@@ -174,7 +174,7 @@
       "date": "Nov 20",
       "full_date": "2025-11-20",
       "title": "Aerial 51 Antenna: POTA Bands &amp; No Tuner Needed? #shorts",
-      "views": 722,
+      "views": 727,
       "likes": 25,
       "video_id": "ukBmPLoZ5Z4"
     },
@@ -182,7 +182,7 @@
       "date": "Nov 20",
       "full_date": "2025-11-20",
       "title": "SpiderBeam Aerial 51 - The Best Portable Antenna You Haven&#39;t Heard About?",
-      "views": 184,
+      "views": 185,
       "likes": 14,
       "video_id": "NRCz6H0BpZI"
     }
