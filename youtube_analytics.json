@@ -1,15 +1,14 @@
 {
-  "last_updated": "2025-11-26",
-  "total_watch_hours": 496.1,
-  "avg_view_duration": 253,
+  "last_updated": "2025-11-27",
+  "total_watch_hours": 493.8,
+  "avg_view_duration": 175,
   "duration_change": null,
   "click_through_rate": 0.0,
   "ctr_change": null,
-  "subscribers_gained": 131,
+  "subscribers_gained": 130,
   "subscribers_lost": 15,
   "subscriber_growth_chart": {
     "labels": [
-      "Oct 27",
       "Oct 28",
       "Oct 29",
       "Oct 30",
@@ -36,10 +35,10 @@
       "Nov 20",
       "Nov 21",
       "Nov 22",
-      "Nov 23"
+      "Nov 23",
+      "Nov 24"
     ],
     "values": [
-      3,
       3,
       3,
       1,
@@ -66,6 +65,7 @@
       2,
       3,
       6,
+      2,
       2
     ]
   },
@@ -77,17 +77,17 @@
   },
   "best_video": {
     "title": "What's in My POTA Bag? Complete Setup for Parks on the Air",
-    "views": 2774,
-    "watch_hours": 208.1,
-    "likes": 133
+    "views": 2786,
+    "watch_hours": 209.2,
+    "likes": 134
   },
   "video_launches": [
     {
       "date": "Oct 31",
       "full_date": "2025-10-31",
       "title": "What&#39;s in My POTA Bag? Complete Setup for Parks on the Air",
-      "views": 2795,
-      "likes": 134,
+      "views": 2804,
+      "likes": 135,
       "video_id": "JTFErg-neu8"
     },
     {
@@ -118,7 +118,7 @@
       "date": "Nov 06",
       "full_date": "2025-11-06",
       "title": "Can YOU Put Up An Antenna? The HOA Bill Fight, CQ Worldwide &amp; IC-7300 Mark II",
-      "views": 231,
+      "views": 233,
       "likes": 17,
       "video_id": "YbKLH7xdk4Q"
     },
@@ -126,7 +126,7 @@
       "date": "Nov 07",
       "full_date": "2025-11-07",
       "title": "Michigan&#39;s First Snowfall is coming-time to POTA #shorts #automobile #outdoors #hunting",
-      "views": 1407,
+      "views": 1408,
       "likes": 43,
       "video_id": "cAWtEZjwwRk"
     },
@@ -134,7 +134,7 @@
       "date": "Nov 07",
       "full_date": "2025-11-07",
       "title": "Icom 7300 Mark II: Unveiling the $1499 Launch Price! #shorts",
-      "views": 610,
+      "views": 612,
       "likes": 17,
       "video_id": "77VS3pzGjCc"
     },
@@ -150,7 +150,7 @@
       "date": "Nov 13",
       "full_date": "2025-11-13",
       "title": "POTA Road Trip: Arizona to Malibu - 3 Parks, 2 Days",
-      "views": 126,
+      "views": 127,
       "likes": 13,
       "video_id": "v0Ln5Q7P4nE"
     },
@@ -174,15 +174,15 @@
       "date": "Nov 20",
       "full_date": "2025-11-20",
       "title": "Aerial 51 Antenna: POTA Bands &amp; No Tuner Needed? #shorts",
-      "views": 727,
-      "likes": 25,
+      "views": 731,
+      "likes": 26,
       "video_id": "ukBmPLoZ5Z4"
     },
     {
       "date": "Nov 20",
       "full_date": "2025-11-20",
       "title": "SpiderBeam Aerial 51 - The Best Portable Antenna You Haven&#39;t Heard About?",
-      "views": 185,
+      "views": 189,
       "likes": 14,
       "video_id": "NRCz6H0BpZI"
     }
