@@ -1,15 +1,14 @@
 {
-  "last_updated": "2025-11-27",
-  "total_watch_hours": 493.8,
-  "avg_view_duration": 175,
+  "last_updated": "2025-11-28",
+  "total_watch_hours": 496.8,
+  "avg_view_duration": 375,
   "duration_change": null,
   "click_through_rate": 0.0,
   "ctr_change": null,
-  "subscribers_gained": 130,
-  "subscribers_lost": 15,
+  "subscribers_gained": 127,
+  "subscribers_lost": 14,
   "subscriber_growth_chart": {
     "labels": [
-      "Oct 28",
       "Oct 29",
       "Oct 30",
       "Oct 31",
@@ -36,10 +35,10 @@
       "Nov 21",
       "Nov 22",
       "Nov 23",
-      "Nov 24"
+      "Nov 24",
+      "Nov 25"
     ],
     "values": [
-      3,
       3,
       1,
       2,
@@ -66,7 +65,8 @@
       3,
       6,
       2,
-      2
+      2,
+      1
     ]
   },
   "traffic_sources": {
@@ -77,35 +77,11 @@
   },
   "best_video": {
     "title": "What's in My POTA Bag? Complete Setup for Parks on the Air",
-    "views": 2786,
-    "watch_hours": 209.2,
+    "views": 2795,
+    "watch_hours": 209.9,
     "likes": 134
   },
   "video_launches": [
-    {
-      "date": "Oct 31",
-      "full_date": "2025-10-31",
-      "title": "What&#39;s in My POTA Bag? Complete Setup for Parks on the Air",
-      "views": 2804,
-      "likes": 135,
-      "video_id": "JTFErg-neu8"
-    },
-    {
-      "date": "Oct 31",
-      "full_date": "2025-10-31",
-      "title": "\ud83c\udf83 Everyday Ham Podcast | Spooky Signals for Halloween \ud83d\udc7b #shorts",
-      "views": 222,
-      "likes": 7,
-      "video_id": "LRlec1zoNeI"
-    },
-    {
-      "date": "Nov 01",
-      "full_date": "2025-11-01",
-      "title": "FT-891 Radio Setup: Travel-Friendly Battery #shorts",
-      "views": 1368,
-      "likes": 14,
-      "video_id": "aGU4pSCoJcY"
-    },
     {
       "date": "Nov 04",
       "full_date": "2025-11-04",
@@ -118,7 +94,7 @@
       "date": "Nov 06",
       "full_date": "2025-11-06",
       "title": "Can YOU Put Up An Antenna? The HOA Bill Fight, CQ Worldwide &amp; IC-7300 Mark II",
-      "views": 233,
+      "views": 234,
       "likes": 17,
       "video_id": "YbKLH7xdk4Q"
     },
@@ -126,7 +102,7 @@
       "date": "Nov 07",
       "full_date": "2025-11-07",
       "title": "Michigan&#39;s First Snowfall is coming-time to POTA #shorts #automobile #outdoors #hunting",
-      "views": 1408,
+      "views": 1409,
       "likes": 43,
       "video_id": "cAWtEZjwwRk"
     },
@@ -134,7 +110,7 @@
       "date": "Nov 07",
       "full_date": "2025-11-07",
       "title": "Icom 7300 Mark II: Unveiling the $1499 Launch Price! #shorts",
-      "views": 612,
+      "views": 614,
       "likes": 17,
       "video_id": "77VS3pzGjCc"
     },
@@ -174,7 +150,7 @@
       "date": "Nov 20",
       "full_date": "2025-11-20",
       "title": "Aerial 51 Antenna: POTA Bands &amp; No Tuner Needed? #shorts",
-      "views": 731,
+      "views": 732,
       "likes": 26,
       "video_id": "ukBmPLoZ5Z4"
     },
@@ -182,9 +158,129 @@
       "date": "Nov 20",
       "full_date": "2025-11-20",
       "title": "SpiderBeam Aerial 51 - The Best Portable Antenna You Haven&#39;t Heard About?",
-      "views": 189,
+      "views": 193,
       "likes": 14,
       "video_id": "NRCz6H0BpZI"
+    },
+    {
+      "date": "Nov 27",
+      "full_date": "2025-11-27",
+      "title": "How Frustration Built the Best Portable Logger: Sebasti\u00e1n KI2D &amp; Ham2K PoLo",
+      "views": 2,
+      "likes": 0,
+      "video_id": "2W-dp4mJddU"
+    },
+    {
+      "date": "Nov 27",
+      "full_date": "2025-11-27",
+      "title": "New ICOM Radios Steal the Show - Tokyo Ham Fair Reactions",
+      "views": 6,
+      "likes": 1,
+      "video_id": "WmMZsi3FGS8"
+    },
+    {
+      "date": "Nov 27",
+      "full_date": "2025-11-27",
+      "title": "From Parks to Peaks: How SOTA Differs from POTA",
+      "views": 0,
+      "likes": 0,
+      "video_id": "Kxsyy1sZPXc"
+    },
+    {
+      "date": "Nov 27",
+      "full_date": "2025-11-27",
+      "title": "Can You Put Up An Antenna? The HOA Bill Fight &amp; IC-7300 Mark II",
+      "views": 3,
+      "likes": 1,
+      "video_id": "eiH0dJwnhnU"
+    },
+    {
+      "date": "Nov 27",
+      "full_date": "2025-11-27",
+      "title": "Are We Losing Ham Radio Spectrum? 70cm Band Under Threat",
+      "views": 5,
+      "likes": 0,
+      "video_id": "m7CYiqbCzb4"
+    },
+    {
+      "date": "Nov 27",
+      "full_date": "2025-11-27",
+      "title": "Flex Radio&#39;s new 200 Dollar SmartSDR Subscription, is this the Future of Ham Radio Software?",
+      "views": 1,
+      "likes": 0,
+      "video_id": "aO252AkXtOk"
+    },
+    {
+      "date": "Nov 27",
+      "full_date": "2025-11-27",
+      "title": "Special Episode: 30 Years in Ham Radio with Ray Novak N9JA",
+      "views": 0,
+      "likes": 0,
+      "video_id": "Mtlo2_nbRGQ"
+    },
+    {
+      "date": "Nov 27",
+      "full_date": "2025-11-27",
+      "title": "The Good, The Bad, and The Junk \u2013 Swap Meet Scores &amp; DXpedition Drama",
+      "views": 0,
+      "likes": 0,
+      "video_id": "qc2OHF7eyHw"
+    },
+    {
+      "date": "Nov 27",
+      "full_date": "2025-11-27",
+      "title": "Hamvention 2025 Breakdown: What We Saw, What We Loved",
+      "views": 0,
+      "likes": 0,
+      "video_id": "qt9xY0cmaNE"
+    },
+    {
+      "date": "Nov 27",
+      "full_date": "2025-11-27",
+      "title": "Field Day Disappointment? Why We Think ARRL Needs to Evolve (+ FTX1 Final Update)",
+      "views": 0,
+      "likes": 0,
+      "video_id": "m-NhKs1LSiQ"
+    },
+    {
+      "date": "Nov 27",
+      "full_date": "2025-11-27",
+      "title": "Is Yaesu Changing the Game? Exploring the New Mobile Lineup",
+      "views": 0,
+      "likes": 0,
+      "video_id": "IclbAv5nS3s"
+    },
+    {
+      "date": "Nov 27",
+      "full_date": "2025-11-27",
+      "title": "From Scanner to Transmitter: How Everyday Hobbies Lead to Ham Radio",
+      "views": 3,
+      "likes": 0,
+      "video_id": "tGIuzmyuHs0"
+    },
+    {
+      "date": "Nov 27",
+      "full_date": "2025-11-27",
+      "title": "FTX1 Reality Check: Our Honest Review + SteppIR Exit",
+      "views": 4,
+      "likes": 0,
+      "video_id": "flVKRECoKGY"
+    },
+    {
+      "date": "Nov 27",
+      "full_date": "2025-11-27",
+      "title": "Is the Yaesu FTX1 a True Game Changer? Plus Dayton Hamvention 2025",
+      "views": 5,
+      "likes": 0,
+      "video_id": "66Pq4XL5feE"
+    },
+    {
+      "date": "Nov 27",
+      "full_date": "2025-11-27",
+      "title": "Hams On the Air: Episode 1 \u2013 Every Ham Has a Story",
+      "views": 1,
+      "likes": 0,
+      "video_id": "_ag5O-G8xhY"
     }
   ]
 }
