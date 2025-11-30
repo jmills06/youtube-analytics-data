@@ -1,15 +1,14 @@
 {
-  "last_updated": "2025-11-29",
-  "total_watch_hours": 500.7,
-  "avg_view_duration": 271,
+  "last_updated": "2025-11-30",
+  "total_watch_hours": 505.0,
+  "avg_view_duration": 314,
   "duration_change": null,
   "click_through_rate": 0.0,
   "ctr_change": null,
   "subscribers_gained": 125,
-  "subscribers_lost": 14,
+  "subscribers_lost": 13,
   "subscriber_growth_chart": {
     "labels": [
-      "Oct 30",
       "Oct 31",
       "Nov 01",
       "Nov 02",
@@ -36,10 +35,10 @@
       "Nov 23",
       "Nov 24",
       "Nov 25",
-      "Nov 26"
+      "Nov 26",
+      "Nov 27"
     ],
     "values": [
-      1,
       2,
       29,
       11,
@@ -66,7 +65,8 @@
       2,
       2,
       1,
-      1
+      1,
+      2
     ]
   },
   "traffic_sources": {
@@ -77,8 +77,8 @@
   },
   "best_video": {
     "title": "What's in My POTA Bag? Complete Setup for Parks on the Air",
-    "views": 2807,
-    "watch_hours": 210.9,
+    "views": 2814,
+    "watch_hours": 211.6,
     "likes": 135
   },
   "video_launches": [
@@ -86,7 +86,7 @@
       "date": "Oct 31",
       "full_date": "2025-10-31",
       "title": "What&#39;s in My POTA Bag? Complete Setup for Parks on the Air",
-      "views": 2827,
+      "views": 2837,
       "likes": 135,
       "video_id": "JTFErg-neu8"
     },
@@ -102,7 +102,7 @@
       "date": "Nov 01",
       "full_date": "2025-11-01",
       "title": "FT-891 Radio Setup: Travel-Friendly Battery #shorts",
-      "views": 1371,
+      "views": 1372,
       "likes": 14,
       "video_id": "aGU4pSCoJcY"
     },
@@ -110,7 +110,7 @@
       "date": "Nov 04",
       "full_date": "2025-11-04",
       "title": "Strange situation with the SPE Expert 1.5k #speexpert #stinkbug #midwest #hamradio #amteurradio",
-      "views": 1285,
+      "views": 1286,
       "likes": 19,
       "video_id": "JlEPexeOWa4"
     },
@@ -118,7 +118,7 @@
       "date": "Nov 06",
       "full_date": "2025-11-06",
       "title": "Can YOU Put Up An Antenna? The HOA Bill Fight, CQ Worldwide &amp; IC-7300 Mark II",
-      "views": 236,
+      "views": 238,
       "likes": 17,
       "video_id": "YbKLH7xdk4Q"
     },
@@ -134,7 +134,7 @@
       "date": "Nov 07",
       "full_date": "2025-11-07",
       "title": "Icom 7300 Mark II: Unveiling the $1499 Launch Price! #shorts",
-      "views": 617,
+      "views": 618,
       "likes": 17,
       "video_id": "77VS3pzGjCc"
     },
@@ -174,7 +174,7 @@
       "date": "Nov 20",
       "full_date": "2025-11-20",
       "title": "Aerial 51 Antenna: POTA Bands &amp; No Tuner Needed? #shorts",
-      "views": 732,
+      "views": 733,
       "likes": 26,
       "video_id": "ukBmPLoZ5Z4"
     },
@@ -182,7 +182,7 @@
       "date": "Nov 20",
       "full_date": "2025-11-20",
       "title": "SpiderBeam Aerial 51 - The Best Portable Antenna You Haven&#39;t Heard About?",
-      "views": 200,
+      "views": 205,
       "likes": 15,
       "video_id": "NRCz6H0BpZI"
     },
@@ -190,7 +190,7 @@
       "date": "Nov 27",
       "full_date": "2025-11-27",
       "title": "How Frustration Built the Best Portable Logger: Sebasti\u00e1n KI2D &amp; Ham2K PoLo",
-      "views": 2,
+      "views": 5,
       "likes": 0,
       "video_id": "2W-dp4mJddU"
     },
@@ -198,7 +198,7 @@
       "date": "Nov 27",
       "full_date": "2025-11-27",
       "title": "New ICOM Radios Steal the Show - Tokyo Ham Fair Reactions",
-      "views": 9,
+      "views": 13,
       "likes": 1,
       "video_id": "WmMZsi3FGS8"
     },
@@ -214,7 +214,7 @@
       "date": "Nov 27",
       "full_date": "2025-11-27",
       "title": "Can You Put Up An Antenna? The HOA Bill Fight &amp; IC-7300 Mark II",
-      "views": 11,
+      "views": 15,
       "likes": 2,
       "video_id": "eiH0dJwnhnU"
     },
@@ -238,7 +238,7 @@
       "date": "Nov 27",
       "full_date": "2025-11-27",
       "title": "Special Episode: 30 Years in Ham Radio with Ray Novak N9JA",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "video_id": "Mtlo2_nbRGQ"
     },
@@ -246,7 +246,7 @@
       "date": "Nov 27",
       "full_date": "2025-11-27",
       "title": "The Good, The Bad, and The Junk \u2013 Swap Meet Scores &amp; DXpedition Drama",
-      "views": 6,
+      "views": 12,
       "likes": 1,
       "video_id": "qc2OHF7eyHw"
     },
@@ -270,7 +270,7 @@
       "date": "Nov 27",
       "full_date": "2025-11-27",
       "title": "Is Yaesu Changing the Game? Exploring the New Mobile Lineup",
-      "views": 2,
+      "views": 3,
       "likes": 0,
       "video_id": "IclbAv5nS3s"
     },
@@ -278,7 +278,7 @@
       "date": "Nov 27",
       "full_date": "2025-11-27",
       "title": "From Scanner to Transmitter: How Everyday Hobbies Lead to Ham Radio",
-      "views": 7,
+      "views": 11,
       "likes": 0,
       "video_id": "tGIuzmyuHs0"
     },
@@ -294,7 +294,7 @@
       "date": "Nov 27",
       "full_date": "2025-11-27",
       "title": "Is the Yaesu FTX1 a True Game Changer? Plus Dayton Hamvention 2025",
-      "views": 11,
+      "views": 14,
       "likes": 1,
       "video_id": "66Pq4XL5feE"
     },
@@ -310,8 +310,8 @@
       "date": "Nov 28",
       "full_date": "2025-11-28",
       "title": "Are There Any Ham Deals for Black Friday 2025?",
-      "views": 874,
-      "likes": 40,
+      "views": 1316,
+      "likes": 50,
       "video_id": "-OPz7HyW794"
     }
   ]
