@@ -78,42 +78,12 @@ def fetch_channel_metrics(youtube_analytics, channel_id, start_date, end_date):
         ids=f'channel=={channel_id}',
         startDate=start_date,
         endDate=end_date,
-        metrics='views,estimatedMinutesWatched,averageViewDuration,subscribersGained,subscribersLost',
+        metrics='views,estimatedMinutesWatched,averageViewDuration,averageViewPercentage,subscribersGained,subscribersLost',
         dimensions='day',
         sort='day'
     ).execute()
     
     return response
-
-
-def fetch_click_through_rate(youtube_analytics, channel_id, start_date, end_date):
-    """Fetch CTR data"""
-    print("Fetching click-through rate data...")
-    
-    try:
-        response = youtube_analytics.reports().query(
-            ids=f'channel=={channel_id}',
-            startDate=start_date,
-            endDate=end_date,
-            metrics='views,cardImpressions,cardClicks,cardClickRate',
-            dimensions='day',
-            sort='day'
-        ).execute()
-        
-        # Calculate average CTR across the period
-        rows = response.get('rows', [])
-        if rows:
-            # Use cardClickRate if available, otherwise calculate from impressions/clicks
-            ctr_values = [row[3] if len(row) > 3 else 0 for row in rows]
-            avg_ctr = sum(ctr_values) / len(ctr_values) if ctr_values else 0
-            return avg_ctr
-        
-    except Exception as e:
-        print(f"Warning: Could not fetch CTR data: {e}")
-        print("Using estimated CTR based on views...")
-    
-    # Fallback: estimate CTR (typical range is 2-10% for YouTube)
-    return 4.8  # Default estimate
 
 
 def fetch_traffic_sources(youtube_analytics, channel_id, start_date, end_date):
@@ -235,10 +205,10 @@ def calculate_subscriber_growth_chart(metrics_data):
     values = []
     
     for row in rows:
-        # row format: [date, views, minutes_watched, avg_duration, subs_gained, subs_lost]
+        # row format: [date, views, minutes_watched, avg_duration, avg_view_pct, subs_gained, subs_lost]
         date_str = row[0]
-        subs_gained = row[4] if len(row) > 4 else 0
-        subs_lost = row[5] if len(row) > 5 else 0
+        subs_gained = row[5] if len(row) > 5 else 0
+        subs_lost = row[6] if len(row) > 6 else 0
         net_growth = subs_gained - subs_lost
         
         # Format date as "Oct 15"
@@ -331,7 +301,6 @@ def main():
     # Fetch all metrics
     print("\nFetching analytics data...")
     metrics_data = fetch_channel_metrics(youtube_analytics, CHANNEL_ID, start_date, end_date)
-    ctr = fetch_click_through_rate(youtube_analytics, CHANNEL_ID, start_date, end_date)
     traffic_sources = fetch_traffic_sources(youtube_analytics, CHANNEL_ID, start_date, end_date)
     top_video = fetch_top_video(youtube_analytics, youtube_data, CHANNEL_ID, start_date, end_date)
     video_launches = fetch_recent_videos(youtube_data, CHANNEL_ID, start_date, end_date)
@@ -345,8 +314,16 @@ def main():
     # Average view duration (use most recent day or average across period)
     avg_view_duration = rows[-1][3] if rows else 0
     
-    total_subs_gained = sum(row[4] for row in rows)
-    total_subs_lost = sum(row[5] for row in rows)
+    # Average view percentage - calculate weighted average across the period
+    # Row format: [date, views, minutes_watched, avg_duration, avg_view_pct, subs_gained, subs_lost]
+    total_views = sum(row[1] for row in rows)
+    if total_views > 0:
+        weighted_avg_view_pct = sum(row[1] * row[4] for row in rows) / total_views
+    else:
+        weighted_avg_view_pct = 0
+    
+    total_subs_gained = sum(row[5] for row in rows)
+    total_subs_lost = sum(row[6] for row in rows)
     
     # Calculate subscriber growth chart data
     subscriber_chart = calculate_subscriber_growth_chart(metrics_data)
@@ -357,8 +334,7 @@ def main():
         'total_watch_hours': round(total_watch_hours, 1),
         'avg_view_duration': int(avg_view_duration),
         'duration_change': None,  # Will need to compare to previous period
-        'click_through_rate': round(ctr, 1),
-        'ctr_change': None,  # Will need to compare to previous period
+        'avg_view_percentage': round(weighted_avg_view_pct, 1),
         'subscribers_gained': total_subs_gained,
         'subscribers_lost': total_subs_lost,
         'subscriber_growth_chart': subscriber_chart,
@@ -375,7 +351,7 @@ def main():
     print("\nSummary:")
     print(f"  Watch Hours: {output_data['total_watch_hours']:,.1f}")
     print(f"  Avg Duration: {output_data['avg_view_duration']} seconds")
-    print(f"  CTR: {output_data['click_through_rate']}%")
+    print(f"  Avg View %: {output_data['avg_view_percentage']}%")
     print(f"  Net Subscribers: +{total_subs_gained - total_subs_lost}")
     print(f"  Top Video: {top_video['title'][:50]}...")
     print(f"  Videos Published: {len(video_launches)}")
