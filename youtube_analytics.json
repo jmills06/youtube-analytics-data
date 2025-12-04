@@ -1,14 +1,13 @@
 {
-  "last_updated": "2025-12-03",
-  "total_watch_hours": 473.7,
-  "avg_view_duration": 247,
+  "last_updated": "2025-12-04",
+  "total_watch_hours": 461.2,
+  "avg_view_duration": 284,
   "duration_change": null,
-  "avg_view_percentage": 24.2,
-  "subscribers_gained": 106,
-  "subscribers_lost": 12,
+  "avg_view_percentage": 23.8,
+  "subscribers_gained": 102,
+  "subscribers_lost": 13,
   "subscriber_growth_chart": {
     "labels": [
-      "Nov 03",
       "Nov 04",
       "Nov 05",
       "Nov 06",
@@ -35,10 +34,10 @@
       "Nov 27",
       "Nov 28",
       "Nov 29",
-      "Nov 30"
+      "Nov 30",
+      "Dec 01"
     ],
     "values": [
-      7,
       6,
       2,
       2,
@@ -65,19 +64,20 @@
       2,
       15,
       7,
+      2,
       2
     ]
   },
   "traffic_sources": {
-    "search": 16,
+    "search": 17,
     "browse": 4,
     "external": 1,
-    "other": 79
+    "other": 78
   },
   "best_video": {
     "title": "Are There Any Ham Deals for Black Friday 2025?",
-    "views": 1568,
-    "watch_hours": 117.1,
+    "views": 1599,
+    "watch_hours": 118.6,
     "likes": 52
   },
   "video_launches": [
@@ -85,7 +85,7 @@
       "date": "Nov 04",
       "full_date": "2025-11-04",
       "title": "Strange situation with the SPE Expert 1.5k #speexpert #stinkbug #midwest #hamradio #amteurradio",
-      "views": 1289,
+      "views": 1291,
       "likes": 19,
       "video_id": "JlEPexeOWa4"
     },
@@ -93,7 +93,7 @@
       "date": "Nov 06",
       "full_date": "2025-11-06",
       "title": "Can YOU Put Up An Antenna? The HOA Bill Fight, CQ Worldwide &amp; IC-7300 Mark II",
-      "views": 243,
+      "views": 244,
       "likes": 17,
       "video_id": "YbKLH7xdk4Q"
     },
@@ -157,7 +157,7 @@
       "date": "Nov 20",
       "full_date": "2025-11-20",
       "title": "SpiderBeam Aerial 51 - The Best Portable Antenna You Haven&#39;t Heard About?",
-      "views": 210,
+      "views": 214,
       "likes": 15,
       "video_id": "NRCz6H0BpZI"
     },
@@ -165,7 +165,7 @@
       "date": "Nov 27",
       "full_date": "2025-11-27",
       "title": "How Frustration Built the Best Portable Logger: Sebasti\u00e1n KI2D &amp; Ham2K PoLo",
-      "views": 10,
+      "views": 13,
       "likes": 0,
       "video_id": "2W-dp4mJddU"
     },
@@ -189,7 +189,7 @@
       "date": "Nov 27",
       "full_date": "2025-11-27",
       "title": "Can You Put Up An Antenna? The HOA Bill Fight &amp; IC-7300 Mark II",
-      "views": 28,
+      "views": 29,
       "likes": 2,
       "video_id": "eiH0dJwnhnU"
     },
@@ -237,7 +237,7 @@
       "date": "Nov 27",
       "full_date": "2025-11-27",
       "title": "Field Day Disappointment? Why We Think ARRL Needs to Evolve (+ FTX1 Final Update)",
-      "views": 3,
+      "views": 4,
       "likes": 0,
       "video_id": "m-NhKs1LSiQ"
     },
@@ -245,7 +245,7 @@
       "date": "Nov 27",
       "full_date": "2025-11-27",
       "title": "Is Yaesu Changing the Game? Exploring the New Mobile Lineup",
-      "views": 6,
+      "views": 7,
       "likes": 0,
       "video_id": "IclbAv5nS3s"
     },
@@ -269,7 +269,7 @@
       "date": "Nov 27",
       "full_date": "2025-11-27",
       "title": "Is the Yaesu FTX1 a True Game Changer? Plus Dayton Hamvention 2025",
-      "views": 19,
+      "views": 20,
       "likes": 1,
       "video_id": "66Pq4XL5feE"
     },
@@ -285,7 +285,7 @@
       "date": "Nov 28",
       "full_date": "2025-11-28",
       "title": "Are There Any Ham Deals for Black Friday 2025?",
-      "views": 1608,
+      "views": 1621,
       "likes": 52,
       "video_id": "-OPz7HyW794"
     }
