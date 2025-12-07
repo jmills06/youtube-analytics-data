@@ -1,14 +1,13 @@
 {
-  "last_updated": "2025-12-06",
-  "total_watch_hours": 445.3,
-  "avg_view_duration": 272,
+  "last_updated": "2025-12-07",
+  "total_watch_hours": 502.4,
+  "avg_view_duration": 395,
   "duration_change": null,
-  "avg_view_percentage": 23.6,
-  "subscribers_gained": 96,
-  "subscribers_lost": 10,
+  "avg_view_percentage": 23.9,
+  "subscribers_gained": 103,
+  "subscribers_lost": 11,
   "subscriber_growth_chart": {
     "labels": [
-      "Nov 06",
       "Nov 07",
       "Nov 08",
       "Nov 09",
@@ -35,10 +34,10 @@
       "Nov 30",
       "Dec 01",
       "Dec 02",
-      "Dec 03"
+      "Dec 03",
+      "Dec 04"
     ],
     "values": [
-      2,
       2,
       7,
       2,
@@ -65,30 +64,23 @@
       2,
       2,
       2,
-      3
+      3,
+      8
     ]
   },
   "traffic_sources": {
     "search": 18,
-    "browse": 4,
-    "external": 2,
+    "browse": 5,
+    "external": 1,
     "other": 76
   },
   "best_video": {
     "title": "Are There Any Ham Deals for Black Friday 2025?",
-    "views": 1623,
+    "views": 1625,
     "watch_hours": 119.6,
     "likes": 52
   },
   "video_launches": [
-    {
-      "date": "Nov 06",
-      "full_date": "2025-11-06",
-      "title": "Can YOU Put Up An Antenna? The HOA Bill Fight, CQ Worldwide &amp; IC-7300 Mark II",
-      "views": 245,
-      "likes": 17,
-      "video_id": "YbKLH7xdk4Q"
-    },
     {
       "date": "Nov 07",
       "full_date": "2025-11-07",
@@ -101,7 +93,7 @@
       "date": "Nov 07",
       "full_date": "2025-11-07",
       "title": "Icom 7300 Mark II: Unveiling the $1499 Launch Price! #shorts",
-      "views": 624,
+      "views": 628,
       "likes": 17,
       "video_id": "77VS3pzGjCc"
     },
@@ -125,7 +117,7 @@
       "date": "Nov 14",
       "full_date": "2025-11-14",
       "title": "POTA Paradise: Ham Radio Beach Setup &amp; Operation #shorts",
-      "views": 1522,
+      "views": 1524,
       "likes": 14,
       "video_id": "RxgcxKk969g"
     },
@@ -141,7 +133,7 @@
       "date": "Nov 20",
       "full_date": "2025-11-20",
       "title": "Aerial 51 Antenna: POTA Bands &amp; No Tuner Needed? #shorts",
-      "views": 744,
+      "views": 745,
       "likes": 27,
       "video_id": "ukBmPLoZ5Z4"
     },
@@ -149,7 +141,7 @@
       "date": "Nov 20",
       "full_date": "2025-11-20",
       "title": "SpiderBeam Aerial 51 - The Best Portable Antenna You Haven&#39;t Heard About?",
-      "views": 225,
+      "views": 227,
       "likes": 16,
       "video_id": "NRCz6H0BpZI"
     },
@@ -189,7 +181,7 @@
       "date": "Nov 27",
       "full_date": "2025-11-27",
       "title": "Are We Losing Ham Radio Spectrum? 70cm Band Under Threat",
-      "views": 5,
+      "views": 6,
       "likes": 0,
       "video_id": "m7CYiqbCzb4"
     },
@@ -229,7 +221,7 @@
       "date": "Nov 27",
       "full_date": "2025-11-27",
       "title": "Field Day Disappointment? Why We Think ARRL Needs to Evolve (+ FTX1 Final Update)",
-      "views": 3,
+      "views": 4,
       "likes": 0,
       "video_id": "m-NhKs1LSiQ"
     },
@@ -237,7 +229,7 @@
       "date": "Nov 27",
       "full_date": "2025-11-27",
       "title": "Is Yaesu Changing the Game? Exploring the New Mobile Lineup",
-      "views": 8,
+      "views": 9,
       "likes": 0,
       "video_id": "IclbAv5nS3s"
     },
@@ -253,7 +245,7 @@
       "date": "Nov 27",
       "full_date": "2025-11-27",
       "title": "FTX1 Reality Check: Our Honest Review + SteppIR Exit",
-      "views": 12,
+      "views": 13,
       "likes": 1,
       "video_id": "flVKRECoKGY"
     },
@@ -261,7 +253,7 @@
       "date": "Nov 27",
       "full_date": "2025-11-27",
       "title": "Is the Yaesu FTX1 a True Game Changer? Plus Dayton Hamvention 2025",
-      "views": 23,
+      "views": 24,
       "likes": 1,
       "video_id": "66Pq4XL5feE"
     },
@@ -285,15 +277,15 @@
       "date": "Dec 04",
       "full_date": "2025-12-04",
       "title": "Best Ham Radio Backpack of 2025? #shorts",
-      "views": 165,
-      "likes": 2,
+      "views": 170,
+      "likes": 4,
       "video_id": "Nrr_Ce10xoA"
     },
     {
       "date": "Dec 04",
       "full_date": "2025-12-04",
       "title": "2026 Ham Radio Predictions: New Rigs, Community &amp; What&#39;s Next",
-      "views": 67,
+      "views": 74,
       "likes": 4,
       "video_id": "id9szJP3ZZQ"
     },
@@ -301,24 +293,24 @@
       "date": "Dec 04",
       "full_date": "2025-12-04",
       "title": "2026 Ham Radio Predictions: New Rigs, Community &amp; What&#39;s Next",
-      "views": 150,
-      "likes": 14,
+      "views": 174,
+      "likes": 15,
       "video_id": "BfnyZLXdTH0"
     },
     {
       "date": "Dec 04",
       "full_date": "2025-12-04",
       "title": "2025 Ham Radio Favorites: Gear We Actually Use and Love",
-      "views": 680,
-      "likes": 29,
+      "views": 798,
+      "likes": 34,
       "video_id": "wlmmJhByEO4"
     },
     {
       "date": "Dec 05",
       "full_date": "2025-12-05",
       "title": "Ham Radio Repeaters: Will Activity Rebound by 2026? #shorts",
-      "views": 336,
-      "likes": 8,
+      "views": 661,
+      "likes": 9,
       "video_id": "Ov0kVMVcCC8"
     }
   ]
