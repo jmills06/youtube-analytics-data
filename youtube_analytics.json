@@ -1,14 +1,13 @@
 {
-  "last_updated": "2025-12-09",
-  "total_watch_hours": 537.1,
-  "avg_view_duration": 236,
+  "last_updated": "2025-12-10",
+  "total_watch_hours": 543.6,
+  "avg_view_duration": 207,
   "duration_change": null,
-  "avg_view_percentage": 24.3,
-  "subscribers_gained": 107,
+  "avg_view_percentage": 24.4,
+  "subscribers_gained": 109,
   "subscribers_lost": 10,
   "subscriber_growth_chart": {
     "labels": [
-      "Nov 09",
       "Nov 10",
       "Nov 11",
       "Nov 12",
@@ -35,10 +34,10 @@
       "Dec 03",
       "Dec 04",
       "Dec 05",
-      "Dec 06"
+      "Dec 06",
+      "Dec 07"
     ],
     "values": [
-      2,
       3,
       0,
       1,
@@ -65,7 +64,8 @@
       3,
       8,
       7,
-      7
+      7,
+      4
     ]
   },
   "traffic_sources": {
@@ -76,8 +76,8 @@
   },
   "best_video": {
     "title": "Are There Any Ham Deals for Black Friday 2025?",
-    "views": 1630,
-    "watch_hours": 120.0,
+    "views": 1634,
+    "watch_hours": 120.2,
     "likes": 52
   },
   "video_launches": [
@@ -93,7 +93,7 @@
       "date": "Nov 14",
       "full_date": "2025-11-14",
       "title": "POTA Paradise: Ham Radio Beach Setup &amp; Operation #shorts",
-      "views": 1525,
+      "views": 1526,
       "likes": 14,
       "video_id": "RxgcxKk969g"
     },
@@ -117,7 +117,7 @@
       "date": "Nov 20",
       "full_date": "2025-11-20",
       "title": "SpiderBeam Aerial 51 - The Best Portable Antenna You Haven&#39;t Heard About?",
-      "views": 231,
+      "views": 234,
       "likes": 16,
       "video_id": "NRCz6H0BpZI"
     },
@@ -133,7 +133,7 @@
       "date": "Nov 27",
       "full_date": "2025-11-27",
       "title": "New ICOM Radios Steal the Show - Tokyo Ham Fair Reactions",
-      "views": 17,
+      "views": 19,
       "likes": 1,
       "video_id": "WmMZsi3FGS8"
     },
@@ -157,7 +157,7 @@
       "date": "Nov 27",
       "full_date": "2025-11-27",
       "title": "Are We Losing Ham Radio Spectrum? 70cm Band Under Threat",
-      "views": 6,
+      "views": 5,
       "likes": 0,
       "video_id": "m7CYiqbCzb4"
     },
@@ -221,7 +221,7 @@
       "date": "Nov 27",
       "full_date": "2025-11-27",
       "title": "FTX1 Reality Check: Our Honest Review + SteppIR Exit",
-      "views": 14,
+      "views": 15,
       "likes": 1,
       "video_id": "flVKRECoKGY"
     },
@@ -245,15 +245,15 @@
       "date": "Nov 28",
       "full_date": "2025-11-28",
       "title": "Are There Any Ham Deals for Black Friday 2025?",
-      "views": 1635,
-      "likes": 52,
+      "views": 1636,
+      "likes": 53,
       "video_id": "-OPz7HyW794"
     },
     {
       "date": "Dec 04",
       "full_date": "2025-12-04",
       "title": "Best Ham Radio Backpack of 2025? #shorts",
-      "views": 182,
+      "views": 183,
       "likes": 4,
       "video_id": "Nrr_Ce10xoA"
     },
@@ -261,23 +261,23 @@
       "date": "Dec 04",
       "full_date": "2025-12-04",
       "title": "2026 Ham Radio Predictions: New Rigs, Community &amp; What&#39;s Next",
-      "views": 78,
-      "likes": 4,
+      "views": 80,
+      "likes": 5,
       "video_id": "id9szJP3ZZQ"
     },
     {
       "date": "Dec 04",
       "full_date": "2025-12-04",
       "title": "2026 Ham Radio Predictions: New Rigs, Community &amp; What&#39;s Next",
-      "views": 209,
-      "likes": 16,
+      "views": 216,
+      "likes": 17,
       "video_id": "BfnyZLXdTH0"
     },
     {
       "date": "Dec 04",
       "full_date": "2025-12-04",
       "title": "2025 Ham Radio Favorites: Gear We Actually Use and Love",
-      "views": 957,
+      "views": 980,
       "likes": 36,
       "video_id": "wlmmJhByEO4"
     },
