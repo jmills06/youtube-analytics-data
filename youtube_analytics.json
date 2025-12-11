@@ -1,14 +1,13 @@
 {
-  "last_updated": "2025-12-10",
-  "total_watch_hours": 543.6,
-  "avg_view_duration": 207,
+  "last_updated": "2025-12-11",
+  "total_watch_hours": 545.2,
+  "avg_view_duration": 176,
   "duration_change": null,
-  "avg_view_percentage": 24.4,
-  "subscribers_gained": 109,
-  "subscribers_lost": 10,
+  "avg_view_percentage": 23.9,
+  "subscribers_gained": 106,
+  "subscribers_lost": 11,
   "subscriber_growth_chart": {
     "labels": [
-      "Nov 10",
       "Nov 11",
       "Nov 12",
       "Nov 13",
@@ -35,10 +34,10 @@
       "Dec 04",
       "Dec 05",
       "Dec 06",
-      "Dec 07"
+      "Dec 07",
+      "Dec 08"
     ],
     "values": [
-      3,
       0,
       1,
       1,
@@ -65,7 +64,8 @@
       8,
       7,
       7,
-      4
+      4,
+      -1
     ]
   },
   "traffic_sources": {
@@ -76,7 +76,7 @@
   },
   "best_video": {
     "title": "Are There Any Ham Deals for Black Friday 2025?",
-    "views": 1634,
+    "views": 1635,
     "watch_hours": 120.2,
     "likes": 52
   },
@@ -85,7 +85,7 @@
       "date": "Nov 13",
       "full_date": "2025-11-13",
       "title": "POTA Road Trip: Arizona to Malibu - 3 Parks, 2 Days",
-      "views": 128,
+      "views": 129,
       "likes": 13,
       "video_id": "v0Ln5Q7P4nE"
     },
@@ -117,7 +117,7 @@
       "date": "Nov 20",
       "full_date": "2025-11-20",
       "title": "SpiderBeam Aerial 51 - The Best Portable Antenna You Haven&#39;t Heard About?",
-      "views": 234,
+      "views": 235,
       "likes": 16,
       "video_id": "NRCz6H0BpZI"
     },
@@ -125,7 +125,7 @@
       "date": "Nov 27",
       "full_date": "2025-11-27",
       "title": "How Frustration Built the Best Portable Logger: Sebasti\u00e1n KI2D &amp; Ham2K PoLo",
-      "views": 14,
+      "views": 15,
       "likes": 0,
       "video_id": "2W-dp4mJddU"
     },
@@ -149,7 +149,7 @@
       "date": "Nov 27",
       "full_date": "2025-11-27",
       "title": "Can You Put Up An Antenna? The HOA Bill Fight &amp; IC-7300 Mark II",
-      "views": 31,
+      "views": 32,
       "likes": 2,
       "video_id": "eiH0dJwnhnU"
     },
@@ -221,7 +221,7 @@
       "date": "Nov 27",
       "full_date": "2025-11-27",
       "title": "FTX1 Reality Check: Our Honest Review + SteppIR Exit",
-      "views": 15,
+      "views": 17,
       "likes": 1,
       "video_id": "flVKRECoKGY"
     },
@@ -229,7 +229,7 @@
       "date": "Nov 27",
       "full_date": "2025-11-27",
       "title": "Is the Yaesu FTX1 a True Game Changer? Plus Dayton Hamvention 2025",
-      "views": 24,
+      "views": 25,
       "likes": 1,
       "video_id": "66Pq4XL5feE"
     },
@@ -245,7 +245,7 @@
       "date": "Nov 28",
       "full_date": "2025-11-28",
       "title": "Are There Any Ham Deals for Black Friday 2025?",
-      "views": 1636,
+      "views": 1641,
       "likes": 53,
       "video_id": "-OPz7HyW794"
     },
@@ -253,7 +253,7 @@
       "date": "Dec 04",
       "full_date": "2025-12-04",
       "title": "Best Ham Radio Backpack of 2025? #shorts",
-      "views": 183,
+      "views": 189,
       "likes": 4,
       "video_id": "Nrr_Ce10xoA"
     },
@@ -269,7 +269,7 @@
       "date": "Dec 04",
       "full_date": "2025-12-04",
       "title": "2026 Ham Radio Predictions: New Rigs, Community &amp; What&#39;s Next",
-      "views": 216,
+      "views": 221,
       "likes": 17,
       "video_id": "BfnyZLXdTH0"
     },
@@ -277,7 +277,7 @@
       "date": "Dec 04",
       "full_date": "2025-12-04",
       "title": "2025 Ham Radio Favorites: Gear We Actually Use and Love",
-      "views": 980,
+      "views": 993,
       "likes": 36,
       "video_id": "wlmmJhByEO4"
     },
@@ -288,6 +288,14 @@
       "views": 963,
       "likes": 12,
       "video_id": "Ov0kVMVcCC8"
+    },
+    {
+      "date": "Dec 11",
+      "full_date": "2025-12-11",
+      "title": "Astron VS-70M LED Backlight Upgrade and Repairing the Voltage Adjustment",
+      "views": 21,
+      "likes": 3,
+      "video_id": "k_Le8zbMJT8"
     }
   ]
 }
