@@ -1,14 +1,13 @@
 {
-  "last_updated": "2025-12-16",
-  "total_watch_hours": 566.5,
-  "avg_view_duration": 202,
+  "last_updated": "2025-12-17",
+  "total_watch_hours": 566.0,
+  "avg_view_duration": 250,
   "duration_change": null,
-  "avg_view_percentage": 23.6,
-  "subscribers_gained": 106,
+  "avg_view_percentage": 23.7,
+  "subscribers_gained": 104,
   "subscribers_lost": 10,
   "subscriber_growth_chart": {
     "labels": [
-      "Nov 16",
       "Nov 17",
       "Nov 18",
       "Nov 19",
@@ -35,10 +34,10 @@
       "Dec 10",
       "Dec 11",
       "Dec 12",
-      "Dec 13"
+      "Dec 13",
+      "Dec 14"
     ],
     "values": [
-      2,
       6,
       3,
       0,
@@ -65,14 +64,15 @@
       0,
       2,
       1,
-      4
+      4,
+      0
     ]
   },
   "traffic_sources": {
-    "search": 22,
-    "browse": 6,
+    "search": 24,
+    "browse": 7,
     "external": 2,
-    "other": 70
+    "other": 67
   },
   "best_video": {
     "title": "Are There Any Ham Deals for Black Friday 2025?",
@@ -101,7 +101,7 @@
       "date": "Nov 20",
       "full_date": "2025-11-20",
       "title": "SpiderBeam Aerial 51 - The Best Portable Antenna You Haven&#39;t Heard About?",
-      "views": 240,
+      "views": 241,
       "likes": 16,
       "video_id": "NRCz6H0BpZI"
     },
@@ -109,7 +109,7 @@
       "date": "Nov 27",
       "full_date": "2025-11-27",
       "title": "How Frustration Built the Best Portable Logger: Sebasti\u00e1n KI2D &amp; Ham2K PoLo",
-      "views": 16,
+      "views": 17,
       "likes": 0,
       "video_id": "2W-dp4mJddU"
     },
@@ -173,7 +173,7 @@
       "date": "Nov 27",
       "full_date": "2025-11-27",
       "title": "Hamvention 2025 Breakdown: What We Saw, What We Loved",
-      "views": 3,
+      "views": 4,
       "likes": 0,
       "video_id": "qt9xY0cmaNE"
     },
@@ -213,7 +213,7 @@
       "date": "Nov 27",
       "full_date": "2025-11-27",
       "title": "Is the Yaesu FTX1 a True Game Changer? Plus Dayton Hamvention 2025",
-      "views": 25,
+      "views": 26,
       "likes": 1,
       "video_id": "66Pq4XL5feE"
     },
@@ -253,7 +253,7 @@
       "date": "Dec 04",
       "full_date": "2025-12-04",
       "title": "2026 Ham Radio Predictions: New Rigs, Community &amp; What&#39;s Next",
-      "views": 260,
+      "views": 262,
       "likes": 17,
       "video_id": "BfnyZLXdTH0"
     },
@@ -261,7 +261,7 @@
       "date": "Dec 04",
       "full_date": "2025-12-04",
       "title": "2025 Ham Radio Favorites: Gear We Actually Use and Love",
-      "views": 1043,
+      "views": 1048,
       "likes": 38,
       "video_id": "wlmmJhByEO4"
     },
@@ -277,7 +277,7 @@
       "date": "Dec 11",
       "full_date": "2025-12-11",
       "title": "Astron VS-70M LED Backlight Upgrade and Repairing the Voltage Adjustment",
-      "views": 200,
+      "views": 203,
       "likes": 13,
       "video_id": "k_Le8zbMJT8"
     }
