@@ -1,14 +1,13 @@
 {
-  "last_updated": "2025-12-18",
-  "total_watch_hours": 560.9,
-  "avg_view_duration": 172,
+  "last_updated": "2025-12-19",
+  "total_watch_hours": 559.7,
+  "avg_view_duration": 223,
   "duration_change": null,
-  "avg_view_percentage": 23.6,
-  "subscribers_gained": 99,
+  "avg_view_percentage": 23.5,
+  "subscribers_gained": 97,
   "subscribers_lost": 10,
   "subscriber_growth_chart": {
     "labels": [
-      "Nov 18",
       "Nov 19",
       "Nov 20",
       "Nov 21",
@@ -35,10 +34,10 @@
       "Dec 12",
       "Dec 13",
       "Dec 14",
-      "Dec 15"
+      "Dec 15",
+      "Dec 16"
     ],
     "values": [
-      3,
       0,
       2,
       3,
@@ -65,6 +64,7 @@
       1,
       4,
       0,
+      1,
       1
     ]
   },
@@ -86,7 +86,7 @@
       "full_date": "2025-11-20",
       "title": "Aerial 51 Antenna: POTA Bands &amp; No Tuner Needed? #shorts",
       "views": 753,
-      "likes": 28,
+      "likes": 27,
       "video_id": "ukBmPLoZ5Z4"
     },
     {
@@ -237,7 +237,7 @@
       "date": "Dec 04",
       "full_date": "2025-12-04",
       "title": "2026 Ham Radio Predictions: New Rigs, Community &amp; What&#39;s Next",
-      "views": 97,
+      "views": 98,
       "likes": 5,
       "video_id": "id9szJP3ZZQ"
     },
@@ -245,7 +245,7 @@
       "date": "Dec 04",
       "full_date": "2025-12-04",
       "title": "2026 Ham Radio Predictions: New Rigs, Community &amp; What&#39;s Next",
-      "views": 266,
+      "views": 268,
       "likes": 17,
       "video_id": "BfnyZLXdTH0"
     },
@@ -253,7 +253,7 @@
       "date": "Dec 04",
       "full_date": "2025-12-04",
       "title": "2025 Ham Radio Favorites: Gear We Actually Use and Love",
-      "views": 1049,
+      "views": 1053,
       "likes": 38,
       "video_id": "wlmmJhByEO4"
     },
@@ -261,7 +261,7 @@
       "date": "Dec 05",
       "full_date": "2025-12-05",
       "title": "Ham Radio Repeaters: Will Activity Rebound by 2026? #shorts",
-      "views": 972,
+      "views": 977,
       "likes": 12,
       "video_id": "Ov0kVMVcCC8"
     },
@@ -269,7 +269,7 @@
       "date": "Dec 11",
       "full_date": "2025-12-11",
       "title": "Astron VS-70M LED Backlight Upgrade and Repairing the Voltage Adjustment",
-      "views": 207,
+      "views": 208,
       "likes": 13,
       "video_id": "k_Le8zbMJT8"
     }
