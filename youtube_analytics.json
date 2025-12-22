@@ -1,14 +1,13 @@
 {
-  "last_updated": "2025-12-21",
-  "total_watch_hours": 547.3,
-  "avg_view_duration": 223,
+  "last_updated": "2025-12-22",
+  "total_watch_hours": 539.1,
+  "avg_view_duration": 208,
   "duration_change": null,
-  "avg_view_percentage": 23.3,
-  "subscribers_gained": 95,
+  "avg_view_percentage": 23.1,
+  "subscribers_gained": 92,
   "subscribers_lost": 8,
   "subscriber_growth_chart": {
     "labels": [
-      "Nov 21",
       "Nov 22",
       "Nov 23",
       "Nov 24",
@@ -35,10 +34,10 @@
       "Dec 15",
       "Dec 16",
       "Dec 17",
-      "Dec 18"
+      "Dec 18",
+      "Dec 19"
     ],
     "values": [
-      3,
       6,
       2,
       2,
@@ -65,14 +64,15 @@
       1,
       1,
       1,
-      1
+      1,
+      0
     ]
   },
   "traffic_sources": {
-    "search": 26,
+    "search": 27,
     "browse": 7,
-    "external": 2,
-    "other": 65
+    "external": 3,
+    "other": 63
   },
   "best_video": {
     "title": "Are There Any Ham Deals for Black Friday 2025?",
@@ -85,7 +85,7 @@
       "date": "Nov 27",
       "full_date": "2025-11-27",
       "title": "How Frustration Built the Best Portable Logger: Sebasti\u00e1n KI2D &amp; Ham2K PoLo",
-      "views": 17,
+      "views": 18,
       "likes": 0,
       "video_id": "2W-dp4mJddU"
     },
@@ -101,7 +101,7 @@
       "date": "Nov 27",
       "full_date": "2025-11-27",
       "title": "From Parks to Peaks: How SOTA Differs from POTA",
-      "views": 1,
+      "views": 2,
       "likes": 0,
       "video_id": "Kxsyy1sZPXc"
     },
@@ -125,7 +125,7 @@
       "date": "Nov 27",
       "full_date": "2025-11-27",
       "title": "Flex Radio&#39;s new 200 Dollar SmartSDR Subscription, is this the Future of Ham Radio Software?",
-      "views": 4,
+      "views": 5,
       "likes": 0,
       "video_id": "aO252AkXtOk"
     },
@@ -221,7 +221,7 @@
       "date": "Dec 04",
       "full_date": "2025-12-04",
       "title": "2026 Ham Radio Predictions: New Rigs, Community &amp; What&#39;s Next",
-      "views": 101,
+      "views": 105,
       "likes": 5,
       "video_id": "id9szJP3ZZQ"
     },
@@ -229,7 +229,7 @@
       "date": "Dec 04",
       "full_date": "2025-12-04",
       "title": "2026 Ham Radio Predictions: New Rigs, Community &amp; What&#39;s Next",
-      "views": 276,
+      "views": 280,
       "likes": 17,
       "video_id": "BfnyZLXdTH0"
     },
@@ -237,8 +237,8 @@
       "date": "Dec 04",
       "full_date": "2025-12-04",
       "title": "2025 Ham Radio Favorites: Gear We Actually Use and Love",
-      "views": 1057,
-      "likes": 38,
+      "views": 1060,
+      "likes": 39,
       "video_id": "wlmmJhByEO4"
     },
     {
@@ -253,7 +253,7 @@
       "date": "Dec 11",
       "full_date": "2025-12-11",
       "title": "Astron VS-70M LED Backlight Upgrade and Repairing the Voltage Adjustment",
-      "views": 212,
+      "views": 214,
       "likes": 13,
       "video_id": "k_Le8zbMJT8"
     }
