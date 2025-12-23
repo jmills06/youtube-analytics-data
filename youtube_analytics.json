@@ -1,14 +1,13 @@
 {
-  "last_updated": "2025-12-22",
-  "total_watch_hours": 539.1,
-  "avg_view_duration": 208,
+  "last_updated": "2025-12-23",
+  "total_watch_hours": 538.5,
+  "avg_view_duration": 319,
   "duration_change": null,
-  "avg_view_percentage": 23.1,
-  "subscribers_gained": 92,
+  "avg_view_percentage": 23.3,
+  "subscribers_gained": 89,
   "subscribers_lost": 8,
   "subscriber_growth_chart": {
     "labels": [
-      "Nov 22",
       "Nov 23",
       "Nov 24",
       "Nov 25",
@@ -35,10 +34,10 @@
       "Dec 16",
       "Dec 17",
       "Dec 18",
-      "Dec 19"
+      "Dec 19",
+      "Dec 20"
     ],
     "values": [
-      6,
       2,
       2,
       1,
@@ -65,7 +64,8 @@
       1,
       1,
       1,
-      0
+      0,
+      3
     ]
   },
   "traffic_sources": {
@@ -93,7 +93,7 @@
       "date": "Nov 27",
       "full_date": "2025-11-27",
       "title": "New ICOM Radios Steal the Show - Tokyo Ham Fair Reactions",
-      "views": 21,
+      "views": 22,
       "likes": 1,
       "video_id": "WmMZsi3FGS8"
     },
@@ -165,7 +165,7 @@
       "date": "Nov 27",
       "full_date": "2025-11-27",
       "title": "Is Yaesu Changing the Game? Exploring the New Mobile Lineup",
-      "views": 24,
+      "views": 26,
       "likes": 0,
       "video_id": "IclbAv5nS3s"
     },
@@ -189,7 +189,7 @@
       "date": "Nov 27",
       "full_date": "2025-11-27",
       "title": "Is the Yaesu FTX1 a True Game Changer? Plus Dayton Hamvention 2025",
-      "views": 28,
+      "views": 30,
       "likes": 1,
       "video_id": "66Pq4XL5feE"
     },
@@ -221,7 +221,7 @@
       "date": "Dec 04",
       "full_date": "2025-12-04",
       "title": "2026 Ham Radio Predictions: New Rigs, Community &amp; What&#39;s Next",
-      "views": 105,
+      "views": 106,
       "likes": 5,
       "video_id": "id9szJP3ZZQ"
     },
@@ -229,7 +229,7 @@
       "date": "Dec 04",
       "full_date": "2025-12-04",
       "title": "2026 Ham Radio Predictions: New Rigs, Community &amp; What&#39;s Next",
-      "views": 280,
+      "views": 281,
       "likes": 17,
       "video_id": "BfnyZLXdTH0"
     },
@@ -237,7 +237,7 @@
       "date": "Dec 04",
       "full_date": "2025-12-04",
       "title": "2025 Ham Radio Favorites: Gear We Actually Use and Love",
-      "views": 1060,
+      "views": 1062,
       "likes": 39,
       "video_id": "wlmmJhByEO4"
     },
@@ -253,7 +253,7 @@
       "date": "Dec 11",
       "full_date": "2025-12-11",
       "title": "Astron VS-70M LED Backlight Upgrade and Repairing the Voltage Adjustment",
-      "views": 214,
+      "views": 215,
       "likes": 13,
       "video_id": "k_Le8zbMJT8"
     }
