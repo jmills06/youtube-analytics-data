@@ -1,14 +1,13 @@
 {
-  "last_updated": "2025-12-28",
-  "total_watch_hours": 532.3,
-  "avg_view_duration": 263,
+  "last_updated": "2025-12-29",
+  "total_watch_hours": 449.9,
+  "avg_view_duration": 150,
   "duration_change": null,
-  "avg_view_percentage": 22.3,
-  "subscribers_gained": 89,
-  "subscribers_lost": 13,
+  "avg_view_percentage": 21.2,
+  "subscribers_gained": 76,
+  "subscribers_lost": 11,
   "subscriber_growth_chart": {
     "labels": [
-      "Nov 28",
       "Nov 29",
       "Nov 30",
       "Dec 01",
@@ -35,10 +34,10 @@
       "Dec 22",
       "Dec 23",
       "Dec 24",
-      "Dec 25"
+      "Dec 25",
+      "Dec 26"
     ],
     "values": [
-      15,
       7,
       2,
       2,
@@ -65,30 +64,23 @@
       0,
       3,
       -1,
-      1
+      1,
+      4
     ]
   },
   "traffic_sources": {
-    "search": 27,
+    "search": 28,
     "browse": 7,
     "external": 3,
-    "other": 63
+    "other": 62
   },
   "best_video": {
-    "title": "Are There Any Ham Deals for Black Friday 2025?",
-    "views": 1647,
-    "watch_hours": 121.1,
-    "likes": 53
+    "title": "Meshtastic Solar Node with Wio Tracker L1 - N8JRD #meshtastic #solarnode #hamradio #amateurradio",
+    "views": 1420,
+    "watch_hours": 10.3,
+    "likes": 39
   },
   "video_launches": [
-    {
-      "date": "Nov 28",
-      "full_date": "2025-11-28",
-      "title": "Are There Any Ham Deals for Black Friday 2025?",
-      "views": 1647,
-      "likes": 53,
-      "video_id": "-OPz7HyW794"
-    },
     {
       "date": "Dec 04",
       "full_date": "2025-12-04",
@@ -109,7 +101,7 @@
       "date": "Dec 04",
       "full_date": "2025-12-04",
       "title": "2026 Ham Radio Predictions: New Rigs, Community &amp; What&#39;s Next",
-      "views": 301,
+      "views": 304,
       "likes": 18,
       "video_id": "BfnyZLXdTH0"
     },
@@ -117,7 +109,7 @@
       "date": "Dec 04",
       "full_date": "2025-12-04",
       "title": "2025 Ham Radio Favorites: Gear We Actually Use and Love",
-      "views": 1080,
+      "views": 1083,
       "likes": 39,
       "video_id": "wlmmJhByEO4"
     },
