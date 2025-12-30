@@ -1,14 +1,13 @@
 {
-  "last_updated": "2025-12-29",
-  "total_watch_hours": 449.9,
-  "avg_view_duration": 150,
+  "last_updated": "2025-12-30",
+  "total_watch_hours": 421.7,
+  "avg_view_duration": 89,
   "duration_change": null,
-  "avg_view_percentage": 21.2,
-  "subscribers_gained": 76,
-  "subscribers_lost": 11,
+  "avg_view_percentage": 20.8,
+  "subscribers_gained": 79,
+  "subscribers_lost": 19,
   "subscriber_growth_chart": {
     "labels": [
-      "Nov 29",
       "Nov 30",
       "Dec 01",
       "Dec 02",
@@ -35,10 +34,10 @@
       "Dec 23",
       "Dec 24",
       "Dec 25",
-      "Dec 26"
+      "Dec 26",
+      "Dec 27"
     ],
     "values": [
-      7,
       2,
       2,
       2,
@@ -65,20 +64,21 @@
       3,
       -1,
       1,
-      4
+      4,
+      2
     ]
   },
   "traffic_sources": {
-    "search": 28,
-    "browse": 7,
+    "search": 27,
+    "browse": 6,
     "external": 3,
-    "other": 62
+    "other": 64
   },
   "best_video": {
     "title": "Meshtastic Solar Node with Wio Tracker L1 - N8JRD #meshtastic #solarnode #hamradio #amateurradio",
-    "views": 1420,
-    "watch_hours": 10.3,
-    "likes": 39
+    "views": 1423,
+    "watch_hours": 10.4,
+    "likes": 37
   },
   "video_launches": [
     {
@@ -93,7 +93,7 @@
       "date": "Dec 04",
       "full_date": "2025-12-04",
       "title": "2026 Ham Radio Predictions: New Rigs, Community &amp; What&#39;s Next",
-      "views": 118,
+      "views": 121,
       "likes": 5,
       "video_id": "id9szJP3ZZQ"
     },
@@ -101,7 +101,7 @@
       "date": "Dec 04",
       "full_date": "2025-12-04",
       "title": "2026 Ham Radio Predictions: New Rigs, Community &amp; What&#39;s Next",
-      "views": 304,
+      "views": 311,
       "likes": 18,
       "video_id": "BfnyZLXdTH0"
     },
@@ -109,7 +109,7 @@
       "date": "Dec 04",
       "full_date": "2025-12-04",
       "title": "2025 Ham Radio Favorites: Gear We Actually Use and Love",
-      "views": 1083,
+      "views": 1091,
       "likes": 39,
       "video_id": "wlmmJhByEO4"
     },
@@ -125,7 +125,7 @@
       "date": "Dec 11",
       "full_date": "2025-12-11",
       "title": "Astron VS-70M LED Backlight Upgrade and Repairing the Voltage Adjustment",
-      "views": 225,
+      "views": 229,
       "likes": 15,
       "video_id": "k_Le8zbMJT8"
     },
@@ -133,9 +133,17 @@
       "date": "Dec 25",
       "full_date": "2025-12-25",
       "title": "Our First Christmas! \ud83c\udf84 73 from The Everyday Ham Team",
-      "views": 1415,
-      "likes": 17,
+      "views": 1419,
+      "likes": 19,
       "video_id": "If9QQ4IMLtE"
+    },
+    {
+      "date": "Dec 29",
+      "full_date": "2025-12-29",
+      "title": "DX Commander Signature 9 vs. 47 MPH Gusts \u2014 Still Standing",
+      "views": 328,
+      "likes": 12,
+      "video_id": "KnuUhcPZ-0I"
     }
   ]
 }
