@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-01-02",
-  "total_watch_hours": 401.6,
-  "avg_view_duration": 69,
+  "last_updated": "2026-01-03",
+  "total_watch_hours": 401.7,
+  "avg_view_duration": 227,
   "duration_change": null,
-  "avg_view_percentage": 20.5,
-  "subscribers_gained": 81,
+  "avg_view_percentage": 20.4,
+  "subscribers_gained": 80,
   "subscribers_lost": 19,
   "subscriber_growth_chart": {
     "labels": [
-      "Dec 03",
       "Dec 04",
       "Dec 05",
       "Dec 06",
@@ -35,10 +34,10 @@
       "Dec 27",
       "Dec 28",
       "Dec 29",
-      "Dec 30"
+      "Dec 30",
+      "Dec 31"
     ],
     "values": [
-      3,
       8,
       7,
       7,
@@ -65,7 +64,8 @@
       2,
       1,
       3,
-      4
+      4,
+      2
     ]
   },
   "traffic_sources": {
@@ -76,16 +76,16 @@
   },
   "best_video": {
     "title": "Our First Christmas! \ud83c\udf84 73 from The Everyday Ham Team",
-    "views": 1421,
+    "views": 1425,
     "watch_hours": 2.3,
-    "likes": 19
+    "likes": 20
   },
   "video_launches": [
     {
       "date": "Dec 04",
       "full_date": "2025-12-04",
       "title": "Best Ham Radio Backpack of 2025? #shorts",
-      "views": 208,
+      "views": 209,
       "likes": 4,
       "video_id": "Nrr_Ce10xoA"
     },
@@ -93,7 +93,7 @@
       "date": "Dec 04",
       "full_date": "2025-12-04",
       "title": "2026 Ham Radio Predictions: New Rigs, Community &amp; What&#39;s Next",
-      "views": 123,
+      "views": 126,
       "likes": 5,
       "video_id": "id9szJP3ZZQ"
     },
@@ -101,7 +101,7 @@
       "date": "Dec 04",
       "full_date": "2025-12-04",
       "title": "2026 Ham Radio Predictions: New Rigs, Community &amp; What&#39;s Next",
-      "views": 329,
+      "views": 342,
       "likes": 18,
       "video_id": "BfnyZLXdTH0"
     },
@@ -109,7 +109,7 @@
       "date": "Dec 04",
       "full_date": "2025-12-04",
       "title": "2025 Ham Radio Favorites: Gear We Actually Use and Love",
-      "views": 1101,
+      "views": 1107,
       "likes": 40,
       "video_id": "wlmmJhByEO4"
     },
@@ -117,7 +117,7 @@
       "date": "Dec 05",
       "full_date": "2025-12-05",
       "title": "Ham Radio Repeaters: Will Activity Rebound by 2026? #shorts",
-      "views": 986,
+      "views": 987,
       "likes": 12,
       "video_id": "Ov0kVMVcCC8"
     },
@@ -125,7 +125,7 @@
       "date": "Dec 11",
       "full_date": "2025-12-11",
       "title": "Astron VS-70M LED Backlight Upgrade and Repairing the Voltage Adjustment",
-      "views": 236,
+      "views": 237,
       "likes": 15,
       "video_id": "k_Le8zbMJT8"
     },
@@ -133,7 +133,7 @@
       "date": "Dec 25",
       "full_date": "2025-12-25",
       "title": "Our First Christmas! \ud83c\udf84 73 from The Everyday Ham Team",
-      "views": 1425,
+      "views": 1426,
       "likes": 20,
       "video_id": "If9QQ4IMLtE"
     },
@@ -141,8 +141,8 @@
       "date": "Dec 29",
       "full_date": "2025-12-29",
       "title": "DX Commander Signature 9 vs. 47 MPH Gusts \u2014 Still Standing",
-      "views": 867,
-      "likes": 27,
+      "views": 875,
+      "likes": 29,
       "video_id": "KnuUhcPZ-0I"
     }
   ]
