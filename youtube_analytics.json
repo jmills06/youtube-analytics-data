@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-01-10",
-  "total_watch_hours": 288.5,
-  "avg_view_duration": 207,
+  "last_updated": "2026-01-11",
+  "total_watch_hours": 316.4,
+  "avg_view_duration": 427,
   "duration_change": null,
   "avg_view_percentage": 20.4,
-  "subscribers_gained": 86,
-  "subscribers_lost": 17,
+  "subscribers_gained": 92,
+  "subscribers_lost": 19,
   "subscriber_growth_chart": {
     "labels": [
-      "Dec 11",
       "Dec 12",
       "Dec 13",
       "Dec 14",
@@ -35,10 +34,10 @@
       "Jan 04",
       "Jan 05",
       "Jan 06",
-      "Jan 07"
+      "Jan 07",
+      "Jan 08"
     ],
     "values": [
-      2,
       1,
       4,
       0,
@@ -65,7 +64,8 @@
       9,
       2,
       2,
-      3
+      3,
+      6
     ]
   },
   "traffic_sources": {
@@ -76,32 +76,24 @@
   },
   "best_video": {
     "title": "Quick POTA activation with the Aerial 51 antenna #hamradio #pota #amateurradio",
-    "views": 4313,
-    "watch_hours": 12.1,
-    "likes": 26
+    "views": 4331,
+    "watch_hours": 12.7,
+    "likes": 28
   },
   "video_launches": [
-    {
-      "date": "Dec 11",
-      "full_date": "2025-12-11",
-      "title": "Astron VS-70M LED Backlight Upgrade and Repairing the Voltage Adjustment",
-      "views": 251,
-      "likes": 16,
-      "video_id": "k_Le8zbMJT8"
-    },
     {
       "date": "Dec 25",
       "full_date": "2025-12-25",
       "title": "Our First Christmas! \ud83c\udf84 73 from The Everyday Ham Team",
-      "views": 1430,
-      "likes": 20,
+      "views": 1433,
+      "likes": 21,
       "video_id": "If9QQ4IMLtE"
     },
     {
       "date": "Dec 29",
       "full_date": "2025-12-29",
       "title": "DX Commander Signature 9 vs. 47 MPH Gusts \u2014 Still Standing",
-      "views": 894,
+      "views": 897,
       "likes": 30,
       "video_id": "KnuUhcPZ-0I"
     },
@@ -109,15 +101,15 @@
       "date": "Jan 03",
       "full_date": "2026-01-03",
       "title": "You Don&#39;t Need HF for POTA \u2014 Just a Handheld and Friends",
-      "views": 597,
-      "likes": 30,
+      "views": 633,
+      "likes": 31,
       "video_id": "RMmIbQR7I4g"
     },
     {
       "date": "Jan 04",
       "full_date": "2026-01-04",
       "title": "The DX Commander Signature 9 has my vote as being a durable verticals antenna. #amateurradio\ufffc",
-      "views": 1038,
+      "views": 1047,
       "likes": 33,
       "video_id": "bnwByZ9Wjtk"
     },
@@ -125,7 +117,7 @@
       "date": "Jan 05",
       "full_date": "2026-01-05",
       "title": "Quick POTA activation with the Aerial 51 antenna #hamradio #pota #amateurradio",
-      "views": 4337,
+      "views": 4346,
       "likes": 29,
       "video_id": "t5lZVONnmyw"
     },
@@ -133,7 +125,7 @@
       "date": "Jan 08",
       "full_date": "2026-01-08",
       "title": "How to Learn CW in 2026: Two Paths to Morse Code Success",
-      "views": 23,
+      "views": 30,
       "likes": 0,
       "video_id": "VOzX6f-vYHk"
     },
@@ -141,8 +133,8 @@
       "date": "Jan 08",
       "full_date": "2026-01-08",
       "title": "Learning CW in 2026: Two Paths to Morse Code Success",
-      "views": 346,
-      "likes": 25,
+      "views": 703,
+      "likes": 40,
       "video_id": "cGQR0gc20OY"
     }
   ]
