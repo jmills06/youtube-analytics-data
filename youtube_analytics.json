@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-01-12",
-  "total_watch_hours": 380.5,
-  "avg_view_duration": 551,
+  "last_updated": "2026-01-13",
+  "total_watch_hours": 451.0,
+  "avg_view_duration": 514,
   "duration_change": null,
   "avg_view_percentage": 20.5,
-  "subscribers_gained": 109,
-  "subscribers_lost": 20,
+  "subscribers_gained": 122,
+  "subscribers_lost": 19,
   "subscriber_growth_chart": {
     "labels": [
-      "Dec 13",
       "Dec 14",
       "Dec 15",
       "Dec 16",
@@ -35,10 +34,10 @@
       "Jan 06",
       "Jan 07",
       "Jan 08",
-      "Jan 09"
+      "Jan 09",
+      "Jan 10"
     ],
     "values": [
-      4,
       0,
       1,
       1,
@@ -65,20 +64,21 @@
       2,
       3,
       6,
-      17
+      17,
+      18
     ]
   },
   "traffic_sources": {
-    "search": 19,
+    "search": 18,
     "browse": 4,
     "external": 2,
-    "other": 75
+    "other": 76
   },
   "best_video": {
     "title": "Quick POTA activation with the Aerial 51 antenna #hamradio #pota #amateurradio",
-    "views": 4337,
-    "watch_hours": 12.7,
-    "likes": 29
+    "views": 4348,
+    "watch_hours": 12.9,
+    "likes": 30
   },
   "video_launches": [
     {
@@ -101,7 +101,7 @@
       "date": "Jan 03",
       "full_date": "2026-01-03",
       "title": "You Don&#39;t Need HF for POTA \u2014 Just a Handheld and Friends",
-      "views": 658,
+      "views": 673,
       "likes": 34,
       "video_id": "RMmIbQR7I4g"
     },
@@ -109,7 +109,7 @@
       "date": "Jan 04",
       "full_date": "2026-01-04",
       "title": "The DX Commander Signature 9 has my vote as being a durable verticals antenna. #amateurradio\ufffc",
-      "views": 1057,
+      "views": 1061,
       "likes": 34,
       "video_id": "bnwByZ9Wjtk"
     },
@@ -117,7 +117,7 @@
       "date": "Jan 05",
       "full_date": "2026-01-05",
       "title": "Quick POTA activation with the Aerial 51 antenna #hamradio #pota #amateurradio",
-      "views": 4353,
+      "views": 4359,
       "likes": 31,
       "video_id": "t5lZVONnmyw"
     },
@@ -125,7 +125,7 @@
       "date": "Jan 08",
       "full_date": "2026-01-08",
       "title": "How to Learn CW in 2026: Two Paths to Morse Code Success",
-      "views": 38,
+      "views": 42,
       "likes": 0,
       "video_id": "VOzX6f-vYHk"
     },
@@ -133,8 +133,8 @@
       "date": "Jan 08",
       "full_date": "2026-01-08",
       "title": "Learning CW in 2026: Two Paths to Morse Code Success",
-      "views": 946,
-      "likes": 50,
+      "views": 1230,
+      "likes": 60,
       "video_id": "cGQR0gc20OY"
     }
   ]
