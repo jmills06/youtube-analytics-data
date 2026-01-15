@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-01-14",
-  "total_watch_hours": 493.6,
-  "avg_view_duration": 453,
+  "last_updated": "2026-01-15",
+  "total_watch_hours": 546.8,
+  "avg_view_duration": 501,
   "duration_change": null,
-  "avg_view_percentage": 20.5,
-  "subscribers_gained": 137,
-  "subscribers_lost": 21,
+  "avg_view_percentage": 20.4,
+  "subscribers_gained": 145,
+  "subscribers_lost": 22,
   "subscriber_growth_chart": {
     "labels": [
-      "Dec 15",
       "Dec 16",
       "Dec 17",
       "Dec 18",
@@ -35,10 +34,10 @@
       "Jan 08",
       "Jan 09",
       "Jan 10",
-      "Jan 11"
+      "Jan 11",
+      "Jan 12"
     ],
     "values": [
-      1,
       1,
       1,
       1,
@@ -65,7 +64,8 @@
       6,
       17,
       18,
-      13
+      13,
+      8
     ]
   },
   "traffic_sources": {
@@ -76,8 +76,8 @@
   },
   "best_video": {
     "title": "Quick POTA activation with the Aerial 51 antenna #hamradio #pota #amateurradio",
-    "views": 4356,
-    "watch_hours": 13.0,
+    "views": 4360,
+    "watch_hours": 13.1,
     "likes": 31
   },
   "video_launches": [
@@ -93,7 +93,7 @@
       "date": "Dec 29",
       "full_date": "2025-12-29",
       "title": "DX Commander Signature 9 vs. 47 MPH Gusts \u2014 Still Standing",
-      "views": 900,
+      "views": 901,
       "likes": 30,
       "video_id": "KnuUhcPZ-0I"
     },
@@ -101,7 +101,7 @@
       "date": "Jan 03",
       "full_date": "2026-01-03",
       "title": "You Don&#39;t Need HF for POTA \u2014 Just a Handheld and Friends",
-      "views": 683,
+      "views": 697,
       "likes": 35,
       "video_id": "RMmIbQR7I4g"
     },
@@ -109,7 +109,7 @@
       "date": "Jan 04",
       "full_date": "2026-01-04",
       "title": "The DX Commander Signature 9 has my vote as being a durable verticals antenna. #amateurradio\ufffc",
-      "views": 1071,
+      "views": 1074,
       "likes": 34,
       "video_id": "bnwByZ9Wjtk"
     },
@@ -117,15 +117,15 @@
       "date": "Jan 05",
       "full_date": "2026-01-05",
       "title": "Quick POTA activation with the Aerial 51 antenna #hamradio #pota #amateurradio",
-      "views": 4363,
-      "likes": 31,
+      "views": 4373,
+      "likes": 32,
       "video_id": "t5lZVONnmyw"
     },
     {
       "date": "Jan 08",
       "full_date": "2026-01-08",
       "title": "How to Learn CW in 2026: Two Paths to Morse Code Success",
-      "views": 47,
+      "views": 50,
       "likes": 0,
       "video_id": "VOzX6f-vYHk"
     },
@@ -133,8 +133,8 @@
       "date": "Jan 08",
       "full_date": "2026-01-08",
       "title": "Learning CW in 2026: Two Paths to Morse Code Success",
-      "views": 1529,
-      "likes": 74,
+      "views": 1751,
+      "likes": 81,
       "video_id": "cGQR0gc20OY"
     }
   ]
