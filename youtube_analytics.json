@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-01-21",
-  "total_watch_hours": 708.0,
-  "avg_view_duration": 90,
+  "last_updated": "2026-01-22",
+  "total_watch_hours": 719.9,
+  "avg_view_duration": 281,
   "duration_change": null,
   "avg_view_percentage": 19.6,
-  "subscribers_gained": 189,
+  "subscribers_gained": 192,
   "subscribers_lost": 29,
   "subscriber_growth_chart": {
     "labels": [
-      "Dec 22",
       "Dec 23",
       "Dec 24",
       "Dec 25",
@@ -35,10 +34,10 @@
       "Jan 15",
       "Jan 16",
       "Jan 17",
-      "Jan 18"
+      "Jan 18",
+      "Jan 19"
     ],
     "values": [
-      0,
       3,
       -1,
       1,
@@ -65,7 +64,8 @@
       8,
       6,
       5,
-      4
+      4,
+      3
     ]
   },
   "traffic_sources": {
@@ -101,7 +101,7 @@
       "date": "Jan 03",
       "full_date": "2026-01-03",
       "title": "You Don&#39;t Need HF for POTA \u2014 Just a Handheld and Friends",
-      "views": 740,
+      "views": 752,
       "likes": 37,
       "video_id": "RMmIbQR7I4g"
     },
@@ -109,8 +109,8 @@
       "date": "Jan 04",
       "full_date": "2026-01-04",
       "title": "The DX Commander Signature 9 has my vote as being a durable verticals antenna. #amateurradio\ufffc",
-      "views": 1117,
-      "likes": 37,
+      "views": 1118,
+      "likes": 38,
       "video_id": "bnwByZ9Wjtk"
     },
     {
@@ -125,7 +125,7 @@
       "date": "Jan 08",
       "full_date": "2026-01-08",
       "title": "How to Learn CW in 2026: Two Paths to Morse Code Success",
-      "views": 67,
+      "views": 72,
       "likes": 2,
       "video_id": "VOzX6f-vYHk"
     },
@@ -133,7 +133,7 @@
       "date": "Jan 08",
       "full_date": "2026-01-08",
       "title": "Learning CW in 2026: Two Paths to Morse Code Success",
-      "views": 2298,
+      "views": 2325,
       "likes": 99,
       "video_id": "cGQR0gc20OY"
     },
@@ -141,7 +141,7 @@
       "date": "Jan 17",
       "full_date": "2026-01-17",
       "title": "#pota Winter Support Your Parks Weekend with the@SouthLyonAmateurRadioClub #amateurradio #hamradio",
-      "views": 1032,
+      "views": 1038,
       "likes": 20,
       "video_id": "vXq5KRjkcw8"
     },
@@ -149,7 +149,7 @@
       "date": "Jan 18",
       "full_date": "2026-01-18",
       "title": "Ever wonder if an e-ink reader would #pota? #hamradio #amateurradio #boox",
-      "views": 1445,
+      "views": 1454,
       "likes": 19,
       "video_id": "surYSffn1tE"
     }
