@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-01-23",
-  "total_watch_hours": 722.2,
-  "avg_view_duration": 226,
+  "last_updated": "2026-01-24",
+  "total_watch_hours": 729.1,
+  "avg_view_duration": 305,
   "duration_change": null,
-  "avg_view_percentage": 19.5,
-  "subscribers_gained": 192,
-  "subscribers_lost": 28,
+  "avg_view_percentage": 19.7,
+  "subscribers_gained": 195,
+  "subscribers_lost": 26,
   "subscriber_growth_chart": {
     "labels": [
-      "Dec 24",
       "Dec 25",
       "Dec 26",
       "Dec 27",
@@ -35,10 +34,10 @@
       "Jan 17",
       "Jan 18",
       "Jan 19",
-      "Jan 20"
+      "Jan 20",
+      "Jan 21"
     ],
     "values": [
-      -1,
       1,
       4,
       2,
@@ -65,6 +64,7 @@
       5,
       4,
       3,
+      4,
       4
     ]
   },
@@ -93,7 +93,7 @@
       "date": "Dec 29",
       "full_date": "2025-12-29",
       "title": "DX Commander Signature 9 vs. 47 MPH Gusts \u2014 Still Standing",
-      "views": 916,
+      "views": 917,
       "likes": 31,
       "video_id": "KnuUhcPZ-0I"
     },
@@ -101,7 +101,7 @@
       "date": "Jan 03",
       "full_date": "2026-01-03",
       "title": "You Don&#39;t Need HF for POTA \u2014 Just a Handheld and Friends",
-      "views": 755,
+      "views": 756,
       "likes": 37,
       "video_id": "RMmIbQR7I4g"
     },
@@ -109,7 +109,7 @@
       "date": "Jan 04",
       "full_date": "2026-01-04",
       "title": "The DX Commander Signature 9 has my vote as being a durable verticals antenna. #amateurradio\ufffc",
-      "views": 1127,
+      "views": 1131,
       "likes": 38,
       "video_id": "bnwByZ9Wjtk"
     },
@@ -117,7 +117,7 @@
       "date": "Jan 05",
       "full_date": "2026-01-05",
       "title": "Quick POTA activation with the Aerial 51 antenna #hamradio #pota #amateurradio",
-      "views": 4436,
+      "views": 4437,
       "likes": 36,
       "video_id": "t5lZVONnmyw"
     },
@@ -125,7 +125,7 @@
       "date": "Jan 08",
       "full_date": "2026-01-08",
       "title": "How to Learn CW in 2026: Two Paths to Morse Code Success",
-      "views": 75,
+      "views": 79,
       "likes": 2,
       "video_id": "VOzX6f-vYHk"
     },
@@ -133,7 +133,7 @@
       "date": "Jan 08",
       "full_date": "2026-01-08",
       "title": "Learning CW in 2026: Two Paths to Morse Code Success",
-      "views": 2355,
+      "views": 2388,
       "likes": 101,
       "video_id": "cGQR0gc20OY"
     },
@@ -141,7 +141,7 @@
       "date": "Jan 17",
       "full_date": "2026-01-17",
       "title": "#pota Winter Support Your Parks Weekend with the@SouthLyonAmateurRadioClub #amateurradio #hamradio",
-      "views": 1043,
+      "views": 1048,
       "likes": 20,
       "video_id": "vXq5KRjkcw8"
     },
@@ -149,7 +149,7 @@
       "date": "Jan 18",
       "full_date": "2026-01-18",
       "title": "Ever wonder if an e-ink reader would #pota? #hamradio #amateurradio #boox",
-      "views": 1457,
+      "views": 1461,
       "likes": 19,
       "video_id": "surYSffn1tE"
     }
