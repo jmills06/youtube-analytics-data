@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-01-26",
-  "total_watch_hours": 727.8,
-  "avg_view_duration": 235,
+  "last_updated": "2026-01-27",
+  "total_watch_hours": 727.9,
+  "avg_view_duration": 149,
   "duration_change": null,
-  "avg_view_percentage": 19.5,
-  "subscribers_gained": 192,
-  "subscribers_lost": 27,
+  "avg_view_percentage": 19.4,
+  "subscribers_gained": 182,
+  "subscribers_lost": 19,
   "subscriber_growth_chart": {
     "labels": [
-      "Dec 27",
       "Dec 28",
       "Dec 29",
       "Dec 30",
@@ -35,10 +34,10 @@
       "Jan 20",
       "Jan 21",
       "Jan 22",
-      "Jan 23"
+      "Jan 23",
+      "Jan 24"
     ],
     "values": [
-      2,
       1,
       3,
       4,
@@ -65,14 +64,15 @@
       4,
       4,
       0,
-      1
+      1,
+      0
     ]
   },
   "traffic_sources": {
-    "search": 16,
+    "search": 17,
     "browse": 4,
     "external": 2,
-    "other": 78
+    "other": 77
   },
   "best_video": {
     "title": "Quick POTA activation with the Aerial 51 antenna #hamradio #pota #amateurradio",
@@ -93,7 +93,7 @@
       "date": "Jan 03",
       "full_date": "2026-01-03",
       "title": "You Don&#39;t Need HF for POTA \u2014 Just a Handheld and Friends",
-      "views": 759,
+      "views": 761,
       "likes": 38,
       "video_id": "RMmIbQR7I4g"
     },
@@ -101,7 +101,7 @@
       "date": "Jan 04",
       "full_date": "2026-01-04",
       "title": "The DX Commander Signature 9 has my vote as being a durable verticals antenna. #amateurradio\ufffc",
-      "views": 1143,
+      "views": 1145,
       "likes": 39,
       "video_id": "bnwByZ9Wjtk"
     },
@@ -117,7 +117,7 @@
       "date": "Jan 08",
       "full_date": "2026-01-08",
       "title": "How to Learn CW in 2026: Two Paths to Morse Code Success",
-      "views": 82,
+      "views": 84,
       "likes": 2,
       "video_id": "VOzX6f-vYHk"
     },
@@ -125,15 +125,15 @@
       "date": "Jan 08",
       "full_date": "2026-01-08",
       "title": "Learning CW in 2026: Two Paths to Morse Code Success",
-      "views": 2423,
-      "likes": 102,
+      "views": 2450,
+      "likes": 103,
       "video_id": "cGQR0gc20OY"
     },
     {
       "date": "Jan 17",
       "full_date": "2026-01-17",
       "title": "#pota Winter Support Your Parks Weekend with the@SouthLyonAmateurRadioClub #amateurradio #hamradio",
-      "views": 1056,
+      "views": 1057,
       "likes": 20,
       "video_id": "vXq5KRjkcw8"
     },
@@ -141,7 +141,7 @@
       "date": "Jan 18",
       "full_date": "2026-01-18",
       "title": "Ever wonder if an e-ink reader would #pota? #hamradio #amateurradio #boox",
-      "views": 1466,
+      "views": 1469,
       "likes": 19,
       "video_id": "surYSffn1tE"
     },
@@ -149,7 +149,7 @@
       "date": "Jan 24",
       "full_date": "2026-01-24",
       "title": "Winter Field Day 2026 Walk Around at Island Lake Recreation",
-      "views": 108,
+      "views": 131,
       "likes": 11,
       "video_id": "AXDTXJFOSb0"
     }
