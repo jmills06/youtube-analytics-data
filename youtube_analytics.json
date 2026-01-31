@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-01-30",
-  "total_watch_hours": 730.9,
-  "avg_view_duration": 163,
+  "last_updated": "2026-01-31",
+  "total_watch_hours": 736.2,
+  "avg_view_duration": 262,
   "duration_change": null,
-  "avg_view_percentage": 19.2,
-  "subscribers_gained": 184,
-  "subscribers_lost": 19,
+  "avg_view_percentage": 19.3,
+  "subscribers_gained": 182,
+  "subscribers_lost": 20,
   "subscriber_growth_chart": {
     "labels": [
-      "Dec 31",
       "Jan 01",
       "Jan 02",
       "Jan 03",
@@ -35,10 +34,10 @@
       "Jan 24",
       "Jan 25",
       "Jan 26",
-      "Jan 27"
+      "Jan 27",
+      "Jan 28"
     ],
     "values": [
-      2,
       8,
       0,
       12,
@@ -65,7 +64,8 @@
       0,
       3,
       4,
-      3
+      3,
+      -1
     ]
   },
   "traffic_sources": {
@@ -76,7 +76,7 @@
   },
   "best_video": {
     "title": "Quick POTA activation with the Aerial 51 antenna #hamradio #pota #amateurradio",
-    "views": 4443,
+    "views": 4445,
     "watch_hours": 14.1,
     "likes": 37
   },
@@ -93,7 +93,7 @@
       "date": "Jan 04",
       "full_date": "2026-01-04",
       "title": "The DX Commander Signature 9 has my vote as being a durable verticals antenna. #amateurradio\ufffc",
-      "views": 1171,
+      "views": 1173,
       "likes": 39,
       "video_id": "bnwByZ9Wjtk"
     },
@@ -101,7 +101,7 @@
       "date": "Jan 05",
       "full_date": "2026-01-05",
       "title": "Quick POTA activation with the Aerial 51 antenna #hamradio #pota #amateurradio",
-      "views": 4449,
+      "views": 4451,
       "likes": 37,
       "video_id": "t5lZVONnmyw"
     },
@@ -109,23 +109,23 @@
       "date": "Jan 08",
       "full_date": "2026-01-08",
       "title": "How to Learn CW in 2026: Two Paths to Morse Code Success",
-      "views": 92,
-      "likes": 3,
+      "views": 96,
+      "likes": 4,
       "video_id": "VOzX6f-vYHk"
     },
     {
       "date": "Jan 08",
       "full_date": "2026-01-08",
       "title": "Learning CW in 2026: Two Paths to Morse Code Success",
-      "views": 2494,
-      "likes": 103,
+      "views": 2509,
+      "likes": 105,
       "video_id": "cGQR0gc20OY"
     },
     {
       "date": "Jan 17",
       "full_date": "2026-01-17",
       "title": "#pota Winter Support Your Parks Weekend with the@SouthLyonAmateurRadioClub #amateurradio #hamradio",
-      "views": 1060,
+      "views": 1063,
       "likes": 20,
       "video_id": "vXq5KRjkcw8"
     },
@@ -133,7 +133,7 @@
       "date": "Jan 18",
       "full_date": "2026-01-18",
       "title": "Ever wonder if an e-ink reader would #pota? #hamradio #amateurradio #boox",
-      "views": 1470,
+      "views": 1471,
       "likes": 19,
       "video_id": "surYSffn1tE"
     },
@@ -141,17 +141,25 @@
       "date": "Jan 24",
       "full_date": "2026-01-24",
       "title": "Winter Field Day 2026 Walk Around at Island Lake Recreation",
-      "views": 223,
-      "likes": 13,
+      "views": 228,
+      "likes": 14,
       "video_id": "AXDTXJFOSb0"
     },
     {
       "date": "Jan 29",
       "full_date": "2026-01-29",
       "title": "Kenwood TM-D750A FCC Filing Reveals All! First Look at the Specs",
-      "views": 207,
-      "likes": 16,
+      "views": 975,
+      "likes": 41,
       "video_id": "vGcmAxr-eFM"
+    },
+    {
+      "date": "Jan 30",
+      "full_date": "2026-01-30",
+      "title": "TMD750A FCC Filing ! Price Guesses Revealed #shorts",
+      "views": 32,
+      "likes": 1,
+      "video_id": "4xdfHO-DHlo"
     }
   ]
 }
