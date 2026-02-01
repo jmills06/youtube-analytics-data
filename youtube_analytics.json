@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-01-31",
-  "total_watch_hours": 736.2,
-  "avg_view_duration": 262,
+  "last_updated": "2026-02-01",
+  "total_watch_hours": 771.2,
+  "avg_view_duration": 312,
   "duration_change": null,
-  "avg_view_percentage": 19.3,
-  "subscribers_gained": 182,
+  "avg_view_percentage": 19.6,
+  "subscribers_gained": 177,
   "subscribers_lost": 20,
   "subscriber_growth_chart": {
     "labels": [
-      "Jan 01",
       "Jan 02",
       "Jan 03",
       "Jan 04",
@@ -35,10 +34,10 @@
       "Jan 25",
       "Jan 26",
       "Jan 27",
-      "Jan 28"
+      "Jan 28",
+      "Jan 29"
     ],
     "values": [
-      8,
       0,
       12,
       9,
@@ -65,7 +64,8 @@
       3,
       4,
       3,
-      -1
+      -1,
+      3
     ]
   },
   "traffic_sources": {
@@ -76,7 +76,7 @@
   },
   "best_video": {
     "title": "Quick POTA activation with the Aerial 51 antenna #hamradio #pota #amateurradio",
-    "views": 4445,
+    "views": 4450,
     "watch_hours": 14.1,
     "likes": 37
   },
@@ -85,7 +85,7 @@
       "date": "Jan 03",
       "full_date": "2026-01-03",
       "title": "You Don&#39;t Need HF for POTA \u2014 Just a Handheld and Friends",
-      "views": 763,
+      "views": 764,
       "likes": 38,
       "video_id": "RMmIbQR7I4g"
     },
@@ -101,7 +101,7 @@
       "date": "Jan 05",
       "full_date": "2026-01-05",
       "title": "Quick POTA activation with the Aerial 51 antenna #hamradio #pota #amateurradio",
-      "views": 4451,
+      "views": 4452,
       "likes": 37,
       "video_id": "t5lZVONnmyw"
     },
@@ -117,7 +117,7 @@
       "date": "Jan 08",
       "full_date": "2026-01-08",
       "title": "Learning CW in 2026: Two Paths to Morse Code Success",
-      "views": 2509,
+      "views": 2520,
       "likes": 105,
       "video_id": "cGQR0gc20OY"
     },
@@ -125,7 +125,7 @@
       "date": "Jan 17",
       "full_date": "2026-01-17",
       "title": "#pota Winter Support Your Parks Weekend with the@SouthLyonAmateurRadioClub #amateurradio #hamradio",
-      "views": 1063,
+      "views": 1065,
       "likes": 20,
       "video_id": "vXq5KRjkcw8"
     },
@@ -141,24 +141,24 @@
       "date": "Jan 24",
       "full_date": "2026-01-24",
       "title": "Winter Field Day 2026 Walk Around at Island Lake Recreation",
-      "views": 228,
-      "likes": 14,
+      "views": 235,
+      "likes": 15,
       "video_id": "AXDTXJFOSb0"
     },
     {
       "date": "Jan 29",
       "full_date": "2026-01-29",
       "title": "Kenwood TM-D750A FCC Filing Reveals All! First Look at the Specs",
-      "views": 975,
-      "likes": 41,
+      "views": 1246,
+      "likes": 51,
       "video_id": "vGcmAxr-eFM"
     },
     {
       "date": "Jan 30",
       "full_date": "2026-01-30",
       "title": "TMD750A FCC Filing ! Price Guesses Revealed #shorts",
-      "views": 32,
-      "likes": 1,
+      "views": 92,
+      "likes": 4,
       "video_id": "4xdfHO-DHlo"
     }
   ]
