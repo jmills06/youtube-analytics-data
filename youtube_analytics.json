@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-02-03",
-  "total_watch_hours": 844.1,
-  "avg_view_duration": 235,
+  "last_updated": "2026-02-04",
+  "total_watch_hours": 851.8,
+  "avg_view_duration": 174,
   "duration_change": null,
-  "avg_view_percentage": 19.9,
-  "subscribers_gained": 177,
-  "subscribers_lost": 21,
+  "avg_view_percentage": 19.6,
+  "subscribers_gained": 171,
+  "subscribers_lost": 23,
   "subscriber_growth_chart": {
     "labels": [
-      "Jan 04",
       "Jan 05",
       "Jan 06",
       "Jan 07",
@@ -35,10 +34,10 @@
       "Jan 28",
       "Jan 29",
       "Jan 30",
-      "Jan 31"
+      "Jan 31",
+      "Feb 01"
     ],
     "values": [
-      9,
       2,
       2,
       3,
@@ -65,35 +64,28 @@
       -1,
       3,
       7,
-      4
+      4,
+      1
     ]
   },
   "traffic_sources": {
-    "search": 17,
-    "browse": 4,
-    "external": 2,
-    "other": 77
+    "search": 20,
+    "browse": 5,
+    "external": 3,
+    "other": 72
   },
   "best_video": {
-    "title": "Quick POTA activation with the Aerial 51 antenna #hamradio #pota #amateurradio",
-    "views": 4452,
-    "watch_hours": 14.2,
-    "likes": 37
+    "title": "Learning CW in 2026: Two Paths to Morse Code Success",
+    "views": 2531,
+    "watch_hours": 439.4,
+    "likes": 105
   },
   "video_launches": [
-    {
-      "date": "Jan 04",
-      "full_date": "2026-01-04",
-      "title": "The DX Commander Signature 9 has my vote as being a durable verticals antenna. #amateurradio\ufffc",
-      "views": 1181,
-      "likes": 39,
-      "video_id": "bnwByZ9Wjtk"
-    },
     {
       "date": "Jan 05",
       "full_date": "2026-01-05",
       "title": "Quick POTA activation with the Aerial 51 antenna #hamradio #pota #amateurradio",
-      "views": 4452,
+      "views": 4454,
       "likes": 37,
       "video_id": "t5lZVONnmyw"
     },
@@ -101,7 +93,7 @@
       "date": "Jan 08",
       "full_date": "2026-01-08",
       "title": "How to Learn CW in 2026: Two Paths to Morse Code Success",
-      "views": 97,
+      "views": 99,
       "likes": 4,
       "video_id": "VOzX6f-vYHk"
     },
@@ -109,7 +101,7 @@
       "date": "Jan 08",
       "full_date": "2026-01-08",
       "title": "Learning CW in 2026: Two Paths to Morse Code Success",
-      "views": 2550,
+      "views": 2560,
       "likes": 107,
       "video_id": "cGQR0gc20OY"
     },
@@ -141,17 +133,25 @@
       "date": "Jan 29",
       "full_date": "2026-01-29",
       "title": "Kenwood TM-D750A FCC Filing Reveals All! First Look at the Specs",
-      "views": 1693,
-      "likes": 63,
+      "views": 1790,
+      "likes": 64,
       "video_id": "vGcmAxr-eFM"
     },
     {
       "date": "Jan 30",
       "full_date": "2026-01-30",
       "title": "TMD750A FCC Filing ! Price Guesses Revealed #shorts",
-      "views": 680,
+      "views": 688,
       "likes": 7,
       "video_id": "4xdfHO-DHlo"
+    },
+    {
+      "date": "Feb 03",
+      "full_date": "2026-02-03",
+      "title": "Brutal Cold: Winter Field Day at -17\u00b0F - Our 2026 WFD Experience | W8EDH",
+      "views": 165,
+      "likes": 17,
+      "video_id": "XPVfh05ifPI"
     }
   ]
 }
