@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-02-04",
-  "total_watch_hours": 851.8,
-  "avg_view_duration": 174,
+  "last_updated": "2026-02-05",
+  "total_watch_hours": 856.1,
+  "avg_view_duration": 199,
   "duration_change": null,
-  "avg_view_percentage": 19.6,
-  "subscribers_gained": 171,
-  "subscribers_lost": 23,
+  "avg_view_percentage": 19.2,
+  "subscribers_gained": 177,
+  "subscribers_lost": 24,
   "subscriber_growth_chart": {
     "labels": [
-      "Jan 05",
       "Jan 06",
       "Jan 07",
       "Jan 08",
@@ -35,10 +34,10 @@
       "Jan 29",
       "Jan 30",
       "Jan 31",
-      "Feb 01"
+      "Feb 01",
+      "Feb 02"
     ],
     "values": [
-      2,
       2,
       3,
       6,
@@ -65,30 +64,23 @@
       3,
       7,
       4,
-      1
+      1,
+      7
     ]
   },
   "traffic_sources": {
-    "search": 20,
-    "browse": 5,
+    "search": 21,
+    "browse": 6,
     "external": 3,
-    "other": 72
+    "other": 70
   },
   "best_video": {
     "title": "Learning CW in 2026: Two Paths to Morse Code Success",
-    "views": 2531,
-    "watch_hours": 439.4,
-    "likes": 105
+    "views": 2551,
+    "watch_hours": 441.6,
+    "likes": 107
   },
   "video_launches": [
-    {
-      "date": "Jan 05",
-      "full_date": "2026-01-05",
-      "title": "Quick POTA activation with the Aerial 51 antenna #hamradio #pota #amateurradio",
-      "views": 4454,
-      "likes": 37,
-      "video_id": "t5lZVONnmyw"
-    },
     {
       "date": "Jan 08",
       "full_date": "2026-01-08",
@@ -101,15 +93,15 @@
       "date": "Jan 08",
       "full_date": "2026-01-08",
       "title": "Learning CW in 2026: Two Paths to Morse Code Success",
-      "views": 2560,
-      "likes": 107,
+      "views": 2577,
+      "likes": 108,
       "video_id": "cGQR0gc20OY"
     },
     {
       "date": "Jan 17",
       "full_date": "2026-01-17",
       "title": "#pota Winter Support Your Parks Weekend with the@SouthLyonAmateurRadioClub #amateurradio #hamradio",
-      "views": 1067,
+      "views": 1068,
       "likes": 20,
       "video_id": "vXq5KRjkcw8"
     },
@@ -117,7 +109,7 @@
       "date": "Jan 18",
       "full_date": "2026-01-18",
       "title": "Ever wonder if an e-ink reader would #pota? #hamradio #amateurradio #boox",
-      "views": 1473,
+      "views": 1475,
       "likes": 19,
       "video_id": "surYSffn1tE"
     },
@@ -125,7 +117,7 @@
       "date": "Jan 24",
       "full_date": "2026-01-24",
       "title": "Winter Field Day 2026 Walk Around at Island Lake Recreation",
-      "views": 246,
+      "views": 248,
       "likes": 17,
       "video_id": "AXDTXJFOSb0"
     },
@@ -133,15 +125,15 @@
       "date": "Jan 29",
       "full_date": "2026-01-29",
       "title": "Kenwood TM-D750A FCC Filing Reveals All! First Look at the Specs",
-      "views": 1790,
-      "likes": 64,
+      "views": 1822,
+      "likes": 65,
       "video_id": "vGcmAxr-eFM"
     },
     {
       "date": "Jan 30",
       "full_date": "2026-01-30",
       "title": "TMD750A FCC Filing ! Price Guesses Revealed #shorts",
-      "views": 688,
+      "views": 693,
       "likes": 7,
       "video_id": "4xdfHO-DHlo"
     },
@@ -149,8 +141,8 @@
       "date": "Feb 03",
       "full_date": "2026-02-03",
       "title": "Brutal Cold: Winter Field Day at -17\u00b0F - Our 2026 WFD Experience | W8EDH",
-      "views": 165,
-      "likes": 17,
+      "views": 271,
+      "likes": 22,
       "video_id": "XPVfh05ifPI"
     }
   ]
