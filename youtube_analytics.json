@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-02-07",
-  "total_watch_hours": 884.5,
-  "avg_view_duration": 281,
+  "last_updated": "2026-02-08",
+  "total_watch_hours": 908.5,
+  "avg_view_duration": 442,
   "duration_change": null,
-  "avg_view_percentage": 19.5,
-  "subscribers_gained": 175,
+  "avg_view_percentage": 19.7,
+  "subscribers_gained": 174,
   "subscribers_lost": 24,
   "subscriber_growth_chart": {
     "labels": [
-      "Jan 08",
       "Jan 09",
       "Jan 10",
       "Jan 11",
@@ -35,10 +34,10 @@
       "Feb 01",
       "Feb 02",
       "Feb 03",
-      "Feb 04"
+      "Feb 04",
+      "Feb 05"
     ],
     "values": [
-      6,
       17,
       18,
       13,
@@ -65,7 +64,8 @@
       1,
       7,
       1,
-      2
+      2,
+      5
     ]
   },
   "traffic_sources": {
@@ -76,32 +76,16 @@
   },
   "best_video": {
     "title": "Learning CW in 2026: Two Paths to Morse Code Success",
-    "views": 2581,
-    "watch_hours": 447.1,
-    "likes": 108
+    "views": 2477,
+    "watch_hours": 421.6,
+    "likes": 101
   },
   "video_launches": [
-    {
-      "date": "Jan 08",
-      "full_date": "2026-01-08",
-      "title": "How to Learn CW in 2026: Two Paths to Morse Code Success",
-      "views": 102,
-      "likes": 4,
-      "video_id": "VOzX6f-vYHk"
-    },
-    {
-      "date": "Jan 08",
-      "full_date": "2026-01-08",
-      "title": "Learning CW in 2026: Two Paths to Morse Code Success",
-      "views": 2605,
-      "likes": 111,
-      "video_id": "cGQR0gc20OY"
-    },
     {
       "date": "Jan 17",
       "full_date": "2026-01-17",
       "title": "#pota Winter Support Your Parks Weekend with the@SouthLyonAmateurRadioClub #amateurradio #hamradio",
-      "views": 1069,
+      "views": 1073,
       "likes": 20,
       "video_id": "vXq5KRjkcw8"
     },
@@ -117,7 +101,7 @@
       "date": "Jan 24",
       "full_date": "2026-01-24",
       "title": "Winter Field Day 2026 Walk Around at Island Lake Recreation",
-      "views": 249,
+      "views": 253,
       "likes": 17,
       "video_id": "AXDTXJFOSb0"
     },
@@ -125,7 +109,7 @@
       "date": "Jan 29",
       "full_date": "2026-01-29",
       "title": "Kenwood TM-D750A FCC Filing Reveals All! First Look at the Specs",
-      "views": 1885,
+      "views": 1915,
       "likes": 66,
       "video_id": "vGcmAxr-eFM"
     },
@@ -133,7 +117,7 @@
       "date": "Jan 30",
       "full_date": "2026-01-30",
       "title": "TMD750A FCC Filing ! Price Guesses Revealed #shorts",
-      "views": 708,
+      "views": 714,
       "likes": 8,
       "video_id": "4xdfHO-DHlo"
     },
@@ -141,7 +125,7 @@
       "date": "Feb 03",
       "full_date": "2026-02-03",
       "title": "Brutal Cold: Winter Field Day at -17\u00b0F - Our 2026 WFD Experience | W8EDH",
-      "views": 329,
+      "views": 384,
       "likes": 26,
       "video_id": "XPVfh05ifPI"
     },
@@ -149,15 +133,15 @@
       "date": "Feb 05",
       "full_date": "2026-02-05",
       "title": "Do you need that new radio? Episode 14 is Live and we\u2019re taking a critical look! #hamradio #podcast",
-      "views": 385,
-      "likes": 2,
+      "views": 473,
+      "likes": 6,
       "video_id": "ZScvDM3YLWY"
     },
     {
       "date": "Feb 05",
       "full_date": "2026-02-05",
       "title": "Do You Really Need a New Radio? Honest Ham Radio Upgrade Advice",
-      "views": 49,
+      "views": 64,
       "likes": 4,
       "video_id": "i_55Kt8PtJo"
     },
@@ -165,9 +149,17 @@
       "date": "Feb 05",
       "full_date": "2026-02-05",
       "title": "Do You Really Need a New Radio? Honest Ham Radio Upgrade Advice",
-      "views": 257,
-      "likes": 25,
+      "views": 288,
+      "likes": 27,
       "video_id": "OhsGTEIVIE8"
+    },
+    {
+      "date": "Feb 07",
+      "full_date": "2026-02-07",
+      "title": "Four Hams, One Screen, and Zero Instructions - Upgrading the Club Meeting Space",
+      "views": 3071,
+      "likes": 12,
+      "video_id": "dq8p3Blm4Ts"
     }
   ]
 }
