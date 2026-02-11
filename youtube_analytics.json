@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-02-10",
-  "total_watch_hours": 817.0,
-  "avg_view_duration": 73,
+  "last_updated": "2026-02-11",
+  "total_watch_hours": 782.1,
+  "avg_view_duration": 225,
   "duration_change": null,
-  "avg_view_percentage": 19.7,
-  "subscribers_gained": 150,
-  "subscribers_lost": 24,
+  "avg_view_percentage": 19.9,
+  "subscribers_gained": 137,
+  "subscribers_lost": 22,
   "subscriber_growth_chart": {
     "labels": [
-      "Jan 11",
       "Jan 12",
       "Jan 13",
       "Jan 14",
@@ -35,10 +34,10 @@
       "Feb 04",
       "Feb 05",
       "Feb 06",
-      "Feb 07"
+      "Feb 07",
+      "Feb 08"
     ],
     "values": [
-      13,
       8,
       13,
       7,
@@ -65,7 +64,8 @@
       2,
       5,
       7,
-      4
+      4,
+      2
     ]
   },
   "traffic_sources": {
@@ -76,8 +76,8 @@
   },
   "best_video": {
     "title": "Four Hams, One Screen, and Zero Instructions - Upgrading the Club Meeting Space",
-    "views": 3075,
-    "watch_hours": 6.9,
+    "views": 3099,
+    "watch_hours": 7.0,
     "likes": 12
   },
   "video_launches": [
@@ -109,7 +109,7 @@
       "date": "Jan 29",
       "full_date": "2026-01-29",
       "title": "Kenwood TM-D750A FCC Filing Reveals All! First Look at the Specs",
-      "views": 1964,
+      "views": 1987,
       "likes": 69,
       "video_id": "vGcmAxr-eFM"
     },
@@ -117,7 +117,7 @@
       "date": "Jan 30",
       "full_date": "2026-01-30",
       "title": "TMD750A FCC Filing ! Price Guesses Revealed #shorts",
-      "views": 727,
+      "views": 732,
       "likes": 9,
       "video_id": "4xdfHO-DHlo"
     },
@@ -125,7 +125,7 @@
       "date": "Feb 03",
       "full_date": "2026-02-03",
       "title": "Brutal Cold: Winter Field Day at -17\u00b0F - Our 2026 WFD Experience | W8EDH",
-      "views": 398,
+      "views": 409,
       "likes": 27,
       "video_id": "XPVfh05ifPI"
     },
@@ -133,7 +133,7 @@
       "date": "Feb 05",
       "full_date": "2026-02-05",
       "title": "Do you need that new radio? Episode 14 is Live and we\u2019re taking a critical look! #hamradio #podcast",
-      "views": 568,
+      "views": 571,
       "likes": 7,
       "video_id": "ZScvDM3YLWY"
     },
@@ -141,7 +141,7 @@
       "date": "Feb 05",
       "full_date": "2026-02-05",
       "title": "Do You Really Need a New Radio? Honest Ham Radio Upgrade Advice",
-      "views": 80,
+      "views": 91,
       "likes": 4,
       "video_id": "i_55Kt8PtJo"
     },
@@ -149,7 +149,7 @@
       "date": "Feb 05",
       "full_date": "2026-02-05",
       "title": "Do You Really Need a New Radio? Honest Ham Radio Upgrade Advice",
-      "views": 333,
+      "views": 349,
       "likes": 26,
       "video_id": "OhsGTEIVIE8"
     },
@@ -157,7 +157,7 @@
       "date": "Feb 07",
       "full_date": "2026-02-07",
       "title": "Four Hams, One Screen, and Zero Instructions - Upgrading the Club Meeting Space",
-      "views": 3107,
+      "views": 3141,
       "likes": 12,
       "video_id": "dq8p3Blm4Ts"
     }
