@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-02-12",
-  "total_watch_hours": 745.2,
-  "avg_view_duration": 350,
+  "last_updated": "2026-02-13",
+  "total_watch_hours": 697.3,
+  "avg_view_duration": 229,
   "duration_change": null,
   "avg_view_percentage": 20.0,
-  "subscribers_gained": 136,
-  "subscribers_lost": 22,
+  "subscribers_gained": 125,
+  "subscribers_lost": 21,
   "subscriber_growth_chart": {
     "labels": [
-      "Jan 13",
       "Jan 14",
       "Jan 15",
       "Jan 16",
@@ -35,10 +34,10 @@
       "Feb 06",
       "Feb 07",
       "Feb 08",
-      "Feb 09"
+      "Feb 09",
+      "Feb 10"
     ],
     "values": [
-      13,
       7,
       8,
       6,
@@ -65,7 +64,8 @@
       7,
       4,
       2,
-      7
+      7,
+      3
     ]
   },
   "traffic_sources": {
@@ -76,8 +76,8 @@
   },
   "best_video": {
     "title": "Four Hams, One Screen, and Zero Instructions - Upgrading the Club Meeting Space",
-    "views": 3112,
-    "watch_hours": 7.2,
+    "views": 3147,
+    "watch_hours": 7.3,
     "likes": 12
   },
   "video_launches": [
@@ -93,7 +93,7 @@
       "date": "Jan 18",
       "full_date": "2026-01-18",
       "title": "Ever wonder if an e-ink reader would #pota? #hamradio #amateurradio #boox",
-      "views": 1476,
+      "views": 1477,
       "likes": 19,
       "video_id": "surYSffn1tE"
     },
@@ -101,7 +101,7 @@
       "date": "Jan 24",
       "full_date": "2026-01-24",
       "title": "Winter Field Day 2026 Walk Around at Island Lake Recreation",
-      "views": 257,
+      "views": 259,
       "likes": 18,
       "video_id": "AXDTXJFOSb0"
     },
@@ -109,15 +109,15 @@
       "date": "Jan 29",
       "full_date": "2026-01-29",
       "title": "Kenwood TM-D750A FCC Filing Reveals All! First Look at the Specs",
-      "views": 2008,
-      "likes": 70,
+      "views": 2034,
+      "likes": 71,
       "video_id": "vGcmAxr-eFM"
     },
     {
       "date": "Jan 30",
       "full_date": "2026-01-30",
       "title": "TMD750A FCC Filing ! Price Guesses Revealed #shorts",
-      "views": 733,
+      "views": 737,
       "likes": 9,
       "video_id": "4xdfHO-DHlo"
     },
@@ -125,7 +125,7 @@
       "date": "Feb 03",
       "full_date": "2026-02-03",
       "title": "Brutal Cold: Winter Field Day at -17\u00b0F - Our 2026 WFD Experience | W8EDH",
-      "views": 415,
+      "views": 416,
       "likes": 29,
       "video_id": "XPVfh05ifPI"
     },
@@ -141,7 +141,7 @@
       "date": "Feb 05",
       "full_date": "2026-02-05",
       "title": "Do You Really Need a New Radio? Honest Ham Radio Upgrade Advice",
-      "views": 92,
+      "views": 94,
       "likes": 4,
       "video_id": "i_55Kt8PtJo"
     },
@@ -149,15 +149,15 @@
       "date": "Feb 05",
       "full_date": "2026-02-05",
       "title": "Do You Really Need a New Radio? Honest Ham Radio Upgrade Advice",
-      "views": 375,
-      "likes": 26,
+      "views": 382,
+      "likes": 27,
       "video_id": "OhsGTEIVIE8"
     },
     {
       "date": "Feb 07",
       "full_date": "2026-02-07",
       "title": "Four Hams, One Screen, and Zero Instructions - Upgrading the Club Meeting Space",
-      "views": 3165,
+      "views": 3174,
       "likes": 13,
       "video_id": "dq8p3Blm4Ts"
     }
