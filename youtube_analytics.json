@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-02-13",
-  "total_watch_hours": 697.3,
-  "avg_view_duration": 229,
+  "last_updated": "2026-02-14",
+  "total_watch_hours": 664.1,
+  "avg_view_duration": 307,
   "duration_change": null,
-  "avg_view_percentage": 20.0,
-  "subscribers_gained": 125,
+  "avg_view_percentage": 20.1,
+  "subscribers_gained": 118,
   "subscribers_lost": 21,
   "subscriber_growth_chart": {
     "labels": [
-      "Jan 14",
       "Jan 15",
       "Jan 16",
       "Jan 17",
@@ -35,10 +34,10 @@
       "Feb 07",
       "Feb 08",
       "Feb 09",
-      "Feb 10"
+      "Feb 10",
+      "Feb 11"
     ],
     "values": [
-      7,
       8,
       6,
       5,
@@ -65,7 +64,8 @@
       4,
       2,
       7,
-      3
+      3,
+      0
     ]
   },
   "traffic_sources": {
@@ -76,16 +76,16 @@
   },
   "best_video": {
     "title": "Four Hams, One Screen, and Zero Instructions - Upgrading the Club Meeting Space",
-    "views": 3147,
+    "views": 3166,
     "watch_hours": 7.3,
-    "likes": 12
+    "likes": 13
   },
   "video_launches": [
     {
       "date": "Jan 17",
       "full_date": "2026-01-17",
       "title": "#pota Winter Support Your Parks Weekend with the@SouthLyonAmateurRadioClub #amateurradio #hamradio",
-      "views": 1074,
+      "views": 1075,
       "likes": 20,
       "video_id": "vXq5KRjkcw8"
     },
@@ -93,7 +93,7 @@
       "date": "Jan 18",
       "full_date": "2026-01-18",
       "title": "Ever wonder if an e-ink reader would #pota? #hamradio #amateurradio #boox",
-      "views": 1477,
+      "views": 1478,
       "likes": 19,
       "video_id": "surYSffn1tE"
     },
@@ -101,7 +101,7 @@
       "date": "Jan 24",
       "full_date": "2026-01-24",
       "title": "Winter Field Day 2026 Walk Around at Island Lake Recreation",
-      "views": 259,
+      "views": 260,
       "likes": 18,
       "video_id": "AXDTXJFOSb0"
     },
@@ -109,7 +109,7 @@
       "date": "Jan 29",
       "full_date": "2026-01-29",
       "title": "Kenwood TM-D750A FCC Filing Reveals All! First Look at the Specs",
-      "views": 2034,
+      "views": 2060,
       "likes": 71,
       "video_id": "vGcmAxr-eFM"
     },
@@ -117,7 +117,7 @@
       "date": "Jan 30",
       "full_date": "2026-01-30",
       "title": "TMD750A FCC Filing ! Price Guesses Revealed #shorts",
-      "views": 737,
+      "views": 745,
       "likes": 9,
       "video_id": "4xdfHO-DHlo"
     },
@@ -133,7 +133,7 @@
       "date": "Feb 05",
       "full_date": "2026-02-05",
       "title": "Do you need that new radio? Episode 14 is Live and we\u2019re taking a critical look! #hamradio #podcast",
-      "views": 572,
+      "views": 573,
       "likes": 7,
       "video_id": "ZScvDM3YLWY"
     },
@@ -141,7 +141,7 @@
       "date": "Feb 05",
       "full_date": "2026-02-05",
       "title": "Do You Really Need a New Radio? Honest Ham Radio Upgrade Advice",
-      "views": 94,
+      "views": 97,
       "likes": 4,
       "video_id": "i_55Kt8PtJo"
     },
@@ -149,7 +149,7 @@
       "date": "Feb 05",
       "full_date": "2026-02-05",
       "title": "Do You Really Need a New Radio? Honest Ham Radio Upgrade Advice",
-      "views": 382,
+      "views": 392,
       "likes": 27,
       "video_id": "OhsGTEIVIE8"
     },
@@ -157,9 +157,33 @@
       "date": "Feb 07",
       "full_date": "2026-02-07",
       "title": "Four Hams, One Screen, and Zero Instructions - Upgrading the Club Meeting Space",
-      "views": 3174,
+      "views": 3186,
       "likes": 13,
       "video_id": "dq8p3Blm4Ts"
+    },
+    {
+      "date": "Feb 14",
+      "full_date": "2026-02-14",
+      "title": "FlexRadio Aurora AU-510M: 500W SDR Powerhouse | Hamcation 2026",
+      "views": 84,
+      "likes": 9,
+      "video_id": "BGiDdHdL7-s"
+    },
+    {
+      "date": "Feb 14",
+      "full_date": "2026-02-14",
+      "title": "NEW Buddihex Mini &amp; Mastwerks Precision Antenna Rotator | Hamcation 2026",
+      "views": 92,
+      "likes": 10,
+      "video_id": "d_2-kWWuiaY"
+    },
+    {
+      "date": "Feb 14",
+      "full_date": "2026-02-14",
+      "title": "The Laser Ham Folding Ground Plane Antenna | Hamcation 2026",
+      "views": 35,
+      "likes": 3,
+      "video_id": "1EumigRB1Vg"
     }
   ]
 }
