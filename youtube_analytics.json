@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-02-21",
-  "total_watch_hours": 1072.3,
-  "avg_view_duration": 204,
+  "last_updated": "2026-02-22",
+  "total_watch_hours": 1087.2,
+  "avg_view_duration": 208,
   "duration_change": null,
-  "avg_view_percentage": 27.6,
-  "subscribers_gained": 156,
+  "avg_view_percentage": 27.8,
+  "subscribers_gained": 161,
   "subscribers_lost": 19,
   "subscriber_growth_chart": {
     "labels": [
-      "Jan 22",
       "Jan 23",
       "Jan 24",
       "Jan 25",
@@ -35,10 +34,10 @@
       "Feb 15",
       "Feb 16",
       "Feb 17",
-      "Feb 18"
+      "Feb 18",
+      "Feb 19"
     ],
     "values": [
-      0,
       1,
       0,
       3,
@@ -65,20 +64,21 @@
       33,
       11,
       8,
-      3
+      3,
+      5
     ]
   },
   "traffic_sources": {
     "search": 18,
-    "browse": 6,
+    "browse": 7,
     "external": 3,
-    "other": 73
+    "other": 72
   },
   "best_video": {
     "title": "Icom IC-7300MK2: The Upgrade We\u2019ve Been Waiting For?| Hamcation 2026",
-    "views": 3803,
-    "watch_hours": 264.6,
-    "likes": 145
+    "views": 3965,
+    "watch_hours": 273.5,
+    "likes": 153
   },
   "video_launches": [
     {
@@ -93,7 +93,7 @@
       "date": "Jan 29",
       "full_date": "2026-01-29",
       "title": "Kenwood TM-D750A FCC Filing Reveals All! First Look at the Specs",
-      "views": 2226,
+      "views": 2262,
       "likes": 75,
       "video_id": "vGcmAxr-eFM"
     },
@@ -101,7 +101,7 @@
       "date": "Jan 30",
       "full_date": "2026-01-30",
       "title": "TMD750A FCC Filing ! Price Guesses Revealed #shorts",
-      "views": 768,
+      "views": 771,
       "likes": 9,
       "video_id": "4xdfHO-DHlo"
     },
@@ -117,7 +117,7 @@
       "date": "Feb 05",
       "full_date": "2026-02-05",
       "title": "Do you need that new radio? Episode 14 is Live and we\u2019re taking a critical look! #hamradio #podcast",
-      "views": 578,
+      "views": 580,
       "likes": 7,
       "video_id": "ZScvDM3YLWY"
     },
@@ -133,7 +133,7 @@
       "date": "Feb 05",
       "full_date": "2026-02-05",
       "title": "Do You Really Need a New Radio? Honest Ham Radio Upgrade Advice",
-      "views": 446,
+      "views": 451,
       "likes": 30,
       "video_id": "OhsGTEIVIE8"
     },
@@ -141,7 +141,7 @@
       "date": "Feb 07",
       "full_date": "2026-02-07",
       "title": "Four Hams, One Screen, and Zero Instructions - Upgrading the Club Meeting Space",
-      "views": 3215,
+      "views": 3217,
       "likes": 13,
       "video_id": "dq8p3Blm4Ts"
     },
@@ -149,7 +149,7 @@
       "date": "Feb 14",
       "full_date": "2026-02-14",
       "title": "Icom IC-7300MK2: The Upgrade We\u2019ve Been Waiting For?| Hamcation 2026",
-      "views": 4019,
+      "views": 4094,
       "likes": 159,
       "video_id": "_5gsI9KuvEI"
     },
@@ -157,23 +157,23 @@
       "date": "Feb 14",
       "full_date": "2026-02-14",
       "title": "Is the Heil BM-17 Coming Back? Update from Hamcation 2026",
-      "views": 247,
-      "likes": 10,
+      "views": 253,
+      "likes": 11,
       "video_id": "Vqx57KovKXs"
     },
     {
       "date": "Feb 14",
       "full_date": "2026-02-14",
       "title": "Seeed Studio Mesh Networking: Meshtastic vs Meshcore | Hamcation 2026",
-      "views": 904,
-      "likes": 34,
+      "views": 915,
+      "likes": 35,
       "video_id": "rHev6bDGSWg"
     },
     {
       "date": "Feb 14",
       "full_date": "2026-02-14",
       "title": "Walking the Hamcation 2026 Flea Market #hamradio #hamcation",
-      "views": 380,
+      "views": 391,
       "likes": 10,
       "video_id": "RpKnlTc2Lo4"
     },
@@ -181,7 +181,7 @@
       "date": "Feb 14",
       "full_date": "2026-02-14",
       "title": "FlexRadio Aurora AU-510M: 500W SDR Powerhouse | Hamcation 2026",
-      "views": 1132,
+      "views": 1140,
       "likes": 30,
       "video_id": "BGiDdHdL7-s"
     },
@@ -189,15 +189,15 @@
       "date": "Feb 14",
       "full_date": "2026-02-14",
       "title": "NEW Buddihex Mini &amp; Mastwerks Precision Antenna Rotator | Hamcation 2026",
-      "views": 2192,
-      "likes": 90,
+      "views": 2213,
+      "likes": 91,
       "video_id": "d_2-kWWuiaY"
     },
     {
       "date": "Feb 14",
       "full_date": "2026-02-14",
       "title": "The Laser Ham Folding Ground Plane Antenna | Hamcation 2026",
-      "views": 235,
+      "views": 239,
       "likes": 10,
       "video_id": "1EumigRB1Vg"
     },
@@ -205,7 +205,7 @@
       "date": "Feb 15",
       "full_date": "2026-02-15",
       "title": "Kits 4 Hams SHARI Allstar Node &amp; Mortty V5 | Hamcation 2026",
-      "views": 292,
+      "views": 294,
       "likes": 17,
       "video_id": "r6CgCAViM_c"
     }
