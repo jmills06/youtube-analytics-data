@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-03-02",
-  "total_watch_hours": 1095.3,
-  "avg_view_duration": 232,
+  "last_updated": "2026-03-03",
+  "total_watch_hours": 1084.3,
+  "avg_view_duration": 178,
   "duration_change": null,
-  "avg_view_percentage": 28.8,
-  "subscribers_gained": 172,
-  "subscribers_lost": 19,
+  "avg_view_percentage": 29.0,
+  "subscribers_gained": 173,
+  "subscribers_lost": 21,
   "subscriber_growth_chart": {
     "labels": [
-      "Jan 31",
       "Feb 01",
       "Feb 02",
       "Feb 03",
@@ -35,10 +34,10 @@
       "Feb 24",
       "Feb 25",
       "Feb 26",
-      "Feb 27"
+      "Feb 27",
+      "Feb 28"
     ],
     "values": [
-      4,
       1,
       7,
       1,
@@ -65,7 +64,8 @@
       0,
       3,
       12,
-      6
+      6,
+      3
     ]
   },
   "traffic_sources": {
@@ -76,8 +76,8 @@
   },
   "best_video": {
     "title": "Icom IC-7300MK2: The Upgrade We\u2019ve Been Waiting For?| Hamcation 2026",
-    "views": 4344,
-    "watch_hours": 294.9,
+    "views": 4372,
+    "watch_hours": 295.6,
     "likes": 164
   },
   "video_launches": [
@@ -93,7 +93,7 @@
       "date": "Feb 05",
       "full_date": "2026-02-05",
       "title": "Do you need that new radio? Episode 14 is Live and we\u2019re taking a critical look! #hamradio #podcast",
-      "views": 587,
+      "views": 588,
       "likes": 8,
       "video_id": "ZScvDM3YLWY"
     },
@@ -109,7 +109,7 @@
       "date": "Feb 05",
       "full_date": "2026-02-05",
       "title": "Do You Really Need a New Radio? Honest Ham Radio Upgrade Advice",
-      "views": 490,
+      "views": 494,
       "likes": 33,
       "video_id": "OhsGTEIVIE8"
     },
@@ -117,7 +117,7 @@
       "date": "Feb 07",
       "full_date": "2026-02-07",
       "title": "Four Hams, One Screen, and Zero Instructions - Upgrading the Club Meeting Space",
-      "views": 3225,
+      "views": 3226,
       "likes": 13,
       "video_id": "dq8p3Blm4Ts"
     },
@@ -125,7 +125,7 @@
       "date": "Feb 14",
       "full_date": "2026-02-14",
       "title": "Icom IC-7300MK2: The Upgrade We\u2019ve Been Waiting For?| Hamcation 2026",
-      "views": 4390,
+      "views": 4407,
       "likes": 164,
       "video_id": "_5gsI9KuvEI"
     },
@@ -133,7 +133,7 @@
       "date": "Feb 14",
       "full_date": "2026-02-14",
       "title": "Is the Heil BM-17 Coming Back? Update from Hamcation 2026",
-      "views": 278,
+      "views": 279,
       "likes": 11,
       "video_id": "Vqx57KovKXs"
     },
@@ -141,7 +141,7 @@
       "date": "Feb 14",
       "full_date": "2026-02-14",
       "title": "Seeed Studio Mesh Networking: Meshtastic vs Meshcore | Hamcation 2026",
-      "views": 990,
+      "views": 998,
       "likes": 36,
       "video_id": "rHev6bDGSWg"
     },
@@ -149,7 +149,7 @@
       "date": "Feb 14",
       "full_date": "2026-02-14",
       "title": "Walking the Hamcation 2026 Flea Market #hamradio #hamcation",
-      "views": 406,
+      "views": 408,
       "likes": 11,
       "video_id": "RpKnlTc2Lo4"
     },
@@ -157,7 +157,7 @@
       "date": "Feb 14",
       "full_date": "2026-02-14",
       "title": "FlexRadio Aurora AU-510M: 500W SDR Powerhouse | Hamcation 2026",
-      "views": 1226,
+      "views": 1230,
       "likes": 32,
       "video_id": "BGiDdHdL7-s"
     },
@@ -165,7 +165,7 @@
       "date": "Feb 14",
       "full_date": "2026-02-14",
       "title": "NEW Buddihex Mini &amp; Mastwerks Precision Antenna Rotator | Hamcation 2026",
-      "views": 2339,
+      "views": 2345,
       "likes": 94,
       "video_id": "d_2-kWWuiaY"
     },
@@ -181,7 +181,7 @@
       "date": "Feb 15",
       "full_date": "2026-02-15",
       "title": "Kits 4 Hams SHARI Allstar Node &amp; Mortty V5 | Hamcation 2026",
-      "views": 329,
+      "views": 333,
       "likes": 20,
       "video_id": "r6CgCAViM_c"
     },
@@ -189,8 +189,8 @@
       "date": "Feb 26",
       "full_date": "2026-02-26",
       "title": "Ham Radio Repeater Upgrades - Touring a Vintage Motorola Micor Repeater Site",
-      "views": 1451,
-      "likes": 63,
+      "views": 1497,
+      "likes": 65,
       "video_id": "pn-6WtI41MI"
     }
   ]
