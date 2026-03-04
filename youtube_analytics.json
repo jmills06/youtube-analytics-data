@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-03-03",
-  "total_watch_hours": 1084.3,
-  "avg_view_duration": 178,
+  "last_updated": "2026-03-04",
+  "total_watch_hours": 1065.5,
+  "avg_view_duration": 182,
   "duration_change": null,
-  "avg_view_percentage": 29.0,
-  "subscribers_gained": 173,
+  "avg_view_percentage": 29.1,
+  "subscribers_gained": 175,
   "subscribers_lost": 21,
   "subscriber_growth_chart": {
     "labels": [
-      "Feb 01",
       "Feb 02",
       "Feb 03",
       "Feb 04",
@@ -35,10 +34,10 @@
       "Feb 25",
       "Feb 26",
       "Feb 27",
-      "Feb 28"
+      "Feb 28",
+      "Mar 01"
     ],
     "values": [
-      1,
       7,
       1,
       2,
@@ -65,19 +64,20 @@
       3,
       12,
       6,
+      3,
       3
     ]
   },
   "traffic_sources": {
-    "search": 18,
+    "search": 19,
     "browse": 7,
     "external": 4,
-    "other": 71
+    "other": 70
   },
   "best_video": {
     "title": "Icom IC-7300MK2: The Upgrade We\u2019ve Been Waiting For?| Hamcation 2026",
-    "views": 4372,
-    "watch_hours": 295.6,
+    "views": 4393,
+    "watch_hours": 296.9,
     "likes": 164
   },
   "video_launches": [
@@ -93,7 +93,7 @@
       "date": "Feb 05",
       "full_date": "2026-02-05",
       "title": "Do you need that new radio? Episode 14 is Live and we\u2019re taking a critical look! #hamradio #podcast",
-      "views": 588,
+      "views": 592,
       "likes": 8,
       "video_id": "ZScvDM3YLWY"
     },
@@ -109,7 +109,7 @@
       "date": "Feb 05",
       "full_date": "2026-02-05",
       "title": "Do You Really Need a New Radio? Honest Ham Radio Upgrade Advice",
-      "views": 494,
+      "views": 496,
       "likes": 33,
       "video_id": "OhsGTEIVIE8"
     },
@@ -117,7 +117,7 @@
       "date": "Feb 07",
       "full_date": "2026-02-07",
       "title": "Four Hams, One Screen, and Zero Instructions - Upgrading the Club Meeting Space",
-      "views": 3226,
+      "views": 3232,
       "likes": 13,
       "video_id": "dq8p3Blm4Ts"
     },
@@ -125,15 +125,15 @@
       "date": "Feb 14",
       "full_date": "2026-02-14",
       "title": "Icom IC-7300MK2: The Upgrade We\u2019ve Been Waiting For?| Hamcation 2026",
-      "views": 4407,
-      "likes": 164,
+      "views": 4424,
+      "likes": 165,
       "video_id": "_5gsI9KuvEI"
     },
     {
       "date": "Feb 14",
       "full_date": "2026-02-14",
       "title": "Is the Heil BM-17 Coming Back? Update from Hamcation 2026",
-      "views": 279,
+      "views": 278,
       "likes": 11,
       "video_id": "Vqx57KovKXs"
     },
@@ -141,7 +141,7 @@
       "date": "Feb 14",
       "full_date": "2026-02-14",
       "title": "Seeed Studio Mesh Networking: Meshtastic vs Meshcore | Hamcation 2026",
-      "views": 998,
+      "views": 1005,
       "likes": 36,
       "video_id": "rHev6bDGSWg"
     },
@@ -149,7 +149,7 @@
       "date": "Feb 14",
       "full_date": "2026-02-14",
       "title": "Walking the Hamcation 2026 Flea Market #hamradio #hamcation",
-      "views": 408,
+      "views": 414,
       "likes": 11,
       "video_id": "RpKnlTc2Lo4"
     },
@@ -157,7 +157,7 @@
       "date": "Feb 14",
       "full_date": "2026-02-14",
       "title": "FlexRadio Aurora AU-510M: 500W SDR Powerhouse | Hamcation 2026",
-      "views": 1230,
+      "views": 1232,
       "likes": 32,
       "video_id": "BGiDdHdL7-s"
     },
@@ -165,15 +165,15 @@
       "date": "Feb 14",
       "full_date": "2026-02-14",
       "title": "NEW Buddihex Mini &amp; Mastwerks Precision Antenna Rotator | Hamcation 2026",
-      "views": 2345,
-      "likes": 94,
+      "views": 2355,
+      "likes": 93,
       "video_id": "d_2-kWWuiaY"
     },
     {
       "date": "Feb 14",
       "full_date": "2026-02-14",
       "title": "The Laser Ham Folding Ground Plane Antenna | Hamcation 2026",
-      "views": 243,
+      "views": 242,
       "likes": 11,
       "video_id": "1EumigRB1Vg"
     },
@@ -181,7 +181,7 @@
       "date": "Feb 15",
       "full_date": "2026-02-15",
       "title": "Kits 4 Hams SHARI Allstar Node &amp; Mortty V5 | Hamcation 2026",
-      "views": 333,
+      "views": 337,
       "likes": 20,
       "video_id": "r6CgCAViM_c"
     },
@@ -189,8 +189,8 @@
       "date": "Feb 26",
       "full_date": "2026-02-26",
       "title": "Ham Radio Repeater Upgrades - Touring a Vintage Motorola Micor Repeater Site",
-      "views": 1497,
-      "likes": 65,
+      "views": 1508,
+      "likes": 67,
       "video_id": "pn-6WtI41MI"
     }
   ]
