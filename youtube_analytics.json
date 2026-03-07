@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-03-06",
-  "total_watch_hours": 1037.7,
-  "avg_view_duration": 182,
+  "last_updated": "2026-03-07",
+  "total_watch_hours": 1026.3,
+  "avg_view_duration": 156,
   "duration_change": null,
-  "avg_view_percentage": 29.3,
+  "avg_view_percentage": 29.2,
   "subscribers_gained": 166,
   "subscribers_lost": 19,
   "subscriber_growth_chart": {
     "labels": [
-      "Feb 04",
       "Feb 05",
       "Feb 06",
       "Feb 07",
@@ -35,10 +34,10 @@
       "Feb 28",
       "Mar 01",
       "Mar 02",
-      "Mar 03"
+      "Mar 03",
+      "Mar 04"
     ],
     "values": [
-      2,
       5,
       7,
       4,
@@ -65,7 +64,8 @@
       3,
       3,
       1,
-      0
+      0,
+      2
     ]
   },
   "traffic_sources": {
@@ -76,8 +76,8 @@
   },
   "best_video": {
     "title": "Icom IC-7300MK2: The Upgrade We\u2019ve Been Waiting For?| Hamcation 2026",
-    "views": 4424,
-    "watch_hours": 298.6,
+    "views": 4429,
+    "watch_hours": 298.8,
     "likes": 165
   },
   "video_launches": [
@@ -85,7 +85,7 @@
       "date": "Feb 05",
       "full_date": "2026-02-05",
       "title": "Do you need that new radio? Episode 14 is Live and we\u2019re taking a critical look! #hamradio #podcast",
-      "views": 594,
+      "views": 595,
       "likes": 8,
       "video_id": "ZScvDM3YLWY"
     },
@@ -109,7 +109,7 @@
       "date": "Feb 07",
       "full_date": "2026-02-07",
       "title": "Four Hams, One Screen, and Zero Instructions - Upgrading the Club Meeting Space",
-      "views": 3233,
+      "views": 3234,
       "likes": 13,
       "video_id": "dq8p3Blm4Ts"
     },
@@ -117,7 +117,7 @@
       "date": "Feb 14",
       "full_date": "2026-02-14",
       "title": "Icom IC-7300MK2: The Upgrade We\u2019ve Been Waiting For?| Hamcation 2026",
-      "views": 4437,
+      "views": 4450,
       "likes": 165,
       "video_id": "_5gsI9KuvEI"
     },
@@ -125,7 +125,7 @@
       "date": "Feb 14",
       "full_date": "2026-02-14",
       "title": "Is the Heil BM-17 Coming Back? Update from Hamcation 2026",
-      "views": 280,
+      "views": 281,
       "likes": 12,
       "video_id": "Vqx57KovKXs"
     },
@@ -133,7 +133,7 @@
       "date": "Feb 14",
       "full_date": "2026-02-14",
       "title": "Seeed Studio Mesh Networking: Meshtastic vs Meshcore | Hamcation 2026",
-      "views": 1011,
+      "views": 1013,
       "likes": 36,
       "video_id": "rHev6bDGSWg"
     },
@@ -141,7 +141,7 @@
       "date": "Feb 14",
       "full_date": "2026-02-14",
       "title": "Walking the Hamcation 2026 Flea Market #hamradio #hamcation",
-      "views": 417,
+      "views": 418,
       "likes": 11,
       "video_id": "RpKnlTc2Lo4"
     },
@@ -149,7 +149,7 @@
       "date": "Feb 14",
       "full_date": "2026-02-14",
       "title": "FlexRadio Aurora AU-510M: 500W SDR Powerhouse | Hamcation 2026",
-      "views": 1240,
+      "views": 1245,
       "likes": 32,
       "video_id": "BGiDdHdL7-s"
     },
@@ -157,7 +157,7 @@
       "date": "Feb 14",
       "full_date": "2026-02-14",
       "title": "NEW Buddihex Mini &amp; Mastwerks Precision Antenna Rotator | Hamcation 2026",
-      "views": 2368,
+      "views": 2374,
       "likes": 93,
       "video_id": "d_2-kWWuiaY"
     },
@@ -173,39 +173,39 @@
       "date": "Feb 15",
       "full_date": "2026-02-15",
       "title": "Kits 4 Hams SHARI Allstar Node &amp; Mortty V5 | Hamcation 2026",
-      "views": 339,
-      "likes": 20,
+      "views": 340,
+      "likes": 21,
       "video_id": "r6CgCAViM_c"
     },
     {
       "date": "Feb 26",
       "full_date": "2026-02-26",
       "title": "Ham Radio Repeater Upgrades - Touring a Vintage Motorola Micor Repeater Site",
-      "views": 1521,
-      "likes": 67,
+      "views": 1529,
+      "likes": 68,
       "video_id": "pn-6WtI41MI"
     },
     {
       "date": "Mar 05",
       "full_date": "2026-03-05",
       "title": "Price Increases, Oh My! - Episode 15 is Live Now #hamradio",
-      "views": 260,
-      "likes": 9,
+      "views": 744,
+      "likes": 14,
       "video_id": "6omvDxgOpLc"
     },
     {
       "date": "Mar 05",
       "full_date": "2026-03-05",
       "title": "Are Radio Prices Going Up? FT2, Bouvet 3Y0K, Yaesu &amp; HamClock",
-      "views": 240,
-      "likes": 23,
+      "views": 337,
+      "likes": 29,
       "video_id": "KJN_OA-oZnQ"
     },
     {
       "date": "Mar 05",
       "full_date": "2026-03-05",
       "title": "Are Radio Prices Going Up? Bouvet, Yaesu &amp; HamClock",
-      "views": 72,
+      "views": 88,
       "likes": 7,
       "video_id": "Koz7XST0tKw"
     }
