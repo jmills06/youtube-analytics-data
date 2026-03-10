@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-03-09",
-  "total_watch_hours": 1032.7,
-  "avg_view_duration": 241,
+  "last_updated": "2026-03-10",
+  "total_watch_hours": 1020.8,
+  "avg_view_duration": 173,
   "duration_change": null,
-  "avg_view_percentage": 28.9,
+  "avg_view_percentage": 30.3,
   "subscribers_gained": 161,
-  "subscribers_lost": 19,
+  "subscribers_lost": 20,
   "subscriber_growth_chart": {
     "labels": [
-      "Feb 07",
       "Feb 08",
       "Feb 09",
       "Feb 10",
@@ -35,10 +34,10 @@
       "Mar 03",
       "Mar 04",
       "Mar 05",
-      "Mar 06"
+      "Mar 06",
+      "Mar 07"
     ],
     "values": [
-      4,
       2,
       7,
       3,
@@ -65,36 +64,29 @@
       0,
       2,
       3,
-      4
+      4,
+      3
     ]
   },
   "traffic_sources": {
-    "search": 19,
+    "search": 22,
     "browse": 7,
     "external": 4,
-    "other": 70
+    "other": 67
   },
   "best_video": {
     "title": "Icom IC-7300MK2: The Upgrade We\u2019ve Been Waiting For?| Hamcation 2026",
-    "views": 4452,
-    "watch_hours": 299.7,
-    "likes": 165
+    "views": 4471,
+    "watch_hours": 300.9,
+    "likes": 166
   },
   "video_launches": [
-    {
-      "date": "Feb 07",
-      "full_date": "2026-02-07",
-      "title": "Four Hams, One Screen, and Zero Instructions - Upgrading the Club Meeting Space",
-      "views": 3235,
-      "likes": 13,
-      "video_id": "dq8p3Blm4Ts"
-    },
     {
       "date": "Feb 14",
       "full_date": "2026-02-14",
       "title": "Icom IC-7300MK2: The Upgrade We\u2019ve Been Waiting For?| Hamcation 2026",
-      "views": 4485,
-      "likes": 166,
+      "views": 4505,
+      "likes": 167,
       "video_id": "_5gsI9KuvEI"
     },
     {
@@ -109,7 +101,7 @@
       "date": "Feb 14",
       "full_date": "2026-02-14",
       "title": "Seeed Studio Mesh Networking: Meshtastic vs Meshcore | Hamcation 2026",
-      "views": 1019,
+      "views": 1023,
       "likes": 36,
       "video_id": "rHev6bDGSWg"
     },
@@ -125,7 +117,7 @@
       "date": "Feb 14",
       "full_date": "2026-02-14",
       "title": "FlexRadio Aurora AU-510M: 500W SDR Powerhouse | Hamcation 2026",
-      "views": 1254,
+      "views": 1257,
       "likes": 32,
       "video_id": "BGiDdHdL7-s"
     },
@@ -133,7 +125,7 @@
       "date": "Feb 14",
       "full_date": "2026-02-14",
       "title": "NEW Buddihex Mini &amp; Mastwerks Precision Antenna Rotator | Hamcation 2026",
-      "views": 2387,
+      "views": 2392,
       "likes": 93,
       "video_id": "d_2-kWWuiaY"
     },
@@ -157,7 +149,7 @@
       "date": "Feb 26",
       "full_date": "2026-02-26",
       "title": "Ham Radio Repeater Upgrades - Touring a Vintage Motorola Micor Repeater Site",
-      "views": 1537,
+      "views": 1542,
       "likes": 68,
       "video_id": "pn-6WtI41MI"
     },
@@ -165,23 +157,23 @@
       "date": "Mar 05",
       "full_date": "2026-03-05",
       "title": "Price Increases, Oh My! - Episode 15 is Live Now #hamradio",
-      "views": 1199,
-      "likes": 15,
+      "views": 1203,
+      "likes": 16,
       "video_id": "6omvDxgOpLc"
     },
     {
       "date": "Mar 05",
       "full_date": "2026-03-05",
       "title": "Are Radio Prices Going Up? FT2, Bouvet 3Y0K, Yaesu &amp; HamClock",
-      "views": 381,
-      "likes": 32,
+      "views": 403,
+      "likes": 33,
       "video_id": "KJN_OA-oZnQ"
     },
     {
       "date": "Mar 05",
       "full_date": "2026-03-05",
       "title": "Are Radio Prices Going Up? Bouvet, Yaesu &amp; HamClock",
-      "views": 135,
+      "views": 145,
       "likes": 9,
       "video_id": "Koz7XST0tKw"
     }
