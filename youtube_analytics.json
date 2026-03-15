@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-03-14",
-  "total_watch_hours": 1021.1,
-  "avg_view_duration": 214,
+  "last_updated": "2026-03-15",
+  "total_watch_hours": 1036.6,
+  "avg_view_duration": 337,
   "duration_change": null,
-  "avg_view_percentage": 30.1,
+  "avg_view_percentage": 30.3,
   "subscribers_gained": 160,
   "subscribers_lost": 18,
   "subscriber_growth_chart": {
     "labels": [
-      "Feb 12",
       "Feb 13",
       "Feb 14",
       "Feb 15",
@@ -35,10 +34,10 @@
       "Mar 08",
       "Mar 09",
       "Mar 10",
-      "Mar 11"
+      "Mar 11",
+      "Mar 12"
     ],
     "values": [
-      4,
       2,
       13,
       33,
@@ -65,6 +64,7 @@
       4,
       2,
       3,
+      4,
       4
     ]
   },
@@ -76,17 +76,17 @@
   },
   "best_video": {
     "title": "Icom IC-7300MK2: The Upgrade We\u2019ve Been Waiting For?| Hamcation 2026",
-    "views": 4535,
-    "watch_hours": 305.1,
-    "likes": 167
+    "views": 4551,
+    "watch_hours": 306.4,
+    "likes": 168
   },
   "video_launches": [
     {
       "date": "Feb 14",
       "full_date": "2026-02-14",
       "title": "Icom IC-7300MK2: The Upgrade We\u2019ve Been Waiting For?| Hamcation 2026",
-      "views": 4563,
-      "likes": 168,
+      "views": 4597,
+      "likes": 169,
       "video_id": "_5gsI9KuvEI"
     },
     {
@@ -101,7 +101,7 @@
       "date": "Feb 14",
       "full_date": "2026-02-14",
       "title": "Seeed Studio Mesh Networking: Meshtastic vs Meshcore | Hamcation 2026",
-      "views": 1045,
+      "views": 1046,
       "likes": 38,
       "video_id": "rHev6bDGSWg"
     },
@@ -109,7 +109,7 @@
       "date": "Feb 14",
       "full_date": "2026-02-14",
       "title": "Walking the Hamcation 2026 Flea Market #hamradio #hamcation",
-      "views": 426,
+      "views": 427,
       "likes": 11,
       "video_id": "RpKnlTc2Lo4"
     },
@@ -117,7 +117,7 @@
       "date": "Feb 14",
       "full_date": "2026-02-14",
       "title": "FlexRadio Aurora AU-510M: 500W SDR Powerhouse | Hamcation 2026",
-      "views": 1301,
+      "views": 1317,
       "likes": 33,
       "video_id": "BGiDdHdL7-s"
     },
@@ -125,7 +125,7 @@
       "date": "Feb 14",
       "full_date": "2026-02-14",
       "title": "NEW Buddihex Mini &amp; Mastwerks Precision Antenna Rotator | Hamcation 2026",
-      "views": 2413,
+      "views": 2423,
       "likes": 93,
       "video_id": "d_2-kWWuiaY"
     },
@@ -133,7 +133,7 @@
       "date": "Feb 14",
       "full_date": "2026-02-14",
       "title": "The Laser Ham Folding Ground Plane Antenna | Hamcation 2026",
-      "views": 259,
+      "views": 261,
       "likes": 11,
       "video_id": "1EumigRB1Vg"
     },
@@ -141,15 +141,15 @@
       "date": "Feb 15",
       "full_date": "2026-02-15",
       "title": "Kits 4 Hams SHARI Allstar Node &amp; Mortty V5 | Hamcation 2026",
-      "views": 359,
-      "likes": 22,
+      "views": 364,
+      "likes": 23,
       "video_id": "r6CgCAViM_c"
     },
     {
       "date": "Feb 26",
       "full_date": "2026-02-26",
       "title": "Ham Radio Repeater Upgrades - Touring a Vintage Motorola Micor Repeater Site",
-      "views": 1554,
+      "views": 1556,
       "likes": 68,
       "video_id": "pn-6WtI41MI"
     },
@@ -165,15 +165,15 @@
       "date": "Mar 05",
       "full_date": "2026-03-05",
       "title": "Are Radio Prices Going Up? FT2, Bouvet 3Y0K, Yaesu &amp; HamClock",
-      "views": 459,
-      "likes": 34,
+      "views": 465,
+      "likes": 35,
       "video_id": "KJN_OA-oZnQ"
     },
     {
       "date": "Mar 05",
       "full_date": "2026-03-05",
       "title": "Are Radio Prices Going Up? Bouvet, Yaesu &amp; HamClock",
-      "views": 156,
+      "views": 158,
       "likes": 11,
       "video_id": "Koz7XST0tKw"
     },
@@ -181,8 +181,8 @@
       "date": "Mar 12",
       "full_date": "2026-03-12",
       "title": "POTA Roving Florida&#39;s Space Coast After Hamcation - Seeing NASA Artemis II Moon Rocket",
-      "views": 119,
-      "likes": 16,
+      "views": 127,
+      "likes": 18,
       "video_id": "4dP7kktHK0k"
     }
   ]
