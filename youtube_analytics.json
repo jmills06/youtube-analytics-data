@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-03-17",
-  "total_watch_hours": 903.1,
-  "avg_view_duration": 210,
+  "last_updated": "2026-03-18",
+  "total_watch_hours": 745.6,
+  "avg_view_duration": 278,
   "duration_change": null,
-  "avg_view_percentage": 28.8,
-  "subscribers_gained": 146,
-  "subscribers_lost": 17,
+  "avg_view_percentage": 27.0,
+  "subscribers_gained": 118,
+  "subscribers_lost": 15,
   "subscriber_growth_chart": {
     "labels": [
-      "Feb 15",
       "Feb 16",
       "Feb 17",
       "Feb 18",
@@ -35,10 +34,10 @@
       "Mar 11",
       "Mar 12",
       "Mar 13",
-      "Mar 14"
+      "Mar 14",
+      "Mar 15"
     ],
     "values": [
-      33,
       11,
       8,
       3,
@@ -65,35 +64,28 @@
       4,
       4,
       2,
-      0
+      0,
+      7
     ]
   },
   "traffic_sources": {
-    "search": 24,
+    "search": 27,
     "browse": 7,
     "external": 5,
-    "other": 64
+    "other": 61
   },
   "best_video": {
     "title": "Icom IC-7300MK2: The Upgrade We\u2019ve Been Waiting For?| Hamcation 2026",
-    "views": 3570,
-    "watch_hours": 227.6,
-    "likes": 119
+    "views": 2170,
+    "watch_hours": 124.4,
+    "likes": 64
   },
   "video_launches": [
-    {
-      "date": "Feb 15",
-      "full_date": "2026-02-15",
-      "title": "Kits 4 Hams SHARI Allstar Node &amp; Mortty V5 | Hamcation 2026",
-      "views": 374,
-      "likes": 24,
-      "video_id": "r6CgCAViM_c"
-    },
     {
       "date": "Feb 26",
       "full_date": "2026-02-26",
       "title": "Ham Radio Repeater Upgrades - Touring a Vintage Motorola Micor Repeater Site",
-      "views": 1559,
+      "views": 1561,
       "likes": 68,
       "video_id": "pn-6WtI41MI"
     },
@@ -101,7 +93,7 @@
       "date": "Mar 05",
       "full_date": "2026-03-05",
       "title": "Price Increases, Oh My! - Episode 15 is Live Now #hamradio",
-      "views": 1218,
+      "views": 1219,
       "likes": 16,
       "video_id": "6omvDxgOpLc"
     },
@@ -109,7 +101,7 @@
       "date": "Mar 05",
       "full_date": "2026-03-05",
       "title": "Are Radio Prices Going Up? FT2, Bouvet 3Y0K, Yaesu &amp; HamClock",
-      "views": 482,
+      "views": 483,
       "likes": 35,
       "video_id": "KJN_OA-oZnQ"
     },
@@ -117,7 +109,7 @@
       "date": "Mar 05",
       "full_date": "2026-03-05",
       "title": "Are Radio Prices Going Up? Bouvet, Yaesu &amp; HamClock",
-      "views": 166,
+      "views": 167,
       "likes": 12,
       "video_id": "Koz7XST0tKw"
     },
@@ -125,7 +117,7 @@
       "date": "Mar 12",
       "full_date": "2026-03-12",
       "title": "POTA Roving Florida&#39;s Space Coast After Hamcation - Seeing NASA Artemis II Moon Rocket",
-      "views": 148,
+      "views": 153,
       "likes": 18,
       "video_id": "4dP7kktHK0k"
     }
