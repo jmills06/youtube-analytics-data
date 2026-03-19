@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-03-18",
-  "total_watch_hours": 745.6,
-  "avg_view_duration": 278,
+  "last_updated": "2026-03-19",
+  "total_watch_hours": 658.0,
+  "avg_view_duration": 218,
   "duration_change": null,
-  "avg_view_percentage": 27.0,
-  "subscribers_gained": 118,
+  "avg_view_percentage": 25.9,
+  "subscribers_gained": 108,
   "subscribers_lost": 15,
   "subscriber_growth_chart": {
     "labels": [
-      "Feb 16",
       "Feb 17",
       "Feb 18",
       "Feb 19",
@@ -35,10 +34,10 @@
       "Mar 12",
       "Mar 13",
       "Mar 14",
-      "Mar 15"
+      "Mar 15",
+      "Mar 16"
     ],
     "values": [
-      11,
       8,
       3,
       5,
@@ -65,20 +64,21 @@
       4,
       2,
       0,
-      7
+      7,
+      1
     ]
   },
   "traffic_sources": {
-    "search": 27,
+    "search": 30,
     "browse": 7,
-    "external": 5,
-    "other": 61
+    "external": 6,
+    "other": 57
   },
   "best_video": {
-    "title": "Icom IC-7300MK2: The Upgrade We\u2019ve Been Waiting For?| Hamcation 2026",
-    "views": 2170,
-    "watch_hours": 124.4,
-    "likes": 64
+    "title": "Meshtastic Solar Node with Wio Tracker L1 - N8JRD #meshtastic #solarnode #hamradio #amateurradio",
+    "views": 1895,
+    "watch_hours": 12.9,
+    "likes": 56
   },
   "video_launches": [
     {
@@ -93,7 +93,7 @@
       "date": "Mar 05",
       "full_date": "2026-03-05",
       "title": "Price Increases, Oh My! - Episode 15 is Live Now #hamradio",
-      "views": 1219,
+      "views": 1220,
       "likes": 16,
       "video_id": "6omvDxgOpLc"
     },
@@ -101,15 +101,15 @@
       "date": "Mar 05",
       "full_date": "2026-03-05",
       "title": "Are Radio Prices Going Up? FT2, Bouvet 3Y0K, Yaesu &amp; HamClock",
-      "views": 483,
-      "likes": 35,
+      "views": 493,
+      "likes": 36,
       "video_id": "KJN_OA-oZnQ"
     },
     {
       "date": "Mar 05",
       "full_date": "2026-03-05",
       "title": "Are Radio Prices Going Up? Bouvet, Yaesu &amp; HamClock",
-      "views": 167,
+      "views": 168,
       "likes": 12,
       "video_id": "Koz7XST0tKw"
     },
@@ -117,7 +117,7 @@
       "date": "Mar 12",
       "full_date": "2026-03-12",
       "title": "POTA Roving Florida&#39;s Space Coast After Hamcation - Seeing NASA Artemis II Moon Rocket",
-      "views": 153,
+      "views": 155,
       "likes": 18,
       "video_id": "4dP7kktHK0k"
     }
