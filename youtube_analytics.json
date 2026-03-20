@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-03-19",
-  "total_watch_hours": 658.0,
-  "avg_view_duration": 218,
+  "last_updated": "2026-03-20",
+  "total_watch_hours": 623.2,
+  "avg_view_duration": 317,
   "duration_change": null,
-  "avg_view_percentage": 25.9,
-  "subscribers_gained": 108,
-  "subscribers_lost": 15,
+  "avg_view_percentage": 25.5,
+  "subscribers_gained": 101,
+  "subscribers_lost": 16,
   "subscriber_growth_chart": {
     "labels": [
-      "Feb 17",
       "Feb 18",
       "Feb 19",
       "Feb 20",
@@ -35,10 +34,10 @@
       "Mar 13",
       "Mar 14",
       "Mar 15",
-      "Mar 16"
+      "Mar 16",
+      "Mar 17"
     ],
     "values": [
-      8,
       3,
       5,
       2,
@@ -65,27 +64,28 @@
       2,
       0,
       7,
-      1
+      1,
+      0
     ]
   },
   "traffic_sources": {
-    "search": 30,
-    "browse": 7,
+    "search": 32,
+    "browse": 6,
     "external": 6,
-    "other": 57
+    "other": 56
   },
   "best_video": {
     "title": "Meshtastic Solar Node with Wio Tracker L1 - N8JRD #meshtastic #solarnode #hamradio #amateurradio",
-    "views": 1895,
-    "watch_hours": 12.9,
-    "likes": 56
+    "views": 1932,
+    "watch_hours": 13.2,
+    "likes": 58
   },
   "video_launches": [
     {
       "date": "Feb 26",
       "full_date": "2026-02-26",
       "title": "Ham Radio Repeater Upgrades - Touring a Vintage Motorola Micor Repeater Site",
-      "views": 1561,
+      "views": 1562,
       "likes": 68,
       "video_id": "pn-6WtI41MI"
     },
@@ -93,7 +93,7 @@
       "date": "Mar 05",
       "full_date": "2026-03-05",
       "title": "Price Increases, Oh My! - Episode 15 is Live Now #hamradio",
-      "views": 1220,
+      "views": 1221,
       "likes": 16,
       "video_id": "6omvDxgOpLc"
     },
@@ -101,7 +101,7 @@
       "date": "Mar 05",
       "full_date": "2026-03-05",
       "title": "Are Radio Prices Going Up? FT2, Bouvet 3Y0K, Yaesu &amp; HamClock",
-      "views": 493,
+      "views": 503,
       "likes": 36,
       "video_id": "KJN_OA-oZnQ"
     },
@@ -117,7 +117,7 @@
       "date": "Mar 12",
       "full_date": "2026-03-12",
       "title": "POTA Roving Florida&#39;s Space Coast After Hamcation - Seeing NASA Artemis II Moon Rocket",
-      "views": 155,
+      "views": 160,
       "likes": 18,
       "video_id": "4dP7kktHK0k"
     }
