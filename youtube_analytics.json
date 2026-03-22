@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-03-21",
-  "total_watch_hours": 605.0,
-  "avg_view_duration": 216,
+  "last_updated": "2026-03-22",
+  "total_watch_hours": 591.0,
+  "avg_view_duration": 193,
   "duration_change": null,
-  "avg_view_percentage": 25.4,
-  "subscribers_gained": 99,
-  "subscribers_lost": 16,
+  "avg_view_percentage": 25.1,
+  "subscribers_gained": 95,
+  "subscribers_lost": 18,
   "subscriber_growth_chart": {
     "labels": [
-      "Feb 19",
       "Feb 20",
       "Feb 21",
       "Feb 22",
@@ -35,10 +34,10 @@
       "Mar 15",
       "Mar 16",
       "Mar 17",
-      "Mar 18"
+      "Mar 18",
+      "Mar 19"
     ],
     "values": [
-      5,
       2,
       2,
       6,
@@ -65,20 +64,21 @@
       7,
       1,
       0,
-      1
+      1,
+      -1
     ]
   },
   "traffic_sources": {
-    "search": 33,
+    "search": 34,
     "browse": 6,
-    "external": 5,
-    "other": 56
+    "external": 6,
+    "other": 54
   },
   "best_video": {
     "title": "Meshtastic Solar Node with Wio Tracker L1 - N8JRD #meshtastic #solarnode #hamradio #amateurradio",
-    "views": 1958,
-    "watch_hours": 13.3,
-    "likes": 61
+    "views": 1977,
+    "watch_hours": 13.5,
+    "likes": 64
   },
   "video_launches": [
     {
@@ -92,16 +92,8 @@
     {
       "date": "Mar 05",
       "full_date": "2026-03-05",
-      "title": "Price Increases, Oh My! - Episode 15 is Live Now #hamradio",
-      "views": 1222,
-      "likes": 16,
-      "video_id": "6omvDxgOpLc"
-    },
-    {
-      "date": "Mar 05",
-      "full_date": "2026-03-05",
       "title": "Are Radio Prices Going Up? FT2, Bouvet 3Y0K, Yaesu &amp; HamClock",
-      "views": 514,
+      "views": 517,
       "likes": 37,
       "video_id": "KJN_OA-oZnQ"
     },
@@ -117,7 +109,7 @@
       "date": "Mar 12",
       "full_date": "2026-03-12",
       "title": "POTA Roving Florida&#39;s Space Coast After Hamcation - Seeing NASA Artemis II Moon Rocket",
-      "views": 160,
+      "views": 161,
       "likes": 18,
       "video_id": "4dP7kktHK0k"
     }
