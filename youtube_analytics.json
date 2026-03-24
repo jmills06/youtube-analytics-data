@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-03-23",
-  "total_watch_hours": 587.5,
-  "avg_view_duration": 220,
+  "last_updated": "2026-03-24",
+  "total_watch_hours": 586.0,
+  "avg_view_duration": 214,
   "duration_change": null,
   "avg_view_percentage": 25.0,
   "subscribers_gained": 95,
   "subscribers_lost": 17,
   "subscriber_growth_chart": {
     "labels": [
-      "Feb 21",
       "Feb 22",
       "Feb 23",
       "Feb 24",
@@ -35,10 +34,10 @@
       "Mar 17",
       "Mar 18",
       "Mar 19",
-      "Mar 20"
+      "Mar 20",
+      "Mar 21"
     ],
     "values": [
-      2,
       6,
       0,
       0,
@@ -65,27 +64,28 @@
       0,
       1,
       -1,
-      3
+      3,
+      2
     ]
   },
   "traffic_sources": {
     "search": 34,
-    "browse": 6,
-    "external": 6,
-    "other": 54
+    "browse": 5,
+    "external": 5,
+    "other": 56
   },
   "best_video": {
     "title": "Meshtastic Solar Node with Wio Tracker L1 - N8JRD #meshtastic #solarnode #hamradio #amateurradio",
-    "views": 1993,
-    "watch_hours": 13.6,
-    "likes": 64
+    "views": 2008,
+    "watch_hours": 13.7,
+    "likes": 63
   },
   "video_launches": [
     {
       "date": "Feb 26",
       "full_date": "2026-02-26",
       "title": "Ham Radio Repeater Upgrades - Touring a Vintage Motorola Micor Repeater Site",
-      "views": 1564,
+      "views": 1565,
       "likes": 68,
       "video_id": "pn-6WtI41MI"
     },
@@ -93,7 +93,7 @@
       "date": "Mar 05",
       "full_date": "2026-03-05",
       "title": "Price Increases, Oh My! - Episode 15 is Live Now #hamradio",
-      "views": 1222,
+      "views": 1223,
       "likes": 16,
       "video_id": "6omvDxgOpLc"
     },
@@ -101,7 +101,7 @@
       "date": "Mar 05",
       "full_date": "2026-03-05",
       "title": "Are Radio Prices Going Up? FT2, Bouvet 3Y0K, Yaesu &amp; HamClock",
-      "views": 522,
+      "views": 528,
       "likes": 37,
       "video_id": "KJN_OA-oZnQ"
     },
@@ -117,7 +117,7 @@
       "date": "Mar 12",
       "full_date": "2026-03-12",
       "title": "POTA Roving Florida&#39;s Space Coast After Hamcation - Seeing NASA Artemis II Moon Rocket",
-      "views": 162,
+      "views": 166,
       "likes": 19,
       "video_id": "4dP7kktHK0k"
     },
@@ -125,8 +125,8 @@
       "date": "Mar 22",
       "full_date": "2026-03-22",
       "title": "Stealth Condo Antenna install with a DJI Mini Drone - HOA Hams",
-      "views": 131,
-      "likes": 14,
+      "views": 358,
+      "likes": 16,
       "video_id": "vdaoVJKTXRU"
     }
   ]
