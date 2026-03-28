@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-03-27",
-  "total_watch_hours": 601.6,
-  "avg_view_duration": 176,
+  "last_updated": "2026-03-28",
+  "total_watch_hours": 601.1,
+  "avg_view_duration": 177,
   "duration_change": null,
-  "avg_view_percentage": 24.9,
-  "subscribers_gained": 94,
-  "subscribers_lost": 18,
+  "avg_view_percentage": 24.7,
+  "subscribers_gained": 97,
+  "subscribers_lost": 19,
   "subscriber_growth_chart": {
     "labels": [
-      "Feb 25",
       "Feb 26",
       "Feb 27",
       "Feb 28",
@@ -35,10 +34,10 @@
       "Mar 21",
       "Mar 22",
       "Mar 23",
-      "Mar 24"
+      "Mar 24",
+      "Mar 25"
     ],
     "values": [
-      3,
       12,
       6,
       3,
@@ -65,7 +64,8 @@
       2,
       1,
       1,
-      2
+      2,
+      5
     ]
   },
   "traffic_sources": {
@@ -76,8 +76,8 @@
   },
   "best_video": {
     "title": "Meshtastic Solar Node with Wio Tracker L1 - N8JRD #meshtastic #solarnode #hamradio #amateurradio",
-    "views": 2039,
-    "watch_hours": 14.0,
+    "views": 2061,
+    "watch_hours": 14.1,
     "likes": 56
   },
   "video_launches": [
@@ -101,7 +101,7 @@
       "date": "Mar 05",
       "full_date": "2026-03-05",
       "title": "Are Radio Prices Going Up? FT2, Bouvet 3Y0K, Yaesu &amp; HamClock",
-      "views": 535,
+      "views": 537,
       "likes": 37,
       "video_id": "KJN_OA-oZnQ"
     },
@@ -109,7 +109,7 @@
       "date": "Mar 05",
       "full_date": "2026-03-05",
       "title": "Are Radio Prices Going Up? Bouvet, Yaesu &amp; HamClock",
-      "views": 171,
+      "views": 172,
       "likes": 12,
       "video_id": "Koz7XST0tKw"
     },
@@ -117,7 +117,7 @@
       "date": "Mar 12",
       "full_date": "2026-03-12",
       "title": "POTA Roving Florida&#39;s Space Coast After Hamcation - Seeing NASA Artemis II Moon Rocket",
-      "views": 169,
+      "views": 170,
       "likes": 20,
       "video_id": "4dP7kktHK0k"
     },
@@ -125,7 +125,7 @@
       "date": "Mar 22",
       "full_date": "2026-03-22",
       "title": "Stealth Condo Antenna install with a DJI Mini Drone - HOA Hams",
-      "views": 754,
+      "views": 760,
       "likes": 19,
       "video_id": "vdaoVJKTXRU"
     },
@@ -133,8 +133,8 @@
       "date": "Mar 26",
       "full_date": "2026-03-26",
       "title": "Ham2K PoLo Cloud Sync Is Live and It&#39;s Just the Beginning",
-      "views": 139,
-      "likes": 21,
+      "views": 206,
+      "likes": 23,
       "video_id": "_rpb3BFjV-A"
     }
   ]
