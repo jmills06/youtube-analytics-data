@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-03-29",
-  "total_watch_hours": 583.0,
-  "avg_view_duration": 383,
+  "last_updated": "2026-03-30",
+  "total_watch_hours": 577.0,
+  "avg_view_duration": 302,
   "duration_change": null,
-  "avg_view_percentage": 23.5,
-  "subscribers_gained": 86,
+  "avg_view_percentage": 23.4,
+  "subscribers_gained": 83,
   "subscribers_lost": 22,
   "subscriber_growth_chart": {
     "labels": [
-      "Feb 27",
       "Feb 28",
       "Mar 01",
       "Mar 02",
@@ -35,10 +34,10 @@
       "Mar 23",
       "Mar 24",
       "Mar 25",
-      "Mar 26"
+      "Mar 26",
+      "Mar 27"
     ],
     "values": [
-      6,
       3,
       3,
       1,
@@ -65,19 +64,20 @@
       1,
       2,
       5,
-      -2
+      -2,
+      3
     ]
   },
   "traffic_sources": {
-    "search": 35,
+    "search": 36,
     "browse": 5,
     "external": 5,
-    "other": 55
+    "other": 54
   },
   "best_video": {
     "title": "Meshtastic Solar Node with Wio Tracker L1 - N8JRD #meshtastic #solarnode #hamradio #amateurradio",
-    "views": 2097,
-    "watch_hours": 14.4,
+    "views": 2132,
+    "watch_hours": 14.6,
     "likes": 55
   },
   "video_launches": [
@@ -117,15 +117,15 @@
       "date": "Mar 22",
       "full_date": "2026-03-22",
       "title": "Stealth Condo Antenna install with a DJI Mini Drone - HOA Hams",
-      "views": 769,
-      "likes": 19,
+      "views": 780,
+      "likes": 20,
       "video_id": "vdaoVJKTXRU"
     },
     {
       "date": "Mar 26",
       "full_date": "2026-03-26",
       "title": "Ham2K PoLo Cloud Sync Is Live and It&#39;s Just the Beginning",
-      "views": 222,
+      "views": 249,
       "likes": 24,
       "video_id": "_rpb3BFjV-A"
     }
