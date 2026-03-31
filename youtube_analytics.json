@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-03-30",
-  "total_watch_hours": 577.0,
-  "avg_view_duration": 302,
+  "last_updated": "2026-03-31",
+  "total_watch_hours": 558.2,
+  "avg_view_duration": 0,
   "duration_change": null,
-  "avg_view_percentage": 23.4,
-  "subscribers_gained": 83,
-  "subscribers_lost": 22,
+  "avg_view_percentage": 23.2,
+  "subscribers_gained": 77,
+  "subscribers_lost": 19,
   "subscriber_growth_chart": {
     "labels": [
-      "Feb 28",
       "Mar 01",
       "Mar 02",
       "Mar 03",
@@ -35,10 +34,10 @@
       "Mar 24",
       "Mar 25",
       "Mar 26",
-      "Mar 27"
+      "Mar 27",
+      "Mar 28"
     ],
     "values": [
-      3,
       3,
       1,
       0,
@@ -65,20 +64,21 @@
       2,
       5,
       -2,
-      3
+      3,
+      0
     ]
   },
   "traffic_sources": {
-    "search": 36,
+    "search": 37,
     "browse": 5,
     "external": 5,
-    "other": 54
+    "other": 53
   },
   "best_video": {
     "title": "Meshtastic Solar Node with Wio Tracker L1 - N8JRD #meshtastic #solarnode #hamradio #amateurradio",
-    "views": 2132,
-    "watch_hours": 14.6,
-    "likes": 55
+    "views": 2080,
+    "watch_hours": 14.2,
+    "likes": 54
   },
   "video_launches": [
     {
@@ -93,7 +93,7 @@
       "date": "Mar 05",
       "full_date": "2026-03-05",
       "title": "Are Radio Prices Going Up? FT2, Bouvet 3Y0K, Yaesu &amp; HamClock",
-      "views": 543,
+      "views": 545,
       "likes": 37,
       "video_id": "KJN_OA-oZnQ"
     },
@@ -117,7 +117,7 @@
       "date": "Mar 22",
       "full_date": "2026-03-22",
       "title": "Stealth Condo Antenna install with a DJI Mini Drone - HOA Hams",
-      "views": 780,
+      "views": 786,
       "likes": 20,
       "video_id": "vdaoVJKTXRU"
     },
@@ -125,7 +125,7 @@
       "date": "Mar 26",
       "full_date": "2026-03-26",
       "title": "Ham2K PoLo Cloud Sync Is Live and It&#39;s Just the Beginning",
-      "views": 249,
+      "views": 294,
       "likes": 24,
       "video_id": "_rpb3BFjV-A"
     }
