@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-04-01",
-  "total_watch_hours": 570.7,
-  "avg_view_duration": 216,
+  "last_updated": "2026-04-02",
+  "total_watch_hours": 572.6,
+  "avg_view_duration": 172,
   "duration_change": null,
-  "avg_view_percentage": 23.1,
+  "avg_view_percentage": 23.0,
   "subscribers_gained": 80,
   "subscribers_lost": 17,
   "subscriber_growth_chart": {
     "labels": [
-      "Mar 02",
       "Mar 03",
       "Mar 04",
       "Mar 05",
@@ -35,10 +34,10 @@
       "Mar 26",
       "Mar 27",
       "Mar 28",
-      "Mar 29"
+      "Mar 29",
+      "Mar 30"
     ],
     "values": [
-      1,
       0,
       2,
       3,
@@ -65,7 +64,8 @@
       -2,
       3,
       5,
-      3
+      3,
+      1
     ]
   },
   "traffic_sources": {
@@ -76,16 +76,16 @@
   },
   "best_video": {
     "title": "Meshtastic Solar Node with Wio Tracker L1 - N8JRD #meshtastic #solarnode #hamradio #amateurradio",
-    "views": 2178,
-    "watch_hours": 14.8,
-    "likes": 56
+    "views": 2167,
+    "watch_hours": 14.6,
+    "likes": 55
   },
   "video_launches": [
     {
       "date": "Mar 05",
       "full_date": "2026-03-05",
       "title": "Price Increases, Oh My! - Episode 15 is Live Now #hamradio",
-      "views": 1227,
+      "views": 1228,
       "likes": 16,
       "video_id": "6omvDxgOpLc"
     },
@@ -93,7 +93,7 @@
       "date": "Mar 05",
       "full_date": "2026-03-05",
       "title": "Are Radio Prices Going Up? FT2, Bouvet 3Y0K, Yaesu &amp; HamClock",
-      "views": 546,
+      "views": 550,
       "likes": 37,
       "video_id": "KJN_OA-oZnQ"
     },
@@ -117,7 +117,7 @@
       "date": "Mar 22",
       "full_date": "2026-03-22",
       "title": "Stealth Condo Antenna install with a DJI Mini Drone - HOA Hams",
-      "views": 790,
+      "views": 797,
       "likes": 20,
       "video_id": "vdaoVJKTXRU"
     },
@@ -125,7 +125,7 @@
       "date": "Mar 26",
       "full_date": "2026-03-26",
       "title": "Ham2K PoLo Cloud Sync Is Live and It&#39;s Just the Beginning",
-      "views": 327,
+      "views": 355,
       "likes": 27,
       "video_id": "_rpb3BFjV-A"
     },
@@ -133,15 +133,15 @@
       "date": "Mar 31",
       "full_date": "2026-03-31",
       "title": "Is BG2FX Building a New 50-Watt Radio? Life after the FX-4CR is QRO!",
-      "views": 234,
-      "likes": 23,
+      "views": 397,
+      "likes": 29,
       "video_id": "gN1AIV5J-4s"
     },
     {
       "date": "Apr 01",
       "full_date": "2026-04-01",
       "title": "Is BG2FX Building the Ultimate Portable Radio?",
-      "views": 231,
+      "views": 309,
       "likes": 1,
       "video_id": "lmdm14Arg6A"
     }
