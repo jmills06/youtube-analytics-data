@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-04-02",
-  "total_watch_hours": 572.6,
-  "avg_view_duration": 172,
+  "last_updated": "2026-04-03",
+  "total_watch_hours": 614.0,
+  "avg_view_duration": 383,
   "duration_change": null,
-  "avg_view_percentage": 23.0,
-  "subscribers_gained": 80,
+  "avg_view_percentage": 23.2,
+  "subscribers_gained": 83,
   "subscribers_lost": 17,
   "subscriber_growth_chart": {
     "labels": [
-      "Mar 03",
       "Mar 04",
       "Mar 05",
       "Mar 06",
@@ -35,10 +34,10 @@
       "Mar 27",
       "Mar 28",
       "Mar 29",
-      "Mar 30"
+      "Mar 30",
+      "Mar 31"
     ],
     "values": [
-      0,
       2,
       3,
       4,
@@ -65,27 +64,28 @@
       3,
       5,
       3,
-      1
+      1,
+      3
     ]
   },
   "traffic_sources": {
-    "search": 38,
+    "search": 37,
     "browse": 5,
     "external": 5,
-    "other": 52
+    "other": 53
   },
   "best_video": {
     "title": "Meshtastic Solar Node with Wio Tracker L1 - N8JRD #meshtastic #solarnode #hamradio #amateurradio",
-    "views": 2167,
+    "views": 2150,
     "watch_hours": 14.6,
-    "likes": 55
+    "likes": 52
   },
   "video_launches": [
     {
       "date": "Mar 05",
       "full_date": "2026-03-05",
       "title": "Price Increases, Oh My! - Episode 15 is Live Now #hamradio",
-      "views": 1228,
+      "views": 1230,
       "likes": 16,
       "video_id": "6omvDxgOpLc"
     },
@@ -93,7 +93,7 @@
       "date": "Mar 05",
       "full_date": "2026-03-05",
       "title": "Are Radio Prices Going Up? FT2, Bouvet 3Y0K, Yaesu &amp; HamClock",
-      "views": 550,
+      "views": 553,
       "likes": 37,
       "video_id": "KJN_OA-oZnQ"
     },
@@ -109,7 +109,7 @@
       "date": "Mar 12",
       "full_date": "2026-03-12",
       "title": "POTA Roving Florida&#39;s Space Coast After Hamcation - Seeing NASA Artemis II Moon Rocket",
-      "views": 170,
+      "views": 171,
       "likes": 20,
       "video_id": "4dP7kktHK0k"
     },
@@ -117,7 +117,7 @@
       "date": "Mar 22",
       "full_date": "2026-03-22",
       "title": "Stealth Condo Antenna install with a DJI Mini Drone - HOA Hams",
-      "views": 797,
+      "views": 801,
       "likes": 20,
       "video_id": "vdaoVJKTXRU"
     },
@@ -125,7 +125,7 @@
       "date": "Mar 26",
       "full_date": "2026-03-26",
       "title": "Ham2K PoLo Cloud Sync Is Live and It&#39;s Just the Beginning",
-      "views": 355,
+      "views": 363,
       "likes": 27,
       "video_id": "_rpb3BFjV-A"
     },
@@ -133,16 +133,16 @@
       "date": "Mar 31",
       "full_date": "2026-03-31",
       "title": "Is BG2FX Building a New 50-Watt Radio? Life after the FX-4CR is QRO!",
-      "views": 397,
-      "likes": 29,
+      "views": 542,
+      "likes": 34,
       "video_id": "gN1AIV5J-4s"
     },
     {
       "date": "Apr 01",
       "full_date": "2026-04-01",
       "title": "Is BG2FX Building the Ultimate Portable Radio?",
-      "views": 309,
-      "likes": 1,
+      "views": 445,
+      "likes": 3,
       "video_id": "lmdm14Arg6A"
     }
   ]
