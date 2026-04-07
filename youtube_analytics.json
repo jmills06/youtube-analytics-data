@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-04-06",
-  "total_watch_hours": 566.8,
-  "avg_view_duration": 176,
+  "last_updated": "2026-04-07",
+  "total_watch_hours": 565.9,
+  "avg_view_duration": 218,
   "duration_change": null,
-  "avg_view_percentage": 23.1,
-  "subscribers_gained": 82,
-  "subscribers_lost": 17,
+  "avg_view_percentage": 23.2,
+  "subscribers_gained": 81,
+  "subscribers_lost": 16,
   "subscriber_growth_chart": {
     "labels": [
-      "Mar 07",
       "Mar 08",
       "Mar 09",
       "Mar 10",
@@ -35,10 +34,10 @@
       "Mar 31",
       "Apr 01",
       "Apr 02",
-      "Apr 03"
+      "Apr 03",
+      "Apr 04"
     ],
     "values": [
-      3,
       4,
       2,
       3,
@@ -65,20 +64,21 @@
       3,
       2,
       4,
-      2
+      2,
+      3
     ]
   },
   "traffic_sources": {
-    "search": 38,
+    "search": 39,
     "browse": 6,
     "external": 5,
-    "other": 51
+    "other": 50
   },
   "best_video": {
     "title": "Meshtastic Solar Node with Wio Tracker L1 - N8JRD #meshtastic #solarnode #hamradio #amateurradio",
-    "views": 2186,
-    "watch_hours": 14.7,
-    "likes": 53
+    "views": 2159,
+    "watch_hours": 14.5,
+    "likes": 52
   },
   "video_launches": [
     {
@@ -93,7 +93,7 @@
       "date": "Mar 22",
       "full_date": "2026-03-22",
       "title": "Stealth Condo Antenna install with a DJI Mini Drone - HOA Hams",
-      "views": 807,
+      "views": 808,
       "likes": 20,
       "video_id": "vdaoVJKTXRU"
     },
@@ -101,7 +101,7 @@
       "date": "Mar 26",
       "full_date": "2026-03-26",
       "title": "Ham2K PoLo Cloud Sync Is Live and It&#39;s Just the Beginning",
-      "views": 379,
+      "views": 380,
       "likes": 27,
       "video_id": "_rpb3BFjV-A"
     },
@@ -109,15 +109,15 @@
       "date": "Mar 31",
       "full_date": "2026-03-31",
       "title": "Is BG2FX Building a New 50-Watt Radio? Life after the FX-4CR is QRO!",
-      "views": 714,
-      "likes": 35,
+      "views": 726,
+      "likes": 36,
       "video_id": "gN1AIV5J-4s"
     },
     {
       "date": "Apr 01",
       "full_date": "2026-04-01",
       "title": "Is BG2FX Building the Ultimate Portable Radio?",
-      "views": 558,
+      "views": 561,
       "likes": 5,
       "video_id": "lmdm14Arg6A"
     }
