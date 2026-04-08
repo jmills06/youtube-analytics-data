@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-04-07",
-  "total_watch_hours": 565.9,
-  "avg_view_duration": 218,
+  "last_updated": "2026-04-08",
+  "total_watch_hours": 558.8,
+  "avg_view_duration": 162,
   "duration_change": null,
-  "avg_view_percentage": 23.2,
-  "subscribers_gained": 81,
-  "subscribers_lost": 16,
+  "avg_view_percentage": 23.3,
+  "subscribers_gained": 77,
+  "subscribers_lost": 15,
   "subscriber_growth_chart": {
     "labels": [
-      "Mar 08",
       "Mar 09",
       "Mar 10",
       "Mar 11",
@@ -35,10 +34,10 @@
       "Apr 01",
       "Apr 02",
       "Apr 03",
-      "Apr 04"
+      "Apr 04",
+      "Apr 05"
     ],
     "values": [
-      4,
       2,
       3,
       4,
@@ -65,19 +64,20 @@
       2,
       4,
       2,
-      3
+      3,
+      1
     ]
   },
   "traffic_sources": {
-    "search": 39,
+    "search": 40,
     "browse": 6,
     "external": 5,
-    "other": 50
+    "other": 49
   },
   "best_video": {
     "title": "Meshtastic Solar Node with Wio Tracker L1 - N8JRD #meshtastic #solarnode #hamradio #amateurradio",
-    "views": 2159,
-    "watch_hours": 14.5,
+    "views": 2191,
+    "watch_hours": 14.8,
     "likes": 52
   },
   "video_launches": [
@@ -101,7 +101,7 @@
       "date": "Mar 26",
       "full_date": "2026-03-26",
       "title": "Ham2K PoLo Cloud Sync Is Live and It&#39;s Just the Beginning",
-      "views": 380,
+      "views": 386,
       "likes": 27,
       "video_id": "_rpb3BFjV-A"
     },
@@ -109,8 +109,8 @@
       "date": "Mar 31",
       "full_date": "2026-03-31",
       "title": "Is BG2FX Building a New 50-Watt Radio? Life after the FX-4CR is QRO!",
-      "views": 726,
-      "likes": 36,
+      "views": 748,
+      "likes": 38,
       "video_id": "gN1AIV5J-4s"
     },
     {
