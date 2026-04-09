@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-04-08",
-  "total_watch_hours": 558.8,
-  "avg_view_duration": 162,
+  "last_updated": "2026-04-09",
+  "total_watch_hours": 556.2,
+  "avg_view_duration": 159,
   "duration_change": null,
-  "avg_view_percentage": 23.3,
-  "subscribers_gained": 77,
+  "avg_view_percentage": 23.5,
+  "subscribers_gained": 75,
   "subscribers_lost": 15,
   "subscriber_growth_chart": {
     "labels": [
-      "Mar 09",
       "Mar 10",
       "Mar 11",
       "Mar 12",
@@ -35,10 +34,10 @@
       "Apr 02",
       "Apr 03",
       "Apr 04",
-      "Apr 05"
+      "Apr 05",
+      "Apr 06"
     ],
     "values": [
-      2,
       3,
       4,
       4,
@@ -65,7 +64,8 @@
       4,
       2,
       3,
-      1
+      1,
+      0
     ]
   },
   "traffic_sources": {
@@ -76,8 +76,8 @@
   },
   "best_video": {
     "title": "Meshtastic Solar Node with Wio Tracker L1 - N8JRD #meshtastic #solarnode #hamradio #amateurradio",
-    "views": 2191,
-    "watch_hours": 14.8,
+    "views": 2165,
+    "watch_hours": 14.6,
     "likes": 52
   },
   "video_launches": [
@@ -85,7 +85,7 @@
       "date": "Mar 12",
       "full_date": "2026-03-12",
       "title": "POTA Roving Florida&#39;s Space Coast After Hamcation - Seeing NASA Artemis II Moon Rocket",
-      "views": 173,
+      "views": 174,
       "likes": 20,
       "video_id": "4dP7kktHK0k"
     },
@@ -93,7 +93,7 @@
       "date": "Mar 22",
       "full_date": "2026-03-22",
       "title": "Stealth Condo Antenna install with a DJI Mini Drone - HOA Hams",
-      "views": 808,
+      "views": 810,
       "likes": 20,
       "video_id": "vdaoVJKTXRU"
     },
@@ -101,7 +101,7 @@
       "date": "Mar 26",
       "full_date": "2026-03-26",
       "title": "Ham2K PoLo Cloud Sync Is Live and It&#39;s Just the Beginning",
-      "views": 386,
+      "views": 389,
       "likes": 27,
       "video_id": "_rpb3BFjV-A"
     },
@@ -109,7 +109,7 @@
       "date": "Mar 31",
       "full_date": "2026-03-31",
       "title": "Is BG2FX Building a New 50-Watt Radio? Life after the FX-4CR is QRO!",
-      "views": 748,
+      "views": 763,
       "likes": 38,
       "video_id": "gN1AIV5J-4s"
     },
@@ -117,7 +117,7 @@
       "date": "Apr 01",
       "full_date": "2026-04-01",
       "title": "Is BG2FX Building the Ultimate Portable Radio?",
-      "views": 561,
+      "views": 563,
       "likes": 5,
       "video_id": "lmdm14Arg6A"
     }
