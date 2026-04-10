@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-04-09",
-  "total_watch_hours": 556.2,
-  "avg_view_duration": 159,
+  "last_updated": "2026-04-10",
+  "total_watch_hours": 564.5,
+  "avg_view_duration": 337,
   "duration_change": null,
-  "avg_view_percentage": 23.5,
-  "subscribers_gained": 75,
+  "avg_view_percentage": 23.6,
+  "subscribers_gained": 73,
   "subscribers_lost": 15,
   "subscriber_growth_chart": {
     "labels": [
-      "Mar 10",
       "Mar 11",
       "Mar 12",
       "Mar 13",
@@ -35,10 +34,10 @@
       "Apr 03",
       "Apr 04",
       "Apr 05",
-      "Apr 06"
+      "Apr 06",
+      "Apr 07"
     ],
     "values": [
-      3,
       4,
       4,
       2,
@@ -65,7 +64,8 @@
       2,
       3,
       1,
-      0
+      0,
+      1
     ]
   },
   "traffic_sources": {
@@ -76,8 +76,8 @@
   },
   "best_video": {
     "title": "Meshtastic Solar Node with Wio Tracker L1 - N8JRD #meshtastic #solarnode #hamradio #amateurradio",
-    "views": 2165,
-    "watch_hours": 14.6,
+    "views": 2152,
+    "watch_hours": 13.9,
     "likes": 52
   },
   "video_launches": [
@@ -85,7 +85,7 @@
       "date": "Mar 12",
       "full_date": "2026-03-12",
       "title": "POTA Roving Florida&#39;s Space Coast After Hamcation - Seeing NASA Artemis II Moon Rocket",
-      "views": 174,
+      "views": 175,
       "likes": 20,
       "video_id": "4dP7kktHK0k"
     },
@@ -93,7 +93,7 @@
       "date": "Mar 22",
       "full_date": "2026-03-22",
       "title": "Stealth Condo Antenna install with a DJI Mini Drone - HOA Hams",
-      "views": 810,
+      "views": 811,
       "likes": 20,
       "video_id": "vdaoVJKTXRU"
     },
@@ -101,7 +101,7 @@
       "date": "Mar 26",
       "full_date": "2026-03-26",
       "title": "Ham2K PoLo Cloud Sync Is Live and It&#39;s Just the Beginning",
-      "views": 389,
+      "views": 391,
       "likes": 27,
       "video_id": "_rpb3BFjV-A"
     },
@@ -109,7 +109,7 @@
       "date": "Mar 31",
       "full_date": "2026-03-31",
       "title": "Is BG2FX Building a New 50-Watt Radio? Life after the FX-4CR is QRO!",
-      "views": 763,
+      "views": 773,
       "likes": 38,
       "video_id": "gN1AIV5J-4s"
     },
@@ -120,6 +120,22 @@
       "views": 563,
       "likes": 5,
       "video_id": "lmdm14Arg6A"
+    },
+    {
+      "date": "Apr 09",
+      "full_date": "2026-04-09",
+      "title": "When you accidentally receive signals from space and feel weird about it \ud83d\ude02",
+      "views": 1209,
+      "likes": 33,
+      "video_id": "YSZ2yiiWRGo"
+    },
+    {
+      "date": "Apr 09",
+      "full_date": "2026-04-09",
+      "title": "Returning to the Moon: Optimism &amp; Technology that Moves Our Space Needle",
+      "views": 68,
+      "likes": 10,
+      "video_id": "nFmV750qMPY"
     }
   ]
 }
