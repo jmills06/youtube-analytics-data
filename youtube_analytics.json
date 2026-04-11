@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-04-10",
-  "total_watch_hours": 564.5,
-  "avg_view_duration": 337,
+  "last_updated": "2026-04-11",
+  "total_watch_hours": 555.7,
+  "avg_view_duration": 217,
   "duration_change": null,
-  "avg_view_percentage": 23.6,
+  "avg_view_percentage": 23.7,
   "subscribers_gained": 73,
   "subscribers_lost": 15,
   "subscriber_growth_chart": {
     "labels": [
-      "Mar 11",
       "Mar 12",
       "Mar 13",
       "Mar 14",
@@ -35,10 +34,10 @@
       "Apr 04",
       "Apr 05",
       "Apr 06",
-      "Apr 07"
+      "Apr 07",
+      "Apr 08"
     ],
     "values": [
-      4,
       4,
       2,
       0,
@@ -65,7 +64,8 @@
       3,
       1,
       0,
-      1
+      1,
+      4
     ]
   },
   "traffic_sources": {
@@ -76,8 +76,8 @@
   },
   "best_video": {
     "title": "Meshtastic Solar Node with Wio Tracker L1 - N8JRD #meshtastic #solarnode #hamradio #amateurradio",
-    "views": 2152,
-    "watch_hours": 13.9,
+    "views": 2107,
+    "watch_hours": 13.5,
     "likes": 52
   },
   "video_launches": [
@@ -93,7 +93,7 @@
       "date": "Mar 22",
       "full_date": "2026-03-22",
       "title": "Stealth Condo Antenna install with a DJI Mini Drone - HOA Hams",
-      "views": 811,
+      "views": 812,
       "likes": 20,
       "video_id": "vdaoVJKTXRU"
     },
@@ -101,7 +101,7 @@
       "date": "Mar 26",
       "full_date": "2026-03-26",
       "title": "Ham2K PoLo Cloud Sync Is Live and It&#39;s Just the Beginning",
-      "views": 391,
+      "views": 395,
       "likes": 27,
       "video_id": "_rpb3BFjV-A"
     },
@@ -109,15 +109,15 @@
       "date": "Mar 31",
       "full_date": "2026-03-31",
       "title": "Is BG2FX Building a New 50-Watt Radio? Life after the FX-4CR is QRO!",
-      "views": 773,
-      "likes": 38,
+      "views": 782,
+      "likes": 39,
       "video_id": "gN1AIV5J-4s"
     },
     {
       "date": "Apr 01",
       "full_date": "2026-04-01",
       "title": "Is BG2FX Building the Ultimate Portable Radio?",
-      "views": 563,
+      "views": 565,
       "likes": 5,
       "video_id": "lmdm14Arg6A"
     },
@@ -125,7 +125,7 @@
       "date": "Apr 09",
       "full_date": "2026-04-09",
       "title": "When you accidentally receive signals from space and feel weird about it \ud83d\ude02",
-      "views": 1209,
+      "views": 1240,
       "likes": 33,
       "video_id": "YSZ2yiiWRGo"
     },
@@ -133,8 +133,8 @@
       "date": "Apr 09",
       "full_date": "2026-04-09",
       "title": "Returning to the Moon: Optimism &amp; Technology that Moves Our Space Needle",
-      "views": 68,
-      "likes": 10,
+      "views": 104,
+      "likes": 12,
       "video_id": "nFmV750qMPY"
     }
   ]
