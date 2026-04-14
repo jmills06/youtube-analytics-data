@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-04-13",
-  "total_watch_hours": 545.0,
-  "avg_view_duration": 192,
+  "last_updated": "2026-04-14",
+  "total_watch_hours": 539.3,
+  "avg_view_duration": 172,
   "duration_change": null,
-  "avg_view_percentage": 23.7,
-  "subscribers_gained": 71,
-  "subscribers_lost": 15,
+  "avg_view_percentage": 23.6,
+  "subscribers_gained": 75,
+  "subscribers_lost": 18,
   "subscriber_growth_chart": {
     "labels": [
-      "Mar 14",
       "Mar 15",
       "Mar 16",
       "Mar 17",
@@ -35,10 +34,10 @@
       "Apr 07",
       "Apr 08",
       "Apr 09",
-      "Apr 10"
+      "Apr 10",
+      "Apr 11"
     ],
     "values": [
-      0,
       7,
       1,
       0,
@@ -65,7 +64,8 @@
       1,
       4,
       4,
-      0
+      0,
+      1
     ]
   },
   "traffic_sources": {
@@ -76,16 +76,16 @@
   },
   "best_video": {
     "title": "Meshtastic Solar Node with Wio Tracker L1 - N8JRD #meshtastic #solarnode #hamradio #amateurradio",
-    "views": 2060,
-    "watch_hours": 13.2,
-    "likes": 51
+    "views": 2045,
+    "watch_hours": 13.1,
+    "likes": 50
   },
   "video_launches": [
     {
       "date": "Mar 22",
       "full_date": "2026-03-22",
       "title": "Stealth Condo Antenna install with a DJI Mini Drone - HOA Hams",
-      "views": 813,
+      "views": 814,
       "likes": 20,
       "video_id": "vdaoVJKTXRU"
     },
@@ -93,7 +93,7 @@
       "date": "Mar 26",
       "full_date": "2026-03-26",
       "title": "Ham2K PoLo Cloud Sync Is Live and It&#39;s Just the Beginning",
-      "views": 396,
+      "views": 397,
       "likes": 28,
       "video_id": "_rpb3BFjV-A"
     },
@@ -101,7 +101,7 @@
       "date": "Mar 31",
       "full_date": "2026-03-31",
       "title": "Is BG2FX Building a New 50-Watt Radio? Life after the FX-4CR is QRO!",
-      "views": 800,
+      "views": 803,
       "likes": 40,
       "video_id": "gN1AIV5J-4s"
     },
@@ -117,7 +117,7 @@
       "date": "Apr 09",
       "full_date": "2026-04-09",
       "title": "When you accidentally receive signals from space and feel weird about it \ud83d\ude02",
-      "views": 1304,
+      "views": 1318,
       "likes": 34,
       "video_id": "YSZ2yiiWRGo"
     },
@@ -125,7 +125,7 @@
       "date": "Apr 09",
       "full_date": "2026-04-09",
       "title": "Returning to the Moon: Optimism &amp; Technology that Moves Our Space Needle",
-      "views": 115,
+      "views": 119,
       "likes": 13,
       "video_id": "nFmV750qMPY"
     }
