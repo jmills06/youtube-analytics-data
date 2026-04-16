@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-04-15",
-  "total_watch_hours": 528.8,
-  "avg_view_duration": 198,
+  "last_updated": "2026-04-16",
+  "total_watch_hours": 525.6,
+  "avg_view_duration": 208,
   "duration_change": null,
-  "avg_view_percentage": 23.4,
+  "avg_view_percentage": 23.3,
   "subscribers_gained": 68,
   "subscribers_lost": 17,
   "subscriber_growth_chart": {
     "labels": [
-      "Mar 16",
       "Mar 17",
       "Mar 18",
       "Mar 19",
@@ -35,10 +34,10 @@
       "Apr 09",
       "Apr 10",
       "Apr 11",
-      "Apr 12"
+      "Apr 12",
+      "Apr 13"
     ],
     "values": [
-      1,
       0,
       1,
       -1,
@@ -65,6 +64,7 @@
       4,
       0,
       1,
+      1,
       1
     ]
   },
@@ -76,16 +76,16 @@
   },
   "best_video": {
     "title": "Meshtastic Solar Node with Wio Tracker L1 - N8JRD #meshtastic #solarnode #hamradio #amateurradio",
-    "views": 2029,
-    "watch_hours": 13.0,
-    "likes": 53
+    "views": 2009,
+    "watch_hours": 12.8,
+    "likes": 52
   },
   "video_launches": [
     {
       "date": "Mar 22",
       "full_date": "2026-03-22",
       "title": "Stealth Condo Antenna install with a DJI Mini Drone - HOA Hams",
-      "views": 814,
+      "views": 815,
       "likes": 20,
       "video_id": "vdaoVJKTXRU"
     },
@@ -94,14 +94,14 @@
       "full_date": "2026-03-26",
       "title": "Ham2K PoLo Cloud Sync Is Live and It&#39;s Just the Beginning",
       "views": 398,
-      "likes": 28,
+      "likes": 29,
       "video_id": "_rpb3BFjV-A"
     },
     {
       "date": "Mar 31",
       "full_date": "2026-03-31",
       "title": "Is BG2FX Building a New 50-Watt Radio? Life after the FX-4CR is QRO!",
-      "views": 807,
+      "views": 815,
       "likes": 40,
       "video_id": "gN1AIV5J-4s"
     },
@@ -109,7 +109,7 @@
       "date": "Apr 01",
       "full_date": "2026-04-01",
       "title": "Is BG2FX Building the Ultimate Portable Radio?",
-      "views": 569,
+      "views": 573,
       "likes": 5,
       "video_id": "lmdm14Arg6A"
     },
@@ -117,7 +117,7 @@
       "date": "Apr 09",
       "full_date": "2026-04-09",
       "title": "When you accidentally receive signals from space and feel weird about it \ud83d\ude02",
-      "views": 1326,
+      "views": 1333,
       "likes": 34,
       "video_id": "YSZ2yiiWRGo"
     },
@@ -125,7 +125,7 @@
       "date": "Apr 09",
       "full_date": "2026-04-09",
       "title": "Returning to the Moon: Optimism &amp; Technology that Moves Our Space Needle",
-      "views": 122,
+      "views": 123,
       "likes": 13,
       "video_id": "nFmV750qMPY"
     },
@@ -133,8 +133,8 @@
       "date": "Apr 14",
       "full_date": "2026-04-14",
       "title": "Cushcraft and Hy-Gain Live On!  MFJ Liquidates Two key Ham Brands",
-      "views": 110,
-      "likes": 9,
+      "views": 161,
+      "likes": 12,
       "video_id": "eLxItOu6t7A"
     }
   ]
