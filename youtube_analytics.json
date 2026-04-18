@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-04-17",
-  "total_watch_hours": 518.1,
-  "avg_view_duration": 172,
+  "last_updated": "2026-04-18",
+  "total_watch_hours": 515.9,
+  "avg_view_duration": 164,
   "duration_change": null,
   "avg_view_percentage": 23.1,
   "subscribers_gained": 73,
-  "subscribers_lost": 16,
+  "subscribers_lost": 17,
   "subscriber_growth_chart": {
     "labels": [
-      "Mar 18",
       "Mar 19",
       "Mar 20",
       "Mar 21",
@@ -35,10 +34,10 @@
       "Apr 11",
       "Apr 12",
       "Apr 13",
-      "Apr 14"
+      "Apr 14",
+      "Apr 15"
     ],
     "values": [
-      1,
       -1,
       3,
       2,
@@ -65,7 +64,8 @@
       1,
       1,
       1,
-      6
+      6,
+      0
     ]
   },
   "traffic_sources": {
@@ -76,9 +76,9 @@
   },
   "best_video": {
     "title": "Meshtastic Solar Node with Wio Tracker L1 - N8JRD #meshtastic #solarnode #hamradio #amateurradio",
-    "views": 1965,
-    "watch_hours": 12.5,
-    "likes": 52
+    "views": 1919,
+    "watch_hours": 12.2,
+    "likes": 49
   },
   "video_launches": [
     {
@@ -93,7 +93,7 @@
       "date": "Mar 26",
       "full_date": "2026-03-26",
       "title": "Ham2K PoLo Cloud Sync Is Live and It&#39;s Just the Beginning",
-      "views": 401,
+      "views": 402,
       "likes": 29,
       "video_id": "_rpb3BFjV-A"
     },
@@ -101,7 +101,7 @@
       "date": "Mar 31",
       "full_date": "2026-03-31",
       "title": "Is BG2FX Building a New 50-Watt Radio? Life after the FX-4CR is QRO!",
-      "views": 818,
+      "views": 819,
       "likes": 41,
       "video_id": "gN1AIV5J-4s"
     },
@@ -125,7 +125,7 @@
       "date": "Apr 09",
       "full_date": "2026-04-09",
       "title": "Returning to the Moon: Optimism &amp; Technology that Moves Our Space Needle",
-      "views": 124,
+      "views": 125,
       "likes": 13,
       "video_id": "nFmV750qMPY"
     },
@@ -133,7 +133,7 @@
       "date": "Apr 14",
       "full_date": "2026-04-14",
       "title": "Cushcraft and Hy-Gain Live On!  MFJ Liquidates Two key Ham Brands",
-      "views": 209,
+      "views": 239,
       "likes": 12,
       "video_id": "eLxItOu6t7A"
     }
