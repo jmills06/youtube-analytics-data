@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-04-19",
-  "total_watch_hours": 513.2,
-  "avg_view_duration": 167,
+  "last_updated": "2026-04-20",
+  "total_watch_hours": 510.8,
+  "avg_view_duration": 166,
   "duration_change": null,
-  "avg_view_percentage": 23.2,
-  "subscribers_gained": 73,
-  "subscribers_lost": 15,
+  "avg_view_percentage": 23.3,
+  "subscribers_gained": 70,
+  "subscribers_lost": 16,
   "subscriber_growth_chart": {
     "labels": [
-      "Mar 20",
       "Mar 21",
       "Mar 22",
       "Mar 23",
@@ -35,10 +34,10 @@
       "Apr 13",
       "Apr 14",
       "Apr 15",
-      "Apr 16"
+      "Apr 16",
+      "Apr 17"
     ],
     "values": [
-      3,
       2,
       1,
       1,
@@ -65,7 +64,8 @@
       1,
       6,
       0,
-      1
+      1,
+      -1
     ]
   },
   "traffic_sources": {
@@ -76,16 +76,16 @@
   },
   "best_video": {
     "title": "Meshtastic Solar Node with Wio Tracker L1 - N8JRD #meshtastic #solarnode #hamradio #amateurradio",
-    "views": 1902,
-    "watch_hours": 12.0,
-    "likes": 46
+    "views": 1951,
+    "watch_hours": 12.9,
+    "likes": 45
   },
   "video_launches": [
     {
       "date": "Mar 22",
       "full_date": "2026-03-22",
       "title": "Stealth Condo Antenna install with a DJI Mini Drone - HOA Hams",
-      "views": 818,
+      "views": 819,
       "likes": 20,
       "video_id": "vdaoVJKTXRU"
     },
@@ -93,7 +93,7 @@
       "date": "Mar 26",
       "full_date": "2026-03-26",
       "title": "Ham2K PoLo Cloud Sync Is Live and It&#39;s Just the Beginning",
-      "views": 403,
+      "views": 406,
       "likes": 29,
       "video_id": "_rpb3BFjV-A"
     },
@@ -101,15 +101,15 @@
       "date": "Mar 31",
       "full_date": "2026-03-31",
       "title": "Is BG2FX Building a New 50-Watt Radio? Life after the FX-4CR is QRO!",
-      "views": 828,
-      "likes": 42,
+      "views": 831,
+      "likes": 43,
       "video_id": "gN1AIV5J-4s"
     },
     {
       "date": "Apr 01",
       "full_date": "2026-04-01",
       "title": "Is BG2FX Building the Ultimate Portable Radio?",
-      "views": 573,
+      "views": 574,
       "likes": 5,
       "video_id": "lmdm14Arg6A"
     },
@@ -125,7 +125,7 @@
       "date": "Apr 09",
       "full_date": "2026-04-09",
       "title": "Returning to the Moon: Optimism &amp; Technology that Moves Our Space Needle",
-      "views": 129,
+      "views": 132,
       "likes": 13,
       "video_id": "nFmV750qMPY"
     },
@@ -133,7 +133,7 @@
       "date": "Apr 14",
       "full_date": "2026-04-14",
       "title": "Cushcraft and Hy-Gain Live On!  MFJ Liquidates Two key Ham Brands",
-      "views": 241,
+      "views": 250,
       "likes": 12,
       "video_id": "eLxItOu6t7A"
     }
