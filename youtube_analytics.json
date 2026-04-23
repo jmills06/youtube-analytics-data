@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-04-22",
-  "total_watch_hours": 487.3,
-  "avg_view_duration": 179,
+  "last_updated": "2026-04-23",
+  "total_watch_hours": 474.9,
+  "avg_view_duration": 191,
   "duration_change": null,
-  "avg_view_percentage": 23.1,
-  "subscribers_gained": 71,
-  "subscribers_lost": 16,
+  "avg_view_percentage": 23.3,
+  "subscribers_gained": 68,
+  "subscribers_lost": 13,
   "subscriber_growth_chart": {
     "labels": [
-      "Mar 23",
       "Mar 24",
       "Mar 25",
       "Mar 26",
@@ -35,10 +34,10 @@
       "Apr 16",
       "Apr 17",
       "Apr 18",
-      "Apr 19"
+      "Apr 19",
+      "Apr 20"
     ],
     "values": [
-      1,
       2,
       5,
       -2,
@@ -65,20 +64,21 @@
       1,
       -1,
       3,
+      1,
       1
     ]
   },
   "traffic_sources": {
-    "search": 36,
+    "search": 37,
     "browse": 5,
     "external": 4,
-    "other": 55
+    "other": 54
   },
   "best_video": {
     "title": "Meshtastic Solar Node with Wio Tracker L1 - N8JRD #meshtastic #solarnode #hamradio #amateurradio",
-    "views": 1965,
-    "watch_hours": 12.9,
-    "likes": 45
+    "views": 1919,
+    "watch_hours": 12.4,
+    "likes": 44
   },
   "video_launches": [
     {
@@ -93,8 +93,8 @@
       "date": "Mar 31",
       "full_date": "2026-03-31",
       "title": "Is BG2FX Building a New 50-Watt Radio? Life after the FX-4CR is QRO!",
-      "views": 844,
-      "likes": 43,
+      "views": 853,
+      "likes": 44,
       "video_id": "gN1AIV5J-4s"
     },
     {
@@ -125,7 +125,7 @@
       "date": "Apr 14",
       "full_date": "2026-04-14",
       "title": "Cushcraft and Hy-Gain Live On!  MFJ Liquidates Two key Ham Brands",
-      "views": 259,
+      "views": 265,
       "likes": 12,
       "video_id": "eLxItOu6t7A"
     }
