@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-04-30",
-  "total_watch_hours": 394.9,
-  "avg_view_duration": 243,
+  "last_updated": "2026-05-01",
+  "total_watch_hours": 352.9,
+  "avg_view_duration": 236,
   "duration_change": null,
-  "avg_view_percentage": 23.7,
-  "subscribers_gained": 61,
-  "subscribers_lost": 10,
+  "avg_view_percentage": 23.3,
+  "subscribers_gained": 59,
+  "subscribers_lost": 11,
   "subscriber_growth_chart": {
     "labels": [
-      "Mar 31",
       "Apr 01",
       "Apr 02",
       "Apr 03",
@@ -35,10 +34,10 @@
       "Apr 24",
       "Apr 25",
       "Apr 26",
-      "Apr 27"
+      "Apr 27",
+      "Apr 28"
     ],
     "values": [
-      3,
       2,
       4,
       2,
@@ -65,35 +64,28 @@
       1,
       0,
       1,
-      1
+      1,
+      0
     ]
   },
   "traffic_sources": {
-    "search": 40,
+    "search": 42,
     "browse": 5,
-    "external": 4,
-    "other": 51
+    "external": 5,
+    "other": 48
   },
   "best_video": {
     "title": "Meshtastic Solar Node with Wio Tracker L1 - N8JRD #meshtastic #solarnode #hamradio #amateurradio",
-    "views": 1733,
-    "watch_hours": 11.1,
+    "views": 1794,
+    "watch_hours": 11.5,
     "likes": 44
   },
   "video_launches": [
     {
-      "date": "Mar 31",
-      "full_date": "2026-03-31",
-      "title": "Is BG2FX Building a New 50-Watt Radio? Life after the FX-4CR is QRO!",
-      "views": 941,
-      "likes": 45,
-      "video_id": "gN1AIV5J-4s"
-    },
-    {
       "date": "Apr 01",
       "full_date": "2026-04-01",
       "title": "Is BG2FX Building the Ultimate Portable Radio?",
-      "views": 578,
+      "views": 579,
       "likes": 5,
       "video_id": "lmdm14Arg6A"
     },
@@ -109,15 +101,15 @@
       "date": "Apr 09",
       "full_date": "2026-04-09",
       "title": "Returning to the Moon: Optimism &amp; Technology that Moves Our Space Needle",
-      "views": 137,
-      "likes": 13,
+      "views": 140,
+      "likes": 14,
       "video_id": "nFmV750qMPY"
     },
     {
       "date": "Apr 14",
       "full_date": "2026-04-14",
       "title": "Cushcraft and Hy-Gain Live On!  MFJ Liquidates Two key Ham Brands",
-      "views": 292,
+      "views": 293,
       "likes": 12,
       "video_id": "eLxItOu6t7A"
     }
