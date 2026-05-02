@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-05-01",
-  "total_watch_hours": 352.9,
-  "avg_view_duration": 236,
+  "last_updated": "2026-05-02",
+  "total_watch_hours": 336.7,
+  "avg_view_duration": 245,
   "duration_change": null,
-  "avg_view_percentage": 23.3,
-  "subscribers_gained": 59,
+  "avg_view_percentage": 23.6,
+  "subscribers_gained": 62,
   "subscribers_lost": 11,
   "subscriber_growth_chart": {
     "labels": [
-      "Apr 01",
       "Apr 02",
       "Apr 03",
       "Apr 04",
@@ -35,10 +34,10 @@
       "Apr 25",
       "Apr 26",
       "Apr 27",
-      "Apr 28"
+      "Apr 28",
+      "Apr 29"
     ],
     "values": [
-      2,
       4,
       2,
       3,
@@ -65,35 +64,28 @@
       0,
       1,
       1,
-      0
+      0,
+      5
     ]
   },
   "traffic_sources": {
-    "search": 42,
-    "browse": 5,
+    "search": 43,
+    "browse": 4,
     "external": 5,
     "other": 48
   },
   "best_video": {
     "title": "Meshtastic Solar Node with Wio Tracker L1 - N8JRD #meshtastic #solarnode #hamradio #amateurradio",
-    "views": 1794,
+    "views": 1792,
     "watch_hours": 11.5,
-    "likes": 44
+    "likes": 42
   },
   "video_launches": [
-    {
-      "date": "Apr 01",
-      "full_date": "2026-04-01",
-      "title": "Is BG2FX Building the Ultimate Portable Radio?",
-      "views": 579,
-      "likes": 5,
-      "video_id": "lmdm14Arg6A"
-    },
     {
       "date": "Apr 09",
       "full_date": "2026-04-09",
       "title": "When you accidentally receive signals from space and feel weird about it \ud83d\ude02",
-      "views": 1342,
+      "views": 1341,
       "likes": 35,
       "video_id": "YSZ2yiiWRGo"
     },
@@ -101,7 +93,7 @@
       "date": "Apr 09",
       "full_date": "2026-04-09",
       "title": "Returning to the Moon: Optimism &amp; Technology that Moves Our Space Needle",
-      "views": 140,
+      "views": 143,
       "likes": 14,
       "video_id": "nFmV750qMPY"
     },
@@ -109,7 +101,7 @@
       "date": "Apr 14",
       "full_date": "2026-04-14",
       "title": "Cushcraft and Hy-Gain Live On!  MFJ Liquidates Two key Ham Brands",
-      "views": 293,
+      "views": 294,
       "likes": 12,
       "video_id": "eLxItOu6t7A"
     }
