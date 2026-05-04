@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-05-03",
-  "total_watch_hours": 328.1,
-  "avg_view_duration": 231,
+  "last_updated": "2026-05-04",
+  "total_watch_hours": 320.8,
+  "avg_view_duration": 201,
   "duration_change": null,
-  "avg_view_percentage": 24.0,
-  "subscribers_gained": 58,
-  "subscribers_lost": 12,
+  "avg_view_percentage": 24.3,
+  "subscribers_gained": 56,
+  "subscribers_lost": 10,
   "subscriber_growth_chart": {
     "labels": [
-      "Apr 03",
       "Apr 04",
       "Apr 05",
       "Apr 06",
@@ -35,10 +34,10 @@
       "Apr 27",
       "Apr 28",
       "Apr 29",
-      "Apr 30"
+      "Apr 30",
+      "May 01"
     ],
     "values": [
-      2,
       3,
       1,
       0,
@@ -65,20 +64,21 @@
       1,
       0,
       5,
-      -1
+      -1,
+      2
     ]
   },
   "traffic_sources": {
-    "search": 45,
+    "search": 46,
     "browse": 4,
     "external": 5,
-    "other": 46
+    "other": 45
   },
   "best_video": {
     "title": "Meshtastic Solar Node with Wio Tracker L1 - N8JRD #meshtastic #solarnode #hamradio #amateurradio",
-    "views": 1805,
+    "views": 1811,
     "watch_hours": 11.5,
-    "likes": 40
+    "likes": 39
   },
   "video_launches": [
     {
