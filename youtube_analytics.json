@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-05-04",
-  "total_watch_hours": 320.8,
-  "avg_view_duration": 201,
+  "last_updated": "2026-05-05",
+  "total_watch_hours": 313.2,
+  "avg_view_duration": 172,
   "duration_change": null,
-  "avg_view_percentage": 24.3,
-  "subscribers_gained": 56,
-  "subscribers_lost": 10,
+  "avg_view_percentage": 24.4,
+  "subscribers_gained": 55,
+  "subscribers_lost": 11,
   "subscriber_growth_chart": {
     "labels": [
-      "Apr 04",
       "Apr 05",
       "Apr 06",
       "Apr 07",
@@ -35,10 +34,10 @@
       "Apr 28",
       "Apr 29",
       "Apr 30",
-      "May 01"
+      "May 01",
+      "May 02"
     ],
     "values": [
-      3,
       1,
       0,
       1,
@@ -65,7 +64,8 @@
       0,
       5,
       -1,
-      2
+      2,
+      1
     ]
   },
   "traffic_sources": {
@@ -76,9 +76,9 @@
   },
   "best_video": {
     "title": "Meshtastic Solar Node with Wio Tracker L1 - N8JRD #meshtastic #solarnode #hamradio #amateurradio",
-    "views": 1811,
-    "watch_hours": 11.5,
-    "likes": 39
+    "views": 1825,
+    "watch_hours": 11.6,
+    "likes": 42
   },
   "video_launches": [
     {
@@ -93,7 +93,7 @@
       "date": "Apr 09",
       "full_date": "2026-04-09",
       "title": "Returning to the Moon: Optimism &amp; Technology that Moves Our Space Needle",
-      "views": 143,
+      "views": 144,
       "likes": 14,
       "video_id": "nFmV750qMPY"
     },
@@ -101,7 +101,7 @@
       "date": "Apr 14",
       "full_date": "2026-04-14",
       "title": "Cushcraft and Hy-Gain Live On!  MFJ Liquidates Two key Ham Brands",
-      "views": 294,
+      "views": 297,
       "likes": 12,
       "video_id": "eLxItOu6t7A"
     }
