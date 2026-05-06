@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-05-05",
-  "total_watch_hours": 313.2,
-  "avg_view_duration": 172,
+  "last_updated": "2026-05-06",
+  "total_watch_hours": 313.8,
+  "avg_view_duration": 175,
   "duration_change": null,
-  "avg_view_percentage": 24.4,
-  "subscribers_gained": 55,
+  "avg_view_percentage": 24.5,
+  "subscribers_gained": 57,
   "subscribers_lost": 11,
   "subscriber_growth_chart": {
     "labels": [
-      "Apr 05",
       "Apr 06",
       "Apr 07",
       "Apr 08",
@@ -35,10 +34,10 @@
       "Apr 29",
       "Apr 30",
       "May 01",
-      "May 02"
+      "May 02",
+      "May 03"
     ],
     "values": [
-      1,
       0,
       1,
       4,
@@ -65,27 +64,28 @@
       5,
       -1,
       2,
-      1
+      1,
+      3
     ]
   },
   "traffic_sources": {
-    "search": 46,
+    "search": 47,
     "browse": 4,
     "external": 5,
-    "other": 45
+    "other": 44
   },
   "best_video": {
     "title": "Meshtastic Solar Node with Wio Tracker L1 - N8JRD #meshtastic #solarnode #hamradio #amateurradio",
-    "views": 1825,
-    "watch_hours": 11.6,
-    "likes": 42
+    "views": 1805,
+    "watch_hours": 11.3,
+    "likes": 41
   },
   "video_launches": [
     {
       "date": "Apr 09",
       "full_date": "2026-04-09",
       "title": "When you accidentally receive signals from space and feel weird about it \ud83d\ude02",
-      "views": 1341,
+      "views": 1343,
       "likes": 35,
       "video_id": "YSZ2yiiWRGo"
     },
@@ -101,7 +101,7 @@
       "date": "Apr 14",
       "full_date": "2026-04-14",
       "title": "Cushcraft and Hy-Gain Live On!  MFJ Liquidates Two key Ham Brands",
-      "views": 297,
+      "views": 300,
       "likes": 12,
       "video_id": "eLxItOu6t7A"
     }
