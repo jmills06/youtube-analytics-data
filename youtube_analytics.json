@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-05-07",
-  "total_watch_hours": 316.3,
-  "avg_view_duration": 247,
+  "last_updated": "2026-05-08",
+  "total_watch_hours": 314.6,
+  "avg_view_duration": 282,
   "duration_change": null,
-  "avg_view_percentage": 24.6,
-  "subscribers_gained": 59,
+  "avg_view_percentage": 24.8,
+  "subscribers_gained": 60,
   "subscribers_lost": 12,
   "subscriber_growth_chart": {
     "labels": [
-      "Apr 07",
       "Apr 08",
       "Apr 09",
       "Apr 10",
@@ -35,10 +34,10 @@
       "May 01",
       "May 02",
       "May 03",
-      "May 04"
+      "May 04",
+      "May 05"
     ],
     "values": [
-      1,
       4,
       4,
       0,
@@ -65,7 +64,8 @@
       2,
       1,
       3,
-      1
+      1,
+      2
     ]
   },
   "traffic_sources": {
@@ -76,16 +76,16 @@
   },
   "best_video": {
     "title": "Meshtastic Solar Node with Wio Tracker L1 - N8JRD #meshtastic #solarnode #hamradio #amateurradio",
-    "views": 1788,
-    "watch_hours": 11.3,
-    "likes": 41
+    "views": 1768,
+    "watch_hours": 11.2,
+    "likes": 40
   },
   "video_launches": [
     {
       "date": "Apr 09",
       "full_date": "2026-04-09",
       "title": "When you accidentally receive signals from space and feel weird about it \ud83d\ude02",
-      "views": 1343,
+      "views": 1347,
       "likes": 35,
       "video_id": "YSZ2yiiWRGo"
     },
@@ -101,9 +101,25 @@
       "date": "Apr 14",
       "full_date": "2026-04-14",
       "title": "Cushcraft and Hy-Gain Live On!  MFJ Liquidates Two key Ham Brands",
-      "views": 301,
+      "views": 304,
       "likes": 12,
       "video_id": "eLxItOu6t7A"
+    },
+    {
+      "date": "May 07",
+      "full_date": "2026-05-07",
+      "title": "Hamvention 2026 Survival Guide: Strategy, Gear &amp; The ICOM X-026 Reveal",
+      "views": 184,
+      "likes": 16,
+      "video_id": "b5WcO1lnuck"
+    },
+    {
+      "date": "May 08",
+      "full_date": "2026-05-08",
+      "title": "Are You Excited for the ICOM X-026 at Hamvention 2026? #Shorts",
+      "views": 414,
+      "likes": 7,
+      "video_id": "6dC0w2rdCms"
     }
   ]
 }
