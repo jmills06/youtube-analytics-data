@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-05-09",
-  "total_watch_hours": 315.8,
-  "avg_view_duration": 209,
+  "last_updated": "2026-05-10",
+  "total_watch_hours": 342.7,
+  "avg_view_duration": 335,
   "duration_change": null,
-  "avg_view_percentage": 24.5,
-  "subscribers_gained": 58,
+  "avg_view_percentage": 23.8,
+  "subscribers_gained": 59,
   "subscribers_lost": 12,
   "subscriber_growth_chart": {
     "labels": [
-      "Apr 09",
       "Apr 10",
       "Apr 11",
       "Apr 12",
@@ -35,10 +34,10 @@
       "May 03",
       "May 04",
       "May 05",
-      "May 06"
+      "May 06",
+      "May 07"
     ],
     "values": [
-      4,
       0,
       1,
       1,
@@ -65,38 +64,23 @@
       3,
       1,
       2,
-      2
+      2,
+      5
     ]
   },
   "traffic_sources": {
-    "search": 47,
-    "browse": 4,
+    "search": 50,
+    "browse": 5,
     "external": 5,
-    "other": 44
+    "other": 40
   },
   "best_video": {
     "title": "Meshtastic Solar Node with Wio Tracker L1 - N8JRD #meshtastic #solarnode #hamradio #amateurradio",
-    "views": 1796,
-    "watch_hours": 11.4,
-    "likes": 39
+    "views": 1847,
+    "watch_hours": 11.9,
+    "likes": 40
   },
   "video_launches": [
-    {
-      "date": "Apr 09",
-      "full_date": "2026-04-09",
-      "title": "When you accidentally receive signals from space and feel weird about it \ud83d\ude02",
-      "views": 1347,
-      "likes": 35,
-      "video_id": "YSZ2yiiWRGo"
-    },
-    {
-      "date": "Apr 09",
-      "full_date": "2026-04-09",
-      "title": "Returning to the Moon: Optimism &amp; Technology that Moves Our Space Needle",
-      "views": 147,
-      "likes": 14,
-      "video_id": "nFmV750qMPY"
-    },
     {
       "date": "Apr 14",
       "full_date": "2026-04-14",
@@ -109,16 +93,16 @@
       "date": "May 07",
       "full_date": "2026-05-07",
       "title": "Hamvention 2026 Survival Guide: Strategy, Gear &amp; The ICOM X-026 Reveal",
-      "views": 327,
-      "likes": 22,
+      "views": 416,
+      "likes": 27,
       "video_id": "b5WcO1lnuck"
     },
     {
       "date": "May 08",
       "full_date": "2026-05-08",
       "title": "Are You Excited for the ICOM X-026 at Hamvention 2026? #Shorts",
-      "views": 756,
-      "likes": 8,
+      "views": 870,
+      "likes": 11,
       "video_id": "6dC0w2rdCms"
     }
   ]
