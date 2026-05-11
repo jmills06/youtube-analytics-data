@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-05-10",
-  "total_watch_hours": 342.7,
-  "avg_view_duration": 335,
+  "last_updated": "2026-05-11",
+  "total_watch_hours": 377.9,
+  "avg_view_duration": 348,
   "duration_change": null,
-  "avg_view_percentage": 23.8,
-  "subscribers_gained": 59,
-  "subscribers_lost": 12,
+  "avg_view_percentage": 23.9,
+  "subscribers_gained": 69,
+  "subscribers_lost": 13,
   "subscriber_growth_chart": {
     "labels": [
-      "Apr 10",
       "Apr 11",
       "Apr 12",
       "Apr 13",
@@ -35,10 +34,10 @@
       "May 04",
       "May 05",
       "May 06",
-      "May 07"
+      "May 07",
+      "May 08"
     ],
     "values": [
-      0,
       1,
       1,
       1,
@@ -65,20 +64,21 @@
       1,
       2,
       2,
-      5
+      5,
+      9
     ]
   },
   "traffic_sources": {
-    "search": 50,
+    "search": 48,
     "browse": 5,
     "external": 5,
-    "other": 40
+    "other": 42
   },
   "best_video": {
     "title": "Meshtastic Solar Node with Wio Tracker L1 - N8JRD #meshtastic #solarnode #hamradio #amateurradio",
-    "views": 1847,
-    "watch_hours": 11.9,
-    "likes": 40
+    "views": 1823,
+    "watch_hours": 11.7,
+    "likes": 38
   },
   "video_launches": [
     {
@@ -93,16 +93,16 @@
       "date": "May 07",
       "full_date": "2026-05-07",
       "title": "Hamvention 2026 Survival Guide: Strategy, Gear &amp; The ICOM X-026 Reveal",
-      "views": 416,
-      "likes": 27,
+      "views": 522,
+      "likes": 32,
       "video_id": "b5WcO1lnuck"
     },
     {
       "date": "May 08",
       "full_date": "2026-05-08",
       "title": "Are You Excited for the ICOM X-026 at Hamvention 2026? #Shorts",
-      "views": 870,
-      "likes": 11,
+      "views": 917,
+      "likes": 13,
       "video_id": "6dC0w2rdCms"
     }
   ]
