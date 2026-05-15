@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-05-14",
-  "total_watch_hours": 444.6,
-  "avg_view_duration": 360,
+  "last_updated": "2026-05-15",
+  "total_watch_hours": 446.9,
+  "avg_view_duration": 248,
   "duration_change": null,
-  "avg_view_percentage": 23.9,
-  "subscribers_gained": 71,
+  "avg_view_percentage": 23.7,
+  "subscribers_gained": 73,
   "subscribers_lost": 12,
   "subscriber_growth_chart": {
     "labels": [
-      "Apr 14",
       "Apr 15",
       "Apr 16",
       "Apr 17",
@@ -35,10 +34,10 @@
       "May 08",
       "May 09",
       "May 10",
-      "May 11"
+      "May 11",
+      "May 12"
     ],
     "values": [
-      6,
       0,
       1,
       -1,
@@ -65,45 +64,46 @@
       9,
       2,
       2,
-      2
+      2,
+      8
     ]
   },
   "traffic_sources": {
-    "search": 46,
+    "search": 47,
     "browse": 6,
     "external": 5,
-    "other": 43
+    "other": 42
   },
   "best_video": {
     "title": "Meshtastic Solar Node with Wio Tracker L1 - N8JRD #meshtastic #solarnode #hamradio #amateurradio",
-    "views": 1758,
-    "watch_hours": 11.3,
-    "likes": 35
+    "views": 1837,
+    "watch_hours": 11.9,
+    "likes": 41
   },
   "video_launches": [
-    {
-      "date": "Apr 14",
-      "full_date": "2026-04-14",
-      "title": "Cushcraft and Hy-Gain Live On!  MFJ Liquidates Two key Ham Brands",
-      "views": 305,
-      "likes": 12,
-      "video_id": "eLxItOu6t7A"
-    },
     {
       "date": "May 07",
       "full_date": "2026-05-07",
       "title": "Hamvention 2026 Survival Guide: Strategy, Gear &amp; The ICOM X-026 Reveal",
-      "views": 703,
-      "likes": 34,
+      "views": 771,
+      "likes": 37,
       "video_id": "b5WcO1lnuck"
     },
     {
       "date": "May 08",
       "full_date": "2026-05-08",
       "title": "Are You Excited for the ICOM X-026 at Hamvention 2026? #Shorts",
-      "views": 972,
+      "views": 1008,
       "likes": 15,
       "video_id": "6dC0w2rdCms"
+    },
+    {
+      "date": "May 15",
+      "full_date": "2026-05-15",
+      "title": "Four Days In May 2026 - Vendor Showcase QRP Event - EDH Hamvention Coverage",
+      "views": 47,
+      "likes": 10,
+      "video_id": "YrE4SytLYNQ"
     }
   ]
 }
