@@ -1,22 +1,13 @@
 {
-  "last_updated": "2026-05-31",
-  "total_watch_hours": 2095.6,
-  "avg_view_duration": 244,
+  "last_updated": "2026-06-09",
+  "total_watch_hours": 2112.3,
+  "avg_view_duration": 179,
   "duration_change": null,
-  "avg_view_percentage": 33.6,
-  "subscribers_gained": 320,
-  "subscribers_lost": 31,
+  "avg_view_percentage": 33.8,
+  "subscribers_gained": 317,
+  "subscribers_lost": 32,
   "subscriber_growth_chart": {
     "labels": [
-      "May 01",
-      "May 02",
-      "May 03",
-      "May 04",
-      "May 05",
-      "May 06",
-      "May 07",
-      "May 08",
-      "May 09",
       "May 10",
       "May 11",
       "May 12",
@@ -35,18 +26,18 @@
       "May 25",
       "May 26",
       "May 27",
-      "May 28"
+      "May 28",
+      "May 29",
+      "May 30",
+      "May 31",
+      "Jun 01",
+      "Jun 02",
+      "Jun 03",
+      "Jun 04",
+      "Jun 05",
+      "Jun 06"
     ],
     "values": [
-      2,
-      1,
-      3,
-      1,
-      2,
-      2,
-      5,
-      9,
-      2,
       2,
       2,
       8,
@@ -65,51 +56,44 @@
       7,
       0,
       3,
+      3,
+      2,
+      2,
+      4,
+      1,
+      2,
+      2,
+      5,
+      2,
       3
     ]
   },
   "traffic_sources": {
     "search": 23,
-    "browse": 11,
-    "external": 5,
-    "other": 61
+    "browse": 12,
+    "external": 6,
+    "other": 59
   },
   "best_video": {
     "title": "Hands All Over the Icom ID-5200! | Hamvention 2026",
-    "views": 7275,
-    "watch_hours": 251.0,
-    "likes": 153
+    "views": 7873,
+    "watch_hours": 271.9,
+    "likes": 161
   },
   "video_launches": [
-    {
-      "date": "May 07",
-      "full_date": "2026-05-07",
-      "title": "Hamvention 2026 Survival Guide: Strategy, Gear &amp; The ICOM X-026 Reveal",
-      "views": 880,
-      "likes": 36,
-      "video_id": "b5WcO1lnuck"
-    },
-    {
-      "date": "May 08",
-      "full_date": "2026-05-08",
-      "title": "Are You Excited for the ICOM X-026 at Hamvention 2026? #Shorts",
-      "views": 1238,
-      "likes": 18,
-      "video_id": "6dC0w2rdCms"
-    },
     {
       "date": "May 15",
       "full_date": "2026-05-15",
       "title": "NEW Spooltenna Ultra EFHW: 40-10M in Your Pocket",
-      "views": 725,
-      "likes": 27,
+      "views": 748,
+      "likes": 28,
       "video_id": "4yIAYqlbBHw"
     },
     {
       "date": "May 15",
       "full_date": "2026-05-15",
       "title": "Four Days In May 2026 - Vendor Showcase QRP Event - EDH Hamvention Coverage",
-      "views": 1562,
+      "views": 1583,
       "likes": 74,
       "video_id": "YrE4SytLYNQ"
     },
@@ -117,63 +101,55 @@
       "date": "May 16",
       "full_date": "2026-05-16",
       "title": "Hands All Over the Icom ID-5200! | Hamvention 2026",
-      "views": 7395,
-      "likes": 155,
+      "views": 8013,
+      "likes": 161,
       "video_id": "LIM0hjXez1Q"
     },
     {
       "date": "May 16",
       "full_date": "2026-05-16",
       "title": "It&#39;s REAL and It Works! Kenwood TM-D750A First Powered-On Look | Hamvention 2026",
-      "views": 6961,
-      "likes": 208,
+      "views": 7369,
+      "likes": 213,
       "video_id": "ZYk8IUSeEHI"
     },
     {
       "date": "May 16",
       "full_date": "2026-05-16",
       "title": "Yaesu DR-3X Revealed! John Kruk N9UPC Walks Us Through System Fusion 3",
-      "views": 4042,
-      "likes": 124,
+      "views": 4129,
+      "likes": 127,
       "video_id": "u_4p34yJlvk"
     },
     {
       "date": "May 17",
       "full_date": "2026-05-17",
       "title": "We Spent $150 on GigaParts Mystery Boxes at Hamvention 2026... Worth It?",
-      "views": 3142,
-      "likes": 84,
+      "views": 3255,
+      "likes": 88,
       "video_id": "q6eQQpxJBJY"
     },
     {
       "date": "May 17",
       "full_date": "2026-05-17",
       "title": "The Heil BM-17 is BACK! New Swivel Boom + Pricing | Hamvention 2026",
-      "views": 284,
+      "views": 321,
       "likes": 19,
       "video_id": "BM7TGhOEgZ8"
     },
     {
       "date": "May 17",
       "full_date": "2026-05-17",
-      "title": "Icom&#39;s &quot;Concept Car&quot; - The X-026 with Ray Novak N9JA | Hamvention 2026",
-      "views": 6575,
-      "likes": 164,
-      "video_id": "IEwwzO5Uf6Q"
-    },
-    {
-      "date": "May 17",
-      "full_date": "2026-05-17",
       "title": "The Big Icom ID-5200 Reveals with Ray Novak N9JA | Hamvention 2026",
-      "views": 1481,
-      "likes": 58,
+      "views": 1572,
+      "likes": 59,
       "video_id": "uUiUzJ-9kIM"
     },
     {
       "date": "May 21",
       "full_date": "2026-05-21",
       "title": "Hamvention 2026 Haul Showdown: Whose Bag Was Best?",
-      "views": 574,
+      "views": 595,
       "likes": 41,
       "video_id": "fZkumHnnbGI"
     },
@@ -181,17 +157,9 @@
       "date": "May 22",
       "full_date": "2026-05-22",
       "title": "Hamvention 2026: Recap, Reactions, and a Brewing Showdown",
-      "views": 259,
-      "likes": 16,
+      "views": 274,
+      "likes": 17,
       "video_id": "2XijWU1D78Y"
-    },
-    {
-      "date": "May 28",
-      "full_date": "2026-05-28",
-      "title": "Starlink Mounted Diamond X300 Antenna Roof Installation",
-      "views": 341,
-      "likes": 38,
-      "video_id": "D83ErArGu6I"
     }
   ]
 }
