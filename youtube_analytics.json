@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-06-10",
-  "total_watch_hours": 2106.0,
-  "avg_view_duration": 203,
+  "last_updated": "2026-06-11",
+  "total_watch_hours": 2089.5,
+  "avg_view_duration": 192,
   "duration_change": null,
-  "avg_view_percentage": 33.8,
-  "subscribers_gained": 317,
+  "avg_view_percentage": 33.9,
+  "subscribers_gained": 320,
   "subscribers_lost": 31,
   "subscriber_growth_chart": {
     "labels": [
-      "May 11",
       "May 12",
       "May 13",
       "May 14",
@@ -35,10 +34,10 @@
       "Jun 04",
       "Jun 05",
       "Jun 06",
-      "Jun 07"
+      "Jun 07",
+      "Jun 08"
     ],
     "values": [
-      2,
       8,
       5,
       5,
@@ -65,7 +64,8 @@
       5,
       2,
       3,
-      3
+      3,
+      5
     ]
   },
   "traffic_sources": {
@@ -76,24 +76,16 @@
   },
   "best_video": {
     "title": "Hands All Over the Icom ID-5200! | Hamvention 2026",
-    "views": 7916,
-    "watch_hours": 273.3,
+    "views": 7988,
+    "watch_hours": 275.7,
     "likes": 161
   },
   "video_launches": [
     {
       "date": "May 15",
       "full_date": "2026-05-15",
-      "title": "NEW Spooltenna Ultra EFHW: 40-10M in Your Pocket",
-      "views": 752,
-      "likes": 28,
-      "video_id": "4yIAYqlbBHw"
-    },
-    {
-      "date": "May 15",
-      "full_date": "2026-05-15",
       "title": "Four Days In May 2026 - Vendor Showcase QRP Event - EDH Hamvention Coverage",
-      "views": 1583,
+      "views": 1584,
       "likes": 74,
       "video_id": "YrE4SytLYNQ"
     },
@@ -101,15 +93,15 @@
       "date": "May 16",
       "full_date": "2026-05-16",
       "title": "Hands All Over the Icom ID-5200! | Hamvention 2026",
-      "views": 8056,
-      "likes": 161,
+      "views": 8093,
+      "likes": 162,
       "video_id": "LIM0hjXez1Q"
     },
     {
       "date": "May 16",
       "full_date": "2026-05-16",
       "title": "It&#39;s REAL and It Works! Kenwood TM-D750A First Powered-On Look | Hamvention 2026",
-      "views": 7391,
+      "views": 7420,
       "likes": 213,
       "video_id": "ZYk8IUSeEHI"
     },
@@ -117,7 +109,7 @@
       "date": "May 16",
       "full_date": "2026-05-16",
       "title": "Yaesu DR-3X Revealed! John Kruk N9UPC Walks Us Through System Fusion 3",
-      "views": 4140,
+      "views": 4150,
       "likes": 127,
       "video_id": "u_4p34yJlvk"
     },
@@ -125,7 +117,7 @@
       "date": "May 17",
       "full_date": "2026-05-17",
       "title": "We Spent $150 on GigaParts Mystery Boxes at Hamvention 2026... Worth It?",
-      "views": 3256,
+      "views": 3268,
       "likes": 88,
       "video_id": "q6eQQpxJBJY"
     },
@@ -133,7 +125,7 @@
       "date": "May 17",
       "full_date": "2026-05-17",
       "title": "The Heil BM-17 is BACK! New Swivel Boom + Pricing | Hamvention 2026",
-      "views": 323,
+      "views": 326,
       "likes": 19,
       "video_id": "BM7TGhOEgZ8"
     },
@@ -141,15 +133,15 @@
       "date": "May 17",
       "full_date": "2026-05-17",
       "title": "Icom&#39;s &quot;Concept Car&quot; - The X-026 with Ray Novak N9JA | Hamvention 2026",
-      "views": 7096,
-      "likes": 167,
+      "views": 7146,
+      "likes": 168,
       "video_id": "IEwwzO5Uf6Q"
     },
     {
       "date": "May 17",
       "full_date": "2026-05-17",
       "title": "The Big Icom ID-5200 Reveals with Ray Novak N9JA | Hamvention 2026",
-      "views": 1578,
+      "views": 1584,
       "likes": 59,
       "video_id": "uUiUzJ-9kIM"
     },
@@ -165,7 +157,7 @@
       "date": "May 22",
       "full_date": "2026-05-22",
       "title": "Hamvention 2026: Recap, Reactions, and a Brewing Showdown",
-      "views": 279,
+      "views": 281,
       "likes": 17,
       "video_id": "2XijWU1D78Y"
     },
@@ -173,7 +165,7 @@
       "date": "May 28",
       "full_date": "2026-05-28",
       "title": "Starlink Mounted Diamond X300 Antenna Roof Installation",
-      "views": 431,
+      "views": 434,
       "likes": 40,
       "video_id": "D83ErArGu6I"
     },
@@ -181,8 +173,8 @@
       "date": "Jun 04",
       "full_date": "2026-06-04",
       "title": "SpoolTenna Ultra Review: Is the Pocket EFHW Worth the Upgrade?",
-      "views": 544,
-      "likes": 28,
+      "views": 563,
+      "likes": 29,
       "video_id": "UtSuCqs9p74"
     }
   ]
