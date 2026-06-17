@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-06-16",
-  "total_watch_hours": 1743.8,
-  "avg_view_duration": 250,
+  "last_updated": "2026-06-17",
+  "total_watch_hours": 1282.5,
+  "avg_view_duration": 249,
   "duration_change": null,
-  "avg_view_percentage": 33.4,
-  "subscribers_gained": 222,
-  "subscribers_lost": 29,
+  "avg_view_percentage": 30.3,
+  "subscribers_gained": 151,
+  "subscribers_lost": 25,
   "subscriber_growth_chart": {
     "labels": [
-      "May 17",
       "May 18",
       "May 19",
       "May 20",
@@ -35,10 +34,10 @@
       "Jun 10",
       "Jun 11",
       "Jun 12",
-      "Jun 13"
+      "Jun 13",
+      "Jun 14"
     ],
     "values": [
-      68,
       30,
       19,
       4,
@@ -65,54 +64,23 @@
       -1,
       2,
       3,
-      4
+      4,
+      1
     ]
   },
   "traffic_sources": {
-    "search": 23,
-    "browse": 13,
-    "external": 8,
-    "other": 56
+    "search": 27,
+    "browse": 14,
+    "external": 10,
+    "other": 49
   },
   "best_video": {
     "title": "Icom's \"Concept Car\" - The X-026 with Ray Novak N9JA | Hamvention 2026",
-    "views": 6685,
-    "watch_hours": 305.4,
-    "likes": 141
+    "views": 3682,
+    "watch_hours": 162.5,
+    "likes": 58
   },
   "video_launches": [
-    {
-      "date": "May 17",
-      "full_date": "2026-05-17",
-      "title": "We Spent $150 on GigaParts Mystery Boxes at Hamvention 2026... Worth It?",
-      "views": 3291,
-      "likes": 90,
-      "video_id": "q6eQQpxJBJY"
-    },
-    {
-      "date": "May 17",
-      "full_date": "2026-05-17",
-      "title": "The Heil BM-17 is BACK! New Swivel Boom + Pricing | Hamvention 2026",
-      "views": 345,
-      "likes": 19,
-      "video_id": "BM7TGhOEgZ8"
-    },
-    {
-      "date": "May 17",
-      "full_date": "2026-05-17",
-      "title": "Icom&#39;s &quot;Concept Car&quot; - The X-026 with Ray Novak N9JA | Hamvention 2026",
-      "views": 7327,
-      "likes": 168,
-      "video_id": "IEwwzO5Uf6Q"
-    },
-    {
-      "date": "May 17",
-      "full_date": "2026-05-17",
-      "title": "The Big Icom ID-5200 Reveals with Ray Novak N9JA | Hamvention 2026",
-      "views": 1615,
-      "likes": 59,
-      "video_id": "uUiUzJ-9kIM"
-    },
     {
       "date": "May 21",
       "full_date": "2026-05-21",
@@ -125,7 +93,7 @@
       "date": "May 22",
       "full_date": "2026-05-22",
       "title": "Hamvention 2026: Recap, Reactions, and a Brewing Showdown",
-      "views": 289,
+      "views": 290,
       "likes": 17,
       "video_id": "2XijWU1D78Y"
     },
@@ -133,7 +101,7 @@
       "date": "May 28",
       "full_date": "2026-05-28",
       "title": "Starlink Mounted Diamond X300 Antenna Roof Installation",
-      "views": 450,
+      "views": 452,
       "likes": 42,
       "video_id": "D83ErArGu6I"
     },
@@ -141,7 +109,7 @@
       "date": "Jun 04",
       "full_date": "2026-06-04",
       "title": "SpoolTenna Ultra Review: Is the Pocket EFHW Worth the Upgrade?",
-      "views": 624,
+      "views": 631,
       "likes": 29,
       "video_id": "UtSuCqs9p74"
     },
@@ -149,8 +117,8 @@
       "date": "Jun 11",
       "full_date": "2026-06-11",
       "title": "Has POTA Peaked? Campfires, Community, and the Future of Parks on the Air",
-      "views": 298,
-      "likes": 24,
+      "views": 310,
+      "likes": 25,
       "video_id": "xKMKYlSsglY"
     }
   ]
