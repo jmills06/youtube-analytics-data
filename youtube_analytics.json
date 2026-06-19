@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-06-18",
-  "total_watch_hours": 1099.3,
-  "avg_view_duration": 191,
+  "last_updated": "2026-06-19",
+  "total_watch_hours": 1014.2,
+  "avg_view_duration": 178,
   "duration_change": null,
-  "avg_view_percentage": 28.5,
-  "subscribers_gained": 126,
-  "subscribers_lost": 24,
+  "avg_view_percentage": 27.5,
+  "subscribers_gained": 103,
+  "subscribers_lost": 20,
   "subscriber_growth_chart": {
     "labels": [
-      "May 19",
       "May 20",
       "May 21",
       "May 22",
@@ -35,10 +34,10 @@
       "Jun 12",
       "Jun 13",
       "Jun 14",
-      "Jun 15"
+      "Jun 15",
+      "Jun 16"
     ],
     "values": [
-      19,
       4,
       4,
       5,
@@ -65,20 +64,21 @@
       3,
       4,
       1,
-      6
+      6,
+      0
     ]
   },
   "traffic_sources": {
-    "search": 29,
+    "search": 31,
     "browse": 14,
     "external": 10,
-    "other": 47
+    "other": 45
   },
   "best_video": {
     "title": "Hands All Over the Icom ID-5200! | Hamvention 2026",
-    "views": 2764,
-    "watch_hours": 94.8,
-    "likes": 38
+    "views": 2531,
+    "watch_hours": 87.3,
+    "likes": 32
   },
   "video_launches": [
     {
@@ -101,7 +101,7 @@
       "date": "May 28",
       "full_date": "2026-05-28",
       "title": "Starlink Mounted Diamond X300 Antenna Roof Installation",
-      "views": 456,
+      "views": 459,
       "likes": 42,
       "video_id": "D83ErArGu6I"
     },
@@ -109,7 +109,7 @@
       "date": "Jun 04",
       "full_date": "2026-06-04",
       "title": "SpoolTenna Ultra Review: Is the Pocket EFHW Worth the Upgrade?",
-      "views": 640,
+      "views": 647,
       "likes": 29,
       "video_id": "UtSuCqs9p74"
     },
@@ -117,7 +117,7 @@
       "date": "Jun 11",
       "full_date": "2026-06-11",
       "title": "Has POTA Peaked? Campfires, Community, and the Future of Parks on the Air",
-      "views": 322,
+      "views": 327,
       "likes": 25,
       "video_id": "xKMKYlSsglY"
     }
