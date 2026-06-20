@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-06-19",
-  "total_watch_hours": 1014.2,
-  "avg_view_duration": 178,
+  "last_updated": "2026-06-20",
+  "total_watch_hours": 958.6,
+  "avg_view_duration": 231,
   "duration_change": null,
-  "avg_view_percentage": 27.5,
-  "subscribers_gained": 103,
-  "subscribers_lost": 20,
+  "avg_view_percentage": 27.2,
+  "subscribers_gained": 99,
+  "subscribers_lost": 18,
   "subscriber_growth_chart": {
     "labels": [
-      "May 20",
       "May 21",
       "May 22",
       "May 23",
@@ -35,10 +34,10 @@
       "Jun 13",
       "Jun 14",
       "Jun 15",
-      "Jun 16"
+      "Jun 16",
+      "Jun 17"
     ],
     "values": [
-      4,
       4,
       5,
       5,
@@ -65,27 +64,28 @@
       4,
       1,
       6,
-      0
+      0,
+      2
     ]
   },
   "traffic_sources": {
-    "search": 31,
+    "search": 32,
     "browse": 14,
     "external": 10,
-    "other": 45
+    "other": 44
   },
   "best_video": {
     "title": "Hands All Over the Icom ID-5200! | Hamvention 2026",
-    "views": 2531,
-    "watch_hours": 87.3,
-    "likes": 32
+    "views": 2366,
+    "watch_hours": 82.3,
+    "likes": 27
   },
   "video_launches": [
     {
       "date": "May 21",
       "full_date": "2026-05-21",
       "title": "Hamvention 2026 Haul Showdown: Whose Bag Was Best?",
-      "views": 600,
+      "views": 601,
       "likes": 42,
       "video_id": "fZkumHnnbGI"
     },
@@ -93,7 +93,7 @@
       "date": "May 22",
       "full_date": "2026-05-22",
       "title": "Hamvention 2026: Recap, Reactions, and a Brewing Showdown",
-      "views": 295,
+      "views": 296,
       "likes": 17,
       "video_id": "2XijWU1D78Y"
     },
@@ -101,7 +101,7 @@
       "date": "May 28",
       "full_date": "2026-05-28",
       "title": "Starlink Mounted Diamond X300 Antenna Roof Installation",
-      "views": 459,
+      "views": 463,
       "likes": 42,
       "video_id": "D83ErArGu6I"
     },
@@ -109,15 +109,15 @@
       "date": "Jun 04",
       "full_date": "2026-06-04",
       "title": "SpoolTenna Ultra Review: Is the Pocket EFHW Worth the Upgrade?",
-      "views": 647,
-      "likes": 29,
+      "views": 654,
+      "likes": 30,
       "video_id": "UtSuCqs9p74"
     },
     {
       "date": "Jun 11",
       "full_date": "2026-06-11",
       "title": "Has POTA Peaked? Campfires, Community, and the Future of Parks on the Air",
-      "views": 327,
+      "views": 332,
       "likes": 25,
       "video_id": "xKMKYlSsglY"
     }
