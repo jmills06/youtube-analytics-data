@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-06-20",
-  "total_watch_hours": 958.6,
+  "last_updated": "2026-06-21",
+  "total_watch_hours": 855.2,
   "avg_view_duration": 231,
   "duration_change": null,
   "avg_view_percentage": 27.2,
-  "subscribers_gained": 99,
-  "subscribers_lost": 18,
+  "subscribers_gained": 100,
+  "subscribers_lost": 17,
   "subscriber_growth_chart": {
     "labels": [
-      "May 21",
       "May 22",
       "May 23",
       "May 24",
@@ -35,10 +34,10 @@
       "Jun 14",
       "Jun 15",
       "Jun 16",
-      "Jun 17"
+      "Jun 17",
+      "Jun 18"
     ],
     "values": [
-      4,
       5,
       5,
       4,
@@ -65,35 +64,28 @@
       1,
       6,
       0,
-      2
+      2,
+      6
     ]
   },
   "traffic_sources": {
-    "search": 32,
-    "browse": 14,
+    "search": 33,
+    "browse": 13,
     "external": 10,
     "other": 44
   },
   "best_video": {
     "title": "Hands All Over the Icom ID-5200! | Hamvention 2026",
-    "views": 2366,
-    "watch_hours": 82.3,
-    "likes": 27
+    "views": 2201,
+    "watch_hours": 76.7,
+    "likes": 25
   },
   "video_launches": [
-    {
-      "date": "May 21",
-      "full_date": "2026-05-21",
-      "title": "Hamvention 2026 Haul Showdown: Whose Bag Was Best?",
-      "views": 601,
-      "likes": 42,
-      "video_id": "fZkumHnnbGI"
-    },
     {
       "date": "May 22",
       "full_date": "2026-05-22",
       "title": "Hamvention 2026: Recap, Reactions, and a Brewing Showdown",
-      "views": 296,
+      "views": 299,
       "likes": 17,
       "video_id": "2XijWU1D78Y"
     },
@@ -101,7 +93,7 @@
       "date": "May 28",
       "full_date": "2026-05-28",
       "title": "Starlink Mounted Diamond X300 Antenna Roof Installation",
-      "views": 463,
+      "views": 467,
       "likes": 42,
       "video_id": "D83ErArGu6I"
     },
@@ -109,7 +101,7 @@
       "date": "Jun 04",
       "full_date": "2026-06-04",
       "title": "SpoolTenna Ultra Review: Is the Pocket EFHW Worth the Upgrade?",
-      "views": 654,
+      "views": 659,
       "likes": 30,
       "video_id": "UtSuCqs9p74"
     },
@@ -117,7 +109,7 @@
       "date": "Jun 11",
       "full_date": "2026-06-11",
       "title": "Has POTA Peaked? Campfires, Community, and the Future of Parks on the Air",
-      "views": 332,
+      "views": 336,
       "likes": 25,
       "video_id": "xKMKYlSsglY"
     }
