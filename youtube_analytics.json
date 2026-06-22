@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-06-21",
-  "total_watch_hours": 855.2,
-  "avg_view_duration": 231,
+  "last_updated": "2026-06-22",
+  "total_watch_hours": 812.4,
+  "avg_view_duration": 288,
   "duration_change": null,
-  "avg_view_percentage": 27.2,
-  "subscribers_gained": 100,
-  "subscribers_lost": 17,
+  "avg_view_percentage": 27.3,
+  "subscribers_gained": 101,
+  "subscribers_lost": 15,
   "subscriber_growth_chart": {
     "labels": [
-      "May 22",
       "May 23",
       "May 24",
       "May 25",
@@ -35,10 +34,10 @@
       "Jun 15",
       "Jun 16",
       "Jun 17",
-      "Jun 18"
+      "Jun 18",
+      "Jun 19"
     ],
     "values": [
-      5,
       5,
       4,
       7,
@@ -65,30 +64,23 @@
       6,
       0,
       2,
-      6
+      6,
+      8
     ]
   },
   "traffic_sources": {
-    "search": 33,
+    "search": 34,
     "browse": 13,
-    "external": 10,
-    "other": 44
+    "external": 11,
+    "other": 42
   },
   "best_video": {
     "title": "Hands All Over the Icom ID-5200! | Hamvention 2026",
-    "views": 2201,
-    "watch_hours": 76.7,
-    "likes": 25
+    "views": 2030,
+    "watch_hours": 70.2,
+    "likes": 22
   },
   "video_launches": [
-    {
-      "date": "May 22",
-      "full_date": "2026-05-22",
-      "title": "Hamvention 2026: Recap, Reactions, and a Brewing Showdown",
-      "views": 299,
-      "likes": 17,
-      "video_id": "2XijWU1D78Y"
-    },
     {
       "date": "May 28",
       "full_date": "2026-05-28",
@@ -101,7 +93,7 @@
       "date": "Jun 04",
       "full_date": "2026-06-04",
       "title": "SpoolTenna Ultra Review: Is the Pocket EFHW Worth the Upgrade?",
-      "views": 659,
+      "views": 668,
       "likes": 30,
       "video_id": "UtSuCqs9p74"
     },
@@ -109,7 +101,7 @@
       "date": "Jun 11",
       "full_date": "2026-06-11",
       "title": "Has POTA Peaked? Campfires, Community, and the Future of Parks on the Air",
-      "views": 336,
+      "views": 341,
       "likes": 25,
       "video_id": "xKMKYlSsglY"
     }
