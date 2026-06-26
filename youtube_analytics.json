@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-06-25",
-  "total_watch_hours": 724.1,
-  "avg_view_duration": 210,
+  "last_updated": "2026-06-26",
+  "total_watch_hours": 711.5,
+  "avg_view_duration": 214,
   "duration_change": null,
-  "avg_view_percentage": 26.6,
-  "subscribers_gained": 91,
-  "subscribers_lost": 15,
+  "avg_view_percentage": 26.4,
+  "subscribers_gained": 90,
+  "subscribers_lost": 14,
   "subscriber_growth_chart": {
     "labels": [
-      "May 26",
       "May 27",
       "May 28",
       "May 29",
@@ -35,10 +34,10 @@
       "Jun 19",
       "Jun 20",
       "Jun 21",
-      "Jun 22"
+      "Jun 22",
+      "Jun 23"
     ],
     "values": [
-      0,
       3,
       3,
       2,
@@ -65,19 +64,20 @@
       8,
       2,
       1,
-      3
+      3,
+      0
     ]
   },
   "traffic_sources": {
     "search": 34,
-    "browse": 13,
+    "browse": 12,
     "external": 12,
-    "other": 41
+    "other": 42
   },
   "best_video": {
     "title": "Hands All Over the Icom ID-5200! | Hamvention 2026",
-    "views": 1769,
-    "watch_hours": 60.8,
+    "views": 1717,
+    "watch_hours": 59.5,
     "likes": 18
   },
   "video_launches": [
@@ -85,7 +85,7 @@
       "date": "May 28",
       "full_date": "2026-05-28",
       "title": "Starlink Mounted Diamond X300 Antenna Roof Installation",
-      "views": 468,
+      "views": 469,
       "likes": 42,
       "video_id": "D83ErArGu6I"
     },
@@ -93,17 +93,25 @@
       "date": "Jun 04",
       "full_date": "2026-06-04",
       "title": "SpoolTenna Ultra Review: Is the Pocket EFHW Worth the Upgrade?",
-      "views": 702,
-      "likes": 30,
+      "views": 708,
+      "likes": 32,
       "video_id": "UtSuCqs9p74"
     },
     {
       "date": "Jun 11",
       "full_date": "2026-06-11",
       "title": "Has POTA Peaked? Campfires, Community, and the Future of Parks on the Air",
-      "views": 352,
-      "likes": 27,
+      "views": 360,
+      "likes": 28,
       "video_id": "xKMKYlSsglY"
+    },
+    {
+      "date": "Jun 25",
+      "full_date": "2026-06-25",
+      "title": "What Happens When 80 Hams Finally Meet in Person? Michigan POTA Meetup 2026",
+      "views": 134,
+      "likes": 12,
+      "video_id": "HN3sKVL2DSU"
     }
   ]
 }
