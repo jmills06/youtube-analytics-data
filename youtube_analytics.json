@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-06-29",
-  "total_watch_hours": 685.3,
-  "avg_view_duration": 214,
+  "last_updated": "2026-06-30",
+  "total_watch_hours": 678.5,
+  "avg_view_duration": 198,
   "duration_change": null,
-  "avg_view_percentage": 26.0,
-  "subscribers_gained": 89,
+  "avg_view_percentage": 26.1,
+  "subscribers_gained": 90,
   "subscribers_lost": 13,
   "subscriber_growth_chart": {
     "labels": [
-      "May 30",
       "May 31",
       "Jun 01",
       "Jun 02",
@@ -35,10 +34,10 @@
       "Jun 23",
       "Jun 24",
       "Jun 25",
-      "Jun 26"
+      "Jun 26",
+      "Jun 27"
     ],
     "values": [
-      2,
       4,
       1,
       2,
@@ -65,7 +64,8 @@
       0,
       3,
       1,
-      4
+      4,
+      3
     ]
   },
   "traffic_sources": {
@@ -76,16 +76,16 @@
   },
   "best_video": {
     "title": "Hands All Over the Icom ID-5200! | Hamvention 2026",
-    "views": 1602,
-    "watch_hours": 54.2,
-    "likes": 18
+    "views": 1578,
+    "watch_hours": 53.4,
+    "likes": 19
   },
   "video_launches": [
     {
       "date": "Jun 04",
       "full_date": "2026-06-04",
       "title": "SpoolTenna Ultra Review: Is the Pocket EFHW Worth the Upgrade?",
-      "views": 730,
+      "views": 736,
       "likes": 33,
       "video_id": "UtSuCqs9p74"
     },
@@ -93,15 +93,15 @@
       "date": "Jun 11",
       "full_date": "2026-06-11",
       "title": "Has POTA Peaked? Campfires, Community, and the Future of Parks on the Air",
-      "views": 370,
-      "likes": 29,
+      "views": 372,
+      "likes": 30,
       "video_id": "xKMKYlSsglY"
     },
     {
       "date": "Jun 25",
       "full_date": "2026-06-25",
       "title": "What Happens When 80 Hams Finally Meet in Person? Michigan POTA Meetup 2026",
-      "views": 214,
+      "views": 219,
       "likes": 17,
       "video_id": "HN3sKVL2DSU"
     }
