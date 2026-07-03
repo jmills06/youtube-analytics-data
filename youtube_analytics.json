@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-07-02",
-  "total_watch_hours": 675.4,
-  "avg_view_duration": 227,
+  "last_updated": "2026-07-03",
+  "total_watch_hours": 678.9,
+  "avg_view_duration": 311,
   "duration_change": null,
   "avg_view_percentage": 26.0,
-  "subscribers_gained": 88,
+  "subscribers_gained": 89,
   "subscribers_lost": 13,
   "subscriber_growth_chart": {
     "labels": [
-      "Jun 02",
       "Jun 03",
       "Jun 04",
       "Jun 05",
@@ -35,10 +34,10 @@
       "Jun 26",
       "Jun 27",
       "Jun 28",
-      "Jun 29"
+      "Jun 29",
+      "Jun 30"
     ],
     "values": [
-      2,
       2,
       5,
       2,
@@ -65,7 +64,8 @@
       4,
       3,
       1,
-      2
+      2,
+      3
     ]
   },
   "traffic_sources": {
@@ -76,16 +76,16 @@
   },
   "best_video": {
     "title": "Hands All Over the Icom ID-5200! | Hamvention 2026",
-    "views": 1532,
-    "watch_hours": 51.3,
-    "likes": 19
+    "views": 1516,
+    "watch_hours": 51.0,
+    "likes": 17
   },
   "video_launches": [
     {
       "date": "Jun 04",
       "full_date": "2026-06-04",
       "title": "SpoolTenna Ultra Review: Is the Pocket EFHW Worth the Upgrade?",
-      "views": 754,
+      "views": 757,
       "likes": 33,
       "video_id": "UtSuCqs9p74"
     },
@@ -93,7 +93,7 @@
       "date": "Jun 11",
       "full_date": "2026-06-11",
       "title": "Has POTA Peaked? Campfires, Community, and the Future of Parks on the Air",
-      "views": 374,
+      "views": 378,
       "likes": 30,
       "video_id": "xKMKYlSsglY"
     },
@@ -101,9 +101,17 @@
       "date": "Jun 25",
       "full_date": "2026-06-25",
       "title": "What Happens When 80 Hams Finally Meet in Person? Michigan POTA Meetup 2026",
-      "views": 230,
-      "likes": 18,
+      "views": 243,
+      "likes": 21,
       "video_id": "HN3sKVL2DSU"
+    },
+    {
+      "date": "Jul 02",
+      "full_date": "2026-07-02",
+      "title": "Raising a BuddiHEX Hex Beam at Field Day 2026 | South Lyon Area ARC",
+      "views": 212,
+      "likes": 22,
+      "video_id": "0oo2I7vziac"
     }
   ]
 }
