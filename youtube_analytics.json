@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-07-04",
-  "total_watch_hours": 674.8,
-  "avg_view_duration": 237,
+  "last_updated": "2026-07-05",
+  "total_watch_hours": 690.0,
+  "avg_view_duration": 316,
   "duration_change": null,
-  "avg_view_percentage": 25.6,
-  "subscribers_gained": 87,
-  "subscribers_lost": 13,
+  "avg_view_percentage": 25.3,
+  "subscribers_gained": 86,
+  "subscribers_lost": 15,
   "subscriber_growth_chart": {
     "labels": [
-      "Jun 04",
       "Jun 05",
       "Jun 06",
       "Jun 07",
@@ -35,10 +34,10 @@
       "Jun 28",
       "Jun 29",
       "Jun 30",
-      "Jul 01"
+      "Jul 01",
+      "Jul 02"
     ],
     "values": [
-      5,
       2,
       3,
       3,
@@ -65,7 +64,8 @@
       1,
       2,
       3,
-      0
+      0,
+      2
     ]
   },
   "traffic_sources": {
@@ -76,24 +76,16 @@
   },
   "best_video": {
     "title": "Hands All Over the Icom ID-5200! | Hamvention 2026",
-    "views": 1497,
-    "watch_hours": 50.9,
-    "likes": 17
+    "views": 1476,
+    "watch_hours": 49.7,
+    "likes": 16
   },
   "video_launches": [
-    {
-      "date": "Jun 04",
-      "full_date": "2026-06-04",
-      "title": "SpoolTenna Ultra Review: Is the Pocket EFHW Worth the Upgrade?",
-      "views": 779,
-      "likes": 34,
-      "video_id": "UtSuCqs9p74"
-    },
     {
       "date": "Jun 11",
       "full_date": "2026-06-11",
       "title": "Has POTA Peaked? Campfires, Community, and the Future of Parks on the Air",
-      "views": 382,
+      "views": 386,
       "likes": 30,
       "video_id": "xKMKYlSsglY"
     },
@@ -101,25 +93,33 @@
       "date": "Jun 25",
       "full_date": "2026-06-25",
       "title": "What Happens When 80 Hams Finally Meet in Person? Michigan POTA Meetup 2026",
-      "views": 260,
-      "likes": 22,
+      "views": 278,
+      "likes": 24,
       "video_id": "HN3sKVL2DSU"
     },
     {
       "date": "Jul 02",
       "full_date": "2026-07-02",
       "title": "Raising a BuddiHEX Hex Beam at Field Day 2026 | South Lyon Area ARC",
-      "views": 448,
-      "likes": 33,
+      "views": 548,
+      "likes": 40,
       "video_id": "0oo2I7vziac"
     },
     {
       "date": "Jul 03",
       "full_date": "2026-07-03",
       "title": "Field Day 2026 Setup Walkthrough: BuddiHex, BandHopper &amp; Larry the Vertical",
-      "views": 311,
-      "likes": 30,
+      "views": 491,
+      "likes": 42,
       "video_id": "hcXOOwiPnr0"
+    },
+    {
+      "date": "Jul 04",
+      "full_date": "2026-07-04",
+      "title": "Is Parks on the Air Past Its Prime? An Honest Debate",
+      "views": 122,
+      "likes": 16,
+      "video_id": "ldjar8aKMPM"
     }
   ]
 }
