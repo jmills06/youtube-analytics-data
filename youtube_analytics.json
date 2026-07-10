@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-07-09",
-  "total_watch_hours": 835.4,
-  "avg_view_duration": 271,
+  "last_updated": "2026-07-10",
+  "total_watch_hours": 836.5,
+  "avg_view_duration": 242,
   "duration_change": null,
-  "avg_view_percentage": 26.8,
+  "avg_view_percentage": 26.6,
   "subscribers_gained": 93,
-  "subscribers_lost": 18,
+  "subscribers_lost": 21,
   "subscriber_growth_chart": {
     "labels": [
-      "Jun 09",
       "Jun 10",
       "Jun 11",
       "Jun 12",
@@ -35,10 +34,10 @@
       "Jul 03",
       "Jul 04",
       "Jul 05",
-      "Jul 06"
+      "Jul 06",
+      "Jul 07"
     ],
     "values": [
-      2,
       -1,
       2,
       3,
@@ -65,7 +64,8 @@
       9,
       1,
       5,
-      2
+      2,
+      -1
     ]
   },
   "traffic_sources": {
@@ -76,8 +76,8 @@
   },
   "best_video": {
     "title": "Hands All Over the Icom ID-5200! | Hamvention 2026",
-    "views": 1146,
-    "watch_hours": 38.7,
+    "views": 1103,
+    "watch_hours": 37.1,
     "likes": 14
   },
   "video_launches": [
@@ -85,7 +85,7 @@
       "date": "Jun 11",
       "full_date": "2026-06-11",
       "title": "Has POTA Peaked? Campfires, Community, and the Future of Parks on the Air",
-      "views": 395,
+      "views": 399,
       "likes": 30,
       "video_id": "xKMKYlSsglY"
     },
@@ -93,7 +93,7 @@
       "date": "Jun 25",
       "full_date": "2026-06-25",
       "title": "What Happens When 80 Hams Finally Meet in Person? Michigan POTA Meetup 2026",
-      "views": 304,
+      "views": 305,
       "likes": 27,
       "video_id": "HN3sKVL2DSU"
     },
@@ -101,25 +101,33 @@
       "date": "Jul 02",
       "full_date": "2026-07-02",
       "title": "Raising a BuddiHEX Hex Beam at Field Day 2026 | South Lyon Area ARC",
-      "views": 702,
-      "likes": 49,
+      "views": 735,
+      "likes": 53,
       "video_id": "0oo2I7vziac"
     },
     {
       "date": "Jul 03",
       "full_date": "2026-07-03",
       "title": "Field Day 2026 Setup Walkthrough: BuddiHex, BandHopper &amp; Larry the Vertical",
-      "views": 748,
-      "likes": 51,
+      "views": 773,
+      "likes": 52,
       "video_id": "hcXOOwiPnr0"
     },
     {
       "date": "Jul 04",
       "full_date": "2026-07-04",
       "title": "Is Parks on the Air Past Its Prime? An Honest Debate",
-      "views": 269,
-      "likes": 27,
+      "views": 276,
+      "likes": 29,
       "video_id": "ldjar8aKMPM"
+    },
+    {
+      "date": "Jul 09",
+      "full_date": "2026-07-09",
+      "title": "How We Made Field Day Our Best One Yet",
+      "views": 121,
+      "likes": 14,
+      "video_id": "m5aILG8IEd0"
     }
   ]
 }
