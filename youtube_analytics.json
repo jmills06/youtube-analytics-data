@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-07-12",
-  "total_watch_hours": 835.3,
-  "avg_view_duration": 468,
+  "last_updated": "2026-07-13",
+  "total_watch_hours": 839.4,
+  "avg_view_duration": 374,
   "duration_change": null,
-  "avg_view_percentage": 26.5,
-  "subscribers_gained": 98,
-  "subscribers_lost": 21,
+  "avg_view_percentage": 26.6,
+  "subscribers_gained": 99,
+  "subscribers_lost": 22,
   "subscriber_growth_chart": {
     "labels": [
-      "Jun 12",
       "Jun 13",
       "Jun 14",
       "Jun 15",
@@ -35,10 +34,10 @@
       "Jul 06",
       "Jul 07",
       "Jul 08",
-      "Jul 09"
+      "Jul 09",
+      "Jul 10"
     ],
     "values": [
-      3,
       4,
       1,
       6,
@@ -65,27 +64,28 @@
       2,
       -1,
       2,
-      4
+      4,
+      3
     ]
   },
   "traffic_sources": {
     "search": 31,
-    "browse": 13,
+    "browse": 14,
     "external": 13,
-    "other": 43
+    "other": 42
   },
   "best_video": {
     "title": "Hands All Over the Icom ID-5200! | Hamvention 2026",
-    "views": 1283,
-    "watch_hours": 43.9,
-    "likes": 16
+    "views": 1210,
+    "watch_hours": 41.9,
+    "likes": 12
   },
   "video_launches": [
     {
       "date": "Jun 25",
       "full_date": "2026-06-25",
       "title": "What Happens When 80 Hams Finally Meet in Person? Michigan POTA Meetup 2026",
-      "views": 308,
+      "views": 311,
       "likes": 27,
       "video_id": "HN3sKVL2DSU"
     },
@@ -93,7 +93,7 @@
       "date": "Jul 02",
       "full_date": "2026-07-02",
       "title": "Raising a BuddiHEX Hex Beam at Field Day 2026 | South Lyon Area ARC",
-      "views": 814,
+      "views": 822,
       "likes": 57,
       "video_id": "0oo2I7vziac"
     },
@@ -101,7 +101,7 @@
       "date": "Jul 03",
       "full_date": "2026-07-03",
       "title": "Field Day 2026 Setup Walkthrough: BuddiHex, BandHopper &amp; Larry the Vertical",
-      "views": 829,
+      "views": 839,
       "likes": 55,
       "video_id": "hcXOOwiPnr0"
     },
@@ -117,7 +117,7 @@
       "date": "Jul 09",
       "full_date": "2026-07-09",
       "title": "How We Made Field Day Our Best One Yet",
-      "views": 194,
+      "views": 205,
       "likes": 17,
       "video_id": "m5aILG8IEd0"
     }
