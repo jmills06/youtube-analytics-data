@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-07-14",
-  "total_watch_hours": 846.0,
-  "avg_view_duration": 342,
+  "last_updated": "2026-07-15",
+  "total_watch_hours": 842.3,
+  "avg_view_duration": 267,
   "duration_change": null,
-  "avg_view_percentage": 26.6,
-  "subscribers_gained": 101,
-  "subscribers_lost": 24,
+  "avg_view_percentage": 26.8,
+  "subscribers_gained": 103,
+  "subscribers_lost": 23,
   "subscriber_growth_chart": {
     "labels": [
-      "Jun 14",
       "Jun 15",
       "Jun 16",
       "Jun 17",
@@ -35,10 +34,10 @@
       "Jul 08",
       "Jul 09",
       "Jul 10",
-      "Jul 11"
+      "Jul 11",
+      "Jul 12"
     ],
     "values": [
-      1,
       6,
       0,
       2,
@@ -65,6 +64,7 @@
       2,
       4,
       3,
+      4,
       4
     ]
   },
@@ -76,16 +76,16 @@
   },
   "best_video": {
     "title": "Hands All Over the Icom ID-5200! | Hamvention 2026",
-    "views": 1132,
-    "watch_hours": 39.2,
-    "likes": 12
+    "views": 1084,
+    "watch_hours": 38.2,
+    "likes": 10
   },
   "video_launches": [
     {
       "date": "Jun 25",
       "full_date": "2026-06-25",
       "title": "What Happens When 80 Hams Finally Meet in Person? Michigan POTA Meetup 2026",
-      "views": 313,
+      "views": 315,
       "likes": 27,
       "video_id": "HN3sKVL2DSU"
     },
@@ -93,7 +93,7 @@
       "date": "Jul 02",
       "full_date": "2026-07-02",
       "title": "Raising a BuddiHEX Hex Beam at Field Day 2026 | South Lyon Area ARC",
-      "views": 826,
+      "views": 831,
       "likes": 57,
       "video_id": "0oo2I7vziac"
     },
@@ -101,7 +101,7 @@
       "date": "Jul 03",
       "full_date": "2026-07-03",
       "title": "Field Day 2026 Setup Walkthrough: BuddiHex, BandHopper &amp; Larry the Vertical",
-      "views": 843,
+      "views": 848,
       "likes": 55,
       "video_id": "hcXOOwiPnr0"
     },
@@ -109,7 +109,7 @@
       "date": "Jul 04",
       "full_date": "2026-07-04",
       "title": "Is Parks on the Air Past Its Prime? An Honest Debate",
-      "views": 288,
+      "views": 290,
       "likes": 29,
       "video_id": "ldjar8aKMPM"
     },
@@ -117,9 +117,17 @@
       "date": "Jul 09",
       "full_date": "2026-07-09",
       "title": "How We Made Field Day Our Best One Yet",
-      "views": 212,
+      "views": 222,
       "likes": 18,
       "video_id": "m5aILG8IEd0"
+    },
+    {
+      "date": "Jul 14",
+      "full_date": "2026-07-14",
+      "title": "Field Day Reinvented: How to Boost Club Engagement and Community Outreach",
+      "views": 60,
+      "likes": 6,
+      "video_id": "hu1R7Exlf3w"
     }
   ]
 }
