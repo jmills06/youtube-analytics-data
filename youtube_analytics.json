@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-07-17",
-  "total_watch_hours": 861.6,
+  "last_updated": "2026-07-18",
+  "total_watch_hours": 863.3,
   "avg_view_duration": 214,
   "duration_change": null,
-  "avg_view_percentage": 27.2,
+  "avg_view_percentage": 27.1,
   "subscribers_gained": 105,
-  "subscribers_lost": 23,
+  "subscribers_lost": 24,
   "subscriber_growth_chart": {
     "labels": [
-      "Jun 17",
       "Jun 18",
       "Jun 19",
       "Jun 20",
@@ -35,10 +34,10 @@
       "Jul 11",
       "Jul 12",
       "Jul 13",
-      "Jul 14"
+      "Jul 14",
+      "Jul 15"
     ],
     "values": [
-      2,
       6,
       8,
       2,
@@ -65,7 +64,8 @@
       4,
       4,
       4,
-      4
+      4,
+      1
     ]
   },
   "traffic_sources": {
@@ -76,16 +76,16 @@
   },
   "best_video": {
     "title": "Hands All Over the Icom ID-5200! | Hamvention 2026",
-    "views": 1024,
-    "watch_hours": 36.8,
-    "likes": 9
+    "views": 1040,
+    "watch_hours": 37.5,
+    "likes": 10
   },
   "video_launches": [
     {
       "date": "Jun 25",
       "full_date": "2026-06-25",
       "title": "What Happens When 80 Hams Finally Meet in Person? Michigan POTA Meetup 2026",
-      "views": 316,
+      "views": 317,
       "likes": 27,
       "video_id": "HN3sKVL2DSU"
     },
@@ -93,23 +93,23 @@
       "date": "Jul 02",
       "full_date": "2026-07-02",
       "title": "Raising a BuddiHEX Hex Beam at Field Day 2026 | South Lyon Area ARC",
-      "views": 837,
-      "likes": 58,
+      "views": 843,
+      "likes": 59,
       "video_id": "0oo2I7vziac"
     },
     {
       "date": "Jul 03",
       "full_date": "2026-07-03",
       "title": "Field Day 2026 Setup Walkthrough: BuddiHex, BandHopper &amp; Larry the Vertical",
-      "views": 853,
-      "likes": 56,
+      "views": 857,
+      "likes": 57,
       "video_id": "hcXOOwiPnr0"
     },
     {
       "date": "Jul 04",
       "full_date": "2026-07-04",
       "title": "Is Parks on the Air Past Its Prime? An Honest Debate",
-      "views": 297,
+      "views": 302,
       "likes": 29,
       "video_id": "ldjar8aKMPM"
     },
@@ -117,15 +117,15 @@
       "date": "Jul 09",
       "full_date": "2026-07-09",
       "title": "How We Made Field Day Our Best One Yet",
-      "views": 233,
-      "likes": 19,
+      "views": 244,
+      "likes": 18,
       "video_id": "m5aILG8IEd0"
     },
     {
       "date": "Jul 14",
       "full_date": "2026-07-14",
       "title": "Field Day Reinvented: How to Boost Club Engagement and Community Outreach",
-      "views": 92,
+      "views": 103,
       "likes": 6,
       "video_id": "hu1R7Exlf3w"
     },
@@ -133,9 +133,17 @@
       "date": "Jul 16",
       "full_date": "2026-07-16",
       "title": "Mirage and Ameritron Live On:  ITU Acquires another 2 Key Brands!",
-      "views": 46,
-      "likes": 3,
+      "views": 69,
+      "likes": 5,
       "video_id": "qqV5zexJB64"
+    },
+    {
+      "date": "Jul 17",
+      "full_date": "2026-07-17",
+      "title": "Heil BM-17 Unboxing &amp; Review: Is the Reissue Worth $165?",
+      "views": 224,
+      "likes": 21,
+      "video_id": "mdOTgixDm6o"
     }
   ]
 }
