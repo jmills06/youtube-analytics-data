@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-07-20",
-  "total_watch_hours": 877.5,
-  "avg_view_duration": 232,
+  "last_updated": "2026-07-21",
+  "total_watch_hours": 882.2,
+  "avg_view_duration": 206,
   "duration_change": null,
-  "avg_view_percentage": 27.1,
-  "subscribers_gained": 97,
-  "subscribers_lost": 25,
+  "avg_view_percentage": 27.2,
+  "subscribers_gained": 98,
+  "subscribers_lost": 26,
   "subscriber_growth_chart": {
     "labels": [
-      "Jun 20",
       "Jun 21",
       "Jun 22",
       "Jun 23",
@@ -35,10 +34,10 @@
       "Jul 14",
       "Jul 15",
       "Jul 16",
-      "Jul 17"
+      "Jul 17",
+      "Jul 18"
     ],
     "values": [
-      2,
       1,
       3,
       0,
@@ -65,7 +64,8 @@
       4,
       1,
       1,
-      4
+      4,
+      2
     ]
   },
   "traffic_sources": {
@@ -76,9 +76,9 @@
   },
   "best_video": {
     "title": "Meshtastic Solar Node with Wio Tracker L1 - N8JRD #meshtastic #solarnode #hamradio #amateurradio",
-    "views": 1041,
+    "views": 1044,
     "watch_hours": 6.9,
-    "likes": 13
+    "likes": 14
   },
   "video_launches": [
     {
@@ -93,7 +93,7 @@
       "date": "Jul 02",
       "full_date": "2026-07-02",
       "title": "Raising a BuddiHEX Hex Beam at Field Day 2026 | South Lyon Area ARC",
-      "views": 852,
+      "views": 858,
       "likes": 59,
       "video_id": "0oo2I7vziac"
     },
@@ -101,7 +101,7 @@
       "date": "Jul 03",
       "full_date": "2026-07-03",
       "title": "Field Day 2026 Setup Walkthrough: BuddiHex, BandHopper &amp; Larry the Vertical",
-      "views": 866,
+      "views": 868,
       "likes": 57,
       "video_id": "hcXOOwiPnr0"
     },
@@ -117,7 +117,7 @@
       "date": "Jul 09",
       "full_date": "2026-07-09",
       "title": "How We Made Field Day Our Best One Yet",
-      "views": 246,
+      "views": 248,
       "likes": 18,
       "video_id": "m5aILG8IEd0"
     },
@@ -133,7 +133,7 @@
       "date": "Jul 16",
       "full_date": "2026-07-16",
       "title": "Mirage and Ameritron Live On:  ITU Acquires another 2 Key Brands!",
-      "views": 88,
+      "views": 92,
       "likes": 5,
       "video_id": "qqV5zexJB64"
     },
@@ -141,7 +141,7 @@
       "date": "Jul 17",
       "full_date": "2026-07-17",
       "title": "Heil BM-17 Unboxing &amp; Review: Is the Reissue Worth $165?",
-      "views": 332,
+      "views": 344,
       "likes": 22,
       "video_id": "mdOTgixDm6o"
     }
