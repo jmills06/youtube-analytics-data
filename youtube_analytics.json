@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-07-22",
-  "total_watch_hours": 882.5,
-  "avg_view_duration": 205,
+  "last_updated": "2026-07-23",
+  "total_watch_hours": 884.8,
+  "avg_view_duration": 264,
   "duration_change": null,
-  "avg_view_percentage": 27.1,
-  "subscribers_gained": 99,
+  "avg_view_percentage": 27.3,
+  "subscribers_gained": 98,
   "subscribers_lost": 25,
   "subscriber_growth_chart": {
     "labels": [
-      "Jun 22",
       "Jun 23",
       "Jun 24",
       "Jun 25",
@@ -35,10 +34,10 @@
       "Jul 16",
       "Jul 17",
       "Jul 18",
-      "Jul 19"
+      "Jul 19",
+      "Jul 20"
     ],
     "values": [
-      3,
       0,
       3,
       1,
@@ -65,7 +64,8 @@
       1,
       4,
       2,
-      3
+      3,
+      2
     ]
   },
   "traffic_sources": {
@@ -76,16 +76,16 @@
   },
   "best_video": {
     "title": "Meshtastic Solar Node with Wio Tracker L1 - N8JRD #meshtastic #solarnode #hamradio #amateurradio",
-    "views": 1066,
-    "watch_hours": 6.3,
-    "likes": 16
+    "views": 1046,
+    "watch_hours": 6.0,
+    "likes": 17
   },
   "video_launches": [
     {
       "date": "Jun 25",
       "full_date": "2026-06-25",
       "title": "What Happens When 80 Hams Finally Meet in Person? Michigan POTA Meetup 2026",
-      "views": 324,
+      "views": 325,
       "likes": 27,
       "video_id": "HN3sKVL2DSU"
     },
@@ -93,7 +93,7 @@
       "date": "Jul 02",
       "full_date": "2026-07-02",
       "title": "Raising a BuddiHEX Hex Beam at Field Day 2026 | South Lyon Area ARC",
-      "views": 864,
+      "views": 871,
       "likes": 59,
       "video_id": "0oo2I7vziac"
     },
@@ -101,7 +101,7 @@
       "date": "Jul 03",
       "full_date": "2026-07-03",
       "title": "Field Day 2026 Setup Walkthrough: BuddiHex, BandHopper &amp; Larry the Vertical",
-      "views": 873,
+      "views": 877,
       "likes": 57,
       "video_id": "hcXOOwiPnr0"
     },
@@ -117,7 +117,7 @@
       "date": "Jul 09",
       "full_date": "2026-07-09",
       "title": "How We Made Field Day Our Best One Yet",
-      "views": 254,
+      "views": 256,
       "likes": 18,
       "video_id": "m5aILG8IEd0"
     },
@@ -125,7 +125,7 @@
       "date": "Jul 14",
       "full_date": "2026-07-14",
       "title": "Field Day Reinvented: How to Boost Club Engagement and Community Outreach",
-      "views": 106,
+      "views": 108,
       "likes": 6,
       "video_id": "hu1R7Exlf3w"
     },
@@ -133,7 +133,7 @@
       "date": "Jul 16",
       "full_date": "2026-07-16",
       "title": "Mirage and Ameritron Live On:  ITU Acquires another 2 Key Brands!",
-      "views": 96,
+      "views": 100,
       "likes": 5,
       "video_id": "qqV5zexJB64"
     },
@@ -141,7 +141,7 @@
       "date": "Jul 17",
       "full_date": "2026-07-17",
       "title": "Heil BM-17 Unboxing &amp; Review: Is the Reissue Worth $165?",
-      "views": 358,
+      "views": 373,
       "likes": 23,
       "video_id": "mdOTgixDm6o"
     },
@@ -149,15 +149,15 @@
       "date": "Jul 21",
       "full_date": "2026-07-21",
       "title": "Xiegu G7250 just brought some HEAT - New 100w (AFFORDABLE?) Remote HF Rig Incoming",
-      "views": 1280,
-      "likes": 93,
+      "views": 3640,
+      "likes": 142,
       "video_id": "r08dZat4bOU"
     },
     {
       "date": "Jul 21",
       "full_date": "2026-07-21",
       "title": "Our First Try With the $1,600 BuddiHEX Hex Beam",
-      "views": 202,
+      "views": 318,
       "likes": 20,
       "video_id": "G9nW8S4y2Xs"
     }
