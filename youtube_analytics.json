@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-07-24",
-  "total_watch_hours": 1004.7,
-  "avg_view_duration": 254,
+  "last_updated": "2026-07-25",
+  "total_watch_hours": 1131.4,
+  "avg_view_duration": 196,
   "duration_change": null,
-  "avg_view_percentage": 27.8,
-  "subscribers_gained": 125,
-  "subscribers_lost": 30,
+  "avg_view_percentage": 27.1,
+  "subscribers_gained": 143,
+  "subscribers_lost": 32,
   "subscriber_growth_chart": {
     "labels": [
-      "Jun 24",
       "Jun 25",
       "Jun 26",
       "Jun 27",
@@ -35,10 +34,10 @@
       "Jul 18",
       "Jul 19",
       "Jul 20",
-      "Jul 21"
+      "Jul 21",
+      "Jul 22"
     ],
     "values": [
-      3,
       1,
       4,
       3,
@@ -65,20 +64,21 @@
       2,
       3,
       2,
-      22
+      22,
+      19
     ]
   },
   "traffic_sources": {
-    "search": 27,
-    "browse": 14,
+    "search": 24,
+    "browse": 13,
     "external": 11,
-    "other": 48
+    "other": 52
   },
   "best_video": {
     "title": "Xiegu G7250 just brought some HEAT - New 100w (AFFORDABLE?) Remote HF Rig Incoming",
-    "views": 1413,
-    "watch_hours": 103.1,
-    "likes": 83
+    "views": 3666,
+    "watch_hours": 227.2,
+    "likes": 142
   },
   "video_launches": [
     {
@@ -93,7 +93,7 @@
       "date": "Jul 02",
       "full_date": "2026-07-02",
       "title": "Raising a BuddiHEX Hex Beam at Field Day 2026 | South Lyon Area ARC",
-      "views": 873,
+      "views": 876,
       "likes": 59,
       "video_id": "0oo2I7vziac"
     },
@@ -101,7 +101,7 @@
       "date": "Jul 03",
       "full_date": "2026-07-03",
       "title": "Field Day 2026 Setup Walkthrough: BuddiHex, BandHopper &amp; Larry the Vertical",
-      "views": 879,
+      "views": 881,
       "likes": 57,
       "video_id": "hcXOOwiPnr0"
     },
@@ -109,7 +109,7 @@
       "date": "Jul 04",
       "full_date": "2026-07-04",
       "title": "Is Parks on the Air Past Its Prime? An Honest Debate",
-      "views": 308,
+      "views": 309,
       "likes": 30,
       "video_id": "ldjar8aKMPM"
     },
@@ -117,7 +117,7 @@
       "date": "Jul 09",
       "full_date": "2026-07-09",
       "title": "How We Made Field Day Our Best One Yet",
-      "views": 257,
+      "views": 259,
       "likes": 18,
       "video_id": "m5aILG8IEd0"
     },
@@ -125,7 +125,7 @@
       "date": "Jul 14",
       "full_date": "2026-07-14",
       "title": "Field Day Reinvented: How to Boost Club Engagement and Community Outreach",
-      "views": 109,
+      "views": 110,
       "likes": 6,
       "video_id": "hu1R7Exlf3w"
     },
@@ -141,32 +141,32 @@
       "date": "Jul 17",
       "full_date": "2026-07-17",
       "title": "Heil BM-17 Unboxing &amp; Review: Is the Reissue Worth $165?",
-      "views": 375,
-      "likes": 23,
+      "views": 382,
+      "likes": 24,
       "video_id": "mdOTgixDm6o"
     },
     {
       "date": "Jul 21",
       "full_date": "2026-07-21",
       "title": "Xiegu G7250 just brought some HEAT - New 100w (AFFORDABLE?) Remote HF Rig Incoming",
-      "views": 4167,
-      "likes": 155,
+      "views": 4352,
+      "likes": 157,
       "video_id": "r08dZat4bOU"
     },
     {
       "date": "Jul 21",
       "full_date": "2026-07-21",
       "title": "Our First Try With the $1,600 BuddiHEX Hex Beam",
-      "views": 348,
-      "likes": 21,
+      "views": 389,
+      "likes": 23,
       "video_id": "G9nW8S4y2Xs"
     },
     {
       "date": "Jul 23",
       "full_date": "2026-07-23",
       "title": "How Tornado Sirens Get Tested: Ham Radio&#39;s Monthly Siren Check",
-      "views": 115,
-      "likes": 13,
+      "views": 141,
+      "likes": 14,
       "video_id": "SgptaI9RCHE"
     }
   ]
