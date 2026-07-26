@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-07-25",
-  "total_watch_hours": 1131.4,
-  "avg_view_duration": 196,
+  "last_updated": "2026-07-26",
+  "total_watch_hours": 1145.5,
+  "avg_view_duration": 181,
   "duration_change": null,
-  "avg_view_percentage": 27.1,
-  "subscribers_gained": 143,
-  "subscribers_lost": 32,
+  "avg_view_percentage": 26.9,
+  "subscribers_gained": 144,
+  "subscribers_lost": 34,
   "subscriber_growth_chart": {
     "labels": [
-      "Jun 25",
       "Jun 26",
       "Jun 27",
       "Jun 28",
@@ -35,10 +34,10 @@
       "Jul 19",
       "Jul 20",
       "Jul 21",
-      "Jul 22"
+      "Jul 22",
+      "Jul 23"
     ],
     "values": [
-      1,
       4,
       3,
       1,
@@ -65,35 +64,28 @@
       3,
       2,
       22,
-      19
+      19,
+      0
     ]
   },
   "traffic_sources": {
     "search": 24,
     "browse": 13,
-    "external": 11,
-    "other": 52
+    "external": 12,
+    "other": 51
   },
   "best_video": {
     "title": "Xiegu G7250 just brought some HEAT - New 100w (AFFORDABLE?) Remote HF Rig Incoming",
-    "views": 3666,
-    "watch_hours": 227.2,
-    "likes": 142
+    "views": 4179,
+    "watch_hours": 248.8,
+    "likes": 154
   },
   "video_launches": [
-    {
-      "date": "Jun 25",
-      "full_date": "2026-06-25",
-      "title": "What Happens When 80 Hams Finally Meet in Person? Michigan POTA Meetup 2026",
-      "views": 325,
-      "likes": 27,
-      "video_id": "HN3sKVL2DSU"
-    },
     {
       "date": "Jul 02",
       "full_date": "2026-07-02",
       "title": "Raising a BuddiHEX Hex Beam at Field Day 2026 | South Lyon Area ARC",
-      "views": 876,
+      "views": 880,
       "likes": 59,
       "video_id": "0oo2I7vziac"
     },
@@ -101,7 +93,7 @@
       "date": "Jul 03",
       "full_date": "2026-07-03",
       "title": "Field Day 2026 Setup Walkthrough: BuddiHex, BandHopper &amp; Larry the Vertical",
-      "views": 881,
+      "views": 884,
       "likes": 57,
       "video_id": "hcXOOwiPnr0"
     },
@@ -141,7 +133,7 @@
       "date": "Jul 17",
       "full_date": "2026-07-17",
       "title": "Heil BM-17 Unboxing &amp; Review: Is the Reissue Worth $165?",
-      "views": 382,
+      "views": 392,
       "likes": 24,
       "video_id": "mdOTgixDm6o"
     },
@@ -149,15 +141,15 @@
       "date": "Jul 21",
       "full_date": "2026-07-21",
       "title": "Xiegu G7250 just brought some HEAT - New 100w (AFFORDABLE?) Remote HF Rig Incoming",
-      "views": 4352,
-      "likes": 157,
+      "views": 4511,
+      "likes": 160,
       "video_id": "r08dZat4bOU"
     },
     {
       "date": "Jul 21",
       "full_date": "2026-07-21",
       "title": "Our First Try With the $1,600 BuddiHEX Hex Beam",
-      "views": 389,
+      "views": 397,
       "likes": 23,
       "video_id": "G9nW8S4y2Xs"
     },
@@ -165,8 +157,8 @@
       "date": "Jul 23",
       "full_date": "2026-07-23",
       "title": "How Tornado Sirens Get Tested: Ham Radio&#39;s Monthly Siren Check",
-      "views": 141,
-      "likes": 14,
+      "views": 172,
+      "likes": 17,
       "video_id": "SgptaI9RCHE"
     }
   ]
