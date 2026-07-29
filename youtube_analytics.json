@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-07-28",
-  "total_watch_hours": 1156.2,
-  "avg_view_duration": 199,
+  "last_updated": "2026-07-29",
+  "total_watch_hours": 1166.0,
+  "avg_view_duration": 204,
   "duration_change": null,
-  "avg_view_percentage": 26.7,
-  "subscribers_gained": 143,
-  "subscribers_lost": 35,
+  "avg_view_percentage": 26.6,
+  "subscribers_gained": 144,
+  "subscribers_lost": 34,
   "subscriber_growth_chart": {
     "labels": [
-      "Jun 28",
       "Jun 29",
       "Jun 30",
       "Jul 01",
@@ -35,10 +34,10 @@
       "Jul 22",
       "Jul 23",
       "Jul 24",
-      "Jul 25"
+      "Jul 25",
+      "Jul 26"
     ],
     "values": [
-      1,
       2,
       3,
       0,
@@ -65,6 +64,7 @@
       19,
       0,
       2,
+      3,
       3
     ]
   },
@@ -76,16 +76,16 @@
   },
   "best_video": {
     "title": "Xiegu G7250 just brought some HEAT - New 100w (AFFORDABLE?) Remote HF Rig Incoming",
-    "views": 4007,
-    "watch_hours": 239.8,
-    "likes": 147
+    "views": 3666,
+    "watch_hours": 227.4,
+    "likes": 142
   },
   "video_launches": [
     {
       "date": "Jul 02",
       "full_date": "2026-07-02",
       "title": "Raising a BuddiHEX Hex Beam at Field Day 2026 | South Lyon Area ARC",
-      "views": 891,
+      "views": 893,
       "likes": 59,
       "video_id": "0oo2I7vziac"
     },
@@ -93,7 +93,7 @@
       "date": "Jul 03",
       "full_date": "2026-07-03",
       "title": "Field Day 2026 Setup Walkthrough: BuddiHex, BandHopper &amp; Larry the Vertical",
-      "views": 894,
+      "views": 896,
       "likes": 57,
       "video_id": "hcXOOwiPnr0"
     },
@@ -101,7 +101,7 @@
       "date": "Jul 04",
       "full_date": "2026-07-04",
       "title": "Is Parks on the Air Past Its Prime? An Honest Debate",
-      "views": 313,
+      "views": 314,
       "likes": 30,
       "video_id": "ldjar8aKMPM"
     },
@@ -109,7 +109,7 @@
       "date": "Jul 09",
       "full_date": "2026-07-09",
       "title": "How We Made Field Day Our Best One Yet",
-      "views": 264,
+      "views": 265,
       "likes": 18,
       "video_id": "m5aILG8IEd0"
     },
@@ -117,7 +117,7 @@
       "date": "Jul 14",
       "full_date": "2026-07-14",
       "title": "Field Day Reinvented: How to Boost Club Engagement and Community Outreach",
-      "views": 110,
+      "views": 112,
       "likes": 6,
       "video_id": "hu1R7Exlf3w"
     },
@@ -125,7 +125,7 @@
       "date": "Jul 16",
       "full_date": "2026-07-16",
       "title": "Mirage and Ameritron Live On:  ITU Acquires another 2 Key Brands!",
-      "views": 103,
+      "views": 104,
       "likes": 5,
       "video_id": "qqV5zexJB64"
     },
@@ -133,7 +133,7 @@
       "date": "Jul 17",
       "full_date": "2026-07-17",
       "title": "Heil BM-17 Unboxing &amp; Review: Is the Reissue Worth $165?",
-      "views": 400,
+      "views": 407,
       "likes": 24,
       "video_id": "mdOTgixDm6o"
     },
@@ -141,7 +141,7 @@
       "date": "Jul 21",
       "full_date": "2026-07-21",
       "title": "Xiegu G7250 just brought some HEAT - New 100w (AFFORDABLE?) Remote HF Rig Incoming",
-      "views": 4726,
+      "views": 4764,
       "likes": 165,
       "video_id": "r08dZat4bOU"
     },
@@ -149,7 +149,7 @@
       "date": "Jul 21",
       "full_date": "2026-07-21",
       "title": "Our First Try With the $1,600 BuddiHEX Hex Beam",
-      "views": 420,
+      "views": 427,
       "likes": 23,
       "video_id": "G9nW8S4y2Xs"
     },
@@ -157,9 +157,25 @@
       "date": "Jul 23",
       "full_date": "2026-07-23",
       "title": "How Tornado Sirens Get Tested: Ham Radio&#39;s Monthly Siren Check",
-      "views": 225,
-      "likes": 21,
+      "views": 245,
+      "likes": 22,
       "video_id": "SgptaI9RCHE"
+    },
+    {
+      "date": "Jul 28",
+      "full_date": "2026-07-28",
+      "title": "&quot;I&#39;m Now a Professional Amateur&quot; | Ham2K&#39;s KI2D",
+      "views": 100,
+      "likes": 1,
+      "video_id": "L87ANHho5vQ"
+    },
+    {
+      "date": "Jul 28",
+      "full_date": "2026-07-28",
+      "title": "Ham2K PoLo Goes Desktop: Windows, Mac and Linux First Look with Sebasti\u00e1n KI2D",
+      "views": 413,
+      "likes": 40,
+      "video_id": "JivWdc2BbIs"
     }
   ]
 }
