@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-08-04",
-  "total_watch_hours": 1214.8,
-  "avg_view_duration": 254,
+  "last_updated": "2026-08-05",
+  "total_watch_hours": 1198.5,
+  "avg_view_duration": 221,
   "duration_change": null,
-  "avg_view_percentage": 25.1,
-  "subscribers_gained": 152,
-  "subscribers_lost": 34,
+  "avg_view_percentage": 24.9,
+  "subscribers_gained": 150,
+  "subscribers_lost": 33,
   "subscriber_growth_chart": {
     "labels": [
-      "Jul 05",
       "Jul 06",
       "Jul 07",
       "Jul 08",
@@ -35,10 +34,10 @@
       "Jul 29",
       "Jul 30",
       "Jul 31",
-      "Aug 01"
+      "Aug 01",
+      "Aug 02"
     ],
     "values": [
-      5,
       2,
       -1,
       2,
@@ -65,19 +64,20 @@
       12,
       1,
       3,
-      6
+      6,
+      4
     ]
   },
   "traffic_sources": {
     "search": 23,
-    "browse": 13,
+    "browse": 12,
     "external": 13,
-    "other": 51
+    "other": 52
   },
   "best_video": {
     "title": "Xiegu G7250 just brought some HEAT - New 100w (AFFORDABLE?) Remote HF Rig Incoming",
-    "views": 4870,
-    "watch_hours": 275.4,
+    "views": 4894,
+    "watch_hours": 276.3,
     "likes": 167
   },
   "video_launches": [
@@ -101,7 +101,7 @@
       "date": "Jul 16",
       "full_date": "2026-07-16",
       "title": "Mirage and Ameritron Live On:  ITU Acquires another 2 Key Brands!",
-      "views": 115,
+      "views": 117,
       "likes": 5,
       "video_id": "qqV5zexJB64"
     },
@@ -109,7 +109,7 @@
       "date": "Jul 17",
       "full_date": "2026-07-17",
       "title": "Heil BM-17 Unboxing &amp; Review: Is the Reissue Worth $165?",
-      "views": 466,
+      "views": 468,
       "likes": 27,
       "video_id": "mdOTgixDm6o"
     },
@@ -117,7 +117,7 @@
       "date": "Jul 21",
       "full_date": "2026-07-21",
       "title": "Xiegu G7250 just brought some HEAT - New 100w (AFFORDABLE?) Remote HF Rig Incoming",
-      "views": 4921,
+      "views": 4947,
       "likes": 168,
       "video_id": "r08dZat4bOU"
     },
@@ -125,7 +125,7 @@
       "date": "Jul 21",
       "full_date": "2026-07-21",
       "title": "Our First Try With the $1,600 BuddiHEX Hex Beam",
-      "views": 458,
+      "views": 461,
       "likes": 25,
       "video_id": "G9nW8S4y2Xs"
     },
@@ -133,7 +133,7 @@
       "date": "Jul 23",
       "full_date": "2026-07-23",
       "title": "Who Tests Tornado Sirens: Amateur Radio Operators keeping YOU Safe",
-      "views": 315,
+      "views": 316,
       "likes": 28,
       "video_id": "SgptaI9RCHE"
     },
@@ -141,7 +141,7 @@
       "date": "Jul 28",
       "full_date": "2026-07-28",
       "title": "&quot;I&#39;m Now a Professional Amateur&quot; | Ham2K&#39;s KI2D",
-      "views": 175,
+      "views": 174,
       "likes": 6,
       "video_id": "L87ANHho5vQ"
     },
@@ -149,8 +149,8 @@
       "date": "Jul 28",
       "full_date": "2026-07-28",
       "title": "Ham2K PoLo Goes Desktop: Windows, Mac and Linux First Look with Sebasti\u00e1n KI2D",
-      "views": 1289,
-      "likes": 87,
+      "views": 1335,
+      "likes": 89,
       "video_id": "JivWdc2BbIs"
     }
   ]
