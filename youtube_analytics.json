@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-08-06",
-  "total_watch_hours": 1196.2,
-  "avg_view_duration": 304,
+  "last_updated": "2026-08-07",
+  "total_watch_hours": 1194.2,
+  "avg_view_duration": 207,
   "duration_change": null,
-  "avg_view_percentage": 24.9,
-  "subscribers_gained": 151,
-  "subscribers_lost": 32,
+  "avg_view_percentage": 24.8,
+  "subscribers_gained": 154,
+  "subscribers_lost": 29,
   "subscriber_growth_chart": {
     "labels": [
-      "Jul 07",
       "Jul 08",
       "Jul 09",
       "Jul 10",
@@ -35,10 +34,10 @@
       "Jul 31",
       "Aug 01",
       "Aug 02",
-      "Aug 03"
+      "Aug 03",
+      "Aug 04"
     ],
     "values": [
-      -1,
       2,
       4,
       3,
@@ -65,7 +64,8 @@
       3,
       6,
       4,
-      4
+      4,
+      5
     ]
   },
   "traffic_sources": {
@@ -76,8 +76,8 @@
   },
   "best_video": {
     "title": "Xiegu G7250 just brought some HEAT - New 100w (AFFORDABLE?) Remote HF Rig Incoming",
-    "views": 4923,
-    "watch_hours": 277.1,
+    "views": 4947,
+    "watch_hours": 278.2,
     "likes": 168
   },
   "video_launches": [
@@ -101,7 +101,7 @@
       "date": "Jul 16",
       "full_date": "2026-07-16",
       "title": "Mirage and Ameritron Live On:  ITU Acquires another 2 Key Brands!",
-      "views": 120,
+      "views": 125,
       "likes": 5,
       "video_id": "qqV5zexJB64"
     },
@@ -109,7 +109,7 @@
       "date": "Jul 17",
       "full_date": "2026-07-17",
       "title": "Heil BM-17 Unboxing &amp; Review: Is the Reissue Worth $165?",
-      "views": 470,
+      "views": 472,
       "likes": 27,
       "video_id": "mdOTgixDm6o"
     },
@@ -117,8 +117,8 @@
       "date": "Jul 21",
       "full_date": "2026-07-21",
       "title": "Xiegu G7250 just brought some HEAT - New 100w (AFFORDABLE?) Remote HF Rig Incoming",
-      "views": 4967,
-      "likes": 169,
+      "views": 4984,
+      "likes": 170,
       "video_id": "r08dZat4bOU"
     },
     {
@@ -133,8 +133,8 @@
       "date": "Jul 23",
       "full_date": "2026-07-23",
       "title": "Who Tests Tornado Sirens: Amateur Radio Operators keeping YOU Safe",
-      "views": 318,
-      "likes": 28,
+      "views": 321,
+      "likes": 29,
       "video_id": "SgptaI9RCHE"
     },
     {
@@ -149,9 +149,25 @@
       "date": "Jul 28",
       "full_date": "2026-07-28",
       "title": "Ham2K PoLo Goes Desktop: Windows, Mac and Linux First Look with Sebasti\u00e1n KI2D",
-      "views": 1374,
-      "likes": 91,
+      "views": 1402,
+      "likes": 92,
       "video_id": "JivWdc2BbIs"
+    },
+    {
+      "date": "Aug 06",
+      "full_date": "2026-08-06",
+      "title": "Clip - He Waited 42 Years for One QSL Card",
+      "views": 886,
+      "likes": 6,
+      "video_id": "VcbRTsjRx28"
+    },
+    {
+      "date": "Aug 06",
+      "full_date": "2026-08-06",
+      "title": "Decoding QSL, From Paper Cards to Digital Confirmation",
+      "views": 109,
+      "likes": 18,
+      "video_id": "HhhoVukJI3s"
     }
   ]
 }
