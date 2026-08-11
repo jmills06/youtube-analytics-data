@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-08-10",
-  "total_watch_hours": 1175.5,
-  "avg_view_duration": 274,
+  "last_updated": "2026-08-11",
+  "total_watch_hours": 1164.4,
+  "avg_view_duration": 93,
   "duration_change": null,
-  "avg_view_percentage": 24.7,
-  "subscribers_gained": 156,
-  "subscribers_lost": 28,
+  "avg_view_percentage": 24.4,
+  "subscribers_gained": 152,
+  "subscribers_lost": 27,
   "subscriber_growth_chart": {
     "labels": [
-      "Jul 11",
       "Jul 12",
       "Jul 13",
       "Jul 14",
@@ -35,10 +34,10 @@
       "Aug 04",
       "Aug 05",
       "Aug 06",
-      "Aug 07"
+      "Aug 07",
+      "Aug 08"
     ],
     "values": [
-      4,
       4,
       4,
       4,
@@ -65,19 +64,20 @@
       5,
       5,
       3,
-      4
+      4,
+      1
     ]
   },
   "traffic_sources": {
-    "search": 22,
+    "search": 21,
     "browse": 11,
-    "external": 13,
-    "other": 54
+    "external": 12,
+    "other": 56
   },
   "best_video": {
     "title": "Xiegu G7250 just brought some HEAT - New 100w (AFFORDABLE?) Remote HF Rig Incoming",
-    "views": 4995,
-    "watch_hours": 280.6,
+    "views": 5005,
+    "watch_hours": 280.9,
     "likes": 170
   },
   "video_launches": [
@@ -93,7 +93,7 @@
       "date": "Jul 16",
       "full_date": "2026-07-16",
       "title": "Mirage and Ameritron Live On:  ITU Acquires another 2 Key Brands!",
-      "views": 129,
+      "views": 130,
       "likes": 6,
       "video_id": "qqV5zexJB64"
     },
@@ -101,15 +101,15 @@
       "date": "Jul 17",
       "full_date": "2026-07-17",
       "title": "Heil BM-17 Unboxing &amp; Review: Is the Reissue Worth $165?",
-      "views": 481,
-      "likes": 27,
+      "views": 484,
+      "likes": 28,
       "video_id": "mdOTgixDm6o"
     },
     {
       "date": "Jul 21",
       "full_date": "2026-07-21",
       "title": "Xiegu G7250 just brought some HEAT - New 100w (AFFORDABLE?) Remote HF Rig Incoming",
-      "views": 5021,
+      "views": 5025,
       "likes": 170,
       "video_id": "r08dZat4bOU"
     },
@@ -117,7 +117,7 @@
       "date": "Jul 21",
       "full_date": "2026-07-21",
       "title": "Our First Try With the $1,600 BuddiHEX Hex Beam",
-      "views": 466,
+      "views": 470,
       "likes": 25,
       "video_id": "G9nW8S4y2Xs"
     },
@@ -125,7 +125,7 @@
       "date": "Jul 23",
       "full_date": "2026-07-23",
       "title": "Who Tests Tornado Sirens: Amateur Radio Operators keeping YOU Safe",
-      "views": 324,
+      "views": 327,
       "likes": 29,
       "video_id": "SgptaI9RCHE"
     },
@@ -141,15 +141,15 @@
       "date": "Jul 28",
       "full_date": "2026-07-28",
       "title": "Ham2K PoLo Goes Desktop: Windows, Mac and Linux First Look with Sebasti\u00e1n KI2D",
-      "views": 1446,
-      "likes": 93,
+      "views": 1459,
+      "likes": 94,
       "video_id": "JivWdc2BbIs"
     },
     {
       "date": "Aug 06",
       "full_date": "2026-08-06",
       "title": "Clip - He Waited 42 Years for One QSL Card",
-      "views": 925,
+      "views": 930,
       "likes": 8,
       "video_id": "VcbRTsjRx28"
     },
@@ -157,7 +157,7 @@
       "date": "Aug 06",
       "full_date": "2026-08-06",
       "title": "Decoding QSL, From Paper Cards to Digital Confirmation",
-      "views": 164,
+      "views": 168,
       "likes": 18,
       "video_id": "HhhoVukJI3s"
     },
@@ -165,9 +165,17 @@
       "date": "Aug 08",
       "full_date": "2026-08-08",
       "title": "Clip - &quot;I&#39;ve Been a Ham 70 Years, I&#39;m Not QSLing Anymore&quot;",
-      "views": 1238,
+      "views": 1275,
       "likes": 3,
       "video_id": "jEMEbgEv1zM"
+    },
+    {
+      "date": "Aug 10",
+      "full_date": "2026-08-10",
+      "title": "QRZ Logbook or Logbook of the World: Where Should a New Ham Start?",
+      "views": 80,
+      "likes": 9,
+      "video_id": "R1YDR0cqRN8"
     }
   ]
 }
