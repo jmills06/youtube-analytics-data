@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-08-16",
-  "total_watch_hours": 1152.3,
-  "avg_view_duration": 245,
+  "last_updated": "2026-08-17",
+  "total_watch_hours": 1134.9,
+  "avg_view_duration": 222,
   "duration_change": null,
-  "avg_view_percentage": 24.2,
-  "subscribers_gained": 152,
+  "avg_view_percentage": 24.1,
+  "subscribers_gained": 150,
   "subscribers_lost": 26,
   "subscriber_growth_chart": {
     "labels": [
-      "Jul 17",
       "Jul 18",
       "Jul 19",
       "Jul 20",
@@ -35,10 +34,10 @@
       "Aug 10",
       "Aug 11",
       "Aug 12",
-      "Aug 13"
+      "Aug 13",
+      "Aug 14"
     ],
     "values": [
-      4,
       2,
       3,
       2,
@@ -65,7 +64,8 @@
       2,
       4,
       3,
-      3
+      3,
+      2
     ]
   },
   "traffic_sources": {
@@ -76,24 +76,16 @@
   },
   "best_video": {
     "title": "Xiegu G7250 just brought some HEAT - New 100w (AFFORDABLE?) Remote HF Rig Incoming",
-    "views": 5042,
-    "watch_hours": 281.6,
+    "views": 5045,
+    "watch_hours": 281.7,
     "likes": 170
   },
   "video_launches": [
     {
-      "date": "Jul 17",
-      "full_date": "2026-07-17",
-      "title": "Heil BM-17 Unboxing &amp; Review: Is the Reissue Worth $165?",
-      "views": 505,
-      "likes": 28,
-      "video_id": "mdOTgixDm6o"
-    },
-    {
       "date": "Jul 21",
       "full_date": "2026-07-21",
       "title": "Xiegu G7250 just brought some HEAT - New 100w (AFFORDABLE?) Remote HF Rig Incoming",
-      "views": 5060,
+      "views": 5066,
       "likes": 170,
       "video_id": "r08dZat4bOU"
     },
@@ -109,7 +101,7 @@
       "date": "Jul 23",
       "full_date": "2026-07-23",
       "title": "Who Tests Tornado Sirens: Amateur Radio Operators keeping YOU Safe",
-      "views": 329,
+      "views": 332,
       "likes": 29,
       "video_id": "SgptaI9RCHE"
     },
@@ -125,7 +117,7 @@
       "date": "Jul 28",
       "full_date": "2026-07-28",
       "title": "Ham2K PoLo Goes Desktop: Windows, Mac and Linux First Look with Sebasti\u00e1n KI2D",
-      "views": 1501,
+      "views": 1515,
       "likes": 94,
       "video_id": "JivWdc2BbIs"
     },
@@ -141,7 +133,7 @@
       "date": "Aug 06",
       "full_date": "2026-08-06",
       "title": "Decoding QSL, From Paper Cards to Digital Confirmation",
-      "views": 183,
+      "views": 185,
       "likes": 18,
       "video_id": "HhhoVukJI3s"
     },
@@ -157,7 +149,7 @@
       "date": "Aug 10",
       "full_date": "2026-08-10",
       "title": "QRZ Logbook or Logbook of the World: Where Should a New Ham Start?",
-      "views": 149,
+      "views": 152,
       "likes": 10,
       "video_id": "R1YDR0cqRN8"
     },
@@ -165,7 +157,7 @@
       "date": "Aug 14",
       "full_date": "2026-08-14",
       "title": "Paper QSL Cards: Still Worth Sending?",
-      "views": 48,
+      "views": 54,
       "likes": 6,
       "video_id": "LEmN65zuSK0"
     },
@@ -173,8 +165,8 @@
       "date": "Aug 15",
       "full_date": "2026-08-15",
       "title": "Alinco was Weird: Peak Ham Radio Oddware a Credit Card HT",
-      "views": 133,
-      "likes": 11,
+      "views": 353,
+      "likes": 21,
       "video_id": "nYPSyZzZcDY"
     }
   ]
