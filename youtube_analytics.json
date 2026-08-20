@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-08-19",
-  "total_watch_hours": 1165.2,
-  "avg_view_duration": 274,
+  "last_updated": "2026-08-20",
+  "total_watch_hours": 1190.2,
+  "avg_view_duration": 286,
   "duration_change": null,
-  "avg_view_percentage": 23.9,
-  "subscribers_gained": 153,
+  "avg_view_percentage": 23.8,
+  "subscribers_gained": 157,
   "subscribers_lost": 25,
   "subscriber_growth_chart": {
     "labels": [
-      "Jul 20",
       "Jul 21",
       "Jul 22",
       "Jul 23",
@@ -35,10 +34,10 @@
       "Aug 13",
       "Aug 14",
       "Aug 15",
-      "Aug 16"
+      "Aug 16",
+      "Aug 17"
     ],
     "values": [
-      2,
       22,
       19,
       0,
@@ -65,7 +64,8 @@
       3,
       2,
       1,
-      8
+      8,
+      6
     ]
   },
   "traffic_sources": {
@@ -76,8 +76,8 @@
   },
   "best_video": {
     "title": "Xiegu G7250 just brought some HEAT - New 100w (AFFORDABLE?) Remote HF Rig Incoming",
-    "views": 5066,
-    "watch_hours": 282.6,
+    "views": 5078,
+    "watch_hours": 282.9,
     "likes": 170
   },
   "video_launches": [
@@ -85,7 +85,7 @@
       "date": "Jul 21",
       "full_date": "2026-07-21",
       "title": "Xiegu G7250 just brought some HEAT - New 100w (AFFORDABLE?) Remote HF Rig Incoming",
-      "views": 5082,
+      "views": 5085,
       "likes": 170,
       "video_id": "r08dZat4bOU"
     },
@@ -93,7 +93,7 @@
       "date": "Jul 21",
       "full_date": "2026-07-21",
       "title": "Our First Try With the $1,600 BuddiHEX Hex Beam",
-      "views": 479,
+      "views": 480,
       "likes": 25,
       "video_id": "G9nW8S4y2Xs"
     },
@@ -109,7 +109,7 @@
       "date": "Jul 28",
       "full_date": "2026-07-28",
       "title": "&quot;I&#39;m Now a Professional Amateur&quot; | Ham2K&#39;s KI2D",
-      "views": 175,
+      "views": 177,
       "likes": 6,
       "video_id": "L87ANHho5vQ"
     },
@@ -117,7 +117,7 @@
       "date": "Jul 28",
       "full_date": "2026-07-28",
       "title": "Ham2K PoLo Goes Desktop: Windows, Mac and Linux First Look with Sebasti\u00e1n KI2D",
-      "views": 1533,
+      "views": 1535,
       "likes": 95,
       "video_id": "JivWdc2BbIs"
     },
@@ -125,7 +125,7 @@
       "date": "Aug 06",
       "full_date": "2026-08-06",
       "title": "Clip - He Waited 42 Years for One QSL Card",
-      "views": 936,
+      "views": 939,
       "likes": 8,
       "video_id": "VcbRTsjRx28"
     },
@@ -133,7 +133,7 @@
       "date": "Aug 06",
       "full_date": "2026-08-06",
       "title": "Decoding QSL, From Paper Cards to Digital Confirmation",
-      "views": 191,
+      "views": 199,
       "likes": 18,
       "video_id": "HhhoVukJI3s"
     },
@@ -141,7 +141,7 @@
       "date": "Aug 08",
       "full_date": "2026-08-08",
       "title": "Clip - &quot;I&#39;ve Been a Ham 70 Years, I&#39;m Not QSLing Anymore&quot;",
-      "views": 1342,
+      "views": 1345,
       "likes": 3,
       "video_id": "jEMEbgEv1zM"
     },
@@ -149,7 +149,7 @@
       "date": "Aug 10",
       "full_date": "2026-08-10",
       "title": "QRZ Logbook or Logbook of the World: Where Should a New Ham Start?",
-      "views": 162,
+      "views": 164,
       "likes": 10,
       "video_id": "R1YDR0cqRN8"
     },
@@ -157,7 +157,7 @@
       "date": "Aug 14",
       "full_date": "2026-08-14",
       "title": "Paper QSL Cards: Still Worth Sending?",
-      "views": 57,
+      "views": 65,
       "likes": 7,
       "video_id": "LEmN65zuSK0"
     },
@@ -165,16 +165,16 @@
       "date": "Aug 15",
       "full_date": "2026-08-15",
       "title": "Alinco was Weird: Peak Ham Radio Oddware a Credit Card HT",
-      "views": 725,
-      "likes": 35,
+      "views": 756,
+      "likes": 36,
       "video_id": "nYPSyZzZcDY"
     },
     {
       "date": "Aug 18",
       "full_date": "2026-08-18",
       "title": "A Tiny Credit Card Ham Radio: Alinco Weirdness #hamradio #alinco #djc5",
-      "views": 1106,
-      "likes": 10,
+      "views": 1166,
+      "likes": 11,
       "video_id": "bi5ceZWvSfg"
     }
   ]
