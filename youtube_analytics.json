@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-08-21",
-  "total_watch_hours": 1085.9,
-  "avg_view_duration": 105,
+  "last_updated": "2026-08-22",
+  "total_watch_hours": 965.8,
+  "avg_view_duration": 176,
   "duration_change": null,
-  "avg_view_percentage": 22.9,
-  "subscribers_gained": 139,
-  "subscribers_lost": 22,
+  "avg_view_percentage": 22.7,
+  "subscribers_gained": 121,
+  "subscribers_lost": 24,
   "subscriber_growth_chart": {
     "labels": [
-      "Jul 22",
       "Jul 23",
       "Jul 24",
       "Jul 25",
@@ -35,10 +34,10 @@
       "Aug 15",
       "Aug 16",
       "Aug 17",
-      "Aug 18"
+      "Aug 18",
+      "Aug 19"
     ],
     "values": [
-      19,
       0,
       2,
       3,
@@ -65,20 +64,21 @@
       1,
       8,
       6,
-      7
+      7,
+      -1
     ]
   },
   "traffic_sources": {
-    "search": 20,
+    "search": 22,
     "browse": 9,
     "external": 12,
-    "other": 59
+    "other": 57
   },
   "best_video": {
-    "title": "Xiegu G7250 just brought some HEAT - New 100w (AFFORDABLE?) Remote HF Rig Incoming",
-    "views": 3670,
-    "watch_hours": 179.7,
-    "likes": 87
+    "title": "Ham2K PoLo Goes Desktop: Windows, Mac and Linux First Look with Sebasti\u00e1n KI2D",
+    "views": 1534,
+    "watch_hours": 242.8,
+    "likes": 95
   },
   "video_launches": [
     {
@@ -93,7 +93,7 @@
       "date": "Jul 28",
       "full_date": "2026-07-28",
       "title": "&quot;I&#39;m Now a Professional Amateur&quot; | Ham2K&#39;s KI2D",
-      "views": 177,
+      "views": 179,
       "likes": 6,
       "video_id": "L87ANHho5vQ"
     },
@@ -101,7 +101,7 @@
       "date": "Jul 28",
       "full_date": "2026-07-28",
       "title": "Ham2K PoLo Goes Desktop: Windows, Mac and Linux First Look with Sebasti\u00e1n KI2D",
-      "views": 1543,
+      "views": 1559,
       "likes": 95,
       "video_id": "JivWdc2BbIs"
     },
@@ -117,7 +117,7 @@
       "date": "Aug 06",
       "full_date": "2026-08-06",
       "title": "Decoding QSL, From Paper Cards to Digital Confirmation",
-      "views": 201,
+      "views": 202,
       "likes": 18,
       "video_id": "HhhoVukJI3s"
     },
@@ -133,7 +133,7 @@
       "date": "Aug 10",
       "full_date": "2026-08-10",
       "title": "QRZ Logbook or Logbook of the World: Where Should a New Ham Start?",
-      "views": 165,
+      "views": 166,
       "likes": 10,
       "video_id": "R1YDR0cqRN8"
     },
@@ -149,7 +149,7 @@
       "date": "Aug 15",
       "full_date": "2026-08-15",
       "title": "Alinco was Weird: Peak Ham Radio Oddware a Credit Card HT",
-      "views": 774,
+      "views": 773,
       "likes": 37,
       "video_id": "nYPSyZzZcDY"
     },
@@ -157,7 +157,7 @@
       "date": "Aug 18",
       "full_date": "2026-08-18",
       "title": "A Tiny Credit Card Ham Radio: Alinco Weirdness #hamradio #alinco #djc5",
-      "views": 1188,
+      "views": 1213,
       "likes": 12,
       "video_id": "bi5ceZWvSfg"
     }
