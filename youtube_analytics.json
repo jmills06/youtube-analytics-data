@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-08-22",
-  "total_watch_hours": 965.8,
-  "avg_view_duration": 176,
+  "last_updated": "2026-08-23",
+  "total_watch_hours": 939.8,
+  "avg_view_duration": 188,
   "duration_change": null,
   "avg_view_percentage": 22.7,
-  "subscribers_gained": 121,
-  "subscribers_lost": 24,
+  "subscribers_gained": 120,
+  "subscribers_lost": 22,
   "subscriber_growth_chart": {
     "labels": [
-      "Jul 23",
       "Jul 24",
       "Jul 25",
       "Jul 26",
@@ -35,10 +34,10 @@
       "Aug 16",
       "Aug 17",
       "Aug 18",
-      "Aug 19"
+      "Aug 19",
+      "Aug 20"
     ],
     "values": [
-      0,
       2,
       3,
       3,
@@ -65,30 +64,23 @@
       8,
       6,
       7,
-      -1
+      -1,
+      1
     ]
   },
   "traffic_sources": {
-    "search": 22,
+    "search": 23,
     "browse": 9,
-    "external": 12,
+    "external": 11,
     "other": 57
   },
   "best_video": {
     "title": "Ham2K PoLo Goes Desktop: Windows, Mac and Linux First Look with Sebasti\u00e1n KI2D",
-    "views": 1534,
-    "watch_hours": 242.8,
+    "views": 1543,
+    "watch_hours": 244.2,
     "likes": 95
   },
   "video_launches": [
-    {
-      "date": "Jul 23",
-      "full_date": "2026-07-23",
-      "title": "Who Tests Tornado Sirens: Amateur Radio Operators keeping YOU Safe",
-      "views": 342,
-      "likes": 30,
-      "video_id": "SgptaI9RCHE"
-    },
     {
       "date": "Jul 28",
       "full_date": "2026-07-28",
@@ -101,7 +93,7 @@
       "date": "Jul 28",
       "full_date": "2026-07-28",
       "title": "Ham2K PoLo Goes Desktop: Windows, Mac and Linux First Look with Sebasti\u00e1n KI2D",
-      "views": 1559,
+      "views": 1573,
       "likes": 95,
       "video_id": "JivWdc2BbIs"
     },
@@ -133,7 +125,7 @@
       "date": "Aug 10",
       "full_date": "2026-08-10",
       "title": "QRZ Logbook or Logbook of the World: Where Should a New Ham Start?",
-      "views": 166,
+      "views": 167,
       "likes": 10,
       "video_id": "R1YDR0cqRN8"
     },
@@ -141,7 +133,7 @@
       "date": "Aug 14",
       "full_date": "2026-08-14",
       "title": "Paper QSL Cards: Still Worth Sending?",
-      "views": 71,
+      "views": 72,
       "likes": 8,
       "video_id": "LEmN65zuSK0"
     },
@@ -149,7 +141,7 @@
       "date": "Aug 15",
       "full_date": "2026-08-15",
       "title": "Alinco was Weird: Peak Ham Radio Oddware a Credit Card HT",
-      "views": 773,
+      "views": 779,
       "likes": 37,
       "video_id": "nYPSyZzZcDY"
     },
@@ -157,8 +149,8 @@
       "date": "Aug 18",
       "full_date": "2026-08-18",
       "title": "A Tiny Credit Card Ham Radio: Alinco Weirdness #hamradio #alinco #djc5",
-      "views": 1213,
-      "likes": 12,
+      "views": 1196,
+      "likes": 14,
       "video_id": "bi5ceZWvSfg"
     }
   ]
