@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-08-25",
-  "total_watch_hours": 940.5,
-  "avg_view_duration": 235,
+  "last_updated": "2026-08-26",
+  "total_watch_hours": 936.8,
+  "avg_view_duration": 223,
   "duration_change": null,
-  "avg_view_percentage": 22.8,
-  "subscribers_gained": 120,
-  "subscribers_lost": 21,
+  "avg_view_percentage": 22.9,
+  "subscribers_gained": 121,
+  "subscribers_lost": 22,
   "subscriber_growth_chart": {
     "labels": [
-      "Jul 26",
       "Jul 27",
       "Jul 28",
       "Jul 29",
@@ -35,10 +34,10 @@
       "Aug 19",
       "Aug 20",
       "Aug 21",
-      "Aug 22"
+      "Aug 22",
+      "Aug 23"
     ],
     "values": [
-      3,
       1,
       2,
       12,
@@ -65,7 +64,8 @@
       -1,
       1,
       2,
-      4
+      4,
+      3
     ]
   },
   "traffic_sources": {
@@ -76,16 +76,16 @@
   },
   "best_video": {
     "title": "Ham2K PoLo Goes Desktop: Windows, Mac and Linux First Look with Sebasti\u00e1n KI2D",
-    "views": 1572,
-    "watch_hours": 247.9,
-    "likes": 95
+    "views": 1580,
+    "watch_hours": 247.7,
+    "likes": 96
   },
   "video_launches": [
     {
       "date": "Jul 28",
       "full_date": "2026-07-28",
       "title": "&quot;I&#39;m Now a Professional Amateur&quot; | Ham2K&#39;s KI2D",
-      "views": 180,
+      "views": 181,
       "likes": 6,
       "video_id": "L87ANHho5vQ"
     },
@@ -93,7 +93,7 @@
       "date": "Jul 28",
       "full_date": "2026-07-28",
       "title": "Ham2K PoLo Goes Desktop: Windows, Mac and Linux First Look with Sebasti\u00e1n KI2D",
-      "views": 1592,
+      "views": 1602,
       "likes": 97,
       "video_id": "JivWdc2BbIs"
     },
@@ -101,7 +101,7 @@
       "date": "Aug 06",
       "full_date": "2026-08-06",
       "title": "Clip - He Waited 42 Years for One QSL Card",
-      "views": 940,
+      "views": 941,
       "likes": 8,
       "video_id": "VcbRTsjRx28"
     },
@@ -109,7 +109,7 @@
       "date": "Aug 06",
       "full_date": "2026-08-06",
       "title": "Decoding QSL, From Paper Cards to Digital Confirmation",
-      "views": 205,
+      "views": 207,
       "likes": 18,
       "video_id": "HhhoVukJI3s"
     },
@@ -117,7 +117,7 @@
       "date": "Aug 08",
       "full_date": "2026-08-08",
       "title": "Clip - &quot;I&#39;ve Been a Ham 70 Years, I&#39;m Not QSLing Anymore&quot;",
-      "views": 1350,
+      "views": 1353,
       "likes": 3,
       "video_id": "jEMEbgEv1zM"
     },
@@ -133,7 +133,7 @@
       "date": "Aug 14",
       "full_date": "2026-08-14",
       "title": "Paper QSL Cards: Still Worth Sending?",
-      "views": 74,
+      "views": 75,
       "likes": 8,
       "video_id": "LEmN65zuSK0"
     },
@@ -141,7 +141,7 @@
       "date": "Aug 15",
       "full_date": "2026-08-15",
       "title": "Alinco was Weird: Peak Ham Radio Oddware a Credit Card HT",
-      "views": 794,
+      "views": 796,
       "likes": 37,
       "video_id": "nYPSyZzZcDY"
     },
@@ -149,7 +149,7 @@
       "date": "Aug 18",
       "full_date": "2026-08-18",
       "title": "A Tiny Credit Card Ham Radio: Alinco Weirdness #hamradio #alinco #djc5",
-      "views": 1240,
+      "views": 1248,
       "likes": 15,
       "video_id": "bi5ceZWvSfg"
     }
