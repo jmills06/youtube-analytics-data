@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-08-26",
-  "total_watch_hours": 936.8,
-  "avg_view_duration": 223,
+  "last_updated": "2026-08-27",
+  "total_watch_hours": 934.0,
+  "avg_view_duration": 219,
   "duration_change": null,
-  "avg_view_percentage": 22.9,
+  "avg_view_percentage": 22.8,
   "subscribers_gained": 121,
-  "subscribers_lost": 22,
+  "subscribers_lost": 21,
   "subscriber_growth_chart": {
     "labels": [
-      "Jul 27",
       "Jul 28",
       "Jul 29",
       "Jul 30",
@@ -35,10 +34,10 @@
       "Aug 20",
       "Aug 21",
       "Aug 22",
-      "Aug 23"
+      "Aug 23",
+      "Aug 24"
     ],
     "values": [
-      1,
       2,
       12,
       1,
@@ -65,7 +64,8 @@
       1,
       2,
       4,
-      3
+      3,
+      2
     ]
   },
   "traffic_sources": {
@@ -76,8 +76,8 @@
   },
   "best_video": {
     "title": "Ham2K PoLo Goes Desktop: Windows, Mac and Linux First Look with Sebasti\u00e1n KI2D",
-    "views": 1580,
-    "watch_hours": 247.7,
+    "views": 1592,
+    "watch_hours": 248.3,
     "likes": 96
   },
   "video_launches": [
@@ -93,7 +93,7 @@
       "date": "Jul 28",
       "full_date": "2026-07-28",
       "title": "Ham2K PoLo Goes Desktop: Windows, Mac and Linux First Look with Sebasti\u00e1n KI2D",
-      "views": 1602,
+      "views": 1604,
       "likes": 97,
       "video_id": "JivWdc2BbIs"
     },
@@ -109,7 +109,7 @@
       "date": "Aug 06",
       "full_date": "2026-08-06",
       "title": "Decoding QSL, From Paper Cards to Digital Confirmation",
-      "views": 207,
+      "views": 208,
       "likes": 18,
       "video_id": "HhhoVukJI3s"
     },
@@ -117,7 +117,7 @@
       "date": "Aug 08",
       "full_date": "2026-08-08",
       "title": "Clip - &quot;I&#39;ve Been a Ham 70 Years, I&#39;m Not QSLing Anymore&quot;",
-      "views": 1353,
+      "views": 1354,
       "likes": 3,
       "video_id": "jEMEbgEv1zM"
     },
@@ -125,7 +125,7 @@
       "date": "Aug 10",
       "full_date": "2026-08-10",
       "title": "QRZ Logbook or Logbook of the World: Where Should a New Ham Start?",
-      "views": 170,
+      "views": 171,
       "likes": 10,
       "video_id": "R1YDR0cqRN8"
     },
@@ -133,7 +133,7 @@
       "date": "Aug 14",
       "full_date": "2026-08-14",
       "title": "Paper QSL Cards: Still Worth Sending?",
-      "views": 75,
+      "views": 79,
       "likes": 8,
       "video_id": "LEmN65zuSK0"
     },
@@ -141,7 +141,7 @@
       "date": "Aug 15",
       "full_date": "2026-08-15",
       "title": "Alinco was Weird: Peak Ham Radio Oddware a Credit Card HT",
-      "views": 796,
+      "views": 799,
       "likes": 37,
       "video_id": "nYPSyZzZcDY"
     },
@@ -149,9 +149,17 @@
       "date": "Aug 18",
       "full_date": "2026-08-18",
       "title": "A Tiny Credit Card Ham Radio: Alinco Weirdness #hamradio #alinco #djc5",
-      "views": 1248,
+      "views": 1251,
       "likes": 15,
       "video_id": "bi5ceZWvSfg"
+    },
+    {
+      "date": "Aug 27",
+      "full_date": "2026-08-27",
+      "title": "Broken APRS: Building an External GPS Solution for the Yaesu FTM-500 (or 510!)",
+      "views": 232,
+      "likes": 20,
+      "video_id": "6bfpd7tNemg"
     }
   ]
 }
