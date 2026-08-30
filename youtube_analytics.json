@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-08-29",
-  "total_watch_hours": 793.1,
-  "avg_view_duration": 191,
+  "last_updated": "2026-08-30",
+  "total_watch_hours": 788.3,
+  "avg_view_duration": 183,
   "duration_change": null,
-  "avg_view_percentage": 22.7,
-  "subscribers_gained": 112,
+  "avg_view_percentage": 22.8,
+  "subscribers_gained": 121,
   "subscribers_lost": 21,
   "subscriber_growth_chart": {
     "labels": [
-      "Jul 30",
       "Jul 31",
       "Aug 01",
       "Aug 02",
@@ -35,10 +34,10 @@
       "Aug 23",
       "Aug 24",
       "Aug 25",
-      "Aug 26"
+      "Aug 26",
+      "Aug 27"
     ],
     "values": [
-      1,
       3,
       6,
       4,
@@ -65,7 +64,8 @@
       3,
       2,
       3,
-      2
+      2,
+      10
     ]
   },
   "traffic_sources": {
@@ -75,17 +75,17 @@
     "other": 56
   },
   "best_video": {
-    "title": "Clip - \"I've Been a Ham 70 Years, I'm Not QSLing Anymore\"",
-    "views": 1354,
-    "watch_hours": 4.0,
-    "likes": 3
+    "title": "It's REAL and It Works! Kenwood TM-D750A First Powered-On Look | Hamvention 2026",
+    "views": 1360,
+    "watch_hours": 57.4,
+    "likes": 15
   },
   "video_launches": [
     {
       "date": "Aug 06",
       "full_date": "2026-08-06",
       "title": "Clip - He Waited 42 Years for One QSL Card",
-      "views": 941,
+      "views": 942,
       "likes": 8,
       "video_id": "VcbRTsjRx28"
     },
@@ -93,7 +93,7 @@
       "date": "Aug 06",
       "full_date": "2026-08-06",
       "title": "Decoding QSL, From Paper Cards to Digital Confirmation",
-      "views": 215,
+      "views": 223,
       "likes": 18,
       "video_id": "HhhoVukJI3s"
     },
@@ -101,7 +101,7 @@
       "date": "Aug 08",
       "full_date": "2026-08-08",
       "title": "Clip - &quot;I&#39;ve Been a Ham 70 Years, I&#39;m Not QSLing Anymore&quot;",
-      "views": 1354,
+      "views": 1356,
       "likes": 3,
       "video_id": "jEMEbgEv1zM"
     },
@@ -109,7 +109,7 @@
       "date": "Aug 10",
       "full_date": "2026-08-10",
       "title": "QRZ Logbook or Logbook of the World: Where Should a New Ham Start?",
-      "views": 174,
+      "views": 177,
       "likes": 10,
       "video_id": "R1YDR0cqRN8"
     },
@@ -117,7 +117,7 @@
       "date": "Aug 14",
       "full_date": "2026-08-14",
       "title": "Paper QSL Cards: Still Worth Sending?",
-      "views": 84,
+      "views": 85,
       "likes": 8,
       "video_id": "LEmN65zuSK0"
     },
@@ -125,7 +125,7 @@
       "date": "Aug 15",
       "full_date": "2026-08-15",
       "title": "Alinco was Weird: Peak Ham Radio Oddware a Credit Card HT",
-      "views": 808,
+      "views": 814,
       "likes": 37,
       "video_id": "nYPSyZzZcDY"
     },
@@ -133,7 +133,7 @@
       "date": "Aug 18",
       "full_date": "2026-08-18",
       "title": "A Tiny Credit Card Ham Radio: Alinco Weirdness #hamradio #alinco #djc5",
-      "views": 1252,
+      "views": 1257,
       "likes": 15,
       "video_id": "bi5ceZWvSfg"
     },
@@ -141,9 +141,25 @@
       "date": "Aug 27",
       "full_date": "2026-08-27",
       "title": "Broken APRS: Building an External GPS Solution for the Yaesu FTM-500 (or 510!)",
-      "views": 842,
+      "views": 904,
       "likes": 34,
       "video_id": "6bfpd7tNemg"
+    },
+    {
+      "date": "Aug 29",
+      "full_date": "2026-08-29",
+      "title": "Icom IC-7110 Revealed: Our Live Reaction to the X-026 Unveiling",
+      "views": 2213,
+      "likes": 35,
+      "video_id": "FGMP-r6Kwq0"
+    },
+    {
+      "date": "Aug 30",
+      "full_date": "2026-08-30",
+      "title": "The IC-7110 Is Not For Everyone",
+      "views": 140,
+      "likes": 3,
+      "video_id": "wJ9ApHXBlWE"
     }
   ]
 }
