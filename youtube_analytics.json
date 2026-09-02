@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-09-01",
-  "total_watch_hours": 834.2,
-  "avg_view_duration": 270,
+  "last_updated": "2026-09-02",
+  "total_watch_hours": 865.4,
+  "avg_view_duration": 284,
   "duration_change": null,
-  "avg_view_percentage": 22.1,
-  "subscribers_gained": 120,
+  "avg_view_percentage": 22.0,
+  "subscribers_gained": 117,
   "subscribers_lost": 22,
   "subscriber_growth_chart": {
     "labels": [
-      "Aug 02",
       "Aug 03",
       "Aug 04",
       "Aug 05",
@@ -35,10 +34,10 @@
       "Aug 26",
       "Aug 27",
       "Aug 28",
-      "Aug 29"
+      "Aug 29",
+      "Aug 30"
     ],
     "values": [
-      4,
       4,
       5,
       5,
@@ -65,20 +64,21 @@
       2,
       10,
       4,
-      3
+      3,
+      1
     ]
   },
   "traffic_sources": {
-    "search": 27,
+    "search": 28,
     "browse": 8,
-    "external": 10,
+    "external": 9,
     "other": 55
   },
   "best_video": {
     "title": "Icom IC-7110 Revealed: Our Live Reaction to the X-026 Unveiling",
-    "views": 2139,
-    "watch_hours": 80.8,
-    "likes": 34
+    "views": 2991,
+    "watch_hours": 107.0,
+    "likes": 36
   },
   "video_launches": [
     {
@@ -93,7 +93,7 @@
       "date": "Aug 06",
       "full_date": "2026-08-06",
       "title": "Decoding QSL, From Paper Cards to Digital Confirmation",
-      "views": 231,
+      "views": 240,
       "likes": 18,
       "video_id": "HhhoVukJI3s"
     },
@@ -109,7 +109,7 @@
       "date": "Aug 10",
       "full_date": "2026-08-10",
       "title": "QRZ Logbook or Logbook of the World: Where Should a New Ham Start?",
-      "views": 181,
+      "views": 183,
       "likes": 10,
       "video_id": "R1YDR0cqRN8"
     },
@@ -117,7 +117,7 @@
       "date": "Aug 14",
       "full_date": "2026-08-14",
       "title": "Paper QSL Cards: Still Worth Sending?",
-      "views": 85,
+      "views": 86,
       "likes": 8,
       "video_id": "LEmN65zuSK0"
     },
@@ -125,7 +125,7 @@
       "date": "Aug 15",
       "full_date": "2026-08-15",
       "title": "Alinco was Weird: Peak Ham Radio Oddware a Credit Card HT",
-      "views": 817,
+      "views": 821,
       "likes": 37,
       "video_id": "nYPSyZzZcDY"
     },
@@ -141,7 +141,7 @@
       "date": "Aug 27",
       "full_date": "2026-08-27",
       "title": "Broken APRS: Building an External GPS Solution for the Yaesu FTM-500 (or 510!)",
-      "views": 994,
+      "views": 1008,
       "likes": 37,
       "video_id": "6bfpd7tNemg"
     },
@@ -149,15 +149,15 @@
       "date": "Aug 29",
       "full_date": "2026-08-29",
       "title": "Icom IC-7110 Revealed: Our Live Reaction to the X-026 Unveiling",
-      "views": 3576,
-      "likes": 43,
+      "views": 3845,
+      "likes": 45,
       "video_id": "FGMP-r6Kwq0"
     },
     {
       "date": "Aug 30",
       "full_date": "2026-08-30",
       "title": "The IC-7110 Is Not For Everyone",
-      "views": 315,
+      "views": 343,
       "likes": 8,
       "video_id": "wJ9ApHXBlWE"
     },
@@ -165,7 +165,7 @@
       "date": "Aug 31",
       "full_date": "2026-08-31",
       "title": "IC-7110 - Is It What You Wanted It To Be",
-      "views": 131,
+      "views": 161,
       "likes": 5,
       "video_id": "N9i7XudEuyw"
     }
