@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-09-03",
-  "total_watch_hours": 866.2,
-  "avg_view_duration": 195,
+  "last_updated": "2026-09-04",
+  "total_watch_hours": 878.0,
+  "avg_view_duration": 297,
   "duration_change": null,
-  "avg_view_percentage": 21.5,
-  "subscribers_gained": 114,
-  "subscribers_lost": 22,
+  "avg_view_percentage": 21.7,
+  "subscribers_gained": 112,
+  "subscribers_lost": 23,
   "subscriber_growth_chart": {
     "labels": [
-      "Aug 04",
       "Aug 05",
       "Aug 06",
       "Aug 07",
@@ -35,10 +34,10 @@
       "Aug 28",
       "Aug 29",
       "Aug 30",
-      "Aug 31"
+      "Aug 31",
+      "Sep 01"
     ],
     "values": [
-      5,
       5,
       3,
       4,
@@ -65,20 +64,21 @@
       4,
       3,
       1,
-      1
+      1,
+      2
     ]
   },
   "traffic_sources": {
     "search": 28,
     "browse": 7,
-    "external": 9,
-    "other": 56
+    "external": 8,
+    "other": 57
   },
   "best_video": {
     "title": "Icom IC-7110 Revealed: Our Live Reaction to the X-026 Unveiling",
-    "views": 2991,
-    "watch_hours": 107.0,
-    "likes": 36
+    "views": 3284,
+    "watch_hours": 115.9,
+    "likes": 38
   },
   "video_launches": [
     {
@@ -93,7 +93,7 @@
       "date": "Aug 06",
       "full_date": "2026-08-06",
       "title": "Decoding QSL, From Paper Cards to Digital Confirmation",
-      "views": 243,
+      "views": 246,
       "likes": 18,
       "video_id": "HhhoVukJI3s"
     },
@@ -109,23 +109,23 @@
       "date": "Aug 10",
       "full_date": "2026-08-10",
       "title": "QRZ Logbook or Logbook of the World: Where Should a New Ham Start?",
-      "views": 186,
-      "likes": 10,
+      "views": 194,
+      "likes": 11,
       "video_id": "R1YDR0cqRN8"
     },
     {
       "date": "Aug 14",
       "full_date": "2026-08-14",
       "title": "Paper QSL Cards: Still Worth Sending?",
-      "views": 87,
-      "likes": 8,
+      "views": 90,
+      "likes": 9,
       "video_id": "LEmN65zuSK0"
     },
     {
       "date": "Aug 15",
       "full_date": "2026-08-15",
       "title": "Alinco was Weird: Peak Ham Radio Oddware a Credit Card HT",
-      "views": 832,
+      "views": 838,
       "likes": 37,
       "video_id": "nYPSyZzZcDY"
     },
@@ -141,7 +141,7 @@
       "date": "Aug 27",
       "full_date": "2026-08-27",
       "title": "Broken APRS: Building an External GPS Solution for the Yaesu FTM-500 (or 510!)",
-      "views": 1043,
+      "views": 1044,
       "likes": 37,
       "video_id": "6bfpd7tNemg"
     },
@@ -149,7 +149,7 @@
       "date": "Aug 29",
       "full_date": "2026-08-29",
       "title": "Icom IC-7110 Revealed: Our Live Reaction to the X-026 Unveiling",
-      "views": 3913,
+      "views": 4006,
       "likes": 45,
       "video_id": "FGMP-r6Kwq0"
     },
@@ -157,7 +157,7 @@
       "date": "Aug 30",
       "full_date": "2026-08-30",
       "title": "The IC-7110 Is Not For Everyone",
-      "views": 358,
+      "views": 371,
       "likes": 10,
       "video_id": "wJ9ApHXBlWE"
     },
@@ -165,9 +165,25 @@
       "date": "Aug 31",
       "full_date": "2026-08-31",
       "title": "IC-7110 - Is It What You Wanted It To Be",
-      "views": 171,
+      "views": 175,
       "likes": 6,
       "video_id": "N9i7XudEuyw"
+    },
+    {
+      "date": "Sep 03",
+      "full_date": "2026-09-03",
+      "title": "DIY Digipeater at Detroit&#39;s Historic Masonic Temple",
+      "views": 212,
+      "likes": 9,
+      "video_id": "FakqdX9c1ac"
+    },
+    {
+      "date": "Sep 04",
+      "full_date": "2026-09-04",
+      "title": "Detroit Ham Builds APRS Digipeater 210 Feet Up #shorts",
+      "views": 24,
+      "likes": 0,
+      "video_id": "KRdY1-WOgkY"
     }
   ]
 }
