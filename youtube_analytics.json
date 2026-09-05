@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-09-04",
-  "total_watch_hours": 878.0,
-  "avg_view_duration": 297,
+  "last_updated": "2026-09-05",
+  "total_watch_hours": 872.6,
+  "avg_view_duration": 221,
   "duration_change": null,
-  "avg_view_percentage": 21.7,
-  "subscribers_gained": 112,
-  "subscribers_lost": 23,
+  "avg_view_percentage": 21.6,
+  "subscribers_gained": 108,
+  "subscribers_lost": 24,
   "subscriber_growth_chart": {
     "labels": [
-      "Aug 05",
       "Aug 06",
       "Aug 07",
       "Aug 08",
@@ -35,10 +34,10 @@
       "Aug 29",
       "Aug 30",
       "Aug 31",
-      "Sep 01"
+      "Sep 01",
+      "Sep 02"
     ],
     "values": [
-      5,
       3,
       4,
       1,
@@ -65,19 +64,20 @@
       3,
       1,
       1,
-      2
+      2,
+      0
     ]
   },
   "traffic_sources": {
-    "search": 28,
+    "search": 29,
     "browse": 7,
     "external": 8,
-    "other": 57
+    "other": 56
   },
   "best_video": {
     "title": "Icom IC-7110 Revealed: Our Live Reaction to the X-026 Unveiling",
-    "views": 3284,
-    "watch_hours": 115.9,
+    "views": 3356,
+    "watch_hours": 118.4,
     "likes": 38
   },
   "video_launches": [
@@ -93,7 +93,7 @@
       "date": "Aug 06",
       "full_date": "2026-08-06",
       "title": "Decoding QSL, From Paper Cards to Digital Confirmation",
-      "views": 246,
+      "views": 247,
       "likes": 18,
       "video_id": "HhhoVukJI3s"
     },
@@ -109,7 +109,7 @@
       "date": "Aug 10",
       "full_date": "2026-08-10",
       "title": "QRZ Logbook or Logbook of the World: Where Should a New Ham Start?",
-      "views": 194,
+      "views": 196,
       "likes": 11,
       "video_id": "R1YDR0cqRN8"
     },
@@ -117,7 +117,7 @@
       "date": "Aug 14",
       "full_date": "2026-08-14",
       "title": "Paper QSL Cards: Still Worth Sending?",
-      "views": 90,
+      "views": 91,
       "likes": 9,
       "video_id": "LEmN65zuSK0"
     },
@@ -125,7 +125,7 @@
       "date": "Aug 15",
       "full_date": "2026-08-15",
       "title": "Alinco was Weird: Peak Ham Radio Oddware a Credit Card HT",
-      "views": 838,
+      "views": 840,
       "likes": 37,
       "video_id": "nYPSyZzZcDY"
     },
@@ -133,7 +133,7 @@
       "date": "Aug 18",
       "full_date": "2026-08-18",
       "title": "A Tiny Credit Card Ham Radio: Alinco Weirdness #hamradio #alinco #djc5",
-      "views": 1260,
+      "views": 1264,
       "likes": 15,
       "video_id": "bi5ceZWvSfg"
     },
@@ -141,7 +141,7 @@
       "date": "Aug 27",
       "full_date": "2026-08-27",
       "title": "Broken APRS: Building an External GPS Solution for the Yaesu FTM-500 (or 510!)",
-      "views": 1044,
+      "views": 1051,
       "likes": 37,
       "video_id": "6bfpd7tNemg"
     },
@@ -149,7 +149,7 @@
       "date": "Aug 29",
       "full_date": "2026-08-29",
       "title": "Icom IC-7110 Revealed: Our Live Reaction to the X-026 Unveiling",
-      "views": 4006,
+      "views": 4052,
       "likes": 45,
       "video_id": "FGMP-r6Kwq0"
     },
@@ -157,7 +157,7 @@
       "date": "Aug 30",
       "full_date": "2026-08-30",
       "title": "The IC-7110 Is Not For Everyone",
-      "views": 371,
+      "views": 375,
       "likes": 10,
       "video_id": "wJ9ApHXBlWE"
     },
@@ -165,7 +165,7 @@
       "date": "Aug 31",
       "full_date": "2026-08-31",
       "title": "IC-7110 - Is It What You Wanted It To Be",
-      "views": 175,
+      "views": 182,
       "likes": 6,
       "video_id": "N9i7XudEuyw"
     },
@@ -173,17 +173,25 @@
       "date": "Sep 03",
       "full_date": "2026-09-03",
       "title": "DIY Digipeater at Detroit&#39;s Historic Masonic Temple",
-      "views": 212,
-      "likes": 9,
+      "views": 282,
+      "likes": 12,
       "video_id": "FakqdX9c1ac"
     },
     {
       "date": "Sep 04",
       "full_date": "2026-09-04",
       "title": "Detroit Ham Builds APRS Digipeater 210 Feet Up #shorts",
-      "views": 24,
-      "likes": 0,
+      "views": 156,
+      "likes": 3,
       "video_id": "KRdY1-WOgkY"
+    },
+    {
+      "date": "Sep 05",
+      "full_date": "2026-09-05",
+      "title": "Detroit Masonic Temple Digipeater: 93 Miles from 30 Watts #shorts",
+      "views": 1,
+      "likes": 0,
+      "video_id": "nDdjONljAqQ"
     }
   ]
 }
