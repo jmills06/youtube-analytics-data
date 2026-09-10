@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-09-09",
-  "total_watch_hours": 856.4,
-  "avg_view_duration": 263,
+  "last_updated": "2026-09-10",
+  "total_watch_hours": 848.7,
+  "avg_view_duration": 256,
   "duration_change": null,
-  "avg_view_percentage": 20.9,
+  "avg_view_percentage": 20.8,
   "subscribers_gained": 108,
-  "subscribers_lost": 23,
+  "subscribers_lost": 24,
   "subscriber_growth_chart": {
     "labels": [
-      "Aug 10",
       "Aug 11",
       "Aug 12",
       "Aug 13",
@@ -35,10 +34,10 @@
       "Sep 03",
       "Sep 04",
       "Sep 05",
-      "Sep 06"
+      "Sep 06",
+      "Sep 07"
     ],
     "values": [
-      2,
       4,
       3,
       3,
@@ -65,7 +64,8 @@
       2,
       5,
       2,
-      3
+      3,
+      1
     ]
   },
   "traffic_sources": {
@@ -76,24 +76,16 @@
   },
   "best_video": {
     "title": "Icom IC-7110 Revealed: Our Live Reaction to the X-026 Unveiling",
-    "views": 4113,
+    "views": 4132,
     "watch_hours": 140.3,
     "likes": 45
   },
   "video_launches": [
     {
-      "date": "Aug 10",
-      "full_date": "2026-08-10",
-      "title": "QRZ Logbook or Logbook of the World: Where Should a New Ham Start?",
-      "views": 210,
-      "likes": 11,
-      "video_id": "R1YDR0cqRN8"
-    },
-    {
       "date": "Aug 14",
       "full_date": "2026-08-14",
       "title": "Paper QSL Cards: Still Worth Sending?",
-      "views": 96,
+      "views": 98,
       "likes": 9,
       "video_id": "LEmN65zuSK0"
     },
@@ -101,7 +93,7 @@
       "date": "Aug 15",
       "full_date": "2026-08-15",
       "title": "Alinco was Weird: Peak Ham Radio Oddware a Credit Card HT",
-      "views": 859,
+      "views": 861,
       "likes": 38,
       "video_id": "nYPSyZzZcDY"
     },
@@ -109,7 +101,7 @@
       "date": "Aug 18",
       "full_date": "2026-08-18",
       "title": "A Tiny Credit Card Ham Radio: Alinco Weirdness #hamradio #alinco #djc5",
-      "views": 1269,
+      "views": 1272,
       "likes": 15,
       "video_id": "bi5ceZWvSfg"
     },
@@ -117,15 +109,15 @@
       "date": "Aug 27",
       "full_date": "2026-08-27",
       "title": "Broken APRS: Building an External GPS Solution for the Yaesu FTM-500 (or 510!)",
-      "views": 1088,
-      "likes": 38,
+      "views": 1090,
+      "likes": 39,
       "video_id": "6bfpd7tNemg"
     },
     {
       "date": "Aug 29",
       "full_date": "2026-08-29",
       "title": "Icom IC-7110 Revealed: Our Live Reaction to the X-026 Unveiling",
-      "views": 4143,
+      "views": 4161,
       "likes": 45,
       "video_id": "FGMP-r6Kwq0"
     },
@@ -133,7 +125,7 @@
       "date": "Aug 30",
       "full_date": "2026-08-30",
       "title": "The IC-7110 Is Not For Everyone",
-      "views": 389,
+      "views": 391,
       "likes": 10,
       "video_id": "wJ9ApHXBlWE"
     },
@@ -141,7 +133,7 @@
       "date": "Aug 31",
       "full_date": "2026-08-31",
       "title": "IC-7110 - Is It What You Wanted It To Be",
-      "views": 189,
+      "views": 190,
       "likes": 6,
       "video_id": "N9i7XudEuyw"
     },
@@ -149,7 +141,7 @@
       "date": "Sep 03",
       "full_date": "2026-09-03",
       "title": "DIY Digipeater at Detroit&#39;s Historic Masonic Temple",
-      "views": 421,
+      "views": 433,
       "likes": 20,
       "video_id": "FakqdX9c1ac"
     },
@@ -157,7 +149,7 @@
       "date": "Sep 04",
       "full_date": "2026-09-04",
       "title": "Detroit Ham Builds APRS Digipeater 210 Feet Up #shorts",
-      "views": 258,
+      "views": 257,
       "likes": 5,
       "video_id": "KRdY1-WOgkY"
     },
@@ -165,7 +157,7 @@
       "date": "Sep 05",
       "full_date": "2026-09-05",
       "title": "Detroit Masonic Temple Digipeater: 93 Miles from 30 Watts #shorts",
-      "views": 79,
+      "views": 80,
       "likes": 2,
       "video_id": "nDdjONljAqQ"
     }
