@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-09-12",
-  "total_watch_hours": 833.6,
-  "avg_view_duration": 214,
+  "last_updated": "2026-09-13",
+  "total_watch_hours": 851.1,
+  "avg_view_duration": 314,
   "duration_change": null,
-  "avg_view_percentage": 20.5,
-  "subscribers_gained": 105,
-  "subscribers_lost": 24,
+  "avg_view_percentage": 20.8,
+  "subscribers_gained": 106,
+  "subscribers_lost": 25,
   "subscriber_growth_chart": {
     "labels": [
-      "Aug 13",
       "Aug 14",
       "Aug 15",
       "Aug 16",
@@ -35,10 +34,10 @@
       "Sep 06",
       "Sep 07",
       "Sep 08",
-      "Sep 09"
+      "Sep 09",
+      "Sep 10"
     ],
     "values": [
-      3,
       2,
       1,
       8,
@@ -65,7 +64,8 @@
       3,
       1,
       3,
-      1
+      1,
+      3
     ]
   },
   "traffic_sources": {
@@ -76,8 +76,8 @@
   },
   "best_video": {
     "title": "Icom IC-7110 Revealed: Our Live Reaction to the X-026 Unveiling",
-    "views": 4164,
-    "watch_hours": 142.3,
+    "views": 4175,
+    "watch_hours": 142.8,
     "likes": 45
   },
   "video_launches": [
@@ -93,7 +93,7 @@
       "date": "Aug 15",
       "full_date": "2026-08-15",
       "title": "Alinco was Weird: Peak Ham Radio Oddware a Credit Card HT",
-      "views": 873,
+      "views": 876,
       "likes": 38,
       "video_id": "nYPSyZzZcDY"
     },
@@ -101,7 +101,7 @@
       "date": "Aug 18",
       "full_date": "2026-08-18",
       "title": "A Tiny Credit Card Ham Radio: Alinco Weirdness #hamradio #alinco #djc5",
-      "views": 1274,
+      "views": 1275,
       "likes": 15,
       "video_id": "bi5ceZWvSfg"
     },
@@ -109,15 +109,15 @@
       "date": "Aug 27",
       "full_date": "2026-08-27",
       "title": "Broken APRS: Building an External GPS Solution for the Yaesu FTM-500 (or 510!)",
-      "views": 1105,
-      "likes": 39,
+      "views": 1113,
+      "likes": 40,
       "video_id": "6bfpd7tNemg"
     },
     {
       "date": "Aug 29",
       "full_date": "2026-08-29",
       "title": "Icom IC-7110 Revealed: Our Live Reaction to the X-026 Unveiling",
-      "views": 4179,
+      "views": 4193,
       "likes": 45,
       "video_id": "FGMP-r6Kwq0"
     },
@@ -133,7 +133,7 @@
       "date": "Aug 31",
       "full_date": "2026-08-31",
       "title": "IC-7110 - Is It What You Wanted It To Be",
-      "views": 198,
+      "views": 206,
       "likes": 6,
       "video_id": "N9i7XudEuyw"
     },
@@ -141,8 +141,8 @@
       "date": "Sep 03",
       "full_date": "2026-09-03",
       "title": "DIY Digipeater at Detroit&#39;s Historic Masonic Temple",
-      "views": 464,
-      "likes": 22,
+      "views": 469,
+      "likes": 23,
       "video_id": "FakqdX9c1ac"
     },
     {
@@ -157,7 +157,7 @@
       "date": "Sep 05",
       "full_date": "2026-09-05",
       "title": "Detroit Masonic Temple Digipeater: 93 Miles from 30 Watts #shorts",
-      "views": 86,
+      "views": 87,
       "likes": 2,
       "video_id": "nDdjONljAqQ"
     },
@@ -165,8 +165,8 @@
       "date": "Sep 10",
       "full_date": "2026-09-10",
       "title": "Radioddity HF-010: The 10 Band Vertical That Comes With Everything",
-      "views": 860,
-      "likes": 19,
+      "views": 1073,
+      "likes": 21,
       "video_id": "9Wk6JWDHHN4"
     }
   ]
