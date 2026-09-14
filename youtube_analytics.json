@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-09-13",
-  "total_watch_hours": 851.1,
-  "avg_view_duration": 314,
+  "last_updated": "2026-09-14",
+  "total_watch_hours": 860.5,
+  "avg_view_duration": 244,
   "duration_change": null,
-  "avg_view_percentage": 20.8,
-  "subscribers_gained": 106,
-  "subscribers_lost": 25,
+  "avg_view_percentage": 20.7,
+  "subscribers_gained": 107,
+  "subscribers_lost": 24,
   "subscriber_growth_chart": {
     "labels": [
-      "Aug 14",
       "Aug 15",
       "Aug 16",
       "Aug 17",
@@ -35,10 +34,10 @@
       "Sep 07",
       "Sep 08",
       "Sep 09",
-      "Sep 10"
+      "Sep 10",
+      "Sep 11"
     ],
     "values": [
-      2,
       1,
       8,
       6,
@@ -65,7 +64,8 @@
       1,
       3,
       1,
-      3
+      3,
+      4
     ]
   },
   "traffic_sources": {
@@ -76,24 +76,16 @@
   },
   "best_video": {
     "title": "Icom IC-7110 Revealed: Our Live Reaction to the X-026 Unveiling",
-    "views": 4175,
-    "watch_hours": 142.8,
+    "views": 4185,
+    "watch_hours": 143.1,
     "likes": 45
   },
   "video_launches": [
     {
-      "date": "Aug 14",
-      "full_date": "2026-08-14",
-      "title": "Paper QSL Cards: Still Worth Sending?",
-      "views": 101,
-      "likes": 9,
-      "video_id": "LEmN65zuSK0"
-    },
-    {
       "date": "Aug 15",
       "full_date": "2026-08-15",
       "title": "Alinco was Weird: Peak Ham Radio Oddware a Credit Card HT",
-      "views": 876,
+      "views": 877,
       "likes": 38,
       "video_id": "nYPSyZzZcDY"
     },
@@ -101,7 +93,7 @@
       "date": "Aug 18",
       "full_date": "2026-08-18",
       "title": "A Tiny Credit Card Ham Radio: Alinco Weirdness #hamradio #alinco #djc5",
-      "views": 1275,
+      "views": 1278,
       "likes": 15,
       "video_id": "bi5ceZWvSfg"
     },
@@ -109,7 +101,7 @@
       "date": "Aug 27",
       "full_date": "2026-08-27",
       "title": "Broken APRS: Building an External GPS Solution for the Yaesu FTM-500 (or 510!)",
-      "views": 1113,
+      "views": 1122,
       "likes": 40,
       "video_id": "6bfpd7tNemg"
     },
@@ -117,7 +109,7 @@
       "date": "Aug 29",
       "full_date": "2026-08-29",
       "title": "Icom IC-7110 Revealed: Our Live Reaction to the X-026 Unveiling",
-      "views": 4193,
+      "views": 4199,
       "likes": 45,
       "video_id": "FGMP-r6Kwq0"
     },
@@ -125,7 +117,7 @@
       "date": "Aug 30",
       "full_date": "2026-08-30",
       "title": "The IC-7110 Is Not For Everyone",
-      "views": 392,
+      "views": 394,
       "likes": 10,
       "video_id": "wJ9ApHXBlWE"
     },
@@ -133,7 +125,7 @@
       "date": "Aug 31",
       "full_date": "2026-08-31",
       "title": "IC-7110 - Is It What You Wanted It To Be",
-      "views": 206,
+      "views": 213,
       "likes": 6,
       "video_id": "N9i7XudEuyw"
     },
@@ -141,7 +133,7 @@
       "date": "Sep 03",
       "full_date": "2026-09-03",
       "title": "DIY Digipeater at Detroit&#39;s Historic Masonic Temple",
-      "views": 469,
+      "views": 480,
       "likes": 23,
       "video_id": "FakqdX9c1ac"
     },
@@ -149,7 +141,7 @@
       "date": "Sep 04",
       "full_date": "2026-09-04",
       "title": "Detroit Ham Builds APRS Digipeater 210 Feet Up #shorts",
-      "views": 258,
+      "views": 259,
       "likes": 5,
       "video_id": "KRdY1-WOgkY"
     },
@@ -165,8 +157,8 @@
       "date": "Sep 10",
       "full_date": "2026-09-10",
       "title": "Radioddity HF-010: The 10 Band Vertical That Comes With Everything",
-      "views": 1073,
-      "likes": 21,
+      "views": 1364,
+      "likes": 22,
       "video_id": "9Wk6JWDHHN4"
     }
   ]
