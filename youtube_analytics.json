@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-09-20",
-  "total_watch_hours": 768.5,
-  "avg_view_duration": 177,
+  "last_updated": "2026-09-21",
+  "total_watch_hours": 757.2,
+  "avg_view_duration": 202,
   "duration_change": null,
   "avg_view_percentage": 20.8,
-  "subscribers_gained": 89,
+  "subscribers_gained": 88,
   "subscribers_lost": 16,
   "subscriber_growth_chart": {
     "labels": [
-      "Aug 21",
       "Aug 22",
       "Aug 23",
       "Aug 24",
@@ -35,10 +34,10 @@
       "Sep 14",
       "Sep 15",
       "Sep 16",
-      "Sep 17"
+      "Sep 17",
+      "Sep 18"
     ],
     "values": [
-      2,
       4,
       3,
       2,
@@ -65,7 +64,8 @@
       3,
       2,
       3,
-      0
+      0,
+      1
     ]
   },
   "traffic_sources": {
@@ -76,7 +76,7 @@
   },
   "best_video": {
     "title": "Icom IC-7110 Revealed: Our Live Reaction to the X-026 Unveiling",
-    "views": 4242,
+    "views": 4246,
     "watch_hours": 144.3,
     "likes": 45
   },
@@ -85,7 +85,7 @@
       "date": "Aug 27",
       "full_date": "2026-08-27",
       "title": "Broken APRS: Building an External GPS Solution for the Yaesu FTM-500 (or 510!)",
-      "views": 1147,
+      "views": 1151,
       "likes": 40,
       "video_id": "6bfpd7tNemg"
     },
@@ -93,15 +93,15 @@
       "date": "Aug 29",
       "full_date": "2026-08-29",
       "title": "Icom IC-7110 Revealed: Our Live Reaction to the X-026 Unveiling",
-      "views": 4249,
-      "likes": 45,
+      "views": 4254,
+      "likes": 46,
       "video_id": "FGMP-r6Kwq0"
     },
     {
       "date": "Aug 30",
       "full_date": "2026-08-30",
       "title": "The IC-7110 Is Not For Everyone",
-      "views": 401,
+      "views": 411,
       "likes": 10,
       "video_id": "wJ9ApHXBlWE"
     },
@@ -109,7 +109,7 @@
       "date": "Aug 31",
       "full_date": "2026-08-31",
       "title": "IC-7110 - Is It What You Wanted It To Be",
-      "views": 247,
+      "views": 252,
       "likes": 6,
       "video_id": "N9i7XudEuyw"
     },
@@ -117,7 +117,7 @@
       "date": "Sep 03",
       "full_date": "2026-09-03",
       "title": "DIY Digipeater at Detroit&#39;s Historic Masonic Temple",
-      "views": 503,
+      "views": 507,
       "likes": 23,
       "video_id": "FakqdX9c1ac"
     },
@@ -141,7 +141,7 @@
       "date": "Sep 10",
       "full_date": "2026-09-10",
       "title": "Radioddity HF-010: The 10 Band Vertical That Comes With Everything",
-      "views": 1540,
+      "views": 1545,
       "likes": 25,
       "video_id": "9Wk6JWDHHN4"
     }
