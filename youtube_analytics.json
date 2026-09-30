@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-09-29",
-  "total_watch_hours": 657.9,
-  "avg_view_duration": 203,
+  "last_updated": "2026-09-30",
+  "total_watch_hours": 623.4,
+  "avg_view_duration": 210,
   "duration_change": null,
-  "avg_view_percentage": 22.0,
-  "subscribers_gained": 69,
-  "subscribers_lost": 14,
+  "avg_view_percentage": 22.2,
+  "subscribers_gained": 70,
+  "subscribers_lost": 13,
   "subscriber_growth_chart": {
     "labels": [
-      "Aug 30",
       "Aug 31",
       "Sep 01",
       "Sep 02",
@@ -35,10 +34,10 @@
       "Sep 23",
       "Sep 24",
       "Sep 25",
-      "Sep 26"
+      "Sep 26",
+      "Sep 27"
     ],
     "values": [
-      1,
       1,
       2,
       0,
@@ -65,6 +64,7 @@
       3,
       1,
       3,
+      3,
       3
     ]
   },
@@ -75,25 +75,17 @@
     "other": 54
   },
   "best_video": {
-    "title": "Icom IC-7110 Revealed: Our Live Reaction to the X-026 Unveiling",
-    "views": 2149,
-    "watch_hours": 65.1,
-    "likes": 12
+    "title": "Unboxing the Icom ID-5200: A $999 Successor to W8KNX's Favorite Radio",
+    "views": 2220,
+    "watch_hours": 73.2,
+    "likes": 43
   },
   "video_launches": [
-    {
-      "date": "Aug 30",
-      "full_date": "2026-08-30",
-      "title": "The IC-7110 Is Not For Everyone",
-      "views": 427,
-      "likes": 10,
-      "video_id": "wJ9ApHXBlWE"
-    },
     {
       "date": "Aug 31",
       "full_date": "2026-08-31",
       "title": "IC-7110 - Is It What You Wanted It To Be",
-      "views": 284,
+      "views": 289,
       "likes": 6,
       "video_id": "N9i7XudEuyw"
     },
@@ -101,7 +93,7 @@
       "date": "Sep 03",
       "full_date": "2026-09-03",
       "title": "DIY Digipeater at Detroit&#39;s Historic Masonic Temple",
-      "views": 525,
+      "views": 529,
       "likes": 24,
       "video_id": "FakqdX9c1ac"
     },
@@ -109,7 +101,7 @@
       "date": "Sep 04",
       "full_date": "2026-09-04",
       "title": "Detroit Ham Builds APRS Digipeater 210 Feet Up #shorts",
-      "views": 267,
+      "views": 268,
       "likes": 5,
       "video_id": "KRdY1-WOgkY"
     },
@@ -117,15 +109,15 @@
       "date": "Sep 05",
       "full_date": "2026-09-05",
       "title": "Detroit Masonic Temple Digipeater: 93 Miles from 30 Watts #shorts",
-      "views": 93,
-      "likes": 2,
+      "views": 95,
+      "likes": 3,
       "video_id": "nDdjONljAqQ"
     },
     {
       "date": "Sep 10",
       "full_date": "2026-09-10",
       "title": "Radioddity HF-010: The 10 Band Vertical That Comes With Everything",
-      "views": 1601,
+      "views": 1612,
       "likes": 25,
       "video_id": "9Wk6JWDHHN4"
     },
@@ -133,16 +125,16 @@
       "date": "Sep 25",
       "full_date": "2026-09-25",
       "title": "Your New Radio is Delivered to the Office: Icom Id-5200 makes an entrance! #hamradio #icom #id5200",
-      "views": 1418,
-      "likes": 11,
+      "views": 1474,
+      "likes": 12,
       "video_id": "cEPpW0aW-W8"
     },
     {
       "date": "Sep 25",
       "full_date": "2026-09-25",
       "title": "Unboxing the Icom ID-5200: A $999 Successor to W8KNX&#39;s Favorite Radio",
-      "views": 2419,
-      "likes": 45,
+      "views": 2601,
+      "likes": 48,
       "video_id": "LwICFz2gx1w"
     }
   ]
