@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-09-30",
-  "total_watch_hours": 623.4,
-  "avg_view_duration": 210,
+  "last_updated": "2026-10-01",
+  "total_watch_hours": 612.0,
+  "avg_view_duration": 235,
   "duration_change": null,
-  "avg_view_percentage": 22.2,
+  "avg_view_percentage": 22.8,
   "subscribers_gained": 70,
-  "subscribers_lost": 13,
+  "subscribers_lost": 14,
   "subscriber_growth_chart": {
     "labels": [
-      "Aug 31",
       "Sep 01",
       "Sep 02",
       "Sep 03",
@@ -35,10 +34,10 @@
       "Sep 24",
       "Sep 25",
       "Sep 26",
-      "Sep 27"
+      "Sep 27",
+      "Sep 28"
     ],
     "values": [
-      1,
       2,
       0,
       2,
@@ -65,7 +64,8 @@
       1,
       3,
       3,
-      3
+      3,
+      0
     ]
   },
   "traffic_sources": {
@@ -76,24 +76,16 @@
   },
   "best_video": {
     "title": "Unboxing the Icom ID-5200: A $999 Successor to W8KNX's Favorite Radio",
-    "views": 2220,
-    "watch_hours": 73.2,
-    "likes": 43
+    "views": 2485,
+    "watch_hours": 80.5,
+    "likes": 44
   },
   "video_launches": [
-    {
-      "date": "Aug 31",
-      "full_date": "2026-08-31",
-      "title": "IC-7110 - Is It What You Wanted It To Be",
-      "views": 289,
-      "likes": 6,
-      "video_id": "N9i7XudEuyw"
-    },
     {
       "date": "Sep 03",
       "full_date": "2026-09-03",
       "title": "DIY Digipeater at Detroit&#39;s Historic Masonic Temple",
-      "views": 529,
+      "views": 536,
       "likes": 24,
       "video_id": "FakqdX9c1ac"
     },
@@ -101,7 +93,7 @@
       "date": "Sep 04",
       "full_date": "2026-09-04",
       "title": "Detroit Ham Builds APRS Digipeater 210 Feet Up #shorts",
-      "views": 268,
+      "views": 270,
       "likes": 5,
       "video_id": "KRdY1-WOgkY"
     },
@@ -117,7 +109,7 @@
       "date": "Sep 10",
       "full_date": "2026-09-10",
       "title": "Radioddity HF-010: The 10 Band Vertical That Comes With Everything",
-      "views": 1612,
+      "views": 1623,
       "likes": 25,
       "video_id": "9Wk6JWDHHN4"
     },
@@ -125,17 +117,25 @@
       "date": "Sep 25",
       "full_date": "2026-09-25",
       "title": "Your New Radio is Delivered to the Office: Icom Id-5200 makes an entrance! #hamradio #icom #id5200",
-      "views": 1474,
-      "likes": 12,
+      "views": 1498,
+      "likes": 13,
       "video_id": "cEPpW0aW-W8"
     },
     {
       "date": "Sep 25",
       "full_date": "2026-09-25",
       "title": "Unboxing the Icom ID-5200: A $999 Successor to W8KNX&#39;s Favorite Radio",
-      "views": 2601,
-      "likes": 48,
+      "views": 2709,
+      "likes": 50,
       "video_id": "LwICFz2gx1w"
+    },
+    {
+      "date": "Oct 01",
+      "full_date": "2026-10-01",
+      "title": "Inflatable HF Antenna at a POTA Park: Reliance InflaTenna",
+      "views": 4,
+      "likes": 2,
+      "video_id": "jn6-BdDVQzI"
     }
   ]
 }
