@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-10-01",
-  "total_watch_hours": 612.0,
-  "avg_view_duration": 235,
+  "last_updated": "2026-10-02",
+  "total_watch_hours": 599.4,
+  "avg_view_duration": 242,
   "duration_change": null,
   "avg_view_percentage": 22.8,
-  "subscribers_gained": 70,
-  "subscribers_lost": 14,
+  "subscribers_gained": 68,
+  "subscribers_lost": 13,
   "subscriber_growth_chart": {
     "labels": [
-      "Sep 01",
       "Sep 02",
       "Sep 03",
       "Sep 04",
@@ -35,10 +34,10 @@
       "Sep 25",
       "Sep 26",
       "Sep 27",
-      "Sep 28"
+      "Sep 28",
+      "Sep 29"
     ],
     "values": [
-      2,
       0,
       2,
       5,
@@ -65,7 +64,8 @@
       3,
       3,
       3,
-      0
+      0,
+      1
     ]
   },
   "traffic_sources": {
@@ -76,16 +76,16 @@
   },
   "best_video": {
     "title": "Unboxing the Icom ID-5200: A $999 Successor to W8KNX's Favorite Radio",
-    "views": 2485,
-    "watch_hours": 80.5,
-    "likes": 44
+    "views": 2605,
+    "watch_hours": 84.1,
+    "likes": 47
   },
   "video_launches": [
     {
       "date": "Sep 03",
       "full_date": "2026-09-03",
       "title": "DIY Digipeater at Detroit&#39;s Historic Masonic Temple",
-      "views": 536,
+      "views": 540,
       "likes": 24,
       "video_id": "FakqdX9c1ac"
     },
@@ -109,7 +109,7 @@
       "date": "Sep 10",
       "full_date": "2026-09-10",
       "title": "Radioddity HF-010: The 10 Band Vertical That Comes With Everything",
-      "views": 1623,
+      "views": 1640,
       "likes": 25,
       "video_id": "9Wk6JWDHHN4"
     },
@@ -117,7 +117,7 @@
       "date": "Sep 25",
       "full_date": "2026-09-25",
       "title": "Your New Radio is Delivered to the Office: Icom Id-5200 makes an entrance! #hamradio #icom #id5200",
-      "views": 1498,
+      "views": 1511,
       "likes": 13,
       "video_id": "cEPpW0aW-W8"
     },
@@ -125,16 +125,16 @@
       "date": "Sep 25",
       "full_date": "2026-09-25",
       "title": "Unboxing the Icom ID-5200: A $999 Successor to W8KNX&#39;s Favorite Radio",
-      "views": 2709,
-      "likes": 50,
+      "views": 2878,
+      "likes": 51,
       "video_id": "LwICFz2gx1w"
     },
     {
       "date": "Oct 01",
       "full_date": "2026-10-01",
       "title": "Inflatable HF Antenna at a POTA Park: Reliance InflaTenna",
-      "views": 4,
-      "likes": 2,
+      "views": 679,
+      "likes": 35,
       "video_id": "jn6-BdDVQzI"
     }
   ]
