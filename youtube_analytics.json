@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-10-04",
-  "total_watch_hours": 601.5,
-  "avg_view_duration": 291,
+  "last_updated": "2026-10-05",
+  "total_watch_hours": 623.0,
+  "avg_view_duration": 231,
   "duration_change": null,
-  "avg_view_percentage": 23.2,
-  "subscribers_gained": 71,
-  "subscribers_lost": 15,
+  "avg_view_percentage": 23.0,
+  "subscribers_gained": 67,
+  "subscribers_lost": 14,
   "subscriber_growth_chart": {
     "labels": [
-      "Sep 04",
       "Sep 05",
       "Sep 06",
       "Sep 07",
@@ -35,10 +34,10 @@
       "Sep 28",
       "Sep 29",
       "Sep 30",
-      "Oct 01"
+      "Oct 01",
+      "Oct 02"
     ],
     "values": [
-      5,
       2,
       3,
       1,
@@ -65,30 +64,23 @@
       0,
       1,
       3,
-      0
+      0,
+      2
     ]
   },
   "traffic_sources": {
-    "search": 35,
+    "search": 34,
     "browse": 5,
     "external": 5,
-    "other": 55
+    "other": 56
   },
   "best_video": {
     "title": "Unboxing the Icom ID-5200: A $999 Successor to W8KNX's Favorite Radio",
-    "views": 2873,
-    "watch_hours": 94.8,
-    "likes": 51
+    "views": 2965,
+    "watch_hours": 99.0,
+    "likes": 52
   },
   "video_launches": [
-    {
-      "date": "Sep 04",
-      "full_date": "2026-09-04",
-      "title": "Detroit Ham Builds APRS Digipeater 210 Feet Up #shorts",
-      "views": 270,
-      "likes": 5,
-      "video_id": "KRdY1-WOgkY"
-    },
     {
       "date": "Sep 05",
       "full_date": "2026-09-05",
@@ -101,7 +93,7 @@
       "date": "Sep 10",
       "full_date": "2026-09-10",
       "title": "Radioddity HF-010: The 10 Band Vertical That Comes With Everything",
-      "views": 1666,
+      "views": 1675,
       "likes": 25,
       "video_id": "9Wk6JWDHHN4"
     },
@@ -109,7 +101,7 @@
       "date": "Sep 25",
       "full_date": "2026-09-25",
       "title": "Your New Radio is Delivered to the Office: Icom Id-5200 makes an entrance! #hamradio #icom #id5200",
-      "views": 1526,
+      "views": 1535,
       "likes": 13,
       "video_id": "cEPpW0aW-W8"
     },
@@ -117,7 +109,7 @@
       "date": "Sep 25",
       "full_date": "2026-09-25",
       "title": "Unboxing the Icom ID-5200: A $999 Successor to W8KNX&#39;s Favorite Radio",
-      "views": 3040,
+      "views": 3107,
       "likes": 53,
       "video_id": "LwICFz2gx1w"
     },
@@ -125,8 +117,8 @@
       "date": "Oct 01",
       "full_date": "2026-10-01",
       "title": "Inflatable HF Antenna at a POTA Park: Reliance InflaTenna",
-      "views": 2035,
-      "likes": 51,
+      "views": 2377,
+      "likes": 53,
       "video_id": "jn6-BdDVQzI"
     }
   ]
