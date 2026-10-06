@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-10-05",
-  "total_watch_hours": 623.0,
-  "avg_view_duration": 231,
+  "last_updated": "2026-10-06",
+  "total_watch_hours": 626.3,
+  "avg_view_duration": 235,
   "duration_change": null,
   "avg_view_percentage": 23.0,
-  "subscribers_gained": 67,
+  "subscribers_gained": 68,
   "subscribers_lost": 14,
   "subscriber_growth_chart": {
     "labels": [
-      "Sep 05",
       "Sep 06",
       "Sep 07",
       "Sep 08",
@@ -35,10 +34,10 @@
       "Sep 29",
       "Sep 30",
       "Oct 01",
-      "Oct 02"
+      "Oct 02",
+      "Oct 03"
     ],
     "values": [
-      2,
       3,
       1,
       3,
@@ -65,7 +64,8 @@
       1,
       3,
       0,
-      2
+      2,
+      3
     ]
   },
   "traffic_sources": {
@@ -76,24 +76,16 @@
   },
   "best_video": {
     "title": "Unboxing the Icom ID-5200: A $999 Successor to W8KNX's Favorite Radio",
-    "views": 2965,
-    "watch_hours": 99.0,
-    "likes": 52
+    "views": 3038,
+    "watch_hours": 101.4,
+    "likes": 53
   },
   "video_launches": [
-    {
-      "date": "Sep 05",
-      "full_date": "2026-09-05",
-      "title": "Detroit Masonic Temple Digipeater: 93 Miles from 30 Watts #shorts",
-      "views": 95,
-      "likes": 3,
-      "video_id": "nDdjONljAqQ"
-    },
     {
       "date": "Sep 10",
       "full_date": "2026-09-10",
       "title": "Radioddity HF-010: The 10 Band Vertical That Comes With Everything",
-      "views": 1675,
+      "views": 1677,
       "likes": 25,
       "video_id": "9Wk6JWDHHN4"
     },
@@ -109,17 +101,25 @@
       "date": "Sep 25",
       "full_date": "2026-09-25",
       "title": "Unboxing the Icom ID-5200: A $999 Successor to W8KNX&#39;s Favorite Radio",
-      "views": 3107,
-      "likes": 53,
+      "views": 3211,
+      "likes": 56,
       "video_id": "LwICFz2gx1w"
     },
     {
       "date": "Oct 01",
       "full_date": "2026-10-01",
       "title": "Inflatable HF Antenna at a POTA Park: Reliance InflaTenna",
-      "views": 2377,
+      "views": 2487,
       "likes": 53,
       "video_id": "jn6-BdDVQzI"
+    },
+    {
+      "date": "Oct 06",
+      "full_date": "2026-10-06",
+      "title": "California QSO Party 2026 from Michigan: 54 of 58 Counties",
+      "views": 8,
+      "likes": 3,
+      "video_id": "h8PsigNNfuk"
     }
   ]
 }
