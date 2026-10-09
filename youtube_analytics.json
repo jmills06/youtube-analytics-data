@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-10-08",
-  "total_watch_hours": 632.4,
-  "avg_view_duration": 254,
+  "last_updated": "2026-10-09",
+  "total_watch_hours": 658.7,
+  "avg_view_duration": 290,
   "duration_change": null,
-  "avg_view_percentage": 23.2,
+  "avg_view_percentage": 23.7,
   "subscribers_gained": 68,
   "subscribers_lost": 12,
   "subscriber_growth_chart": {
     "labels": [
-      "Sep 08",
       "Sep 09",
       "Sep 10",
       "Sep 11",
@@ -35,10 +34,10 @@
       "Oct 02",
       "Oct 03",
       "Oct 04",
-      "Oct 05"
+      "Oct 05",
+      "Oct 06"
     ],
     "values": [
-      3,
       1,
       3,
       4,
@@ -65,27 +64,28 @@
       2,
       3,
       3,
+      3,
       3
     ]
   },
   "traffic_sources": {
-    "search": 33,
+    "search": 32,
     "browse": 5,
     "external": 4,
-    "other": 58
+    "other": 59
   },
   "best_video": {
     "title": "Unboxing the Icom ID-5200: A $999 Successor to W8KNX's Favorite Radio",
-    "views": 3208,
-    "watch_hours": 108.2,
-    "likes": 56
+    "views": 3294,
+    "watch_hours": 111.1,
+    "likes": 58
   },
   "video_launches": [
     {
       "date": "Sep 10",
       "full_date": "2026-09-10",
       "title": "Radioddity HF-010: The 10 Band Vertical That Comes With Everything",
-      "views": 1698,
+      "views": 1712,
       "likes": 26,
       "video_id": "9Wk6JWDHHN4"
     },
@@ -93,7 +93,7 @@
       "date": "Sep 25",
       "full_date": "2026-09-25",
       "title": "Your New Radio is Delivered to the Office: Icom Id-5200 makes an entrance! #hamradio #icom #id5200",
-      "views": 1536,
+      "views": 1538,
       "likes": 13,
       "video_id": "cEPpW0aW-W8"
     },
@@ -101,7 +101,7 @@
       "date": "Sep 25",
       "full_date": "2026-09-25",
       "title": "Unboxing the Icom ID-5200: A $999 Successor to W8KNX&#39;s Favorite Radio",
-      "views": 3342,
+      "views": 3374,
       "likes": 59,
       "video_id": "LwICFz2gx1w"
     },
@@ -109,25 +109,33 @@
       "date": "Oct 01",
       "full_date": "2026-10-01",
       "title": "Inflatable HF Antenna at a POTA Park: Reliance InflaTenna",
-      "views": 2574,
-      "likes": 55,
+      "views": 2592,
+      "likes": 56,
       "video_id": "jn6-BdDVQzI"
     },
     {
       "date": "Oct 06",
       "full_date": "2026-10-06",
       "title": "California QSO Party 2026 from Michigan: 54 of 58 Counties",
-      "views": 860,
-      "likes": 23,
+      "views": 952,
+      "likes": 25,
       "video_id": "h8PsigNNfuk"
     },
     {
       "date": "Oct 08",
       "full_date": "2026-10-08",
       "title": "World Radio League Founders: 100,000 Users, JTTY and Morse Mastery",
-      "views": 18,
-      "likes": 7,
+      "views": 617,
+      "likes": 31,
       "video_id": "MhjirNwRR7A"
+    },
+    {
+      "date": "Oct 09",
+      "full_date": "2026-10-09",
+      "title": "Ep. 22 \u2013 World Radio League Founders: 100,000 Users, JTTY and Morse Mastery",
+      "views": 5,
+      "likes": 0,
+      "video_id": "EjvozTNJ_qI"
     }
   ]
 }
