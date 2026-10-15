@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-10-14",
-  "total_watch_hours": 700.4,
-  "avg_view_duration": 296,
+  "last_updated": "2026-10-15",
+  "total_watch_hours": 698.7,
+  "avg_view_duration": 239,
   "duration_change": null,
-  "avg_view_percentage": 23.3,
-  "subscribers_gained": 71,
-  "subscribers_lost": 10,
+  "avg_view_percentage": 23.2,
+  "subscribers_gained": 70,
+  "subscribers_lost": 11,
   "subscriber_growth_chart": {
     "labels": [
-      "Sep 14",
       "Sep 15",
       "Sep 16",
       "Sep 17",
@@ -35,10 +34,10 @@
       "Oct 08",
       "Oct 09",
       "Oct 10",
-      "Oct 11"
+      "Oct 11",
+      "Oct 12"
     ],
     "values": [
-      3,
       2,
       3,
       0,
@@ -65,7 +64,8 @@
       5,
       0,
       2,
-      6
+      6,
+      1
     ]
   },
   "traffic_sources": {
@@ -76,8 +76,8 @@
   },
   "best_video": {
     "title": "Unboxing the Icom ID-5200: A $999 Successor to W8KNX's Favorite Radio",
-    "views": 3487,
-    "watch_hours": 117.0,
+    "views": 3505,
+    "watch_hours": 117.5,
     "likes": 59
   },
   "video_launches": [
@@ -93,7 +93,7 @@
       "date": "Sep 25",
       "full_date": "2026-09-25",
       "title": "Unboxing the Icom ID-5200: A $999 Successor to W8KNX&#39;s Favorite Radio",
-      "views": 3527,
+      "views": 3540,
       "likes": 60,
       "video_id": "LwICFz2gx1w"
     },
@@ -101,7 +101,7 @@
       "date": "Oct 01",
       "full_date": "2026-10-01",
       "title": "Inflatable HF Antenna at a POTA Park: Reliance InflaTenna",
-      "views": 2618,
+      "views": 2621,
       "likes": 56,
       "video_id": "jn6-BdDVQzI"
     },
@@ -109,7 +109,7 @@
       "date": "Oct 06",
       "full_date": "2026-10-06",
       "title": "California QSO Party 2026 from Michigan: 54 of 58 Counties",
-      "views": 1082,
+      "views": 1083,
       "likes": 28,
       "video_id": "h8PsigNNfuk"
     },
@@ -117,7 +117,7 @@
       "date": "Oct 08",
       "full_date": "2026-10-08",
       "title": "World Radio League Founders: 100,000 Users, JTTY and Morse Mastery",
-      "views": 892,
+      "views": 971,
       "likes": 34,
       "video_id": "MhjirNwRR7A"
     },
@@ -125,7 +125,7 @@
       "date": "Oct 12",
       "full_date": "2026-10-12",
       "title": "Andy\u2019s First Ever JTTY Contact",
-      "views": 121,
+      "views": 133,
       "likes": 1,
       "video_id": "OlH42F5vAHw"
     },
@@ -133,7 +133,7 @@
       "date": "Oct 13",
       "full_date": "2026-10-13",
       "title": "Clip - The World Radio League Roadmap: Building With and Without AI",
-      "views": 68,
+      "views": 110,
       "likes": 3,
       "video_id": "DaEXp29dhIk"
     }
