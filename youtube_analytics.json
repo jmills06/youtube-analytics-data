@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-10-17",
-  "total_watch_hours": 708.2,
-  "avg_view_duration": 312,
+  "last_updated": "2026-10-18",
+  "total_watch_hours": 713.2,
+  "avg_view_duration": 274,
   "duration_change": null,
   "avg_view_percentage": 23.2,
-  "subscribers_gained": 69,
-  "subscribers_lost": 11,
+  "subscribers_gained": 71,
+  "subscribers_lost": 12,
   "subscriber_growth_chart": {
     "labels": [
-      "Sep 17",
       "Sep 18",
       "Sep 19",
       "Sep 20",
@@ -35,10 +34,10 @@
       "Oct 11",
       "Oct 12",
       "Oct 13",
-      "Oct 14"
+      "Oct 14",
+      "Oct 15"
     ],
     "values": [
-      0,
       1,
       0,
       1,
@@ -65,19 +64,20 @@
       6,
       1,
       1,
-      3
+      3,
+      1
     ]
   },
   "traffic_sources": {
-    "search": 32,
+    "search": 31,
     "browse": 5,
     "external": 4,
-    "other": 59
+    "other": 60
   },
   "best_video": {
     "title": "Unboxing the Icom ID-5200: A $999 Successor to W8KNX's Favorite Radio",
-    "views": 3540,
-    "watch_hours": 119.3,
+    "views": 3548,
+    "watch_hours": 119.6,
     "likes": 60
   },
   "video_launches": [
@@ -85,7 +85,7 @@
       "date": "Sep 25",
       "full_date": "2026-09-25",
       "title": "Your New Radio is Delivered to the Office: Icom Id-5200 makes an entrance! #hamradio #icom #id5200",
-      "views": 1549,
+      "views": 1550,
       "likes": 13,
       "video_id": "cEPpW0aW-W8"
     },
@@ -93,7 +93,7 @@
       "date": "Sep 25",
       "full_date": "2026-09-25",
       "title": "Unboxing the Icom ID-5200: A $999 Successor to W8KNX&#39;s Favorite Radio",
-      "views": 3567,
+      "views": 3590,
       "likes": 60,
       "video_id": "LwICFz2gx1w"
     },
@@ -101,7 +101,7 @@
       "date": "Oct 01",
       "full_date": "2026-10-01",
       "title": "Inflatable HF Antenna at a POTA Park: Reliance InflaTenna",
-      "views": 2628,
+      "views": 2636,
       "likes": 56,
       "video_id": "jn6-BdDVQzI"
     },
@@ -109,7 +109,7 @@
       "date": "Oct 06",
       "full_date": "2026-10-06",
       "title": "California QSO Party 2026 from Michigan: 54 of 58 Counties",
-      "views": 1093,
+      "views": 1096,
       "likes": 29,
       "video_id": "h8PsigNNfuk"
     },
@@ -117,7 +117,7 @@
       "date": "Oct 08",
       "full_date": "2026-10-08",
       "title": "World Radio League Founders: 100,000 Users, JTTY and Morse Mastery",
-      "views": 1005,
+      "views": 1039,
       "likes": 35,
       "video_id": "MhjirNwRR7A"
     },
@@ -125,15 +125,15 @@
       "date": "Oct 12",
       "full_date": "2026-10-12",
       "title": "Andy\u2019s First Ever JTTY Contact",
-      "views": 144,
-      "likes": 2,
+      "views": 156,
+      "likes": 3,
       "video_id": "OlH42F5vAHw"
     },
     {
       "date": "Oct 13",
       "full_date": "2026-10-13",
       "title": "Clip - The World Radio League Roadmap: Building With and Without AI",
-      "views": 241,
+      "views": 245,
       "likes": 3,
       "video_id": "DaEXp29dhIk"
     }
