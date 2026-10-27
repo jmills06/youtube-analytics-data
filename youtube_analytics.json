@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-10-26",
-  "total_watch_hours": 705.6,
-  "avg_view_duration": 180,
+  "last_updated": "2026-10-27",
+  "total_watch_hours": 690.4,
+  "avg_view_duration": 291,
   "duration_change": null,
-  "avg_view_percentage": 22.5,
+  "avg_view_percentage": 22.4,
   "subscribers_gained": 79,
-  "subscribers_lost": 10,
+  "subscribers_lost": 11,
   "subscriber_growth_chart": {
     "labels": [
-      "Sep 26",
       "Sep 27",
       "Sep 28",
       "Sep 29",
@@ -35,10 +34,10 @@
       "Oct 20",
       "Oct 21",
       "Oct 22",
-      "Oct 23"
+      "Oct 23",
+      "Oct 24"
     ],
     "values": [
-      3,
       3,
       0,
       1,
@@ -65,18 +64,19 @@
       5,
       3,
       2,
+      2,
       2
     ]
   },
   "traffic_sources": {
-    "search": 32,
+    "search": 34,
     "browse": 5,
     "external": 4,
-    "other": 59
+    "other": 57
   },
   "best_video": {
     "title": "Inflatable HF Antenna at a POTA Park: Reliance InflaTenna",
-    "views": 2658,
+    "views": 2659,
     "watch_hours": 83.1,
     "likes": 57
   },
@@ -85,7 +85,7 @@
       "date": "Oct 01",
       "full_date": "2026-10-01",
       "title": "Inflatable HF Antenna at a POTA Park: Reliance InflaTenna",
-      "views": 2661,
+      "views": 2664,
       "likes": 57,
       "video_id": "jn6-BdDVQzI"
     },
@@ -93,7 +93,7 @@
       "date": "Oct 06",
       "full_date": "2026-10-06",
       "title": "California QSO Party 2026 from Michigan: 54 of 58 Counties",
-      "views": 1125,
+      "views": 1126,
       "likes": 30,
       "video_id": "h8PsigNNfuk"
     },
@@ -101,7 +101,7 @@
       "date": "Oct 08",
       "full_date": "2026-10-08",
       "title": "World Radio League Founders: 100,000 Users, JTTY and Morse Mastery",
-      "views": 1150,
+      "views": 1152,
       "likes": 38,
       "video_id": "MhjirNwRR7A"
     },
@@ -109,7 +109,7 @@
       "date": "Oct 12",
       "full_date": "2026-10-12",
       "title": "Andy\u2019s First Ever JTTY Contact",
-      "views": 178,
+      "views": 180,
       "likes": 3,
       "video_id": "OlH42F5vAHw"
     },
@@ -117,7 +117,7 @@
       "date": "Oct 13",
       "full_date": "2026-10-13",
       "title": "Clip - The World Radio League Roadmap: Building With and Without AI",
-      "views": 268,
+      "views": 269,
       "likes": 3,
       "video_id": "DaEXp29dhIk"
     },
@@ -125,7 +125,7 @@
       "date": "Oct 22",
       "full_date": "2026-10-22",
       "title": "Building My Own Portable Antenna: Zero to Field-Ready with Fusion 360",
-      "views": 550,
+      "views": 559,
       "likes": 16,
       "video_id": "FWXNeRnL6io"
     }
