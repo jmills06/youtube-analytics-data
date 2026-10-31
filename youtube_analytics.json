@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-10-30",
-  "total_watch_hours": 668.8,
-  "avg_view_duration": 266,
+  "last_updated": "2026-10-31",
+  "total_watch_hours": 667.9,
+  "avg_view_duration": 259,
   "duration_change": null,
-  "avg_view_percentage": 22.0,
-  "subscribers_gained": 80,
+  "avg_view_percentage": 22.2,
+  "subscribers_gained": 79,
   "subscribers_lost": 12,
   "subscriber_growth_chart": {
     "labels": [
-      "Sep 30",
       "Oct 01",
       "Oct 02",
       "Oct 03",
@@ -35,10 +34,10 @@
       "Oct 24",
       "Oct 25",
       "Oct 26",
-      "Oct 27"
+      "Oct 27",
+      "Oct 28"
     ],
     "values": [
-      3,
       0,
       2,
       3,
@@ -65,6 +64,7 @@
       2,
       2,
       0,
+      2,
       2
     ]
   },
@@ -76,7 +76,7 @@
   },
   "best_video": {
     "title": "Inflatable HF Antenna at a POTA Park: Reliance InflaTenna",
-    "views": 2663,
+    "views": 2666,
     "watch_hours": 82.9,
     "likes": 56
   },
@@ -85,7 +85,7 @@
       "date": "Oct 01",
       "full_date": "2026-10-01",
       "title": "Inflatable HF Antenna at a POTA Park: Reliance InflaTenna",
-      "views": 2670,
+      "views": 2671,
       "likes": 57,
       "video_id": "jn6-BdDVQzI"
     },
@@ -93,7 +93,7 @@
       "date": "Oct 06",
       "full_date": "2026-10-06",
       "title": "California QSO Party 2026 from Michigan: 54 of 58 Counties",
-      "views": 1132,
+      "views": 1133,
       "likes": 30,
       "video_id": "h8PsigNNfuk"
     },
@@ -101,7 +101,7 @@
       "date": "Oct 08",
       "full_date": "2026-10-08",
       "title": "World Radio League Founders: 100,000 Users, JTTY and Morse Mastery",
-      "views": 1170,
+      "views": 1179,
       "likes": 39,
       "video_id": "MhjirNwRR7A"
     },
@@ -109,7 +109,7 @@
       "date": "Oct 12",
       "full_date": "2026-10-12",
       "title": "Andy\u2019s First Ever JTTY Contact",
-      "views": 186,
+      "views": 187,
       "likes": 3,
       "video_id": "OlH42F5vAHw"
     },
@@ -125,7 +125,7 @@
       "date": "Oct 22",
       "full_date": "2026-10-22",
       "title": "Building My Own Portable Antenna: Zero to Field-Ready with Fusion 360",
-      "views": 590,
+      "views": 600,
       "likes": 16,
       "video_id": "FWXNeRnL6io"
     }
