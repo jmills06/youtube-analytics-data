@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-10-31",
-  "total_watch_hours": 667.9,
-  "avg_view_duration": 259,
+  "last_updated": "2026-11-01",
+  "total_watch_hours": 636.7,
+  "avg_view_duration": 317,
   "duration_change": null,
-  "avg_view_percentage": 22.2,
-  "subscribers_gained": 79,
-  "subscribers_lost": 12,
+  "avg_view_percentage": 22.0,
+  "subscribers_gained": 80,
+  "subscribers_lost": 9,
   "subscriber_growth_chart": {
     "labels": [
-      "Oct 01",
       "Oct 02",
       "Oct 03",
       "Oct 04",
@@ -35,10 +34,10 @@
       "Oct 25",
       "Oct 26",
       "Oct 27",
-      "Oct 28"
+      "Oct 28",
+      "Oct 29"
     ],
     "values": [
-      0,
       2,
       3,
       3,
@@ -65,30 +64,23 @@
       2,
       0,
       2,
-      2
+      2,
+      4
     ]
   },
   "traffic_sources": {
-    "search": 35,
+    "search": 36,
     "browse": 5,
     "external": 4,
-    "other": 56
+    "other": 55
   },
   "best_video": {
     "title": "Inflatable HF Antenna at a POTA Park: Reliance InflaTenna",
-    "views": 2666,
-    "watch_hours": 82.9,
-    "likes": 56
+    "views": 2072,
+    "watch_hours": 57.2,
+    "likes": 26
   },
   "video_launches": [
-    {
-      "date": "Oct 01",
-      "full_date": "2026-10-01",
-      "title": "Inflatable HF Antenna at a POTA Park: Reliance InflaTenna",
-      "views": 2671,
-      "likes": 57,
-      "video_id": "jn6-BdDVQzI"
-    },
     {
       "date": "Oct 06",
       "full_date": "2026-10-06",
@@ -101,7 +93,7 @@
       "date": "Oct 08",
       "full_date": "2026-10-08",
       "title": "World Radio League Founders: 100,000 Users, JTTY and Morse Mastery",
-      "views": 1179,
+      "views": 1188,
       "likes": 39,
       "video_id": "MhjirNwRR7A"
     },
@@ -109,7 +101,7 @@
       "date": "Oct 12",
       "full_date": "2026-10-12",
       "title": "Andy\u2019s First Ever JTTY Contact",
-      "views": 187,
+      "views": 189,
       "likes": 3,
       "video_id": "OlH42F5vAHw"
     },
@@ -125,9 +117,17 @@
       "date": "Oct 22",
       "full_date": "2026-10-22",
       "title": "Building My Own Portable Antenna: Zero to Field-Ready with Fusion 360",
-      "views": 600,
+      "views": 604,
       "likes": 16,
       "video_id": "FWXNeRnL6io"
+    },
+    {
+      "date": "Oct 31",
+      "full_date": "2026-10-31",
+      "title": "Native FT8 on the Xiegu X6100 (6200) - NO PC REQUIRED",
+      "views": 333,
+      "likes": 11,
+      "video_id": "N8rCFULRFzM"
     }
   ]
 }
