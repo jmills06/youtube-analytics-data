@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-11-02",
-  "total_watch_hours": 594.9,
-  "avg_view_duration": 191,
+  "last_updated": "2026-11-03",
+  "total_watch_hours": 589.0,
+  "avg_view_duration": 165,
   "duration_change": null,
-  "avg_view_percentage": 22.2,
-  "subscribers_gained": 81,
+  "avg_view_percentage": 22.3,
+  "subscribers_gained": 80,
   "subscribers_lost": 10,
   "subscriber_growth_chart": {
     "labels": [
-      "Oct 03",
       "Oct 04",
       "Oct 05",
       "Oct 06",
@@ -35,10 +34,10 @@
       "Oct 27",
       "Oct 28",
       "Oct 29",
-      "Oct 30"
+      "Oct 30",
+      "Oct 31"
     ],
     "values": [
-      3,
       3,
       3,
       3,
@@ -65,20 +64,21 @@
       2,
       2,
       4,
+      2,
       2
     ]
   },
   "traffic_sources": {
-    "search": 39,
+    "search": 40,
     "browse": 6,
     "external": 4,
-    "other": 51
+    "other": 50
   },
   "best_video": {
     "title": "Meshtastic Solar Node with Wio Tracker L1 - N8JRD #meshtastic #solarnode #hamradio #amateurradio",
-    "views": 1281,
-    "watch_hours": 7.2,
-    "likes": 18
+    "views": 1303,
+    "watch_hours": 7.3,
+    "likes": 17
   },
   "video_launches": [
     {
@@ -93,7 +93,7 @@
       "date": "Oct 08",
       "full_date": "2026-10-08",
       "title": "World Radio League Founders: 100,000 Users, JTTY and Morse Mastery",
-      "views": 1192,
+      "views": 1201,
       "likes": 39,
       "video_id": "MhjirNwRR7A"
     },
@@ -101,7 +101,7 @@
       "date": "Oct 12",
       "full_date": "2026-10-12",
       "title": "Andy\u2019s First Ever JTTY Contact",
-      "views": 191,
+      "views": 193,
       "likes": 3,
       "video_id": "OlH42F5vAHw"
     },
@@ -109,7 +109,7 @@
       "date": "Oct 13",
       "full_date": "2026-10-13",
       "title": "Clip - The World Radio League Roadmap: Building With and Without AI",
-      "views": 274,
+      "views": 276,
       "likes": 3,
       "video_id": "DaEXp29dhIk"
     },
@@ -117,7 +117,7 @@
       "date": "Oct 22",
       "full_date": "2026-10-22",
       "title": "Building My Own Portable Antenna: Zero to Field-Ready with Fusion 360",
-      "views": 605,
+      "views": 611,
       "likes": 16,
       "video_id": "FWXNeRnL6io"
     },
@@ -125,8 +125,8 @@
       "date": "Oct 31",
       "full_date": "2026-10-31",
       "title": "Native FT8 on the Xiegu X6100 (6200) - NO PC REQUIRED",
-      "views": 620,
-      "likes": 14,
+      "views": 744,
+      "likes": 17,
       "video_id": "N8rCFULRFzM"
     }
   ]
