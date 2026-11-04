@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-11-03",
-  "total_watch_hours": 589.0,
-  "avg_view_duration": 165,
+  "last_updated": "2026-11-04",
+  "total_watch_hours": 573.5,
+  "avg_view_duration": 180,
   "duration_change": null,
-  "avg_view_percentage": 22.3,
+  "avg_view_percentage": 22.1,
   "subscribers_gained": 80,
-  "subscribers_lost": 10,
+  "subscribers_lost": 13,
   "subscriber_growth_chart": {
     "labels": [
-      "Oct 04",
       "Oct 05",
       "Oct 06",
       "Oct 07",
@@ -35,10 +34,10 @@
       "Oct 28",
       "Oct 29",
       "Oct 30",
-      "Oct 31"
+      "Oct 31",
+      "Nov 01"
     ],
     "values": [
-      3,
       3,
       3,
       4,
@@ -65,7 +64,8 @@
       2,
       4,
       2,
-      2
+      2,
+      0
     ]
   },
   "traffic_sources": {
@@ -76,16 +76,16 @@
   },
   "best_video": {
     "title": "Meshtastic Solar Node with Wio Tracker L1 - N8JRD #meshtastic #solarnode #hamradio #amateurradio",
-    "views": 1303,
-    "watch_hours": 7.3,
-    "likes": 17
+    "views": 1317,
+    "watch_hours": 7.5,
+    "likes": 18
   },
   "video_launches": [
     {
       "date": "Oct 06",
       "full_date": "2026-10-06",
       "title": "California QSO Party 2026 from Michigan: 54 of 58 Counties",
-      "views": 1134,
+      "views": 1135,
       "likes": 30,
       "video_id": "h8PsigNNfuk"
     },
@@ -93,7 +93,7 @@
       "date": "Oct 08",
       "full_date": "2026-10-08",
       "title": "World Radio League Founders: 100,000 Users, JTTY and Morse Mastery",
-      "views": 1201,
+      "views": 1207,
       "likes": 39,
       "video_id": "MhjirNwRR7A"
     },
@@ -101,7 +101,7 @@
       "date": "Oct 12",
       "full_date": "2026-10-12",
       "title": "Andy\u2019s First Ever JTTY Contact",
-      "views": 193,
+      "views": 199,
       "likes": 3,
       "video_id": "OlH42F5vAHw"
     },
@@ -117,7 +117,7 @@
       "date": "Oct 22",
       "full_date": "2026-10-22",
       "title": "Building My Own Portable Antenna: Zero to Field-Ready with Fusion 360",
-      "views": 611,
+      "views": 613,
       "likes": 16,
       "video_id": "FWXNeRnL6io"
     },
@@ -125,8 +125,8 @@
       "date": "Oct 31",
       "full_date": "2026-10-31",
       "title": "Native FT8 on the Xiegu X6100 (6200) - NO PC REQUIRED",
-      "views": 744,
-      "likes": 17,
+      "views": 839,
+      "likes": 19,
       "video_id": "N8rCFULRFzM"
     }
   ]
