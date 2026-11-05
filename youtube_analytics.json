@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-11-04",
-  "total_watch_hours": 573.5,
-  "avg_view_duration": 180,
+  "last_updated": "2026-11-05",
+  "total_watch_hours": 571.5,
+  "avg_view_duration": 169,
   "duration_change": null,
-  "avg_view_percentage": 22.1,
-  "subscribers_gained": 80,
+  "avg_view_percentage": 22.0,
+  "subscribers_gained": 79,
   "subscribers_lost": 13,
   "subscriber_growth_chart": {
     "labels": [
-      "Oct 05",
       "Oct 06",
       "Oct 07",
       "Oct 08",
@@ -35,10 +34,10 @@
       "Oct 29",
       "Oct 30",
       "Oct 31",
-      "Nov 01"
+      "Nov 01",
+      "Nov 02"
     ],
     "values": [
-      3,
       3,
       4,
       5,
@@ -65,7 +64,8 @@
       4,
       2,
       2,
-      0
+      0,
+      2
     ]
   },
   "traffic_sources": {
@@ -76,16 +76,16 @@
   },
   "best_video": {
     "title": "Meshtastic Solar Node with Wio Tracker L1 - N8JRD #meshtastic #solarnode #hamradio #amateurradio",
-    "views": 1317,
+    "views": 1352,
     "watch_hours": 7.5,
-    "likes": 18
+    "likes": 19
   },
   "video_launches": [
     {
       "date": "Oct 06",
       "full_date": "2026-10-06",
       "title": "California QSO Party 2026 from Michigan: 54 of 58 Counties",
-      "views": 1135,
+      "views": 1137,
       "likes": 30,
       "video_id": "h8PsigNNfuk"
     },
@@ -93,7 +93,7 @@
       "date": "Oct 08",
       "full_date": "2026-10-08",
       "title": "World Radio League Founders: 100,000 Users, JTTY and Morse Mastery",
-      "views": 1207,
+      "views": 1211,
       "likes": 39,
       "video_id": "MhjirNwRR7A"
     },
@@ -101,7 +101,7 @@
       "date": "Oct 12",
       "full_date": "2026-10-12",
       "title": "Andy\u2019s First Ever JTTY Contact",
-      "views": 199,
+      "views": 202,
       "likes": 3,
       "video_id": "OlH42F5vAHw"
     },
@@ -109,7 +109,7 @@
       "date": "Oct 13",
       "full_date": "2026-10-13",
       "title": "Clip - The World Radio League Roadmap: Building With and Without AI",
-      "views": 276,
+      "views": 277,
       "likes": 3,
       "video_id": "DaEXp29dhIk"
     },
@@ -117,17 +117,25 @@
       "date": "Oct 22",
       "full_date": "2026-10-22",
       "title": "Building My Own Portable Antenna: Zero to Field-Ready with Fusion 360",
-      "views": 613,
-      "likes": 16,
+      "views": 622,
+      "likes": 17,
       "video_id": "FWXNeRnL6io"
     },
     {
       "date": "Oct 31",
       "full_date": "2026-10-31",
       "title": "Native FT8 on the Xiegu X6100 (6200) - NO PC REQUIRED",
-      "views": 839,
+      "views": 874,
       "likes": 19,
       "video_id": "N8rCFULRFzM"
+    },
+    {
+      "date": "Nov 05",
+      "full_date": "2026-11-05",
+      "title": "Xiegu G7250 Unboxing: Gimmick or Game Changer? 100w, Remote Head?",
+      "views": 402,
+      "likes": 30,
+      "video_id": "o3IvIljMYcA"
     }
   ]
 }
