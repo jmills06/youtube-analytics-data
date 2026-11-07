@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-11-06",
-  "total_watch_hours": 546.5,
-  "avg_view_duration": 199,
+  "last_updated": "2026-11-07",
+  "total_watch_hours": 547.1,
+  "avg_view_duration": 367,
   "duration_change": null,
-  "avg_view_percentage": 21.5,
-  "subscribers_gained": 78,
-  "subscribers_lost": 15,
+  "avg_view_percentage": 21.9,
+  "subscribers_gained": 77,
+  "subscribers_lost": 17,
   "subscriber_growth_chart": {
     "labels": [
-      "Oct 07",
       "Oct 08",
       "Oct 09",
       "Oct 10",
@@ -35,10 +34,10 @@
       "Oct 31",
       "Nov 01",
       "Nov 02",
-      "Nov 03"
+      "Nov 03",
+      "Nov 04"
     ],
     "values": [
-      4,
       5,
       0,
       2,
@@ -65,27 +64,28 @@
       2,
       0,
       2,
-      0
+      0,
+      1
     ]
   },
   "traffic_sources": {
-    "search": 41,
+    "search": 42,
     "browse": 6,
     "external": 5,
-    "other": 48
+    "other": 47
   },
   "best_video": {
     "title": "Meshtastic Solar Node with Wio Tracker L1 - N8JRD #meshtastic #solarnode #hamradio #amateurradio",
-    "views": 1352,
-    "watch_hours": 7.6,
-    "likes": 21
+    "views": 1367,
+    "watch_hours": 7.7,
+    "likes": 22
   },
   "video_launches": [
     {
       "date": "Oct 08",
       "full_date": "2026-10-08",
       "title": "World Radio League Founders: 100,000 Users, JTTY and Morse Mastery",
-      "views": 1218,
+      "views": 1230,
       "likes": 39,
       "video_id": "MhjirNwRR7A"
     },
@@ -93,7 +93,7 @@
       "date": "Oct 12",
       "full_date": "2026-10-12",
       "title": "Andy\u2019s First Ever JTTY Contact",
-      "views": 203,
+      "views": 207,
       "likes": 3,
       "video_id": "OlH42F5vAHw"
     },
@@ -101,7 +101,7 @@
       "date": "Oct 13",
       "full_date": "2026-10-13",
       "title": "Clip - The World Radio League Roadmap: Building With and Without AI",
-      "views": 279,
+      "views": 280,
       "likes": 3,
       "video_id": "DaEXp29dhIk"
     },
@@ -109,7 +109,7 @@
       "date": "Oct 22",
       "full_date": "2026-10-22",
       "title": "Building My Own Portable Antenna: Zero to Field-Ready with Fusion 360",
-      "views": 632,
+      "views": 635,
       "likes": 17,
       "video_id": "FWXNeRnL6io"
     },
@@ -117,25 +117,49 @@
       "date": "Oct 31",
       "full_date": "2026-10-31",
       "title": "Native FT8 on the Xiegu X6100 (6200) - NO PC REQUIRED",
-      "views": 928,
-      "likes": 19,
+      "views": 990,
+      "likes": 21,
       "video_id": "N8rCFULRFzM"
     },
     {
       "date": "Nov 05",
       "full_date": "2026-11-05",
       "title": "Ep. 23 \u2013 eBay&#39;s FCC Rule, Buying Used Ham Gear and Icom ID-5200A After a Month",
-      "views": 248,
-      "likes": 12,
+      "views": 320,
+      "likes": 13,
       "video_id": "DJPUu0-SY4M"
     },
     {
       "date": "Nov 05",
       "full_date": "2026-11-05",
       "title": "Xiegu G7250 Unboxing: Gimmick or Game Changer? 100w, Remote Head?",
-      "views": 3060,
-      "likes": 77,
+      "views": 4082,
+      "likes": 89,
       "video_id": "o3IvIljMYcA"
+    },
+    {
+      "date": "Nov 06",
+      "full_date": "2026-11-06",
+      "title": "The G7250 Radio Feels Like a Serious Upgrade #shorts",
+      "views": 179,
+      "likes": 4,
+      "video_id": "9WqorzgaswA"
+    },
+    {
+      "date": "Nov 06",
+      "full_date": "2026-11-06",
+      "title": "Buying Used Ham Radio Gear? What New Hams Should Know #shorts",
+      "views": 53,
+      "likes": 2,
+      "video_id": "dekVm9EdtI0"
+    },
+    {
+      "date": "Nov 06",
+      "full_date": "2026-11-06",
+      "title": "Xiegu G7250 Deep Dive: Release Firmware Menus and Settings on Day 1",
+      "views": 1352,
+      "likes": 50,
+      "video_id": "JV4nTSKaWgY"
     }
   ]
 }
