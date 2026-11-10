@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-11-09",
-  "total_watch_hours": 760.5,
-  "avg_view_duration": 325,
+  "last_updated": "2026-11-10",
+  "total_watch_hours": 853.7,
+  "avg_view_duration": 232,
   "duration_change": null,
-  "avg_view_percentage": 23.3,
-  "subscribers_gained": 127,
+  "avg_view_percentage": 23.0,
+  "subscribers_gained": 143,
   "subscribers_lost": 22,
   "subscriber_growth_chart": {
     "labels": [
-      "Oct 10",
       "Oct 11",
       "Oct 12",
       "Oct 13",
@@ -35,10 +34,10 @@
       "Nov 03",
       "Nov 04",
       "Nov 05",
-      "Nov 06"
+      "Nov 06",
+      "Nov 07"
     ],
     "values": [
-      2,
       6,
       1,
       1,
@@ -65,20 +64,21 @@
       0,
       1,
       32,
+      18,
       18
     ]
   },
   "traffic_sources": {
-    "search": 34,
+    "search": 31,
     "browse": 6,
-    "external": 4,
-    "other": 56
+    "external": 3,
+    "other": 60
   },
   "best_video": {
     "title": "Xiegu G7250 Unboxing: Gimmick or Game Changer? 100w, Remote Head?",
-    "views": 4026,
-    "watch_hours": 164.9,
-    "likes": 89
+    "views": 4372,
+    "watch_hours": 173.8,
+    "likes": 94
   },
   "video_launches": [
     {
@@ -101,7 +101,7 @@
       "date": "Oct 22",
       "full_date": "2026-10-22",
       "title": "Building My Own Portable Antenna: Zero to Field-Ready with Fusion 360",
-      "views": 637,
+      "views": 641,
       "likes": 18,
       "video_id": "FWXNeRnL6io"
     },
@@ -109,15 +109,15 @@
       "date": "Oct 31",
       "full_date": "2026-10-31",
       "title": "Native FT8 on the Xiegu X6100 (6200) - NO PC REQUIRED",
-      "views": 1043,
-      "likes": 21,
+      "views": 1060,
+      "likes": 22,
       "video_id": "N8rCFULRFzM"
     },
     {
       "date": "Nov 05",
       "full_date": "2026-11-05",
       "title": "Ep. 23 \u2013 eBay&#39;s FCC Rule, Buying Used Ham Gear and Icom ID-5200A After a Month",
-      "views": 369,
+      "views": 387,
       "likes": 16,
       "video_id": "DJPUu0-SY4M"
     },
@@ -125,7 +125,7 @@
       "date": "Nov 05",
       "full_date": "2026-11-05",
       "title": "Xiegu G7250 Unboxing: Gimmick or Game Changer? 100w, Remote Head?",
-      "views": 4522,
+      "views": 4590,
       "likes": 97,
       "video_id": "o3IvIljMYcA"
     },
@@ -133,15 +133,15 @@
       "date": "Nov 06",
       "full_date": "2026-11-06",
       "title": "The G7250 Radio Feels Like a Serious Upgrade #shorts",
-      "views": 1215,
-      "likes": 11,
+      "views": 1281,
+      "likes": 12,
       "video_id": "9WqorzgaswA"
     },
     {
       "date": "Nov 06",
       "full_date": "2026-11-06",
       "title": "Buying Used Ham Radio Gear? What New Hams Should Know #shorts",
-      "views": 80,
+      "views": 82,
       "likes": 4,
       "video_id": "dekVm9EdtI0"
     },
@@ -149,16 +149,16 @@
       "date": "Nov 06",
       "full_date": "2026-11-06",
       "title": "Xiegu G7250 Deep Dive: Release Firmware Menus and Settings on Day 1",
-      "views": 3436,
-      "likes": 76,
+      "views": 3777,
+      "likes": 80,
       "video_id": "JV4nTSKaWgY"
     },
     {
       "date": "Nov 08",
       "full_date": "2026-11-08",
       "title": "Icom IC-7110 FCC Approved: What the Filing Actually Reveals",
-      "views": 10019,
-      "likes": 131,
+      "views": 11625,
+      "likes": 146,
       "video_id": "kuN7OPls0W0"
     }
   ]
