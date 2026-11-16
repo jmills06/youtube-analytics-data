@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-11-15",
-  "total_watch_hours": 1139.6,
-  "avg_view_duration": 225,
+  "last_updated": "2026-11-16",
+  "total_watch_hours": 1204.1,
+  "avg_view_duration": 257,
   "duration_change": null,
-  "avg_view_percentage": 26.2,
-  "subscribers_gained": 178,
-  "subscribers_lost": 27,
+  "avg_view_percentage": 26.5,
+  "subscribers_gained": 182,
+  "subscribers_lost": 28,
   "subscriber_growth_chart": {
     "labels": [
-      "Oct 16",
       "Oct 17",
       "Oct 18",
       "Oct 19",
@@ -35,10 +34,10 @@
       "Nov 09",
       "Nov 10",
       "Nov 11",
-      "Nov 12"
+      "Nov 12",
+      "Nov 13"
     ],
     "values": [
-      5,
       4,
       -1,
       2,
@@ -65,27 +64,28 @@
       5,
       6,
       4,
-      5
+      5,
+      8
     ]
   },
   "traffic_sources": {
     "search": 21,
-    "browse": 6,
+    "browse": 5,
     "external": 3,
-    "other": 70
+    "other": 71
   },
   "best_video": {
     "title": "Icom IC-7110 FCC Approved: What the Filing Actually Reveals",
-    "views": 12882,
-    "watch_hours": 195.1,
-    "likes": 160
+    "views": 13006,
+    "watch_hours": 196.6,
+    "likes": 161
   },
   "video_launches": [
     {
       "date": "Oct 22",
       "full_date": "2026-10-22",
       "title": "Building My Own Portable Antenna: Zero to Field-Ready with Fusion 360",
-      "views": 646,
+      "views": 648,
       "likes": 18,
       "video_id": "FWXNeRnL6io"
     },
@@ -93,7 +93,7 @@
       "date": "Oct 31",
       "full_date": "2026-10-31",
       "title": "Native FT8 on the Xiegu X6100 (6200) - NO PC REQUIRED",
-      "views": 1175,
+      "views": 1205,
       "likes": 22,
       "video_id": "N8rCFULRFzM"
     },
@@ -101,7 +101,7 @@
       "date": "Nov 05",
       "full_date": "2026-11-05",
       "title": "Ep. 23 \u2013 eBay&#39;s FCC Rule, Buying Used Ham Gear and Icom ID-5200A After a Month",
-      "views": 434,
+      "views": 441,
       "likes": 16,
       "video_id": "DJPUu0-SY4M"
     },
@@ -109,15 +109,15 @@
       "date": "Nov 05",
       "full_date": "2026-11-05",
       "title": "Xiegu G7250 Unboxing: Gimmick or Game Changer? 100w, Remote Head?",
-      "views": 4753,
-      "likes": 97,
+      "views": 4767,
+      "likes": 99,
       "video_id": "o3IvIljMYcA"
     },
     {
       "date": "Nov 06",
       "full_date": "2026-11-06",
       "title": "The G7250 Radio Feels Like a Serious Upgrade #shorts",
-      "views": 1378,
+      "views": 1386,
       "likes": 12,
       "video_id": "9WqorzgaswA"
     },
@@ -125,7 +125,7 @@
       "date": "Nov 06",
       "full_date": "2026-11-06",
       "title": "Buying Used Ham Radio Gear? What New Hams Should Know #shorts",
-      "views": 101,
+      "views": 107,
       "likes": 5,
       "video_id": "dekVm9EdtI0"
     },
@@ -133,24 +133,24 @@
       "date": "Nov 06",
       "full_date": "2026-11-06",
       "title": "Xiegu G7250 Deep Dive: Release Firmware Menus and Settings on Day 1",
-      "views": 4196,
-      "likes": 86,
+      "views": 4236,
+      "likes": 89,
       "video_id": "JV4nTSKaWgY"
     },
     {
       "date": "Nov 08",
       "full_date": "2026-11-08",
       "title": "Icom IC-7110 FCC Approved: What the Filing Actually Reveals",
-      "views": 13033,
-      "likes": 162,
+      "views": 13247,
+      "likes": 163,
       "video_id": "kuN7OPls0W0"
     },
     {
       "date": "Nov 13",
       "full_date": "2026-11-13",
       "title": "System Online: Networking the Xiegu G7250 with WFView and HDSDR in Firmware 1.0.1",
-      "views": 2993,
-      "likes": 54,
+      "views": 3255,
+      "likes": 55,
       "video_id": "bdy9Dgqr4Uw"
     }
   ]
