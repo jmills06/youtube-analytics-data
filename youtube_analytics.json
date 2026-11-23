@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-11-22",
-  "total_watch_hours": 1240.1,
-  "avg_view_duration": 280,
+  "last_updated": "2026-11-23",
+  "total_watch_hours": 1545.7,
+  "avg_view_duration": 281,
   "duration_change": null,
-  "avg_view_percentage": 26.3,
-  "subscribers_gained": 189,
-  "subscribers_lost": 28,
+  "avg_view_percentage": 28.1,
+  "subscribers_gained": 224,
+  "subscribers_lost": 30,
   "subscriber_growth_chart": {
     "labels": [
-      "Oct 23",
       "Oct 24",
       "Oct 25",
       "Oct 26",
@@ -35,10 +34,10 @@
       "Nov 16",
       "Nov 17",
       "Nov 18",
-      "Nov 19"
+      "Nov 19",
+      "Nov 20"
     ],
     "values": [
-      2,
       2,
       2,
       0,
@@ -65,19 +64,20 @@
       0,
       3,
       2,
-      8
+      8,
+      35
     ]
   },
   "traffic_sources": {
-    "search": 21,
-    "browse": 5,
+    "search": 20,
+    "browse": 6,
     "external": 2,
     "other": 72
   },
   "best_video": {
     "title": "Icom IC-7110 FCC Approved: What the Filing Actually Reveals",
-    "views": 13506,
-    "watch_hours": 204.8,
+    "views": 13638,
+    "watch_hours": 207.2,
     "likes": 164
   },
   "video_launches": [
@@ -85,7 +85,7 @@
       "date": "Oct 31",
       "full_date": "2026-10-31",
       "title": "Native FT8 on the Xiegu X6100 (6200) - NO PC REQUIRED",
-      "views": 1342,
+      "views": 1351,
       "likes": 22,
       "video_id": "N8rCFULRFzM"
     },
@@ -93,7 +93,7 @@
       "date": "Nov 05",
       "full_date": "2026-11-05",
       "title": "Ep. 23 \u2013 eBay&#39;s FCC Rule, Buying Used Ham Gear and Icom ID-5200A After a Month",
-      "views": 481,
+      "views": 488,
       "likes": 17,
       "video_id": "DJPUu0-SY4M"
     },
@@ -101,7 +101,7 @@
       "date": "Nov 05",
       "full_date": "2026-11-05",
       "title": "Xiegu G7250 Unboxing: Gimmick or Game Changer? 100w, Remote Head?",
-      "views": 4861,
+      "views": 4877,
       "likes": 101,
       "video_id": "o3IvIljMYcA"
     },
@@ -109,7 +109,7 @@
       "date": "Nov 06",
       "full_date": "2026-11-06",
       "title": "The G7250 Radio Feels Like a Serious Upgrade #shorts",
-      "views": 1414,
+      "views": 1423,
       "likes": 12,
       "video_id": "9WqorzgaswA"
     },
@@ -117,7 +117,7 @@
       "date": "Nov 06",
       "full_date": "2026-11-06",
       "title": "Buying Used Ham Radio Gear? What New Hams Should Know #shorts",
-      "views": 112,
+      "views": 113,
       "likes": 5,
       "video_id": "dekVm9EdtI0"
     },
@@ -125,7 +125,7 @@
       "date": "Nov 06",
       "full_date": "2026-11-06",
       "title": "Xiegu G7250 Deep Dive: Release Firmware Menus and Settings on Day 1",
-      "views": 4483,
+      "views": 4537,
       "likes": 91,
       "video_id": "JV4nTSKaWgY"
     },
@@ -133,7 +133,7 @@
       "date": "Nov 08",
       "full_date": "2026-11-08",
       "title": "Icom IC-7110 FCC Approved: What the Filing Actually Reveals",
-      "views": 13840,
+      "views": 14104,
       "likes": 165,
       "video_id": "kuN7OPls0W0"
     },
@@ -141,15 +141,15 @@
       "date": "Nov 13",
       "full_date": "2026-11-13",
       "title": "System Online: Networking the Xiegu G7250 with WFView and HDSDR in Firmware 1.0.1",
-      "views": 3549,
-      "likes": 59,
+      "views": 3589,
+      "likes": 60,
       "video_id": "bdy9Dgqr4Uw"
     },
     {
       "date": "Nov 19",
       "full_date": "2026-11-19",
       "title": "QRV Ham Radio App: Live Spots and Band Alerts for Your Grid with Developer Adam K2CAT",
-      "views": 459,
+      "views": 517,
       "likes": 21,
       "video_id": "Q282efZmVu8"
     },
@@ -157,16 +157,16 @@
       "date": "Nov 20",
       "full_date": "2026-11-20",
       "title": "9 Black Friday Ham Radio Deals: Yaesu FTX-1 Optima, FTDX10, Xiegu G90 and More",
-      "views": 7024,
-      "likes": 122,
+      "views": 12035,
+      "likes": 169,
       "video_id": "ZDMf0apdTXw"
     },
     {
       "date": "Nov 20",
       "full_date": "2026-11-20",
       "title": "Icom IC-7110 US PRICE REVEALED: We Were (SO) Wrong...",
-      "views": 3760,
-      "likes": 136,
+      "views": 5098,
+      "likes": 164,
       "video_id": "-YIabHNhRkg"
     }
   ]
