@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-11-27",
-  "total_watch_hours": 2303.8,
-  "avg_view_duration": 212,
+  "last_updated": "2026-11-28",
+  "total_watch_hours": 2348.3,
+  "avg_view_duration": 239,
   "duration_change": null,
-  "avg_view_percentage": 29.2,
-  "subscribers_gained": 315,
+  "avg_view_percentage": 29.1,
+  "subscribers_gained": 316,
   "subscribers_lost": 34,
   "subscriber_growth_chart": {
     "labels": [
-      "Oct 28",
       "Oct 29",
       "Oct 30",
       "Oct 31",
@@ -35,10 +34,10 @@
       "Nov 21",
       "Nov 22",
       "Nov 23",
-      "Nov 24"
+      "Nov 24",
+      "Nov 25"
     ],
     "values": [
-      2,
       4,
       2,
       2,
@@ -65,7 +64,8 @@
       26,
       31,
       25,
-      11
+      11,
+      3
     ]
   },
   "traffic_sources": {
@@ -76,24 +76,24 @@
   },
   "best_video": {
     "title": "9 Black Friday Ham Radio Deals: Yaesu FTX-1 Optima, FTDX10, Xiegu G90 and More",
-    "views": 16087,
-    "watch_hours": 852.1,
-    "likes": 203
+    "views": 16663,
+    "watch_hours": 870.5,
+    "likes": 207
   },
   "video_launches": [
     {
       "date": "Oct 31",
       "full_date": "2026-10-31",
       "title": "Native FT8 on the Xiegu X6100 (6200) - NO PC REQUIRED",
-      "views": 1416,
-      "likes": 23,
+      "views": 1441,
+      "likes": 24,
       "video_id": "N8rCFULRFzM"
     },
     {
       "date": "Nov 05",
       "full_date": "2026-11-05",
       "title": "Ep. 23 \u2013 eBay&#39;s FCC Rule, Buying Used Ham Gear and Icom ID-5200A After a Month",
-      "views": 516,
+      "views": 523,
       "likes": 17,
       "video_id": "DJPUu0-SY4M"
     },
@@ -101,7 +101,7 @@
       "date": "Nov 05",
       "full_date": "2026-11-05",
       "title": "Xiegu G7250 Unboxing: Gimmick or Game Changer? 100w, Remote Head?",
-      "views": 4943,
+      "views": 4969,
       "likes": 101,
       "video_id": "o3IvIljMYcA"
     },
@@ -109,7 +109,7 @@
       "date": "Nov 06",
       "full_date": "2026-11-06",
       "title": "The G7250 Radio Feels Like a Serious Upgrade #shorts",
-      "views": 1444,
+      "views": 1446,
       "likes": 13,
       "video_id": "9WqorzgaswA"
     },
@@ -125,7 +125,7 @@
       "date": "Nov 06",
       "full_date": "2026-11-06",
       "title": "Xiegu G7250 Deep Dive: Release Firmware Menus and Settings on Day 1",
-      "views": 4729,
+      "views": 4769,
       "likes": 92,
       "video_id": "JV4nTSKaWgY"
     },
@@ -133,7 +133,7 @@
       "date": "Nov 08",
       "full_date": "2026-11-08",
       "title": "Icom IC-7110 FCC Approved: What the Filing Actually Reveals",
-      "views": 14494,
+      "views": 14588,
       "likes": 166,
       "video_id": "kuN7OPls0W0"
     },
@@ -141,7 +141,7 @@
       "date": "Nov 13",
       "full_date": "2026-11-13",
       "title": "System Online: Networking the Xiegu G7250 with WFView and HDSDR in Firmware 1.0.1",
-      "views": 3728,
+      "views": 3753,
       "likes": 62,
       "video_id": "bdy9Dgqr4Uw"
     },
@@ -149,7 +149,7 @@
       "date": "Nov 19",
       "full_date": "2026-11-19",
       "title": "QRV Ham Radio App: Live Spots and Band Alerts for Your Grid with Developer Adam K2CAT",
-      "views": 577,
+      "views": 587,
       "likes": 21,
       "video_id": "Q282efZmVu8"
     },
@@ -157,17 +157,25 @@
       "date": "Nov 20",
       "full_date": "2026-11-20",
       "title": "9 Black Friday Ham Radio Deals: Yaesu FTX-1 Optima, FTDX10, Xiegu G90 and More",
-      "views": 16957,
-      "likes": 208,
+      "views": 17266,
+      "likes": 209,
       "video_id": "ZDMf0apdTXw"
     },
     {
       "date": "Nov 20",
       "full_date": "2026-11-20",
       "title": "Icom IC-7110 US PRICE REVEALED: We Were (SO) Wrong...",
-      "views": 7250,
-      "likes": 186,
+      "views": 7458,
+      "likes": 187,
       "video_id": "-YIabHNhRkg"
+    },
+    {
+      "date": "Nov 28",
+      "full_date": "2026-11-28",
+      "title": "Ham Radio Holiday Gift Guide 2026: Kenwood TH-D75, Yaesu FTX-1, RigExpert MATCH and More",
+      "views": 1092,
+      "likes": 33,
+      "video_id": "zPF5xul_Tyc"
     }
   ]
 }
